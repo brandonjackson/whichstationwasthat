@@ -28,7 +28,7 @@ All scans are released under a **CC0 (Public Domain Dedication)** license, makin
 
 ## 🔄 Pipeline Overview
 
-The digitization pipeline consists of five sequential stages:
+The digitization pipeline consists of six sequential stages:
 
 1. **Folder Creation** (`make folders`)  
    Generates weekly archive folders organized by publication date.
@@ -49,6 +49,14 @@ The digitization pipeline consists of five sequential stages:
 5. **Data Merging** (`make merge`)  
    Combines all weekly CSV files into a single `data.csv` file with an `issue_date` column for temporal analysis.
 
+6. **Data Analysis** (`make analyze`)  
+   Generates visualizations and analysis from the merged dataset using matplotlib and pandas. Creates figures in the `results/` directory including:
+   - Time series plot of observations per week with 3-week smoothing
+   - Pie chart of top stations
+   - Pie chart of top countries
+   - Bar chart categorizing observations (broadcast, something else, untraceable)
+   - Histogram of distances from observer to station locations
+
 ## 🚀 Installation & Usage
 
 ### Prerequisites
@@ -65,7 +73,7 @@ Install required Python packages:
 make install
 ```
 
-This installs `openai` and `pandas`.
+This installs `openai`, `pandas`, and `matplotlib`.
 
 ### Running the Pipeline
 
@@ -75,7 +83,7 @@ The project uses a `Makefile` with convenient commands. Run the complete pipelin
 make all
 ```
 
-This executes all five stages sequentially. **Safe to re-run:** The pipeline won't overwrite existing `.txt` files from the OCR step, and it won't clean or delete any files.
+This executes all six stages sequentially. **Safe to re-run:** The pipeline won't overwrite existing `.txt` files from the OCR step, and it won't clean or delete any files.
 
 You can also run each stage individually:
 
@@ -85,6 +93,7 @@ make ocr        # Step 2: Run OCR on images (skips existing .txt files)
 make combine    # Step 3: Combine transcripts
 make parse      # Step 4: Parse to CSV (skips existing CSV files)
 make merge      # Step 5: Merge weekly CSVs
+make analyze    # Step 6: Generate data analysis visualizations
 make help       # Show all available commands
 make clean      # Remove generated files (keeps images)
 ```
@@ -120,7 +129,14 @@ whichstationwasthat/
 │   ├── 2-run-ocr.py
 │   ├── 3-combine-transcripts.py
 │   ├── 4-parse-transcripts-to-csv.py
-│   └── 5-merge-weekly-csvs.py
+│   ├── 5-merge-weekly-csvs.py
+│   └── 6-analyze-data.py
+├── results/           # Generated analysis visualizations
+│   ├── observations_per_week.png
+│   ├── top_stations_pie.png
+│   ├── top_countries_pie.png
+│   ├── observation_categories.png
+│   └── distances_histogram.png
 ├── Makefile           # Convenient command shortcuts
 ├── data.csv           # Final merged dataset
 └── README.md          # This file

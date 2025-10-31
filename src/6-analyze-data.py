@@ -1,0 +1,318 @@
+"""
+Step 6: Data Analysis
+
+Generates visualizations and analysis from the merged data.csv file using
+matplotlib and pandas.
+
+Usage:
+    python 6-analyze-data.py
+
+Or via Makefile:
+    make analyze
+
+Prerequisites:
+    - pandas library installed
+    - matplotlib library installed
+    - data.csv file from step 5
+
+Behavior:
+    - Loads data.csv from project root
+    - Generates several visualizations:
+      1. Time series: scatter plot of observations per week with 3-week smoothing
+      2. Pie chart of top stations (by station_location_city)
+      3. Pie chart of top countries (by station_location_country)
+      4. Bar chart categorizing observations (broadcast, something else, untraceable)
+      5. Histogram of distances (calculated from reporter location or London if missing)
+    - Saves all figures to results/ directory
+
+Output:
+    Creates PNG files in results/ directory:
+    - observations_per_week.png
+    - top_stations_pie.png
+    - top_countries_pie.png
+    - observation_categories.png
+    - distances_histogram.png
+"""
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+from pathlib import Path
+from math import radians, sin, cos, sqrt, atan2
+
+# London coordinates as fallback
+LONDON_LAT = 51.5
+LONDON_LNG = -0.1
+
+
+def haversine_distance(lat1, lon1, lat2, lon2):
+    """
+    Calculate the great circle distance between two points on Earth (in km).
+    Uses the Haversine formula.
+    """
+    try:
+        # Convert to float (handles strings and NaN)
+        lat1 = float(lat1)
+        lon1 = float(lon1)
+        lat2 = float(lat2)
+        lon2 = float(lon2)
+    except (ValueError, TypeError):
+        return np.nan
+    
+    if pd.isna(lat1) or pd.isna(lon1) or pd.isna(lat2) or pd.isna(lon2):
+        return np.nan
+    
+    # Convert to radians
+    lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
+    
+    # Haversine formula
+    dlat = lat2 - lat1
+    dlon = lon2 - lon1
+    a = sin(dlat/2)**2 + cos(lat1) * cos(lat2) * sin(dlon/2)**2
+    c = 2 * atan2(sqrt(a), sqrt(1-a))
+    R = 6371  # Earth radius in km
+    return R * c
+
+
+def calculate_distances(df):
+    """Calculate distances from reporter location to station location."""
+    distances = []
+    
+    for idx, row in df.iterrows():
+        # Use reporter location if available, else London
+        try:
+            if pd.notna(row['reporter_location_latitude']) and pd.notna(row['reporter_location_longitude']):
+                obs_lat = float(row['reporter_location_latitude'])
+                obs_lng = float(row['reporter_location_longitude'])
+            else:
+                obs_lat = LONDON_LAT
+                obs_lng = LONDON_LNG
+        except (ValueError, TypeError):
+            obs_lat = LONDON_LAT
+            obs_lng = LONDON_LNG
+        
+        # Calculate distance if station location is available
+        try:
+            if pd.notna(row['station_location_latitude']) and pd.notna(row['station_location_longitude']):
+                station_lat = float(row['station_location_latitude'])
+                station_lng = float(row['station_location_longitude'])
+                distance = haversine_distance(obs_lat, obs_lng, station_lat, station_lng)
+                distances.append(distance)
+            else:
+                distances.append(np.nan)
+        except (ValueError, TypeError):
+            distances.append(np.nan)
+    
+    return distances
+
+
+def smooth_data(values, window=3):
+    """Apply moving average smoothing with window size."""
+    if len(values) < window:
+        return values
+    smoothed = []
+    for i in range(len(values)):
+        # Use a centered window when possible, otherwise use available data
+        half_window = window // 2
+        start = max(0, i - half_window)
+        end = min(len(values), i + half_window + 1)
+        smoothed.append(np.mean(values[start:end]))
+    return np.array(smoothed)
+
+
+def plot_time_series(df, output_dir):
+    """Plot time series of observations per week with smoothing."""
+    # Count observations per week
+    weekly_counts = df.groupby('issue_date').size().reset_index(name='count')
+    weekly_counts['issue_date'] = pd.to_datetime(weekly_counts['issue_date'])
+    weekly_counts = weekly_counts.sort_values('issue_date')
+    
+    # Apply 3-week smoothing
+    smoothed_counts = smooth_data(weekly_counts['count'].values, window=3)
+    
+    plt.figure(figsize=(12, 6))
+    plt.scatter(weekly_counts['issue_date'], weekly_counts['count'], 
+                alpha=0.6, s=30, label='Weekly observations')
+    plt.plot(weekly_counts['issue_date'], smoothed_counts, 
+             color='red', linewidth=2, label='3-week moving average')
+    plt.xlabel('Date', fontsize=12)
+    plt.ylabel('Number of Observations', fontsize=12)
+    plt.title('Observations Per Week Over Time', fontsize=14, fontweight='bold')
+    plt.legend()
+    plt.grid(True, alpha=0.3)
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.savefig(output_dir / 'observations_per_week.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✅ Created: observations_per_week.png")
+
+
+def plot_top_stations_pie(df, output_dir, top_n=10):
+    """Plot pie chart of top stations."""
+    # Count stations by city
+    station_counts = df['station_location_city'].value_counts().head(top_n)
+    
+    # Combine others
+    others_count = df['station_location_city'].value_counts().iloc[top_n:].sum()
+    
+    if others_count > 0:
+        station_counts['Others'] = others_count
+    
+    plt.figure(figsize=(10, 8))
+    colors = plt.cm.Set3(range(len(station_counts)))
+    plt.pie(station_counts.values, labels=station_counts.index, autopct='%1.1f%%',
+            startangle=90, colors=colors)
+    plt.title(f'Top {top_n} Stations by Observation Count', fontsize=14, fontweight='bold')
+    plt.axis('equal')
+    plt.tight_layout()
+    plt.savefig(output_dir / 'top_stations_pie.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✅ Created: top_stations_pie.png")
+
+
+def plot_top_countries_pie(df, output_dir, top_n=10):
+    """Plot pie chart of top countries."""
+    # Count countries
+    country_counts = df['station_location_country'].value_counts().head(top_n)
+    
+    # Combine others
+    others_count = df['station_location_country'].value_counts().iloc[top_n:].sum()
+    
+    if others_count > 0:
+        country_counts['Others'] = others_count
+    
+    plt.figure(figsize=(10, 8))
+    colors = plt.cm.Pastel1(range(len(country_counts)))
+    plt.pie(country_counts.values, labels=country_counts.index, autopct='%1.1f%%',
+            startangle=90, colors=colors)
+    plt.title(f'Top {top_n} Countries by Observation Count', fontsize=14, fontweight='bold')
+    plt.axis('equal')
+    plt.tight_layout()
+    plt.savefig(output_dir / 'top_countries_pie.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✅ Created: top_countries_pie.png")
+
+
+def categorize_observation(row):
+    """
+    Categorize an observation as:
+    - 'untraceable': Cannot be traced/identified
+    - 'something else': Amateur or other non-broadcast stations
+    - 'broadcast': Regular broadcast stations
+    """
+    # Check if station location is missing (untraceable)
+    station_city = str(row.get('station_location_city', '')).strip()
+    station_country = str(row.get('station_location_country', '')).strip()
+    
+    # Check observation text and full text for keywords
+    obs_text = str(row.get('observation_text', '')).lower()
+    full_text = str(row.get('full_text', '')).lower()
+    combined_text = obs_text + ' ' + full_text
+    
+    # Untraceable: no station location OR explicit untraceable keywords
+    if (pd.isna(row.get('station_location_city')) or 
+        station_city == '' or station_city == 'nan' or
+        'cannot trace' in combined_text or
+        'not traceable' in combined_text or
+        'untraceable' in combined_text):
+        return 'untraceable'
+    
+    # Something else: amateur stations or other non-broadcast
+    if ('amateur' in combined_text or
+        'Amateur' in obs_text or 'Amateur' in full_text):
+        return 'something else'
+    
+    # Otherwise, it's a broadcast station
+    return 'broadcast'
+
+
+def plot_observation_categories(df, output_dir):
+    """Plot categorization of observations (broadcast, something else, untraceable)."""
+    # Categorize each observation
+    categories = df.apply(categorize_observation, axis=1)
+    category_counts = categories.value_counts()
+    
+    plt.figure(figsize=(10, 6))
+    colors = ['#2ecc71', '#f39c12', '#e74c3c']  # green, orange, red
+    bars = plt.bar(category_counts.index, category_counts.values, color=colors[:len(category_counts)])
+    
+    # Add value labels on bars
+    for bar in bars:
+        height = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width()/2., height,
+                f'{int(height)}\n({height/len(df)*100:.1f}%)',
+                ha='center', va='bottom', fontsize=11)
+    
+    plt.xlabel('Category', fontsize=12)
+    plt.ylabel('Number of Observations', fontsize=12)
+    plt.title('Observation Categories', fontsize=14, fontweight='bold')
+    plt.grid(True, alpha=0.3, axis='y')
+    plt.tight_layout()
+    plt.savefig(output_dir / 'observation_categories.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✅ Created: observation_categories.png")
+    print(f"   Categories: {dict(category_counts)}")
+
+
+def plot_distances_histogram(df, output_dir):
+    """Plot histogram of distances."""
+    # Calculate distances
+    distances = calculate_distances(df)
+    df_distances = pd.Series(distances)
+    df_distances = df_distances.dropna()
+    
+    if len(df_distances) == 0:
+        print("⚠️ No valid distances to plot (missing coordinates)")
+        return
+    
+    plt.figure(figsize=(10, 6))
+    plt.hist(df_distances, bins=50, edgecolor='black', alpha=0.7)
+    plt.xlabel('Distance (km)', fontsize=12)
+    plt.ylabel('Frequency', fontsize=12)
+    plt.title('Distribution of Distances from Observer to Station', fontsize=14, fontweight='bold')
+    plt.grid(True, alpha=0.3, axis='y')
+    plt.tight_layout()
+    plt.savefig(output_dir / 'distances_histogram.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✅ Created: distances_histogram.png")
+    print(f"   Distance statistics: mean={df_distances.mean():.1f} km, "
+          f"median={df_distances.median():.1f} km, "
+          f"max={df_distances.max():.1f} km")
+
+
+def analyze_data(data_csv: str = "data.csv", results_dir: str = "results"):
+    """Main analysis function."""
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent
+    
+    # Load data
+    data_path = project_root / data_csv
+    if not data_path.exists():
+        print(f"❌ Error: {data_csv} not found at {data_path}")
+        return
+    
+    print(f"📊 Loading data from {data_path}...")
+    df = pd.read_csv(data_path, engine="python", on_bad_lines="skip")
+    print(f"✅ Loaded {len(df)} rows")
+    
+    # Create results directory
+    results_path = project_root / results_dir
+    results_path.mkdir(exist_ok=True)
+    # Note: plt.savefig() overwrites existing files by default
+    print(f"📁 Results will be saved to: {results_path} (overwrites existing files)")
+    print()
+    
+    # Generate visualizations
+    plot_time_series(df, results_path)
+    plot_top_stations_pie(df, results_path)
+    plot_top_countries_pie(df, results_path)
+    plot_observation_categories(df, results_path)
+    plot_distances_histogram(df, results_path)
+    
+    print()
+    print("✅ Analysis complete! All figures saved to results/ directory")
+
+
+if __name__ == "__main__":
+    analyze_data()
+
