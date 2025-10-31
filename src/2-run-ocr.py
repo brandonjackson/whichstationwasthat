@@ -1,3 +1,32 @@
+"""
+Step 2: Run OCR on Scanned Images
+
+Processes scanned images (JPEG/PNG) using GPT-4o vision API to extract text transcriptions.
+Each image generates a corresponding .txt file containing the OCR output.
+
+Usage:
+    python 2-run-ocr.py
+
+Or via Makefile:
+    make ocr
+
+Prerequisites:
+    - OpenAI API key set as OPENAI_API_KEY environment variable
+    - Scanned images placed in appropriate weekly folders under archives/
+    - Prompt file: 2-run-ocr-prompt.txt
+
+Important Behavior:
+    - Skips images that already have corresponding .txt files
+    - Existing .txt files are NEVER overwritten
+    - You can safely re-run this script without losing manual corrections
+    - Process new images while preserving previously processed ones
+
+Note:
+    OCR errors are common with historical documents. Review and manually correct
+    the generated .txt files as needed. Your corrections will be preserved even
+    if you re-run the OCR step.
+"""
+
 import os
 import base64
 import mimetypes

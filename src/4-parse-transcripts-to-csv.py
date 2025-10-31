@@ -1,3 +1,38 @@
+"""
+Step 4: Parse Transcripts to CSV
+
+Extracts structured data from combined transcripts using GPT-4o, generating
+weekly CSV files (YYYY-MM-DD.csv) with standardized fields.
+
+Usage:
+    python 4-parse-transcripts-to-csv.py
+
+Or via Makefile:
+    make parse
+
+Prerequisites:
+    - OpenAI API key set as OPENAI_API_KEY environment variable
+    - Combined transcript files (YYYY-MM-DD.txt from step 3) in weekly folders
+    - Prompt file: 4-parse-transcripts-to-csv-prompt.txt
+
+Output Fields:
+    - reporter_name: Name or pseudonym of the listener
+    - reporter_location_city, reporter_location_country: Listener's location
+    - reporter_location_latitude, reporter_location_longitude: Geographic coordinates
+    - observation_text: Description of the reception
+    - station_location_city, station_location_country: Identified station location
+    - station_location_latitude, station_location_longitude: Station coordinates
+    - full_text: Complete original report text
+
+Important Behavior:
+    - Skips folders where a CSV file already exists
+    - You can safely re-run without overwriting existing parsed data
+    - Uses parallel processing (4 workers) for efficiency
+
+Output:
+    Creates YYYY-MM-DD.csv in each week's folder containing parsed report data.
+"""
+
 import openai
 import time
 from pathlib import Path

@@ -1,3 +1,31 @@
+"""
+Step 3: Combine Transcript Snippets
+
+Merges multiple OCR snippet files from a single week's column into a single
+consolidated transcript file (YYYY-MM-DD.txt).
+
+Usage:
+    python 3-combine-transcripts.py
+
+Or via Makefile:
+    make combine
+
+Prerequisites:
+    - OpenAI API key set as OPENAI_API_KEY environment variable
+    - OCR snippet .txt files (from step 2) in weekly folders
+    - Prompt file: 3-combine-transcripts-prompt.txt
+
+Behavior:
+    - Processes all weekly folders in archives/
+    - Looks for snippet files (all .txt files except YYYY-MM-DD.txt)
+    - Uses GPT-4o to intelligently combine snippets into coherent text
+    - Regenerates the combined file from snippets each time it runs
+    - Uses parallel processing (4 workers) for efficiency
+
+Output:
+    Creates YYYY-MM-DD.txt in each week's folder containing the combined transcript.
+"""
+
 import os
 import time
 from pathlib import Path

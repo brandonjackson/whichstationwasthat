@@ -1,3 +1,31 @@
+"""
+Step 5: Merge Weekly CSVs
+
+Combines all weekly CSV files into a single data.csv file with an issue_date
+column for temporal analysis.
+
+Usage:
+    python 5-merge-weekly-csvs.py
+
+Or via Makefile:
+    make merge
+
+Prerequisites:
+    - pandas library installed
+    - Weekly CSV files (YYYY-MM-DD.csv from step 4) in weekly folders
+
+Behavior:
+    - Processes all weekly folders in archives/
+    - Adds issue_date column (from folder name) as first column
+    - Merges all weekly CSVs into single data.csv in project root
+    - Regenerates data.csv from all weekly CSVs each time it runs
+    - Skips folders that don't have a CSV file
+
+Output:
+    Creates data.csv in project root containing all reports with issue_date column.
+    This is the final dataset ready for analysis.
+"""
+
 import pandas as pd
 from pathlib import Path
 

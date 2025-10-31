@@ -1,3 +1,24 @@
+"""
+Step 1: Create Archive Folders
+
+Generates weekly archive folders organized by publication date in YYYY-MM-DD format.
+
+Usage:
+    python 1-create-folders.py
+
+Or via Makefile:
+    make folders
+
+Configuration:
+    Edit the start_date_str and num_weeks parameters in the script to customize
+    the date range for folder creation.
+
+Behavior:
+    - Creates folders in archives/ directory
+    - Uses mkdir(exist_ok=True), so existing folders are not overwritten
+    - Folders are named as YYYY-MM-DD (e.g., 1925-11-20)
+"""
+
 import os
 from datetime import datetime, timedelta
 from pathlib import Path
