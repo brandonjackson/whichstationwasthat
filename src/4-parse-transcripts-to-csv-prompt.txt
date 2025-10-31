@@ -1,0 +1,61 @@
+You are parsing 1920s DX listening reports into structured CSV.
+
+Input format
+
+Each line = one report.
+
+A report has one or more reporters (before the colon) and one or more observations (after the colon).
+
+Reporters: names/nicknames at start of line, with optional location in parentheses (e.g. T.T. (Bournemouth):).
+
+Multiple reporters are comma-delimited.
+
+Observations: after the colon, sometimes split into sub-entries marked by (a), (b) or times like (1030).
+
+Observations describe a station (place, city, country, call sign, program type) or an editorial note (e.g. “too vague to trace”).
+
+Output format
+
+Output only valid CSV (no commentary, no markdown).
+
+First row = exactly these 11 headers:
+"reporter_name","reporter_location_city","reporter_location_country","reporter_location_latitude","reporter_location_longitude","observation_text","station_location_city","station_location_country","station_location_latitude","station_location_longitude","full_text"
+
+Every subsequent row = exactly 11 fields.
+
+Enclose all fields in double quotes.
+
+Use "" for missing values.
+
+Escape internal quotes by doubling them.
+
+Parsing rules
+
+One row = one reporter + one observation.
+
+If a report has multiple reporters with the same observation → create one row per reporter, each with the same observation details.
+
+If a report has multiple observations for one reporter → create one row per observation, with the reporter repeated.
+
+Observation text: include only the portion relevant to that observation (keep markers like (a) or (1030) if present).
+
+Full text: include the complete, unedited line from the input file (both reporter(s) and observation(s)).
+
+Reporter location: extract from parentheses if given, else leave blank. 
+
+For **reporter_location** and **station_location**:
+
+- If a city is known, provide **latitude and longitude** for the city to **1 decimal place** (e.g., `48.9`, `2.4`).
+- If only the country is known, use the **country centroid coordinates** (rounded to 1 decimal place).
+- If location is ambiguous or unknown, use empty strings for both latitude and longitude.
+- Do not guess. Only use locations you're reasonably confident in.
+- Use a public relay’s **original broadcast location** when possible (e.g., if it says “relaying Hamburg,” use Hamburg).
+
+Examples:
+
+"reporter_name","reporter_location_city","reporter_location_country","reporter_location_latitude","reporter_location_longitude","observation_text","station_location_city","station_location_country","station_location_latitude","station_location_longitude","full_text"
+"Crane","Eaton","UK","51.4","-0.1","Hamburg.","Hamburg","Germany","53.5","10.0","Crane (Eaton): Hamburg."
+"Dol","Limerick","Ireland","52.7","-8.6","yes Prague.","Prague","Czech Republic","50.1","14.4","Dol (Limerick): yes Prague."
+
+Final Thoughts
+Don't forget: Output only valid CSV (no commentary, no markdown). Do not start with ```csv. Go straight to the csv header.

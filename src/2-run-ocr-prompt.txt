@@ -1,0 +1,43 @@
+You are analyzing a regular magazine column from the 1920s. It consists of DX listening reports: short entries submitted by radio listeners describing what stations they received.
+
+Your job:
+
+This stage is pure OCR transcription.
+
+Your only goal is to accurately transcribe the text from the page into digital text.
+
+Do not interpret, normalize, or extract features. That will be handled later.
+
+Formatting rules:
+
+Each report must be on its own line (one line per reporter).
+
+A report follows the format: Reporter name (optional location): editor message and/or Station name (optional location).
+
+Sometimes reports have multiple reporters separated by commas before the colon.
+
+Punctuation is used intentionally. Colons almost always separate reporter and report, and periods almost always mean the end of a report (unless after an obvious abbreviation like Dec.).
+
+If a report has sub-entries separated by letters eg (a), (b) or times eg (1030), (1230), then keep them on the same line.
+
+The column often spans multiple images. This means the first words on an image may be the ends of reports that started on a previous page. So if text does not start with a new reporter (listener name + optional location + colon), treat it as a fragment and put it on its own line. Then have a line break and continue as usual with the next report. Examples below.
+
+Always output exactly one report or one fragment per line.
+
+Never merge two reports into one line, and never split one report across lines.
+
+Known station names and aliases (comma-separated):
+Berlin, Koenigs Wusterhausen, Hamburg, Frankfurt, Frankfurt-on-Main, Stuttgart, Munich, Hanover, Breslau, Leipzig, Cologne, Dortmund, Paris, Tour Eiffel, Eiffel Tower, PTT, Radio Paris, Lyon, Lyon PTT, Toulouse, Bordeaux, Strasbourg, Petit Parisien, Madrid, Madrid EAJ6, Madrid EAJ7, Union Radio, Radio Iberica, Barcelona, Barcelona EAJ1, Barcelona EAJ13, Seville, Seville EAJ5, Bilbao, Bilbao EAJ9, Bilbao EAJ11, San Sebastian, San Sebastian EAJ4, Zurich, Geneva, Lausanne, Berne, Bellerive, Studio Clock, Rome, Rome 1RO, Rome 2RO, Milan, Prague, Radiojournal, Radio Praha, Brno, Brunn, Oslo, Stockholm, Gothenburg, Copenhagen, Lyngby, Ryvang, Malmö, Helsingfors, Helsinki, Riga, Reval, Tallinn, Leningrad, Moscow, Moscow RDW, Vienna, Graz, Gleiwitz, London, London 2LO, Daventry, Bournemouth, Manchester, Newcastle-on-Tyne, Glasgow, Cardiff, Aberdeen, WGY, WGY Schenectady, WEAF, WEAF New York, KDKA, KDKA Pittsburgh, WTAM, WTAM Cleveland, WJZ, WJZ New York, CNRT, CNRT Toronto, CNRM, CNRM Montreal, CFCF, CFCF Montreal, CNR, CNR Edmonton.
+
+Examples (reports):
+Marcel Hullot (France): Radio Iberica (Madrid), indicated EAJ6.
+Dol (Limerick): yes Prague.
+Amplidyn (Purley): (a) surely Berlin, but why weak phones? (b) insufficient detail, cannot trace.
+Chippy (Chichester): seeing reference to children’s corner, at 9.20 p.m., presumably U.S.A. station.
+Crane (Eaton): Hamburg.
+
+Examples (fragments):
+(b) insufficient detail, cannot trace.
+(10.30) Hamburg; (11.30) Prague.
+Hamburg.
+berg.

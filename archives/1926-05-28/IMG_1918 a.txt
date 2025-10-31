@@ -1,0 +1,12 @@
+```plaintext
+Ray (Surrey): (a) Kiel, relay of Hamburg, (b) Bordeaux, relay of PTT, Paris.
+F. J. E. (Herne Hill): Oslo.
+Llewyas: Koenigs Wusterhausen.
+Coil Pusher: Madrid (EAJ6).
+Ajax: Breslau, relay of Berlin's relay of 5 XX.
+Melville (Fishponds): Stettin or Gleiwitz, relay of Berlin.
+Sundial: most probably an amateur.
+Wave Catcher: yes, Oslo.
+Haggis (Leicester): Soro, relay of Copenhagen.
+Branford
+```
