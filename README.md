@@ -57,6 +57,8 @@ The digitization pipeline consists of six sequential stages:
    - Bar chart showing tracing success rate (success/fail)
    - Heatmap of station locations (azimuthal equidistant projection centered on London)
    - Histogram of distances from observer to station locations
+   - Monthly heatmaps in `results/monthly-maps/` directory
+   - Animated GIFs combining monthly heatmaps with 100ms frame delay
 
 ## 🚀 Installation & Usage
 
@@ -74,7 +76,7 @@ Install required Python packages:
 make install
 ```
 
-This installs `openai`, `pandas`, `matplotlib`, and `cartopy`.
+This installs `openai`, `pandas`, `matplotlib`, `cartopy`, and `imageio`.
 
 ### Running the Pipeline
 
@@ -137,8 +139,14 @@ whichstationwasthat/
 │   ├── top_stations_pie.png
 │   ├── top_countries_pie.png
 │   ├── tracing_success_rate.png
-│   ├── station_location_heatmap.png
-│   └── distances_histogram.png
+│   ├── station_location_heatmap_10k.png
+│   ├── station_location_heatmap_3k.png
+│   ├── station_location_heatmap_10k_animated.gif
+│   ├── station_location_heatmap_3k_animated.gif
+│   ├── distances_histogram.png
+│   └── monthly-maps/  # Monthly heatmap images
+│       ├── station_location_heatmap_10k_YYYY_MM.png
+│       └── station_location_heatmap_3k_YYYY_MM.png
 ├── Makefile           # Convenient command shortcuts
 ├── data.csv           # Final merged dataset
 └── README.md          # This file

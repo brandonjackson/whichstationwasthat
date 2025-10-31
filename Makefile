@@ -18,7 +18,7 @@ help:
 
 # Install Python dependencies
 install:
-	python3 -m pip install --break-system-packages openai pandas matplotlib cartopy
+	python3 -m pip install --break-system-packages openai pandas matplotlib cartopy imageio
 
 # Step 1: Create weekly archive folders
 folders:

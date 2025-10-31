@@ -45,6 +45,13 @@ import numpy as np
 from pathlib import Path
 from math import radians, sin, cos, sqrt, atan2
 
+# Try to import imageio for GIF creation
+try:
+    import imageio.v2 as imageio
+    IMAGEIO_AVAILABLE = True
+except ImportError:
+    IMAGEIO_AVAILABLE = False
+
 # Try to import cartopy for map projections
 try:
     import cartopy.crs as ccrs
@@ -316,7 +323,7 @@ def plot_tracing_success_rate(df, output_dir):
     print(f"   Fail: {ordered_counts.get('fail', 0)} ({100-success_rate:.1f}%)")
 
 
-def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=None, output_filename=None, vmin=None, vmax=None, show_colorbar=True):
+def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=None, output_filename=None, vmin=None, vmax=None, show_colorbar=True, show_timeline=False, timeline_month=None, timeline_position=None, timeline_total=None):
     """Plot heatmap of station locations using azimuthal equidistant projection centered on London.
     
     Args:
@@ -328,6 +335,10 @@ def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=N
         vmin: Minimum value for color scale (for consistent scaling across maps)
         vmax: Maximum value for color scale (for consistent scaling across maps)
         show_colorbar: Whether to show the colorbar (default: True)
+        show_timeline: Whether to show timeline indicator at bottom (default: False)
+        timeline_month: Month label text (e.g., "1925-11")
+        timeline_position: Current position in timeline (0 to 1, or index number)
+        timeline_total: Total number of months in timeline
     """
     if not CARTOPY_AVAILABLE:
         print("⚠️  Cartopy not available. Install with: pip install cartopy")
@@ -505,6 +516,47 @@ def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=N
     
     plt.title(f'Station Location Heatmap\n(Azimuthal Equidistant Projection, Centered on London, {map_radius_km:,} km radius)',
               fontsize=14, fontweight='bold', pad=20, color=MAP_COLORS['title_color'])
+    
+    # Add timeline at bottom if requested
+    if show_timeline and timeline_month is not None and timeline_position is not None and timeline_total is not None:
+        # Calculate position as fraction (0 to 1)
+        if isinstance(timeline_position, (int, float)) and timeline_position < 1:
+            position = timeline_position
+        else:
+            position = (timeline_position - 1) / (timeline_total - 1) if timeline_total > 1 else 0
+        
+        # Add month label above timeline
+        fig.text(0.5, 0.035, timeline_month, 
+                ha='center', va='bottom',
+                fontsize=16, fontweight='bold', color=MAP_COLORS['text_color'])
+        
+        # Draw simple timeline bar
+        timeline_y = 0.015
+        timeline_height = 0.008
+        timeline_x_start = 0.15
+        timeline_x_end = 0.85
+        
+        # Draw background timeline
+        fig.patches.append(plt.Rectangle(
+            (timeline_x_start, timeline_y), 
+            timeline_x_end - timeline_x_start, 
+            timeline_height,
+            transform=fig.transFigure, 
+            facecolor=MAP_COLORS['text_color'], 
+            alpha=0.3
+        ))
+        
+        # Draw progress indicator
+        progress_width = (timeline_x_end - timeline_x_start) * position
+        fig.patches.append(plt.Rectangle(
+            (timeline_x_start, timeline_y), 
+            progress_width, 
+            timeline_height,
+            transform=fig.transFigure, 
+            facecolor=MAP_COLORS['text_color'], 
+            alpha=0.8
+        ))
+    
     plt.tight_layout()
     plt.savefig(output_dir / output_filename, dpi=300, bbox_inches='tight')
     plt.close()
@@ -605,7 +657,11 @@ def generate_monthly_heatmaps(df, output_dir):
     print(f"   Color scale range: {vmin_global:.2f} to {vmax_global:.2f}")
     print(f"📅 Generating monthly heatmaps ({len(unique_months)} months)...")
     
-    for year_month in sorted(unique_months):
+    # Get sorted list of months for timeline calculation
+    sorted_months = sorted(unique_months)
+    total_months = len(sorted_months)
+    
+    for idx, year_month in enumerate(sorted_months, start=1):
         # Filter data for this month
         month_data = valid_all[valid_all['year_month'] == year_month]
         
@@ -615,24 +671,80 @@ def generate_monthly_heatmaps(df, output_dir):
         # Create filename components
         year = year_month.year
         month = year_month.month
+        month_label = f"{year}-{month:02d}"
         
-        # Generate 10k km heatmap (no colorbar for monthly maps)
+        # Generate 10k km heatmap (no colorbar for monthly maps, with timeline)
         filename_10k = f'station_location_heatmap_10k_{year}_{month:02d}.png'
         plot_station_heatmap(month_data, monthly_maps_dir,
                             map_radius_km=10000, ring_increment_km=2000,
                             output_filename=filename_10k,
                             vmin=vmin_global, vmax=vmax_global,
-                            show_colorbar=False)
+                            show_colorbar=False,
+                            show_timeline=True,
+                            timeline_month=month_label,
+                            timeline_position=idx,
+                            timeline_total=total_months)
         
-        # Generate 3k km heatmap (no colorbar for monthly maps)
+        # Generate 3k km heatmap (no colorbar for monthly maps, with timeline)
         filename_3k = f'station_location_heatmap_3k_{year}_{month:02d}.png'
         plot_station_heatmap(month_data, monthly_maps_dir,
                             map_radius_km=3000, ring_increment_km=1000,
                             output_filename=filename_3k,
                             vmin=vmin_global, vmax=vmax_global,
-                            show_colorbar=False)
+                            show_colorbar=False,
+                            show_timeline=True,
+                            timeline_month=month_label,
+                            timeline_position=idx,
+                            timeline_total=total_months)
     
     print(f"✅ Monthly heatmaps saved to: {monthly_maps_dir}")
+    
+    # Create animated GIFs from monthly heatmaps
+    create_monthly_gifs(monthly_maps_dir, output_dir, sorted_months)
+
+
+def create_monthly_gifs(monthly_maps_dir, output_dir, sorted_months):
+    """Create animated GIFs from monthly heatmap images.
+    
+    Creates two GIFs:
+    - station_location_heatmap_10k_animated.gif
+    - station_location_heatmap_3k_animated.gif
+    """
+    if not IMAGEIO_AVAILABLE:
+        print("⚠️  imageio not available. Install with: pip install imageio")
+        print("   Skipping animated GIF creation.")
+        return
+    
+    print(f"\n🎬 Creating animated GIFs from monthly heatmaps...")
+    
+    for map_type in ['10k', '3k']:
+        # Collect all images for this map type, sorted by date
+        image_files = []
+        for year_month in sorted_months:
+            year = year_month.year
+            month = year_month.month
+            filename = f'station_location_heatmap_{map_type}_{year}_{month:02d}.png'
+            filepath = monthly_maps_dir / filename
+            if filepath.exists():
+                image_files.append(filepath)
+        
+        if len(image_files) == 0:
+            print(f"⚠️  No images found for {map_type} maps")
+            continue
+        
+        # Create GIF
+        output_gif = output_dir / f'station_location_heatmap_{map_type}_animated.gif'
+        
+        try:
+            # Read all images
+            images = [imageio.imread(img) for img in image_files]
+            
+            # Create animated GIF with 100ms delay (0.1 seconds)
+            imageio.mimsave(output_gif, images, duration=0.1, loop=0)
+            
+            print(f"✅ Created: {output_gif.name} ({len(images)} frames, 100ms delay)")
+        except Exception as e:
+            print(f"❌ Error creating {map_type} GIF: {e}")
 
 
 def plot_distances_histogram(df, output_dir):
