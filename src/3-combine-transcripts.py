@@ -5,10 +5,13 @@ Merges multiple OCR snippet files from a single week's column into a single
 consolidated transcript file (YYYY-MM-DD.txt).
 
 Usage:
-    python 3-combine-transcripts.py
+    python 3-combine-transcripts.py                         # Process all folders
+    python 3-combine-transcripts.py 1925-11-20             # Process single folder
+    python 3-combine-transcripts.py --ignore-existing       # Process only folders without output
+    python 3-combine-transcripts.py 1925-11-20 --ignore-existing  # Process folder if no output exists
 
 Or via Makefile:
-    make combine
+    make combine                                             # Process all folders
 
 Prerequisites:
     - OpenAI API key set as OPENAI_API_KEY environment variable
@@ -16,17 +19,20 @@ Prerequisites:
     - Prompt file: 3-combine-transcripts-prompt.txt
 
 Behavior:
-    - Processes all weekly folders in archives/
+    - If no folder name provided: processes all weekly folders in archives/
+    - If folder name provided: processes only that folder
+    - With --ignore-existing: skips folders that already have YYYY-MM-DD.txt output file
     - Looks for snippet files (all .txt files except YYYY-MM-DD.txt)
     - Uses GPT-4o to intelligently combine snippets into coherent text
-    - Regenerates the combined file from snippets each time it runs
-    - Uses parallel processing (4 workers) for efficiency
+    - Regenerates the combined file from snippets each time it runs (unless --ignore-existing is used)
+    - Uses parallel processing (4 workers) for efficiency when processing all folders
 
 Output:
     Creates YYYY-MM-DD.txt in each week's folder containing the combined transcript.
 """
 
 import os
+import sys
 import time
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -83,9 +89,14 @@ def combine_transcripts(folder_path: Path) -> str:
     return response.choices[0].message.content.strip()
 
 # --- Process a single folder (for parallel execution) ---
-def process_one_folder(folder_path: Path):
+def process_one_folder(folder_path: Path, ignore_existing=False):
     try:
         output_file = folder_path / f"{folder_path.name}.txt"
+        
+        # Skip if output file exists and ignore_existing flag is set
+        if ignore_existing and output_file.exists():
+            print(f"⏭️  {folder_path.name}: Output file already exists, skipping")
+            return
 
         combined_text = combine_transcripts(folder_path)
         with open(output_file, "w", encoding="utf-8") as f:
@@ -96,13 +107,32 @@ def process_one_folder(folder_path: Path):
         print(f"❌ {folder_path.name}: Error - {e}")
 
 # --- Process all folders in parallel ---
-def process_all_folders(base_dir: Path, max_workers=4):
+def process_all_folders(base_dir: Path, max_workers=4, ignore_existing=False):
     week_folders = [f for f in sorted(base_dir.iterdir()) if f.is_dir()]
+    
+    # Filter out folders with existing output if flag is set
+    if ignore_existing:
+        filtered_folders = []
+        for folder in week_folders:
+            output_file = folder / f"{folder.name}.txt"
+            if not output_file.exists():
+                filtered_folders.append(folder)
+            else:
+                print(f"⏭️  {folder.name}: Output file already exists, skipping")
+        
+        week_folders = filtered_folders
+        
+        if not week_folders:
+            print("✅ All folders already have output files. Nothing to process.")
+            return
+    
     print(f"🧵 Starting parallel processing with {max_workers} workers...")
+    if ignore_existing:
+        print(f"📋 Processing {len(week_folders)} folder(s) without existing output")
     start_time = time.time()
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(process_one_folder, folder): folder for folder in week_folders}
+        futures = {executor.submit(process_one_folder, folder, ignore_existing): folder for folder in week_folders}
         for future in as_completed(futures):
             folder = futures[future]
             try:
@@ -118,5 +148,34 @@ if __name__ == "__main__":
     script_dir = Path(__file__).parent
     project_root = script_dir.parent
     base_dir = project_root / "archives"
-    print(f"📍 Working in directory: {base_dir}")
-    process_all_folders(base_dir, max_workers=4)
+    
+    # Parse command-line arguments
+    args = sys.argv[1:]
+    ignore_existing = "--ignore-existing" in args
+    
+    # Remove flag from args to get folder name (if provided)
+    if ignore_existing:
+        args = [arg for arg in args if arg != "--ignore-existing"]
+    
+    # Check if a specific folder was provided as command-line argument
+    if len(args) > 0:
+        folder_name = args[0]
+        target_folder = base_dir / folder_name
+        
+        if not target_folder.exists():
+            print(f"❌ Error: Folder '{folder_name}' not found in {base_dir}")
+            sys.exit(1)
+        
+        if not target_folder.is_dir():
+            print(f"❌ Error: '{folder_name}' is not a directory")
+            sys.exit(1)
+        
+        print(f"📍 Processing single folder: {target_folder}")
+        if ignore_existing:
+            print(f"🔍 --ignore-existing flag: will skip if output file exists")
+        process_one_folder(target_folder, ignore_existing=ignore_existing)
+    else:
+        print(f"📍 Working in directory: {base_dir}")
+        if ignore_existing:
+            print(f"🔍 --ignore-existing flag: will skip folders with existing output")
+        process_all_folders(base_dir, max_workers=4, ignore_existing=ignore_existing)
