@@ -4,11 +4,13 @@ A digital history project digitizing and publishing amateur DX (long-distance) r
 
 ## 📚 About This Project
 
-Long-distance radio listening, known as "DXing" (DX = "distance"), emerged as a popular hobby in the 1920s as radio technology expanded across Europe. Amateur listeners documented their reception of distant stations, often providing detailed descriptions of signal strength, program content, call signs, and atmospheric conditions. These reports offer unique insights into early radio culture, amateur experimentation, and the development of international broadcasting networks.
+When long evenings drew in at the end of 1925, families gathered around their new wireless sets and tuned in to what came to be called the "ether ocean." With each twist of the dial, strange new sounds filled the air—beeps, jazz, and the faint, unintelligible voices of foreigners calling from distant lands. With so many mysteries crackling through the airwaves, the BBC launched "Which Station Was That?": a sort of Shazam for radio, powered by good old-fashioned human intelligence.
 
-The "Which Station Was That?" column, which ran from 1925 to 1939 in the BBC's *World Radio* magazine (and its predecessor, *Radio Supplement*), published letters from amateur listeners who had received unidentified distant stations and requested help identifying them. Each column typically featured dozens of reports, creating a rich, weekly snapshot of European radio reception during this formative period.
+Listeners would jot down whatever details they could—an estimated wavelength, the time, a guess at the language—on small slips of paper and post them to the BBC, where a team would consult their reference materials to ascertain the sound's origins. The results appeared each week in *World Radio* magazine (later folded into the *Radio Times*). Reading these weekly snapshots offers a glimpse into radio's thrilling early days, when just the right amount of chaos filled the air to make anything seem possible: radio announcers in Spain marking the hours by striking gongs, Morse code from ships at sea cutting across church services, even gymnastic lessons broadcast in Swedish.
 
-This project transforms scanned magazine pages into structured, machine-readable data, enabling researchers to analyze patterns in reception reports, geographic coverage, station identification, and the evolving vocabulary of early radio enthusiasts.
+The "Which Station Was That?" column ran from 1925 to 1939, capturing a formative period in broadcast history. Long-distance radio listening, known as "DXing" (DX = "distance"), emerged as a popular hobby as radio technology expanded across Europe. These reports offer unique insights into early radio culture, amateur experimentation, and the development of international broadcasting networks.
+
+This digital history project transforms scanned magazine pages into structured, machine-readable data, enabling researchers to analyze patterns in reception reports, geographic coverage, station identification, and the evolving vocabulary of early radio enthusiasts. By digitizing and preserving these remarkable columns, we can recover some of that original wonder—and perhaps even connect with those voices that, for more than a century, have been calling out into the ether, hoping someone might listen.
 
 ## 🗂️ Archives Overview
 
