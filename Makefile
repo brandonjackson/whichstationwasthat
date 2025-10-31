@@ -17,32 +17,32 @@ help:
 
 # Install Python dependencies
 install:
-	pip install openai pandas
+	python3 -m pip install openai pandas
 
 # Step 1: Create weekly archive folders
 folders:
 	@echo "📁 Creating weekly archive folders..."
-	cd src && python 1-create-folders.py
+	cd src && python3 1-create-folders.py
 
 # Step 2: Run OCR on scanned images
 ocr:
 	@echo "🔍 Running OCR on scanned images..."
-	cd src && python 2-run-ocr.py
+	cd src && python3 2-run-ocr.py
 
 # Step 3: Combine transcript snippets
 combine:
 	@echo "🧩 Combining transcript snippets..."
-	cd src && python 3-combine-transcripts.py
+	cd src && python3 3-combine-transcripts.py
 
 # Step 4: Parse transcripts to CSV
 parse:
 	@echo "📄 Parsing transcripts to CSV..."
-	cd src && python 4-parse-transcripts-to-csv.py
+	cd src && python3 4-parse-transcripts-to-csv.py
 
 # Step 5: Merge weekly CSVs
 merge:
 	@echo "📊 Merging weekly CSVs..."
-	cd src && python 5-merge-weekly-csvs.py
+	cd src && python3 5-merge-weekly-csvs.py
 
 # Run complete pipeline (steps 1-5)
 all: folders ocr combine parse merge
