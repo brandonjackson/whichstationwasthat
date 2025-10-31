@@ -739,10 +739,11 @@ def create_monthly_gifs(monthly_maps_dir, output_dir, sorted_months):
             # Read all images
             images = [imageio.imread(img) for img in image_files]
             
-            # Create animated GIF with 100ms delay (0.1 seconds)
-            imageio.mimsave(output_gif, images, duration=0.1, loop=0)
+            # Create animated GIF with 200ms delay (0.2 seconds = 5 fps)
+            # For GIF format, use fps parameter (200ms = 1/0.2 = 5 fps)
+            imageio.mimsave(output_gif, images, fps=5, loop=0)
             
-            print(f"✅ Created: {output_gif.name} ({len(images)} frames, 100ms delay)")
+            print(f"✅ Created: {output_gif.name} ({len(images)} frames, 200ms delay)")
         except Exception as e:
             print(f"❌ Error creating {map_type} GIF: {e}")
 
