@@ -316,7 +316,7 @@ def plot_tracing_success_rate(df, output_dir):
     print(f"   Fail: {ordered_counts.get('fail', 0)} ({100-success_rate:.1f}%)")
 
 
-def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=None, output_filename=None):
+def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=None, output_filename=None, vmin=None, vmax=None, show_colorbar=True):
     """Plot heatmap of station locations using azimuthal equidistant projection centered on London.
     
     Args:
@@ -325,6 +325,9 @@ def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=N
         map_radius_km: Radius in km (default: MAP_RADIUS_KM)
         ring_increment_km: Distance between rings in km (default: 2000)
         output_filename: Output filename (default: 'station_location_heatmap.png')
+        vmin: Minimum value for color scale (for consistent scaling across maps)
+        vmax: Maximum value for color scale (for consistent scaling across maps)
+        show_colorbar: Whether to show the colorbar (default: True)
     """
     if not CARTOPY_AVAILABLE:
         print("⚠️  Cartopy not available. Install with: pip install cartopy")
@@ -426,29 +429,47 @@ def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=N
         levels=MAP_COLORS['heatmap_levels'],
         transform=ccrs.PlateCarree(),
         cmap=custom_cmap,
-        alpha=MAP_COLORS['heatmap_alpha']
+        alpha=MAP_COLORS['heatmap_alpha'],
+        vmin=vmin,
+        vmax=vmax
     )
     
-    # Add colorbar with formatted ticks showing actual observation counts
-    cbar = plt.colorbar(im, ax=ax, orientation='horizontal', pad=0.05, shrink=0.8)
-    
-    # Format ticks to show approximate observation counts (convert from log scale)
-    # Use a formatter function to convert log values to observation counts
-    def format_count(x, p):
-        """Formatter function to convert log scale to observation counts"""
-        if x <= 0:
-            return '0'
-        count = int(np.expm1(x))
-        if count == 0:
-            return '0'
-        return str(count)
-    
-    # Apply the formatter
-    cbar.ax.xaxis.set_major_formatter(plt.FuncFormatter(format_count))
-    
-    cbar.set_label('Observation Count (log scale)', fontsize=10, color=MAP_COLORS['text_color'])
-    cbar.ax.xaxis.set_tick_params(colors=MAP_COLORS['text_color'])
-    cbar.outline.set_edgecolor(MAP_COLORS['text_color'])
+    # Add colorbar with formatted ticks showing actual observation counts (only if enabled)
+    if show_colorbar:
+        # Set consistent bounds if vmin/vmax provided
+        if vmin is not None and vmax is not None:
+            # Create boundaries for consistent colorbar scale
+            boundaries = np.linspace(vmin, vmax, MAP_COLORS['heatmap_levels'] + 1)
+            cbar = plt.colorbar(im, ax=ax, orientation='horizontal', pad=0.05, shrink=0.8,
+                               boundaries=boundaries, values=boundaries[:-1])
+            # Ensure the mappable uses the same limits
+            im.set_clim(vmin=vmin, vmax=vmax)
+        else:
+            cbar = plt.colorbar(im, ax=ax, orientation='horizontal', pad=0.05, shrink=0.8)
+        
+        # Format ticks to show approximate observation counts (convert from log scale)
+        # Use a formatter function to convert log values to observation counts
+        def format_count(x, p):
+            """Formatter function to convert log scale to observation counts"""
+            if x <= 0:
+                return '0'
+            count = int(np.expm1(x))
+            if count == 0:
+                return '0'
+            return str(count)
+        
+        # Apply the formatter
+        cbar.ax.xaxis.set_major_formatter(plt.FuncFormatter(format_count))
+        
+        # Set consistent tick locations if vmin/vmax provided
+        if vmin is not None and vmax is not None:
+            # Set tick locations to span the full range
+            tick_locations = np.linspace(vmin, vmax, 6)  # 6 ticks across the range
+            cbar.set_ticks(tick_locations)
+        
+        cbar.set_label('Observation Count (log scale)', fontsize=10, color=MAP_COLORS['text_color'])
+        cbar.ax.xaxis.set_tick_params(colors=MAP_COLORS['text_color'])
+        cbar.outline.set_edgecolor(MAP_COLORS['text_color'])
     
     # 4. Distance circles (added after heatmap so they're visible on top)
     for distance_km in range(ring_increment_km, map_radius_km + 1, ring_increment_km):
@@ -489,6 +510,129 @@ def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=N
     plt.close()
     print(f"✅ Created: {output_filename}")
     print(f"   Plotted {len(valid_stations)} station observations")
+
+
+def generate_monthly_heatmaps(df, output_dir):
+    """Generate heatmaps for each month in the dataset.
+    
+    Creates heatmaps with 10k km and 3k km radius for each month,
+    saved to monthly-maps/ directory. All maps use the same color scale
+    for consistent comparison.
+    
+    Naming convention:
+    - station_location_heatmap_10k_YYYY_MM.png (10k km, 2k ring increments)
+    - station_location_heatmap_3k_YYYY_MM.png (3k km, 1k ring increments)
+    """
+    if not CARTOPY_AVAILABLE:
+        print("⚠️  Cartopy not available. Skipping monthly heatmap generation.")
+        return
+    
+    # Create monthly-maps directory
+    monthly_maps_dir = output_dir / 'monthly-maps'
+    monthly_maps_dir.mkdir(exist_ok=True)
+    
+    # Convert issue_date to datetime for grouping
+    df_copy = df.copy()
+    df_copy['issue_date'] = pd.to_datetime(df_copy['issue_date'], errors='coerce')
+    
+    # Filter out rows with invalid dates
+    df_copy = df_copy[df_copy['issue_date'].notna()]
+    
+    if len(df_copy) == 0:
+        print("⚠️  No valid dates found for monthly heatmap generation")
+        return
+    
+    # Filter to rows with valid station coordinates
+    valid_all = df_copy[
+        (df_copy['station_location_latitude'].notna()) & 
+        (df_copy['station_location_longitude'].notna())
+    ].copy()
+    
+    # Convert to float, handling any string values
+    try:
+        valid_all['lat'] = pd.to_numeric(valid_all['station_location_latitude'], errors='coerce')
+        valid_all['lon'] = pd.to_numeric(valid_all['station_location_longitude'], errors='coerce')
+        valid_all = valid_all[
+            valid_all['lat'].notna() & valid_all['lon'].notna()
+        ]
+    except Exception as e:
+        print(f"⚠️  Error processing coordinates: {e}")
+        return
+    
+    if len(valid_all) == 0:
+        print("⚠️  No valid station coordinates found")
+        return
+    
+    # Group by year-month
+    valid_all['year'] = valid_all['issue_date'].dt.year
+    valid_all['month'] = valid_all['issue_date'].dt.month
+    valid_all['year_month'] = valid_all['issue_date'].dt.to_period('M')
+    
+    # Get unique year-month combinations
+    unique_months = valid_all['year_month'].unique()
+    
+    # Calculate global min/max across ALL months for consistent color scale
+    print(f"\n📅 Calculating global color scale across {len(unique_months)} months...")
+    all_heatmap_values = []
+    
+    lon_bins = np.linspace(-180, 180, 120)
+    lat_bins = np.linspace(-90, 90, 90)
+    
+    for year_month in sorted(unique_months):
+        month_data = valid_all[valid_all['year_month'] == year_month]
+        if len(month_data) == 0:
+            continue
+        
+        lons = month_data['lon'].values
+        lats = month_data['lat'].values
+        
+        # Create histogram for this month
+        heatmap, _, _ = np.histogram2d(lons, lats, bins=[lon_bins, lat_bins])
+        heatmap = heatmap.T
+        
+        # Apply log scale
+        heatmap_log = np.log1p(heatmap)
+        all_heatmap_values.extend(heatmap_log[heatmap_log > 0].flatten())
+    
+    if len(all_heatmap_values) == 0:
+        print("⚠️  No data points to create heatmaps")
+        return
+    
+    # Calculate global min/max (using percentiles to avoid outliers)
+    vmin_global = np.percentile(all_heatmap_values, 1)  # Bottom 1% as minimum
+    vmax_global = np.percentile(all_heatmap_values, 99)  # Top 99% as maximum
+    
+    print(f"   Color scale range: {vmin_global:.2f} to {vmax_global:.2f}")
+    print(f"📅 Generating monthly heatmaps ({len(unique_months)} months)...")
+    
+    for year_month in sorted(unique_months):
+        # Filter data for this month
+        month_data = valid_all[valid_all['year_month'] == year_month]
+        
+        if len(month_data) == 0:
+            continue
+        
+        # Create filename components
+        year = year_month.year
+        month = year_month.month
+        
+        # Generate 10k km heatmap (no colorbar for monthly maps)
+        filename_10k = f'station_location_heatmap_10k_{year}_{month:02d}.png'
+        plot_station_heatmap(month_data, monthly_maps_dir,
+                            map_radius_km=10000, ring_increment_km=2000,
+                            output_filename=filename_10k,
+                            vmin=vmin_global, vmax=vmax_global,
+                            show_colorbar=False)
+        
+        # Generate 3k km heatmap (no colorbar for monthly maps)
+        filename_3k = f'station_location_heatmap_3k_{year}_{month:02d}.png'
+        plot_station_heatmap(month_data, monthly_maps_dir,
+                            map_radius_km=3000, ring_increment_km=1000,
+                            output_filename=filename_3k,
+                            vmin=vmin_global, vmax=vmax_global,
+                            show_colorbar=False)
+    
+    print(f"✅ Monthly heatmaps saved to: {monthly_maps_dir}")
 
 
 def plot_distances_histogram(df, output_dir):
@@ -554,6 +698,9 @@ def analyze_data(data_csv: str = "data.csv", results_dir: str = "results"):
     plot_station_heatmap(df, results_path,
                         map_radius_km=3000, ring_increment_km=1000,
                         output_filename='station_location_heatmap_3k.png')
+    
+    # Generate monthly heatmaps
+    generate_monthly_heatmaps(df, results_path)
     
     plot_distances_histogram(df, results_path)
     
