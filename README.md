@@ -55,6 +55,7 @@ The digitization pipeline consists of six sequential stages:
    - Pie chart of top stations
    - Pie chart of top countries
    - Bar chart showing tracing success rate (success/fail)
+   - Heatmap of station locations (azimuthal equidistant projection centered on London)
    - Histogram of distances from observer to station locations
 
 ## 🚀 Installation & Usage
@@ -73,7 +74,7 @@ Install required Python packages:
 make install
 ```
 
-This installs `openai`, `pandas`, and `matplotlib`.
+This installs `openai`, `pandas`, `matplotlib`, and `cartopy`.
 
 ### Running the Pipeline
 
@@ -136,6 +137,7 @@ whichstationwasthat/
 │   ├── top_stations_pie.png
 │   ├── top_countries_pie.png
 │   ├── tracing_success_rate.png
+│   ├── station_location_heatmap.png
 │   └── distances_histogram.png
 ├── Makefile           # Convenient command shortcuts
 ├── data.csv           # Final merged dataset

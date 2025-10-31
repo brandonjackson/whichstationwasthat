@@ -13,6 +13,7 @@ Or via Makefile:
 Prerequisites:
     - pandas library installed
     - matplotlib library installed
+    - cartopy library installed (for heatmap projection; optional but recommended)
     - data.csv file from step 5
 
 Behavior:
@@ -22,7 +23,8 @@ Behavior:
       2. Pie chart of top stations (by station_location_city)
       3. Pie chart of top countries (by station_location_country)
       4. Bar chart showing tracing success rate (success/fail)
-      5. Histogram of distances (calculated from reporter location or London if missing)
+      5. Heatmap of station locations (azimuthal equidistant projection centered on London)
+      6. Histogram of distances (calculated from reporter location or London if missing)
     - Saves all figures to results/ directory
 
 Output:
@@ -31,6 +33,7 @@ Output:
     - top_stations_pie.png
     - top_countries_pie.png
     - tracing_success_rate.png
+    - station_location_heatmap.png
     - distances_histogram.png
 """
 
@@ -39,6 +42,14 @@ import matplotlib.pyplot as plt
 import numpy as np
 from pathlib import Path
 from math import radians, sin, cos, sqrt, atan2
+
+# Try to import cartopy for map projections
+try:
+    import cartopy.crs as ccrs
+    import cartopy.feature as cfeature
+    CARTOPY_AVAILABLE = True
+except ImportError:
+    CARTOPY_AVAILABLE = False
 
 # London coordinates as fallback
 LONDON_LAT = 51.5
@@ -271,6 +282,104 @@ def plot_tracing_success_rate(df, output_dir):
     print(f"   Fail: {ordered_counts.get('fail', 0)} ({100-success_rate:.1f}%)")
 
 
+def plot_station_heatmap(df, output_dir):
+    """Plot heatmap of station locations using azimuthal equidistant projection centered on London."""
+    if not CARTOPY_AVAILABLE:
+        print("⚠️  Cartopy not available. Install with: pip install cartopy")
+        print("   Skipping heatmap generation.")
+        return
+    
+    # Filter to rows with valid station coordinates
+    valid_stations = df[
+        (df['station_location_latitude'].notna()) & 
+        (df['station_location_longitude'].notna())
+    ].copy()
+    
+    # Convert to float, handling any string values
+    try:
+        valid_stations['lat'] = pd.to_numeric(valid_stations['station_location_latitude'], errors='coerce')
+        valid_stations['lon'] = pd.to_numeric(valid_stations['station_location_longitude'], errors='coerce')
+        valid_stations = valid_stations[
+            valid_stations['lat'].notna() & valid_stations['lon'].notna()
+        ]
+    except Exception as e:
+        print(f"⚠️  Error processing coordinates: {e}")
+        return
+    
+    if len(valid_stations) == 0:
+        print("⚠️  No valid station coordinates found for heatmap")
+        return
+    
+    # Create figure with azimuthal equidistant projection centered on London
+    fig = plt.figure(figsize=(14, 14))
+    ax = plt.axes(projection=ccrs.AzimuthalEquidistant(
+        central_latitude=LONDON_LAT,
+        central_longitude=LONDON_LNG
+    ))
+    
+    # Set map extent (show Europe and surrounding areas)
+    ax.set_extent([-15, 45, 35, 70], crs=ccrs.PlateCarree())
+    
+    # Add map features
+    ax.add_feature(cfeature.COASTLINE, linewidth=0.5)
+    ax.add_feature(cfeature.BORDERS, linewidth=0.5, alpha=0.5)
+    ax.add_feature(cfeature.LAND, alpha=0.3, color='gray')
+    ax.add_feature(cfeature.OCEAN, alpha=0.3, color='lightblue')
+    
+    # Prepare data for heatmap
+    lons = valid_stations['lon'].values
+    lats = valid_stations['lat'].values
+    
+    # Create 2D histogram for heatmap
+    # Use a grid that covers the extent
+    lon_bins = np.linspace(-15, 45, 60)
+    lat_bins = np.linspace(35, 70, 50)
+    
+    # Count observations in each bin
+    heatmap, xedges, yedges = np.histogram2d(lons, lats, bins=[lon_bins, lat_bins])
+    
+    # Create meshgrid for plotting
+    lon_centers = (xedges[:-1] + xedges[1:]) / 2
+    lat_centers = (yedges[:-1] + yedges[1:]) / 2
+    lon_mesh, lat_mesh = np.meshgrid(lon_centers, lat_centers)
+    
+    # Transpose heatmap to match meshgrid orientation
+    heatmap = heatmap.T
+    
+    # Plot heatmap
+    # Use log scale for better visualization of distribution
+    heatmap_log = np.log1p(heatmap)  # log(1+x) to handle zeros
+    
+    im = ax.contourf(
+        lon_mesh, lat_mesh, heatmap_log,
+        levels=20,
+        transform=ccrs.PlateCarree(),
+        cmap='YlOrRd',
+        alpha=0.6
+    )
+    
+    # Add colorbar
+    cbar = plt.colorbar(im, ax=ax, orientation='horizontal', pad=0.05, shrink=0.8)
+    cbar.set_label('Log of Observation Count', fontsize=10)
+    
+    # Mark London as the center
+    ax.plot(LONDON_LNG, LONDON_LAT, 'o', color='blue', markersize=10,
+            transform=ccrs.PlateCarree(), label='London (center)')
+    
+    # Add gridlines
+    gl = ax.gridlines(draw_labels=True, linestyle='--', alpha=0.5)
+    gl.top_labels = False
+    gl.right_labels = False
+    
+    plt.title('Station Location Heatmap\n(Azimuthal Equidistant Projection, Centered on London)',
+              fontsize=14, fontweight='bold', pad=20)
+    plt.tight_layout()
+    plt.savefig(output_dir / 'station_location_heatmap.png', dpi=300, bbox_inches='tight')
+    plt.close()
+    print("✅ Created: station_location_heatmap.png")
+    print(f"   Plotted {len(valid_stations)} station observations")
+
+
 def plot_distances_histogram(df, output_dir):
     """Plot histogram of distances."""
     # Calculate distances
@@ -324,6 +433,7 @@ def analyze_data(data_csv: str = "data.csv", results_dir: str = "results"):
     plot_top_stations_pie(df, results_path)
     plot_top_countries_pie(df, results_path)
     plot_tracing_success_rate(df, results_path)
+    plot_station_heatmap(df, results_path)
     plot_distances_histogram(df, results_path)
     
     print()
