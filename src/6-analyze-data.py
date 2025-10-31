@@ -39,6 +39,7 @@ Output:
 
 import pandas as pd
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
 import numpy as np
 from pathlib import Path
 from math import radians, sin, cos, sqrt, atan2
@@ -54,6 +55,33 @@ except ImportError:
 # London coordinates as fallback
 LONDON_LAT = 51.5
 LONDON_LNG = -0.1
+
+# Map radius for azimuthal equidistant projection (in km, converted to meters for projection)
+MAP_RADIUS_KM = 10000
+MAP_RADIUS_METERS = MAP_RADIUS_KM * 1000
+
+# Color configuration for map visualization
+MAP_COLORS = {
+    'land_color': 'lightgray',           # Color for land features
+    'land_alpha': 0.2,                   # Transparency of land (0.0 = transparent, 1.0 = opaque)
+    'ocean_color': 'lightblue',          # Color for ocean features
+    'ocean_alpha': 0.2,                  # Transparency of ocean
+    'coastline_color': 'black',          # Color for coastlines
+    'coastline_width': 0.5,              # Width of coastline lines
+    'borders_color': 'gray',             # Color for country borders
+    'borders_width': 0.5,                # Width of border lines
+    'borders_alpha': 0.3,                # Transparency of borders
+    'heatmap_colormap': 'Reds',          # Colormap for heatmap ('Reds', 'Blues', 'Greens', 'Purples', 'Oranges', 'viridis', 'plasma', etc.)
+    'heatmap_alpha': 0.7,                # Transparency of heatmap overlay
+    'heatmap_levels': 20,                # Number of contour levels in heatmap
+    'heatmap_min_threshold': 0.1,        # Minimum value threshold (values below this are transparent/not shown)
+    'circle_color': 'gray',              # Color for distance circles
+    'circle_alpha': 0.5,                 # Transparency of distance circles
+    'circle_linestyle': '--',            # Line style for circles ('-', '--', '-.', ':')
+    'circle_linewidth': 0.8,             # Line width for distance circles
+    'center_marker_color': 'blue',       # Color for center point marker
+    'center_marker_size': 10,            # Size of center point marker
+}
 
 
 def haversine_distance(lat1, lon1, lat2, lon2):
@@ -312,28 +340,37 @@ def plot_station_heatmap(df, output_dir):
     
     # Create figure with azimuthal equidistant projection centered on London
     fig = plt.figure(figsize=(14, 14))
-    ax = plt.axes(projection=ccrs.AzimuthalEquidistant(
+    proj = ccrs.AzimuthalEquidistant(
         central_latitude=LONDON_LAT,
         central_longitude=LONDON_LNG
-    ))
+    )
+    ax = plt.axes(projection=proj)
     
-    # Set map extent (show Europe and surrounding areas)
-    ax.set_extent([-15, 45, 35, 70], crs=ccrs.PlateCarree())
     
     # Add map features
-    ax.add_feature(cfeature.COASTLINE, linewidth=0.5)
-    ax.add_feature(cfeature.BORDERS, linewidth=0.5, alpha=0.5)
-    ax.add_feature(cfeature.LAND, alpha=0.3, color='gray')
-    ax.add_feature(cfeature.OCEAN, alpha=0.3, color='lightblue')
+    ax.add_feature(cfeature.COASTLINE, 
+                   linewidth=MAP_COLORS['coastline_width'],
+                   edgecolor=MAP_COLORS['coastline_color'])
+    ax.add_feature(cfeature.BORDERS, 
+                   linewidth=MAP_COLORS['borders_width'], 
+                   alpha=MAP_COLORS['borders_alpha'],
+                   edgecolor=MAP_COLORS['borders_color'])
+    ax.add_feature(cfeature.LAND, 
+                   alpha=MAP_COLORS['land_alpha'], 
+                   color=MAP_COLORS['land_color'])
+    ax.add_feature(cfeature.OCEAN, 
+                   alpha=MAP_COLORS['ocean_alpha'], 
+                   color=MAP_COLORS['ocean_color'])
     
     # Prepare data for heatmap
     lons = valid_stations['lon'].values
     lats = valid_stations['lat'].values
     
     # Create 2D histogram for heatmap
-    # Use a grid that covers the extent
-    lon_bins = np.linspace(-15, 45, 60)
-    lat_bins = np.linspace(35, 70, 50)
+    # Use a grid that covers a wide area (20,000 km radius covers most of the globe)
+    # Since the projection is centered on London, use global bounds for binning
+    lon_bins = np.linspace(-180, 180, 120)
+    lat_bins = np.linspace(-90, 90, 90)
     
     # Count observations in each bin
     heatmap, xedges, yedges = np.histogram2d(lons, lats, bins=[lon_bins, lat_bins])
@@ -352,10 +389,10 @@ def plot_station_heatmap(df, output_dir):
     
     im = ax.contourf(
         lon_mesh, lat_mesh, heatmap_log,
-        levels=20,
+        levels=MAP_COLORS['heatmap_levels'],
         transform=ccrs.PlateCarree(),
-        cmap='YlOrRd',
-        alpha=0.6
+        cmap=MAP_COLORS['heatmap_colormap'],
+        alpha=MAP_COLORS['heatmap_alpha']
     )
     
     # Add colorbar
@@ -363,15 +400,40 @@ def plot_station_heatmap(df, output_dir):
     cbar.set_label('Log of Observation Count', fontsize=10)
     
     # Mark London as the center
-    ax.plot(LONDON_LNG, LONDON_LAT, 'o', color='blue', markersize=10,
+    ax.plot(LONDON_LNG, LONDON_LAT, 'o', 
+            color=MAP_COLORS['center_marker_color'], 
+            markersize=MAP_COLORS['center_marker_size'],
             transform=ccrs.PlateCarree(), label='London (center)')
     
-    # Add gridlines
-    gl = ax.gridlines(draw_labels=True, linestyle='--', alpha=0.5)
-    gl.top_labels = False
-    gl.right_labels = False
+    # Add distance circles at 2k km increments
+    # In azimuthal equidistant projection, circles are drawn in projection coordinates (meters)
+    circle_increment_km = 2000
+    for distance_km in range(circle_increment_km, MAP_RADIUS_KM + 1, circle_increment_km):
+        circle_radius_m = distance_km * 1000
+        circle = mpatches.Circle((0, 0), circle_radius_m, 
+                                 transform=proj, 
+                                 fill=False, 
+                                 edgecolor=MAP_COLORS['circle_color'],
+                                 linestyle=MAP_COLORS['circle_linestyle'],
+                                 alpha=MAP_COLORS['circle_alpha'],
+                                 linewidth=MAP_COLORS['circle_linewidth'])
+        ax.add_patch(circle)
+        
+        # Add distance label on the right side of the circle
+        # Place label at 90 degrees (top) from center in projection coordinates
+        label_x = 0
+        label_y = circle_radius_m
+        ax.text(label_x, label_y, f'{distance_km:,} km',
+                transform=proj,
+                ha='center', va='bottom',
+                fontsize=8, color='gray', alpha=0.7)
     
-    plt.title('Station Location Heatmap\n(Azimuthal Equidistant Projection, Centered on London)',
+    # Set the map extent in projection coordinates (meters from center)
+    # Do this last to ensure circular aspect ratio is maintained
+    ax.set_xlim(-MAP_RADIUS_METERS, MAP_RADIUS_METERS)
+    ax.set_ylim(-MAP_RADIUS_METERS, MAP_RADIUS_METERS)
+    
+    plt.title(f'Station Location Heatmap\n(Azimuthal Equidistant Projection, Centered on London, {MAP_RADIUS_KM:,} km radius)',
               fontsize=14, fontweight='bold', pad=20)
     plt.tight_layout()
     plt.savefig(output_dir / 'station_location_heatmap.png', dpi=300, bbox_inches='tight')
