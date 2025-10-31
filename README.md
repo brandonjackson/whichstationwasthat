@@ -2,6 +2,10 @@
 
 A digital history project digitizing and publishing amateur DX (long-distance) radio listening reports from the 1920s and 1930s, extracted from the BBC's "Which Station Was That?" column in *World Radio* magazine. This project makes accessible a valuable archive of early radio culture, capturing how amateur listeners across Europe documented and shared their experiences of long-distance radio reception during the pioneering years of broadcast radio.
 
+![Monthly Station Location Heatmap Animation](results/station_location_heatmap_10k_animated.gif)
+
+*Animated visualization showing the geographic distribution of station observations over time (10,000 km radius from London)*
+
 ## 📚 About This Project
 
 When long evenings drew in at the end of 1925, families gathered around their new wireless sets and tuned in to what came to be called the "ether ocean." With each twist of the dial, strange new sounds filled the air—beeps, jazz, and the faint, unintelligible voices of foreigners calling from distant lands. With so many mysteries crackling through the airwaves, the BBC launched "Which Station Was That?": a sort of Shazam for radio, powered by good old-fashioned human intelligence.
@@ -23,6 +27,10 @@ This digital history project transforms scanned magazine pages into structured, 
 **Column Duration:** 1925-1939
 
 The source materials are preserved in the University of Cambridge Library's collections. Scanned images of the "Which Station Was That?" column pages have been digitized and organized chronologically in weekly folders (YYYY-MM-DD format) within the `archives/` directory.
+
+![Observations Over Time](results/observations_per_week.png)
+
+*Weekly observations extracted from the "Which Station Was That?" column, showing the volume of listener reports over time*
 
 All scans are released under a **CC0 (Public Domain Dedication)** license, making them freely available for research, publication, and reuse.
 
