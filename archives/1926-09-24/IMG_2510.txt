@@ -1,0 +1,36 @@
+``` 
+Anglo American (Rusholme): (12) Oslo, (13) Hamburg, (14) Hanover, relay of Hamburg (The Merry Wives of Windsor). Could not be a relay of Berlin on that WL.
+Continental Relay (Carlisle): (1) Stettin, relay of Berlin, (2) Leipzig, (3) Berlin, (4) Hamburg, (5) Stuttgart, (6) Frankfort-on-Main, (7) Brünn, (8) Munich, (9) Radio Toulouse, (10) Berne, (11) Gleiwitz, relay of Berlin, (12) Graz, relay of Vienna.
+Super-Het: Muenster.
+Owl (Southgate): Volts (St. Albans City): Frankfort-on-Main.
+Valve (Seaton): Prague.
+Hawes (Upwell): Prague.
+World-Radio (Bristol): Radio Toulouse.
+Regular Reader (Ipswich): Hamburg.
+Marconi: WL vague, possibly Cadiz (experimental concert).
+Arabi (Birkenhead): Frankfort-on-Main, relay of Cassel.
+D.M. (Yorks): Radio Toulouse.
+Tiffany: It is impossible to identify stations from your condenser readings. Where possible, from details of items heard, we give replies (4) Kiel (own programme), (5) a relay of Stockholm, details vague to identify transmission, (7) too vague, but probably a relay of Berlin, (10) probably Breslau, (13) Muenster probably Hamburg. Others too vague to trace.
+P.W. (Southampton): WL much too vague, cannot trace.
+Tynesider: Brünn.
+Transfive: (a) Hilversum testing, (b) Yes, Oslo.
+Windup (S.W. 8): Prague.
+Dee Bee: (1) Berlin (1300 m), (2) Hilversum, (3) Marseilles.
+W.G.T.C.: Zurich.
+V. Patterson (Dublin): (1) Stuttgart (news), (2) Kiel, relay of Hanover.
+Rastrick: (1) Frankfort-on-Main, relaying Berlin, (2) Either Rome or Stockholm.
+E.J. (Liverpool): "Allo! Zurich" was probably the call heard.
+Est-il-Possible?: Cannot trace any transmission, possibly amateur.
+De 109 (Milford): Berlin. (504 m.)
+F.U.A.: Stuttgart.
+Medico (Leicester): Zurich.
+Gunston (Banbury): (1) San Sebastian, (2) Barcelona (EAJ13), (3) Barcelona (EAJ13).
+Valve (Brighton): (a) Zurich, (b) Frankfort-on-Main, relaying Berlin, (c) Hamburg, (d) too vague, possibly Madrid (EAJ7).
+Tony (Glasgow): Prague (Czecho-Slovakia).
+Sitnam: (1) Zurich, (2) San Sebastian.
+E.C.G. (Edinburgh): Dance music from various stations if WL correct, Vienna.
+F.C.E. (Borrowash): Radio Paris.
+Watasey Village: Frankfort-on-Main, relaying Cassel.
+War Jazz (Bath): Hilversum.
+Jock (Sutton Coldfield): Too vague, but probably Barcelona (EAJ1). More or less Milan, relayed from Fiaschetteria Toscana.
+Apple (Liverpool): ```

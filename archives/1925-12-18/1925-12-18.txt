@@ -20,44 +20,44 @@ Gee Bee: Sandford; Hamburg.
 Macclesfield: Wavelength wrong.  
 G.W.P. (Hereford): Brussels (262 m.).  
 Ubique: Malmö (Don Juan).  
-S.T.H.: Neufrdyne, Darkle; Hamburg.  
+S.T.H.: Neutrodyne; Darkie; Hamburg.  
 Pompey: Eiffel Tower (2,650 m.).  
 A.S.J. (Nelson): probably Radio Berne (302 m.).  
 Twin Valve: San Sebastian.  
-Ben Beeton: cannot trace, perhaps WJY New York.  
+Ben Beeton: cannot trace, perhaps WMCA (N.Y.).  
 Indoor: WBZ, Springfield, Mass. (333 m.).  
 Bonrose: Relay of Stockholm, probably Gothenburg.  
 Beans: No wavelength given, cannot trace.  
-Novice: (1) Seville EAJ5, (2) Barcelona (EAJ1), yes Madrid (Radio Iberica); late transmission.  
+Novice: (1) Seville (EAJ5), (2) Barcelona (EAJ1), (3) yes Madrid (Radio Iberica); late transmission.  
 Harkaway (Guernsey): San Sebastian.  
 Siti: Moscow Central (RDW).  
 Keen Listener: Oslo.  
 H.T. (Redditch): Madrid (Union Radio).  
-Phenolo (Manchester): Cadiz [EAJ3].  
+Phenolo (Manchester): Cadiz (EAJ3).  
 Killie: Item not in programme; either Elberfeld or Malmö.  
 Eaves Dropper: Probably Barcelona (EAJ13).  
 Lon. Gen.: Munster (410 m.).  
-Dyke (Northampton): W.L. too vague; perhaps Barcelona [EAJ1].  
-Enthusiast: Cannot trace item; Stuttgart or Leipzig.  
-Simplicity 3 (Exeter): Probably Copenhagen (340 m.).  
+Dyke (Northampton): W.L. too vague; perhaps Barcelona (EAJ1).  
+Enthusist: cannot trace item; Stuttgart or Leipzig.  
+Simplicity 3 (Exeter): probably Copenhagen (340 m.).  
 Via: Hamburg (10 kw.) 392.5 m.  
-Knob Twister (Worcester): Oscillating valve, Budapest (5-6 m.), (4/11), probably Prague (Der Freischütz) (16/11) Bohem (La Traviata).  
+Knob Twister (Worcester): Oscillating valve, Budapest (5-6 m.), (4/11), probably Prague (Der Freischütz); (16/11) Be im (La Traviata).  
 Toned Anode: Koenigswusterhausen.  
 Doncaster: 5ZK Amateur (London).  
-G.W.Q.F.: 5. K (London).  
-Clarifone: San Sebastian.  
+G.W.Q.F.: K (London).  
+Claritone: San Sebastian.  
 Iberica: Stuttgart and Zurich.  
-Ampere: Radio Castilla (Madrid 345 m).  
+Ampere: Radio Castilla (Madrid 345 m.).  
 Coss 2: Brussels.  
 Reflex: Probably Lausanne.  
-D.X.IV.: (7.20) Cadiz (EAJ3); (7.30) Hamburg.  
+D.X.IV.: 7.20) Cadiz (EAJ3); (7.30) Hamburg.  
 S.O.S. (Chesham): W.L. wrong, must be Berlin (505 m.).  
 L.A.W. (Southgate): Paddy (Belfast): Radio Berne.  
 Essayo: San Sebastian.  
 A.A.S.: Copenhagen.  
 E.W.A. (Watford): Radio Berne.  
 Cavalier: San Sebastian.  
-T.G. (Leighton Buzzard): Moscow Central (RDW).  
+T.G. (Leighton Buzzard): Moscow central (RDW).  
 A.H.M.: Hamburg.  
 H.T.: Insufficient detail.  
 Tracker, Rinski: Hamburg.  
@@ -68,16 +68,16 @@ Detector (St Judpl): B.B.C. Experimental station.
 Flat Twin: (1) W1AZ, Troy (N.Y.): 379.5 m.; (2) too vague, cannot trace.  
 Nick: no WL given.  
 L.J.N. (Ilford): Hamburg.  
-G.G. (Strood): Munster.  
+G.G. (Strood): Munter.  
 Mimtor: Moscow Central (RDW).  
 Snikwas: probably Prague (546 m.).  
 Edinaber: somewhat indefinite, but presumably Cadiz (EAJ3).  
 A.A. 6 (Birmingham): (29/11) San Sebastian; (6/12) if EAJ3, Cadiz, but probably Barcelona (EAJ13).  
-G.R.G.: details rather vague, presumably Berlin. (The Bat.)  
+G.R.G. (Wilmslow): details rather vague, presumably Berlin.  
 Wuncell (Grayvthorp): Hilversum.  
 3 Valve Dual: Muenster.  
-Query: Moscow Central (RDW); confirmed by other readers.  
-Norton: Radio Revel).  
+Query: Moscow Central (RDW) confirmed by other readers.  
+Norton: Hamburg (special Radio Revel).  
 H.L.S. (Oliver): Oslo.  
 Lotus: Hamburg.  
 In Doubt: too indefinite, cannot trace.  
@@ -93,7 +93,7 @@ H.T. Avenue (Leeds): (2) not in programmes.
 Ether Valve (Hebden-bridge): Hamburg.  
 Light Blue: (Athalie) cannot trace in programmes, but presumably Vienna; (9.15 p.m.) Munich.  
 N.L.S. (St. Helens): (a) Hamburg; (b) Berlin.  
-Heseltock's: (2) if W.L. correct, Helsingfors.  
+Resistoflex: (2) if W.L. correct, Helsingfors, (3) Hamburg.  
 Ship Jess: San Sebastian (Spain), 348 m.  
 Beulah (Bishop Auckland): San Sebastian.  
 Pakefield: Berlin.  
@@ -105,7 +105,7 @@ Kenley: Malmö, relaying Stockholm.
 R.A.I. (Colchester): probably Helsingfors.  
 Kit Bag: Bilbao (EAJ11).  
 Zou (Brussels): presumably Moscow Central.  
-Ve Ring (Grimsby): Hamburg.  
+Ve ring (Grimsby): Hamburg.  
 XYX (Falkirk): if not Hilversum, Geneva.  
 Allemagne: Stuttgart.  
 Trigon: B.B.C. experimental station.  
@@ -119,15 +119,19 @@ H.T.W. (Wokenham): probably harmonic.
 Peter: probably Stuttgart.  
 Amplion (St. Helens): Zurich.  
 Puffett: Radio Berne.  
-Sneko (Liverpool): Malmö relaying Stockholm.  
+Sneko (Liverpool): Malmo relaying Stockholm.  
 F.L. (Brussels): probably Bilbao (EAJ11).  
 Straight Two: Milan, cannot trace.  
-Trotters: cannot trace.  
 Rubato: Muenster (410 m.).  
 5 Perth: Moscow.  
-Heathfield: 2LO heterodyned by foreign station on higher WL.  
+Heathfield: 2LO heterodyne by foreign station on higher WL.  
 Ether-Hog (Northop): Berlin, relayed from theatre.  
 W.A.P. (Rugby): Berlin; Weaver.  
 Rycroft (Cinderford): Stuttgart.  
+Wear: (a) PTT (Paris); (b) Hamburg.  
+C.V.A.: (1) Berne; (2) Malmo relaying Stockholm.  
+Optico: cannot trace, presumably Bilbao (EAJ11).  
+Armstrong: Berne on test W.L. (320 m.).  
+Wycomb: insufficient detail, probably Spanish station.  
 Parquet (Repton): Apparently Bournemouth.  
 Roddittle: Probably B.B.C. station.

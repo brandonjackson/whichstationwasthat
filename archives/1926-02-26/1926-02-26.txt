@@ -10,7 +10,7 @@ Boward: Madrid (EAJ7).
 Barber’s Pole: (1) Madrid (EAJ6), (2) Madrid (EAJ7).  
 Stellenbosch: Too vague, cannot trace.  
 Minnow: Madrid (EAJ6).  
-C.G.N. (Langport): more likely Hjortring (1250 m. 31/1).  
+C.G.N. (Langport): More likely Hjortring (1250 m. 31/1).  
 D.G.T. (Newbury): Stuttgart (446 m.).  
 Merry: Madrid (EAJ4).  
 O.B.E. (Lincoln): Too vague.  
@@ -22,7 +22,7 @@ Redded (Mkt. Rasen): Prague.
 Kingston (Hull): WL too vague.  
 BM/RBW: (a) Probably Barcelona (EAJ1), (b) Gothenburg.  
 Sun Dial: Hamburg (English lesson).  
-De Bosco (Dorset): No WL given.  
+De Bosco (Dorset): No WL given.   
 B. P. (Portsmouth): Moscow (RDW).  
 Bathonian: Hamburg.  
 E.V.B. (Portsmooth): (1) Tallies with Radio-Toulouse, (2) Rome.  
@@ -56,6 +56,7 @@ Jackal: Moscow (RDW).
 Clovelly: Buda-Pest.  
 R.J. 3 (Dunfermline): Do not understand query, give further details.  
 BM/BRCG: Sundsvall (Weather report).  
+(10.30) Cannot trace.  
 Alex (Hampstead): Oslo.  
 Inkwell (Sutton): Hamburg.  
 S. F. B. (Leicester): Too vague.  
@@ -79,6 +80,7 @@ Grid Leak: Cannot trace item.
 L. A. D. (Brixton): (1) Breslau, (2) Copenhagen.  
 Grid Leak (Blaydon-on-Tyne): Cannot trace on this.  
 D. X.: Probably Gleiwitz, gramophone record.  
+Cricklewood, 4 Tube: (a) Koenigs Wusterhausen (b) W.L.; too many stations giving operas at that time, (c) cannot trace.  
 H. W. Collins (Boston): (1) San Sebastian, (2) Lyon-la-Doua.  
 Powerful Three: Hilversum.  
 Supplement Reader (Stroud): Hilversum.  
@@ -102,7 +104,7 @@ Tatters: Moscow (RDW).
 Tom Hunt: Norddeich (1800 m.).  
 Derf: Killie (Forfar).  
 Blue Vinny: Moscow.  
-D.X 4: Madrid (EAJ6).  
+D.X. 4: Madrid (EAJ6).  
 New Aerial G.S.F.: Madrid (EAJ7).  
 Gecophone: Zurich.  
 Clapton: Madrid (EAJ7).  

@@ -80,7 +80,7 @@ Live Wire: Radio Toulouse (in dialect).
 Edale: Cannot trace, W.L. wrong.  
 Psycho: San Sebastian.  
 K.J. Madge: Presumably Boden.  
-Duodyne (Macclesfield): (3.40) Do not understand query; (12.15) W.L. wrong ?  
+Duodyne (Macclesfield): (3.40) Do not understand query; (12.15) W.L. wrong?  
 XGN (London): Amateur (London, W.2).  
 The Hut (Haughley): Koenigswusterhausen.  
 115 (Glasgow): (Midnight) Madrid (EAJ7) (11.50) relay of PTT, Paris; possibly Toulouse (280 m).  
@@ -97,7 +97,7 @@ Straight Four (Erith): Berlin.
 Umidyne: Too vague.  
 Devon: Cannot trace, might be anybody.  
 Transformer: Koenigswusterhausen.  
-Powerful Three: (a) San Sebastian: (b) cannot trace unless Koenigswusterhausen testing for early Radio Week transmissions.  
+Powerful Three: (a) San Sebastian; (b) cannot trace unless Koenigswusterhausen testing for early Radio Week transmissions.  
 Bun Hill: No W.L. given.  
 T. F. Pearsons: Most probably an amateur.  
 Jamflicktoote: Presumably Munich.  
@@ -133,7 +133,7 @@ T.W.E.T.: W.L. too vague, probably Spanish.
 Dickie: Berlin.  
 Terminal (Hampstead): presumably Cadiz (EAJ3) 360 m.  
 Can’t Believe It: W.L too vague, but presumably U.S.A.  
-Ether (Northampton): yes, Cadiz (EAJ3).  
+Ether (Northampton): (a) no coupon, (b) Paco (Cadiz, EAJ3).  
 H.J.L.: no coupon.  
 Fawch (Bishop Auckland): Madrid (EAJ7).  
 4 Valve (Ashford): Madrid (EAJ7).  
@@ -150,7 +150,7 @@ Duke (Worksop): Hamburg.
 B.A.L. (Addiscombe): Too vague.  
 Sorrento (Cobham): Prague.  
 N.S.R.L. (Seaton): Presumably Rome with altered programme.  
-Jonnie Ronnie (Redhill): (a) San Sebastian. (b) Cardiff. (c) Berne.  
+Jonnie Ronnie (Redhill): (a) San Sebastian (b) Cardiff (c) Berne.  
 Py (Northampton): Berlin testing.  
 Burn Valve (Soro, Denmark): 2,400 m.  
 Van Wart (Hall Green): Madrid (EAJ7).  
@@ -171,7 +171,7 @@ Tommy Thumb (Leeds): Koenigs Wusterhausen relaying Berlin (Voxhaus).
 Forest Hall: Aberdeen.  
 Fireside (East Ham): Milan.  
 R.F.R. (Brighton): San Sebastian.  
-Stancus (Bayswater): Rt. Hon. Winston Churchill’s Speech at Leeds. Was this not Daventry?  
+Stancus (Bayswater): Rt. Hon. Winston Churchill’s Speech at Leeds.  
 Non-Osculator: J.28; 315-320 m. Cannot trace; 355-360 m. probably Cadiz; January 27, Milan.  
 A.B.H. (S.E.8): B.B.C. station testing.  
 Auditus: Cannot trace this relay.  

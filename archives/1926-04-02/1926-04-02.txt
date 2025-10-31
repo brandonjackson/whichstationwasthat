@@ -4,7 +4,7 @@ Etpork: Apparently English lesson; Oslo.
 Templar: Too vague as to WL.  
 Punchinello: An interesting query. Please send further details, as cannot trace German transmission at that time, unless Koenigsusterhausen (Press).  
 Jerandy (Norwood): Too vague.  
-T.B.16 (Darwen): Times tally with Hamburg, but no details of band transmission. Was this not a gramophone?  
+T.B.16 (Darwen): Times tally with Hamburg, but no details of band transmission Was this not a gramophone?  
 L.429141: Milan.  
 Isaac: WL too vague.  
 Da: Ryvang (Wagner evening).  
@@ -13,7 +13,7 @@ Daphne: Probably relay of Stockholm (Göteborg Rundradio).
 D.X.Fan: (1) Radio-Toulouse, (2) Moscow, (3) cannot trace on that WL.  
 Wave Trap: Vienna.  
 E. W. A. (Watford): (a) Yes, Moscow, (b) cannot trace.  
-Galen (Somersham): Hamburg, relay of Hanover.  
+Galen (Somersham): Hamburg, relay of Hanover  
 3 Valve (Ealing): Zurich.  
 Verykeen (Devon): Daventry.  
 Ireland (Campbell): Moscow (RDW).  
@@ -34,27 +34,25 @@ Tom Hunt: (10.30 a.m.) Karlsborg relay of Stockholm, (11.15 a.m.) Karlsborg.
 Interested (Belfast): Moscow (RDW).  
 Curious (Cradley Heath): Hamburg relay of Hanover.  
 Number 52 (Farnborough): Breslau testing.  
-Saucepan (Llanelly): (a.m.) Oslo, (p.m.) Hamburg, (10.10 p.m.) Too vague; Marseilles or Cadiz.  
+Saucepan (Llanelly) (a.m.) Oslo, (p.m.) Hamburg, (10.10 p.m.) Too vague; Marseilles or Cadiz.  
 F. C. (Paris): Muenster, relay of Dortmund.  
 Duo: PTT Toulouse.  
 I-V-I (Tonbridge): Koenigswusterhausen (lectures).  
 Enquirer (Bexhill-on-Sea): Prague.  
-M. A. C. 3. V.: (21/3) Moscow (RDW), (22/3) Berlin (576 m.).  
+M. A. C. 3. V: (21/3) Moscow (RDW), (22/3) Berlin (576 m.).  
 Lowndes: Prague.  
 SWS/555/SH: Can trace no other transmission but Cardiff.  
 D.E.3.B: Cannot trace, is it not Cardiff?  
 L.F. Transformer: Radio-Paris.  
 Mort: Madrid (EAJ7).  
-Jason: Bruun.  
-Pall Mall: "Must be Bruin, but presumably altered programme.  
+Jason: Bruun. Pall Mall "Must be Bruin, but presumably altered programme.  
 Puzzled: Yes, Nuremberg (700 W).  
-Howler: Amateur. (Lectricians): Brighton PTM. Paris.  
+Howler: Amateur (Lectricians): Brighton PTM. Paris.  
 C. N. A. (London): Cadiz.  
 F. L. B. C. (Chatham): Moscow (RDW).  
 Peter (Burgess Hill): Cadiz.  
 J. W. L. D. (Brixton): (1) Must be Barcelona (EAJ1), (2) Elberfeld, relay of Dortmund, (3) no time given.  
-H-D.: Berlin, Esperanza.  
-Tallies with Hilversum.  
+H-D.: Berlin, Esperanza. Tallies with Hilversum.  
 Speco (Shrewsbury): Amateur testing.  
 3 Unidyne: Hamburg.  
 A. S. (Barnsbury): Madrid (EAJ6).  
@@ -65,7 +63,7 @@ H. M. S. (Ibrox): Bilbao (EAJ11).
 S.T.100: Moscow (RDW).  
 Revael (Chiswick): Yes, Moscow (RDW).  
 Stopup (Wimbledon): Cadiz.  
-W. F. B. (London): (Midnight) WL too vague for dance music, but a Spanish station, 11 p.m.) not advertised, but probably Bilbao (EAJ11).  
+W. F. B. (London) (Midnight): WL too vague for dance music, but a Spanish station, 11 p.m.) not advertised, but probably Bilbao (EAJ11).  
 See Jay: Moscow (RDW).  
 Blackjay: (1) Vienna (531 m.), (2) Leipzig, relay of Weimar Theatre.  
 T. C. Pipe (Bournemouth): (1) Frankfort-on-Main, relay of Berlin, (2) Berne, relay of Kursaal.  
@@ -79,7 +77,7 @@ V. W. H. (Lingwood): Barcelona (EAJ1).
 Roberto: Details too vague, possibly Cassel relaying Berlin, but cannot confirm.  
 Bob (Pilsley): Cannot trace.  
 Alpha (East Ham): (7.15) Madrid (EAJ7), (8 p.m.) Stockholm.  
-Desborough: Can only trace light music from Koenigswusterhausen.  
+Desborough: Can only trace light music from Koenigs-wusterhausen.  
 Adico (Ilford): Moscow (RDW).  
 Ducks Paddle: Cadiz.  
 BM/EXGO: Madrid (EAJ7).  
@@ -131,11 +129,29 @@ Doctor, Don, A. T. Williams, Beryl (Liverpool), T. C. (West Bromwich): Prague.
 Anode (Bradford): Ryvang (Gramophone records).  
 Chris: Dublin.  
 Bob-Tail (Swansea): Moscow (RDW).  
-B. T. H.: (1) W.L. too vague, (2) W.L. vague, presumably Trollhattan, relay of Stockholm, (3) Hanover, relay of Hamburg, (4) Cadiz.  
+B. T. H.: (1) W.L. too vague, presumably Trollhattan, relay of Stockholm, (2) W.L. vague, presumably Trollhattan, relay of Stockholm, (3) Hanover, relay of Hamburg, (4) Cadiz.  
 Valve Window: (17/3) no time given, Rome testing, (21/3) no time given, probably Berlin (1300 m.).  
 Iberica: Yes, Rome (Falstaff).  
 B. J. 7931: Madrid (EAJ6).  
 G. E. Y. (York): Presumably Karlsborg, relay of Stockholm.  
+W. J. P. (Barking): Faust not advertised in programmes, therefore cannot trace station.  
+Dinkie (Southport): (a) Breslau, (b) Brunn, altered programme, (c) San Sebastian, (d) Radio-Toulouse.  
+Oakwood (London): Dresden, relay of Leipzig.  
+Paddy (Clonmel): PTT, Paris.  
+Learner 11: Amateur, cannot trace.  
+Stevens 0888: Dresden, relay of Leipzig.  
+Telba (Liverpool): S.S.Q.  
+Learner 22: Yes, Madrid (EAJ1), at 10.15 relay of Vienna (D).  
+Doctor, Don, A. Williams, 2001 (Liverpool): Moscow (RDW).  
+T. G. (West Bromwich): Prague.  
+S. (Bradford): Ryvang (Gramophone records).  
+Chris: Dublin.  
+Bob-Tail (Swansea): Moscow (RDW).  
+B. T. H.: (1) WL too vague, (2) WL vague, presumably Trollhattan, relay of Stockholm, (3) Hanover, relay of Hamburg, (4) Cadiz.  
+Valve Window: (17/3) no time given, Rome testing, (21/3) no time given, probably Berlin (1300 m.).  
+Iberica: Yes, Rome (Falstaff).  
+B. J. 7931: Madrid (EAJ6).  
+C. E. (York): Presumably Karlsborg, relay of Stockholm.  
 W. J. P. (Barking): Faust not advertised in programmes, therefore cannot trace station.  
 Dinkie (Southport): (a) Breslau, (b) Brunn, altered programme, (c) San Sebastian, (d) Radio-Toulouse.  
 Oakwood (London): Dresden, relay of Leipzig.  
@@ -153,9 +169,7 @@ B. P. (Ealing): If in English, cannot trace.
 3 Point (Worsop): Manchester, PTT, Airdale (Hull): WL too vague.  
 Classic (Essex): Dortmund relay of Muenster.  
 B. H. S. (London Bridge): Radio-Toulouse.  
-Follower (London): Bremen relay of Hanover.  
-Two-Valve (Aberaman): Dortmund relay of Muenster.  
-E. C. C. (Clapton): Madrid (EAJ6).  
+Follower (London): Bremen relay of Hanover, Two-Valve (Aberaman): Dortmund relay of Muenster, E. C. C. (Clapton): Madrid (EAJ6).  
 Looker (Bothwell): relay of Stockholm (Cabaret).  
 Mac (No. 2): Madrid (EAJ6).  
 W. R. A. M. (Herne Bay): Hamburg gave light music at that time.  
@@ -169,8 +183,7 @@ Siphyl: Not in programmes, cannot trace.
 Mac (1): WL too vague.  
 Inquisitive (High Wycombe): Madrid (EAJ6).  
 H. W. B. (Hampstead): Hamburg relay of Hanover.  
-Concert de Luxe: Moscow (RDW).  
-National: Rome testing.  
+Concert de Luxe: Moscow (RDW), National: Rome testing.  
 R. E. G.: Moscow (RDW).  
 Rogans: Prague.  
 D'A. d. B. (Bedford): No indication of WL; cannot trace.  

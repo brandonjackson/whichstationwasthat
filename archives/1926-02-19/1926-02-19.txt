@@ -7,7 +7,8 @@ Knighton Fields (Leicester): W.L. apparently wrong, too late for Milan.
 Diamond: amateurs, cannot trace locality.  
 Croxtonian (Southport): (1) Nuremberg, (2) Madrid (Union Radio).  
 Speedy S.W.: Madrid (EAJ7).  
-Carlo: Madrid (EAJ6). Via: Yes, Berne (435 m.); Rome same power as old 2LO. 100,000 K.W.  
+Carlo: Madrid (EAJ6). Via: Yes, Berne (435 m.); Rome same power as old 2LO.  
+100,000 K.W.  
 Duodyne V. (Macclesfield): E.H.F.; Yes, Berne (435 m.).  
 Wacode; Notrub; G.R.J.H.: Moscow (RDW).  
 Ampere (Redditch); Toby: Berlin.  
@@ -84,7 +85,7 @@ Mutt: probably Moscow.
 Knotbwister; Winkle: cannot say, testing with Rugby.  
 H. L. 2: cannot trace, time tallies with Muenster.  
 Coil Pusher: (1) sounds like WGY, Schenectady, (2) cannot trace, no French station on that W.L.  
-Yarr (Halifax): Toulouse off its W.L.  
+Yarn (Halifax): Toulouse off its W.L.  
 X. Y. Z.: (1) Radio Paris, (2) Madrid (EAJ7).  
 L. R. D.: Muenster, relay of Cologne.  
 Echo (Doncaster): if German, presumably Cassel, relay of Berlin.  
@@ -92,7 +93,7 @@ L. W.: apparently harmonic of Koenigswusterhausen.
 A. R. C. (Cottenham): not advertised in programmes, but probably Hamburg.  
 Carbamide: Swedish relay of 5XX.  
 Leger (Doncaster): Bilbao (EAJ9).  
-Amor Ra: cannot say, either Madrid, Bilbao, or Hamburg, late transmission.  
+Amon-Ra: cannot say, either Madrid, altered programme, or Hamburg, late transmission.  
 Guernsey: Milan.  
 X. Y. Z. (Winslow): not Oslo, cannot trace item.  
 Abbottsferry: Toulouse testing on another W.L.  
@@ -143,8 +144,7 @@ Lactus: Madrid (EAJ6).
 Red Gauntlet (Reading): Would tally with Oslo.  
 E. V. G. S.: Surely W.L. wrong or harmonic; talk tallies with Eiffel Tower.  
 E. V. G. S. (Chung Services): Muenster relaying Elberfeld.  
-E. V. G. S. (Church Service): Hilversum.  
-Sand Grounder: Muenster relaying Elberfeld’s relay of foreign dance broadcast.  
+San Sebastian.  
 Balgownie: San Sebastian.  
 Radiotron (Eastbourne): Yes, probably Dundee.  
 W. J. S.: 6NI, amateur (Bootle).  

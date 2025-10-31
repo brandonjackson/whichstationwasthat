@@ -50,7 +50,7 @@ Unif Set: Geneva testing.
 Rex: W.L. wrong, cannot trace.  
 Kingston (Hull): New Prague station.  
 Hamptonian: San Sebastian.  
-Neutro (Bristol): not advertised testing; presumably Cadiz (test).  
+Neutro (Bristol): not advertised, most probably Cadiz (test).  
 Central (Halifax): Prague.  
 Bright: L.42914: not advertised, probably Koenigs-wusterhausen.  
 J. H. C. (Dover): extended transmission Madrid (EAJ7).  
@@ -97,8 +97,7 @@ St. Peter Port: Cardiff.
 S. E. C.: no W.L. given.  
 Shoeburyness (Three Valver): Madrid (EAJ7).  
 Night-Fan: Basta. Prague.  
-Toby: Eiffel Tower, yes.  
-FPTT (Paris).  
+Toby: Eiffel Tower, yes. FPTT (Paris).  
 W. S. H.: yes, Moscow (RDW).  
 Eric (Birmingham): details rather vague, Cadiz (EAJ3).  
 Straight 8: Cassel relaying Frankfort-on-Main.  
@@ -131,44 +130,43 @@ Valve (Folkestone): Berlin.
 E.M.P. (1) Madrid (EAJ7), (2–3) not yet obtainable.  
 Twinkle (Glasgow): Probably Gothenburg or Prague.  
 Syndicate (Glasgow): Probably Gothenburg or Prague.  
-Straight Five (Birmingham): (1) Not advertised; undoubtedly B.B.C. station; (2) W.L. wrong, presumably San Sebastian; (3) Seville (EAJ5); (4) most certainly Norddeich (weather report).  
-Kew (Dewsbury): Madrid (EAJ7). Jan. 17) Hamburg.  
-2 Valves (West Smethwick): (Piano solo) details too vague; Prague or Madrid (EAJ7); (faint music) rather too vague.  
+Straight Five (Birmingham): (1) Not advertised; undoubtedly B.B.C. station; (2) w.l. wrong, presumably San Sebastian; (3) Seville (EAJ5); (4) most certainly Norddeich (weather report).  
+Kew (Dewsbury): Madrid (EAJ7); Jan. 17) Hamburg.  
+2 Valves (West Smethwick): (Piano solo) details too vague; Prague or Madrid (EAJ7) (faint music) rather too vague.  
 Polly Holly (Belfast): Probably KDKA (East Pittsburg) 309 m.  
 Hypo (Penryn): Madrid (EAJ4).  
 E.U. (Boreham Wood): Madrid (EAJ7).  
 Peaca (Barnoldswick): Barcelona (EAJ13).  
-Big Four (42BL Atherton): Cadiz (no relay).  
-One Valve: San Sebastian (EAJ8). Hamburg.  
+Big Four (42BL Atherton): Cadiz (no relay). Hamburg.  
 Hew/Mar (Lowestoft): Madrid (EAJ7).  
-Recipio (2nd): If outside broadcast, could only be Barcelona (EAJ13).  
+Recipio (2nd): If outside broadcast, could only be Barcelona EAJ13.  
 Croxtonian (Southport): San Sebastian (EAJ8).  
-Tired Tim: Not advertised; (b) a.m. or p.m.; Violet (Lowestoft): Hamburg.  
-H.M.B. (Sheffield): Cannot trace on that W.L.  
-Four Valver (Basingstoke): (a) Too vague; (b) San Sebastian; (c) Barcelona (EAJ13).  
+Tired Tim: Not advertised; (b) a.m. or p.m.; Violet (Lowestoft) Hamburg.  
+H.M.B. (Sheffield): Cannot trace on that w.l.  
+Four Valver (Basingstoke): (a) Too vague; (a) San Sebastian; (c) Barcelona (EAJ13).  
 Pom-Pom (Prestwich): Relay of Stockholm.  
-Venus: Cannot trace on that W.L.  
+Venus: Cannot trace on that w.l.  
 Brighton: Madrid (EAJ7).  
 Ailsa (Ayr): Madrid (EAJ7).  
-Brin Mosso: (a) Old) cannot trace; (Austrian National Anthem (operator’s message)). Marie (Bolton): San Sebastian (EAJ8). Madrid (EAJ7).  
-Cossor (Birmingham): Berlin (Cabaret).  
+Brin Mosso: (a) Old) cannot trace; (Austrian National Anthem (operator’s message)). Marie (Bolton): San Sebastian (EJAJ8). Madrid EAJ7. Eitra4 (Grazeed)(Cardiff).  
+Cossor (Birmingham): Berlin (Carbaret).  
 Phil (Northampton): Presumably an amateur.  
 Ether Hunter (Honiton): Prague (new station).  
 Andrew (W.5): San Sebastian (EAJ8).  
 Norman (Bolton): Spinner.  
 DX06 (Manchester): Madrid (EAJ7).  
 Farmer: Buda-Pesth.  
-Twin Valve: Münster (410 m).  
-Northey: (1) Berlin, (2) probably Bremen, (3) relay of Hamburg.  
+Twin Valve: Muenster (410 m).  
+Northey: (a) Berlin, (2) probably Bremen, (3) relay of Hamburg.  
 Yeadonite: Buda-Pesth.  
 Oiler: Hamburg.  
 Ashdown (Rugby): (a) Breslau, (b) Rome.  
-Jocelyn (Belgium): Berne.  
-Aycheff: Cannot trace on that W.L., but at that time Madrid (EAJ7), and Prague (368 m).  
+Jocelyn: Too vague. (Belgium): Berne.  
+Aycheff: Cannot trace on that w.l., but at that time Madrid (EAJ7), and Prague (368 m).  
 Nob (Little Ilford): Prague.  
 Singvono (Swavesey): Probably KDKA (309 m).  
 O.S.B. (Netherton): Buda-Pesth.  
-Cadley (Fulwood): Koenigs-wusterhausen (German National Anthem).  
+Cadley (Fulwood): Koenigs wusterhausen (German National Anthem).  
 Edwards (Devon): (a) Madrid (EAJ7) (b) Surely San Sebastian (EAJ8).  
 Reflex: Cadiz (EAJ3).  
 2 J.E.J. (Bristol): Hamburg.  

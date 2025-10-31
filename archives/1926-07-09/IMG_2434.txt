@@ -1,0 +1,24 @@
+```plaintext
+B. M./BCGO (W.C.1): Barcelona (EAJ1). 
+Kansas (Hampstead): Barcelona (EAJ13).
+Crystal: Breslau relaying Berlin.
+F. C. Pipe (Bournemouth): (1) Breslau relaying Berlin; (2) Rome; (3) Oslo; (4) San Sebastian.
+W. B. D. (Brighton): News bulletin from Hilversum.
+Radio: Most probably an amateur transmission (gramophone records).
+Foreveratti: Can trace no advertised dance transmission on that W.T. at that time.
+One Valver (Partick): If not in English, Dortmund; otherwise amateur trans.
+Grid-leak (Glasgow): Can trace no broadcasting station at that time; presumably an amateur.
+Volts (St. Albans city): Harmonic, Croydon aerodrome.
+W. S. H. (Cambridge): Cannot trace.
+De Luxe (Catford): Petit Parisien, Paris.
+H. W. B. (31A) Breslau; (31B) No date given.
+Short Wave (B): Was also picked up by us. Owing to high-speed fading it was impossible to get the full call, but the transmission (a powerful one) emanated from Eyndhoven, Holland.
+E. C. G. (Edinburgh): Hamburg relaying Continental Hotel, Hanover.
+Edwardus (A): Yes - Radio L.L., private station, Paris; (B) Bremen relaying Hanover.
+N. B. (Maidstone): Berlin, Koenigsberg.
+Fishing (Nelson): Stuttgart.
+Duodyne (Macclesfield): Madrid (EAJ7).
+Tucton (Southbourne): Berlin (on 504 m).
+Felix (Catford): Probably Breslau.
+H.O.W.G.: Yes, Cardiff, relay of service from Pembroke Terrace, C. M. Church.
+```

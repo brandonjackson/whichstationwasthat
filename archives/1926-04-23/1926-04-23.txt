@@ -15,7 +15,7 @@ G. B. M.: Brünn.
 Blase Bill: Probably Stockholm.
 Francaise: No. PTT Paris relaying the Vélodrome d’Hiver (6 days’ cycle race).
 G. H. C. (Berne): Stuttgart.
-Reinartz 3 (Heckham): Moscow (RDW).
+Reinartz 3 (Heckham): Moscow (RDW)
 C. E. Tottle: (2) Probably PTT, Bordeaux testing, (1) Dublin.
 Lilian: Can trace no station with this call sign, probably amateur.
 Ovi: Yes, Koenigsberg (operetta).
@@ -31,7 +31,7 @@ Low Waves: (1) Bremen, relay of Hanover, (2) Yes, Kiel, relay of Hamburg.
 BM/BBWS: Madrid (EAJ7).
 Cameron (Lochiel): (a) Madrid (EAJ7), (b) Hamburg (operetta).
 E. A. W. (Earls Court): Cannot trace.
-Spero (Glasgow): Frankfort-on-Main, (interval signal: F).
+Spero (Glasgow): Frankfort-on-Main, (interval signal . . . F).
 S. B. Loud-Speaker (Edinburgh): Cannot trace item in programmes.
 Benson (Wallingford): Hamburg.
 L. P. H.: (1) Yes, presumably extended programme, Berne, not advertised, (2) Oslo.
@@ -42,8 +42,7 @@ Neutrophase IV: (1) Radio-Belgique always gives call sign, probably PTT Toulouse
 3 D. E. R.’s: Presumably WGY (Schenectady).
 M.81: PTT, Paris, relay of Vélodrome d’Hiver.
 Heswall: Probably Dublin.
-Cosmos Amplion: Probably PTT, Bordeaux.
-Osmosis: Cannot remember.
+Cosmos Amplion (Rochdale): Cannot trace Morse stations.
 Midnight (Chorley): Madrid (EAJ7) XX. Berlin (1300 m).
 Devon Coast: No, Madrid (EAJ7).
 Electrician (Dorking): W.T. too vague cannot trace.
@@ -119,40 +118,10 @@ Mac (Burscough): PTT, Toulouse.
 Leddy: Test transmission Bordeaux.
 PPV4: Bilbao (EAJ11).
 Home Made 2 (Wimbledon): A relay of Stockholm.
-Trigon: Sorö, relaying Copenhagen Clock.
+Trigon: Sorö, relaying Copenhagen.
 Coeur-de-Lion: (1) Barcelona or Seville, (2) Sorö.
 No Name: La Riva, (B) Seville, (A) too vague a relay of Hamburg.
 Alert (Coventry): High power station.
-Archie (Broadway, Worcs.): No W.L. stated, nd Prague.
-C. C. F. (Hockley): No time stated, send further details.
-OPPWCH (Kentig If): Quite possibly WGY (Schenectady).
-Tri-Vube (Bristol): Quite possibly WGY (Schenectady), reception conditions have been exceptional.
-Puzzled: If heard, presumably an experimental amateur's joke.
-Waters (2 Valve): (10/4) Cadiz, (11/4) Barcelona (EAJ1).
-A. H. G. (Battersea): Presumably WGY (Schenectady).
-W. E. B.: (1) Zurich (513 m.), (2) Barcelona EAJ13.
-Coosha: Oslo.
-Ray (Surrey): (a) Berne, (b) Sorö, relay of Copenhagen, (c) Hilversum.
-Nugget (Redditch): Regret cannot trace address.
-Duo: PTT Paris (Vélodrome d'Hiver).
-Framton: Presumably Dublin.
-Nedirb: Rome.
-Transitive: Breslau, relay of Berlin.
-Chemico: Berlin (1300 m.).
-Snocks: Cassel, relay of Frankfort.
-P. J. L.: Madrid (EAJ7).
-M. N. T. F.: Plymouth or Bradford.
-Condenser Twirler: Oslo.
-J. P. H. W. (Studland): Amateur transmission.
-Sterling (Redhill): Details too vague, Stuttgart or Leipzig.
-O.V.1: (a) PTT Lyons "o wait," signal in morse; (b) Cassel relay of Frankfort.
-No Namo (370 m.): Prague, Bordeaux.
-PPV4: Bilbao (EAJ9).
-Home Made 2 (Wimbledon): A relay of Stockholm.
-Trigon: Sorö, relaying Copenhagen; Clock: Oslo.
-Cœur-de-Lion: (1) Barcelona or Seville, (2) Sorö.
-No Name: La Riva, (B) Seville, (A) too vague, a relay of Hamburg.
-Alert (Coventry): High power station Hilversum testing.
 Eff See (Ashford): Cannot trace 1 and 2, (3) Berlin.
 Knob-Turner (Westgate): Too vague, cannot trace.
 Super Three (Aldershot): Possibly KGO.

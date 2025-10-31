@@ -1,0 +1,43 @@
+```plaintext
+(N.W. 8): Yes, Leningrad.
+Yarn (Halifax): Apparently Biarritz on 200 m., 800 watts.
+Knott (Twist): Glasgow relaying of U.S.A. transmission.
+Vulcan 2 (Twining): Would appear to be a U.S.A. station, possibly WJZ (Boundbrook); apparently your WL is wrong.
+P.G.T. (Plymouth): (1) Cannot trace; (2) Bilbao (EAJ9).
+Irwin (Rathfarnham): Moscow (RDW).
+Taylor (Langley Mill): Moscow (RDW).
+Night Hawk (Bishop Auckland): (1) Bilbao (EAJ9); (2) Graz.
+S. E. M. (Penrith): (1) Langenberg; (2) Frankfort (gramophone records).
+Recalaw (Glasgow): Cannot trace item in my programme; possibly Dublin, but not advertised.
+The Tank (Ireland): Langenberg relaying dance music from Bastei Café, Cologne.
+A. F. W. (Kirkintilloch): Leipzig.
+W. E. B. (Whitefield): Frankfort-on-Main.
+Edwards (Stechford): Possibly Frankfort-on-Main, but not detailed in programmes.
+Gaby-de-Lys: Frankfort-on-Main; (2) cannot trace; there is no Spanish station reported on that WL.
+C. L. D. (Reading): Would tally with Radio-Madrileña (Madrid, EAJ12).
+Hazel (Cheshire): Bruenn.
+L. W. S. (E.9): Hamburg (HA, in morse).
+N. M. (Musselburgh): Gothenberg relaying Schubert concert from Stockholm.
+Was It? (Penrith): Bratislava relaying concert from Prague.
+Empire (Dovercourt): Moscow (RDW).
+A. H. R. (Balham): No programme details.
+Long-Wave (Battersea): Eiffel Tower, Paris.
+J. A. T. (Bedford): Scheveningen-Haven (Holland), news, stock exchange quotations, etc.
+Dandy (Colne): Yes, Moscow (RDW).
+Oscillator (Bury): It was Frankfort-on-Main.
+F. E. G. (Ipswich): if 12 p.m. cannot trace.
+Duodnye (Isle of Skye): Sorø relaying Children's Hour from Copenhagen.
+Eddie (Llanfairfechan): Bergen (Call, "Bergen Radio"), Frederiksstad relaying Oslo. 
+S. B. R. (Hoylake): Barcelona (EAJ1).
+West (S.W.): Many thanks for information. This explains the position of the station. The programme was relayed by Frederiksstad on 434.8 m. and by Porsgrund on about 504.
+Davidson (Sunderland): No WL given, but the programme details tally with a transmission from Hamburg.
+Kiddleywink (Penzance): Cadíz (EAJ3).
+S. A. M. (Tinshill): Bremen relaying from Café Continental, Hanover.
+Green (S.E. 17): Berlin.
+MO (Milford Haven): Cannot trace; it does not tally with the Warsaw programme, as advertised possibly Moscow, 1,010 m.
+Paul Bailey (Belfast): No, Leipzig.
+Jay Kay (Cumberland): Karlsborg (a dramatic recital).
+D. H. E. (1) Llanelly: WGY (Schenectady).
+Four-Vale (York): PTT, Paris relaying dance music from Coliseum in that city.
+Roy Freeman (Nottingham): Leipzig relaying Byerlitz Barcarolle. These signals best after 1 a.m.,
+```

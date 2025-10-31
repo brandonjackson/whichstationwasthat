@@ -1,13 +1,13 @@
 ST14: Marseilles, relay of PTT. Afternoon Listener: Hamburg.  
 Amico: Koenigswusterhausen.  
-3 Unidyne: (1) too vague, (2) Koenigswusterhausen, (3) Lyon-la-Doua, relay of PTT, (4) San Sebastian.  
+Unidyne: (1) too vague, (2) Koenigswusterhausen, (3) Lyon-la-Doua, relay of PTT, (4) San Sebastian.  
 Optimist: (1) Madrid (EAJ6), (2) 5CY amateur (Ashton-under-Lyne).  
 Dura: Malmö, relay of Stockholm.  
 Pioneer: Hanover, relay of Hamburg.  
 Guglielmo (Coventry): Radio Toulouse (relay of local theatre 500 m.).  
-3 V.S. (Colchester): presumably Moscow (1,010 m).  
+V.S. (Colchester): presumably Moscow (1,010 m).  
 Special Five (Birmingham): Koenigswusterhausen (Press).  
-Mars Calling: (1) PTT Toulouse (2) cannot trace amateur, (3) too vague.  
+Mars Calling: (1) PTT Toulouse, (2) cannot trace amateur, (3) too vague.  
 Two Valve (Balham): Dortmund, relay of Muenster.  
 Wavelength Willie (Manchester): (a) Kiel, relay of Hanover, (b) Kiel, relay of Hamburg.  
 Airman: cannot trace.  
@@ -18,13 +18,12 @@ Bunting (Plymouth): a Spanish station, but cannot trace.
 C. C. F. (Hockley): presumably Oratorio St. Paul (Mendelssohn) from Dublin.  
 Headphones (Cheltenham): Dublin.  
 Venture (Liverpool): no indication.  
-V. S. (Belfast): given.  
 Hove: (a) Barcelona (EAJ1), (b) Barcelona (EAJ5).  
 Kells (C. L. M.): (1) cannot trace, not Muenster unless altered programme, (2) San Sebastian, (3) Breslau, (4) Berne, (5) Yes, Berlin.  
 N. B. T. (Nottingham): Koenigswusterhausen (1,300 m.).  
 F. A. P. (Leicester): (21/3) Moscow (RDW), (28/3) Toulouse.  
 H. de K.: Cadiz or Seville.  
-Ranzo (Parkstone): (10.30) probably Casci, relay of Frankfort’s relay of Berlin, (11.10) PTT Toulouse.  
+Ranzo (Parkstone): (10.30) probably Cassei, relay of Frankfort’s relay of Berlin, (11.10) PTT Toulouse.  
 BM/BABH: further particulars would be interesting—is this not harmonic of PTT, Paris?  
 Portmuthian: (1) too vague, (2) San Sebastian.  
 Wanderer of Chingford: cannot trace, no English station gave dance music, probably amateur.  
@@ -36,15 +35,11 @@ SF11a: Hilversum service started at 4.25 p.m.
 Sea Breeze: harmonic from Rugby.  
 Valves Four: (a) Dortmund, (b) W.L. vague, but relay of Stockholm.  
 El-Nido: Barcelona (EAJ13).  
-Buster (Durrington): Madrid (EAJ7), L.429144: presumably Moscow.  
+Buster (Durrington): Madrid (EAJ7).  
+L.429144: presumably Moscow.  
 4 Valve: (a) Hilversum, (b) W.L. too vague.  
 Vacuum (Troober): Radio Toulouse.  
 S. T. 100: 2XZ, amateur (S.W.18.), cannot trace W.L.  
-Pamela (Chislehurst): (1) too vague, (2) San Sebastian.  
-Sea-Breeze: harmonic from Rugby.  
-Valves Four: (a) Dortmund, (b) W.L. vague, but relay of Stockholm.  
-4 Valver: (a) Hilversum, (b) W.L. too vague.  
-S.T. 100: 2XZ, amateur (S.W. 18), cannot trace 5YJ.  
 Aleppo: (1) yes, Belgrade, (2) Moscow.  
 Lilie: relay of Hamburg.  
 E. A. W. (Earl’s Court): Barcelona (EAJ1).  

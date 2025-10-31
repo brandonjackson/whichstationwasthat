@@ -2,7 +2,8 @@ Filey 7: Probably Karlsborg relaying Stockholm.
 Four-Valver: No date given.
 Trier: Muenster.
 X.Y.Z (Leigh): Oslo.
-Curious (Maidenhead): E.H. Ball (Crown Hill): Undyne: Radio Berne.
+Curious (Maidenhead): Undyne: Radio Berne.
+E.H. Ball (Crown Hill): 
 Grid Leak (Bristol): (o) Barcelona (Catalana).
 G.C.W.: Cannot trace.
 Radio Taxpayer: Madrid (Union Radio).
@@ -15,7 +16,7 @@ Knob Turner: Barcelona (325 m.).
 Anode: Barcelona (Catalana).
 Four Valve: Madrid (Union Radio).
 Vic Pip: San Sebastian.
-Eavesdropper (1) Cadiz EAJ3, further coupon missing.
+Eavesdropper: Cadiz EAJ3, further coupon missing.
 Chippy: San Sebastian.
 Tonyphone: (a) 2RN Dublin (390 m.), (b) Barcelona (EAJ13).
 Filament: Cadiz (EAJ3).
@@ -184,7 +185,7 @@ Heterodyne: Radio Toulouse.
 Neolith: Hilversum.
 Chakophone: San Sebastian.
 Jenifer: Probably Cadiz EAJ3 (360 m.).
-Mac: Untraceable by...
+Mac: Untraceable by details given November 23rd, Barcelona (EAJ1).
 Star: Most certainly Canadian or U.S.A. station, but cannot trace.
 J.G.: Probably U.S.A. station, cannot trace.
 Seeker: Madrid (Union Radio).
@@ -197,7 +198,6 @@ X.Y.Z. (Liverpool): Probably Hanover (296 m).
 One Reflex: San Sebastian.
 Swedish Listener: PTT (Paris), presumably through Marseilles.
 Amplion (Liverpool): (a) Copenhagen; (d) San Sebastian, (c) Muenster, (b) no coupon.
-Under (Sturminster): Radio Toulouse.
 Unidyne (Sturminster): Radio Toulouse.
 L.G.K. (E.6): Hamburg.
 Suspicious (Oxford): Except Malmoe cannot trace.

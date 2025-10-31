@@ -1,0 +1,73 @@
+```plaintext
+Powerful Three (Wood Green): (a) Leipzig, (b) Breslau.
+Robby (Bristol): Cannot trace.
+Cherrie (Poole): Possibly WGY (Schenectady).
+F. Jy (York): Must be Madrid (EAJ7).
+J. T. Peel: Hamburg.
+Ether-Rider: (a) Rome, (b) Stuttgart.
+D. P. L. (Walsall): Madrid (EAJ6).
+Terrible Results (Catford): Barcelona (EAJ13).
+I.V.L.R.P. (Catford): Breslau.
+Blogg: Leipzig.
+Paddy (Cannock): Harold (Sheffield): Oslo.
+C. E. Draper: Malmö (11.15-12) too vague, cannot trace.
+W. R. L. (Ipswich): (1) Bruinn, (2) Hamburg, relay of Bremen, (3) Frankfort-on-Main.
+Mystery: Cannot trace.
+W. J. Gillott: (1) Madrid (EAJ6).
+A MH (Workington): Hilversum.
+1 Valve (Soton): Cannot trace, was this not Haeren on 1,100 m.?
+Cestrian: Hamburg.
+G. W. Q.: No estimated WL given, cannot trace.
+Envelope (S.W. 19): Cardiff (from Llandaff Cathedral).
+Mac: Oslo.
+Crystal Set: (1) Koenigswusterhausen, (2) Hamburg, (3) Koenigswusterhausen (Telegrapher Union); excellent results.
+Triandyne 2 (Beckenham): Oslo.
+Target (Birmingham): Breslau, relay of Berlin.
+Wiffy (Gloucester): Cadiz, EAJ5 (experimental).
+Cave-Hill (Belfast): Madrid (EAJ7).
+Musician: Vienna.
+Smith A. Green (B'ham): Relay of Berlin, presumably sees Madrid, too indistinct.
+Wave 2 (Deal): Madrid (EAJ7).
+Happy go Lucky (Newport): if 410 m. Muenster, but if above, this was Breslau.
+J. T. H.: cannot trace, possibly Karlsborg, but no detailed programme was available.
+Call Sign: Daventry calling constitutes the station’s call.
+Midget (Uxbridge): Impossible to trace without some estimated wavelength given.
+Red Seal: Presumably U.S.A. station, but cannot check items.
+W. E. F. (Warford): Elberfeld.
+BM/BAYZ: 3 Waiver (Dewsbury): WL. vague, but possibly Hamburg.
+Cookie (Brixton): A. J. H. (Holloway): Wlytegates: Neville (Newcastle-on-Tyne): Cleveleys (B’pool): E.E.K/NOT: R. H. J. (Bickley): Hilversum (see note).
+GYI: Not GYI, amateur (Epsom).
+Fishing: Stuttgart.
+F. W. Y.: Moscow (RDW).
+Happy (Liverpool): Madrid (EAJ7).
+F. L. B. C (Kent): WL. too vague, possibly Bremen, relay of Hamburg.
+Legg (Walsall): Oslo.
+Powerful 3 (Wood Green): (a) So many stations without their limit, probably Copenhagen, (b) Milan, (c) Hanover, (d) Dortmund.
+Elberfeld: Too vague, cannot trace, (f) Elberfeld (News), (g) Elberfeld.
+Denton: (1) Barcelona (EAJ1), (2) Koenigsberger, (3) Rome, (4) Prague.
+Nero: Madrid (EAJ6).
+P.P.S. 3 (Harborne): Rome.
+Crystal: Hanover, relay of Hamburg.
+B. M./BCGO (W.C.1): Barcelona (EAJ1).
+Kansas (Hampstead): Barcelona (EAJ13).
+Crystal: Breslau relaying Berlin.
+F. C. Pipe (Bournemouth): (1) Breslau relaying Berlin; (2) Rome; (3) Oslo; (4) San Sebastian.
+W. B. D. (Brighton): News bulletin from Hilversum.
+Radio: Most probably an amateur transmission (gramophone records).
+Foreveratti: Can trace no advertised dance transmission on that W.T. at that time.
+One Valver (Partick): If not in English, Dortmund; otherwise amateur trans.
+Grid-leak (Glasgow): Can trace no broadcasting station at that time; presumably an amateur.
+Volts (St. Albans city): Harmonic, Croydon aerodrome.
+W. S. H. (Cambridge): Cannot trace.
+De Luxe (Catford): Petit Parisien, Paris.
+H. W. B. (31A) Breslau; (31B) No date given.
+Short Wave (B): Was also picked up by us. Owing to high-speed fading it was impossible to get the full call, but the transmission (a powerful one) emanated from Eyndhoven, Holland.
+E. C. G. (Edinburgh): Hamburg relaying Continental Hotel, Hanover.
+Edwardus (A): Yes - Radio L.L., private station, Paris; (B) Bremen relaying Hanover.
+N. B. (Maidstone): Berlin, Koenigsberg.
+Fishing (Nelson): Stuttgart.
+Duodyne (Macclesfield): Madrid (EAJ7).
+Tucton (Southbourne): Berlin (on 504 m).
+Felix (Catford): Probably Breslau.
+H.O.W.G.: Yes, Cardiff, relay of service from Pembroke Terrace, C. M. Church.
+```

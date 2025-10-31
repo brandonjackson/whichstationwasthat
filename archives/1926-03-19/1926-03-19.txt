@@ -26,7 +26,7 @@ H. M. S. (Ibrox): Buda-Pesth.
 Birkdale (Harrogate): at that time, probably Spanish, Bilbao (EAJ11).  
 Smugger: (1) Nuremberg relay of Munich, (2) Breslau.  
 T. H. R. (N16): Berlin.  
-B. R. H., N.8., L.: W.L. too vague, so many stations working.  
+43. B. R. H., N.8., L.: W.L. too vague, so many stations working.  
 Reflex: (1) Barcelona (EAJ13), (2) Madrid EAJ6, (Feb. 24) probably Radio-Paris testing.  
 Weco (Leyton): too vague, but probably Madrid (EAJ6).  
 Avion: Brunn (Czecho-Slovakia).  
@@ -42,26 +42,26 @@ F. C. P. (Bournemouth): (1) relay of Berlin (Commemoration service of Freedom of
 XL: no German station near Manchester, probably Union Radio (Madrid).  
 4V (Norbury): Graz.  
 Favourite: Believe harmonic of Eiffel Tower.  
-O. B. C.: Breslau.  
+O. B. B. C.: Breslau.  
 Thorold: British amateur, cannot trace.  
-Lano: cannot trace on that W.L.  
+Lango: cannot trace on that W.L.  
 C. L. F. (Chichester): Hamburg.  
 Super-Sonic (Bournemouth): cannot trace, possibly WBZ.  
-Scannell: a.m. or p.m.? if p.m. Radio Paris.  
+Scannell: a.m. or p.m.? If p.m., Radio Paris.  
 W. H. Wright: Madrid (EAJ7).  
 Starlight: (1) San Sebastian, (2) Madrid (EAJ4).  
 Susie (Ilford): Breslau relay of Berlin (Rhineland Commemoration Festival).  
-3 Unidyne: (2) Frankfort-on-Main relay of Cassel’s relay of Berlin.  
-Little-L Wilfred: Moscow (RDW).  
+3 Unidyne: (1) Vienna (Faust), (2) Frankfort-on-Main relay of Cassel’s relay of Berlin.  
+Little-Wilfred: Moscow (RDW).  
 E. B. H. D.: Graz (Faust).  
-Joe: (a) too vague, (b) Rome.  
+Joe: (a) too vague, (7) Rome.  
 One Valve: Somewhat vague as to W.L., but probably Madrid (EAJ6).  
 Telmydoc (Scarborough): Breslau.  
 Soapbubble: probably an amateur, perhaps 6LY (Chorley, Lanes.).  
-Sorrel: Gothenberg, relay of Stockholm.  
+Sorrel: Gothenburg, relay of Stockholm.  
 J. W. (Gatford): 11th Sunday, Madrid (EAJ6).  
 Telba (Liverpool): San Sebastian.  
-3 Valver (Oswestry): W.L. too vague.  
+3 Valver (Oswestry): W.L., too vague.  
 W. R. P. (Newport): (a) Dresden, relay of Leipzig; (b) Kiel, relay of Hamburg; (c) 11 a.m. Hilversum; (d) Kiel, relay of Hamburg.  
 Anode (Cardiff): (1) Rome; (2) Barcelona (EAJ13); (3) Dortmund, relay of 6 days’ cycle race.  
 Polar (Harrogate): Madrid (EAJ6); (1) Madrid (EAJ7).  
@@ -79,7 +79,7 @@ Keen: amateur (Eltham, London).
 E. G. D.: Rome.  
 Homer: no W.L. given.  
 Mill Lad: probably KGO (Oakland, U.S.A.).  
-5 Neutro- dyne: cannot trace, not in programmes.  
+5 Neutro-dyne: cannot trace, not in programmes.  
 H. G. S. (King's Lynn): Hilversum.  
 Secrecy: Petit Parisien.  
 Trinayne: Barcelona (EAJ13).  
@@ -111,17 +111,16 @@ Ulster: (1) presumably an amateur; (3) Breslau; (4) can trace no station, probab
 Hypo (Penge): cannot trace item.  
 P.A.J. (Dundee): would tally with WJAZ (Chicago 322.4 m.).  
 Super One (Reading): presumably Newcastle-on-Tyne.  
-Quikko (Reading): details are very vague, also W.L. possibly Dortmund, relay of 6 days’ cycle race.  
+Quikko: details are very vague, also W.L. possibly Dortmund, relay of 6 days’ cycle race.  
 Burwood (Carlisle): if 2.30 p.m. cannot trace any station.  
 Molo: San Sebastian.  
 J.W.L.: Sterling.  
 L.F.T. (Beckenham): Petit Parisien.  
-Trigon: British Amateurs.  
-C.N.R.: Rome testing.  
+Trigon British Amateurs: C.N.R.: Rome testing.  
 Polliwog (Middlesbro'): Berlin.  
 E. A. A.: (1) Bilbao (EAJ9); (2) Bilbao (EAJ9); (3) Breslau; (4) Barcelona (EAJ1).  
 Biffin (Exeter): Koenigs wusterhausen.  
-Locarno 5WK : (a) Could be only Lyon la Doua, that W.L. (b) probably Bilbao (EAJ11).  
+Locarno 5WK: (a) Could be only Lyon la Doua, that W.L. (b) probably Bilbao (EAJ11).  
 Metrocl (Liverpool): Vienna.  
 Investigator: cannot trace perhaps KDKA (309 m.).  
 L.42914: Hilversum (Broadcast to Hospitals).  
@@ -130,16 +129,15 @@ A. V. B. (Crofton Park): Madrid (EAJ5).
 H. M. (Doncaster): cannot trace.  
 4 Valve (Chingford): details too vague.  
 J. W. L. (Penzance): Petit Parisien higher W.L.  
-Vale (Northforeland): details too vague.  
 3 H. T. L. (Leeds): (1) cannot trace; (2) Stuttgart (Cabaret).  
-Rover (Chester): too vague; would tally with Hamburg and dance music followed after short interval.  
+Rover (Chester): too vague; would tally with Hamburg and dance music followed after a short interval.  
 Oom Jan (Consett): cannot say definitely Madrid (EAJ6) was wkg. late.  
-C. B. C. (Caterham): (a new Rome station testing; (b) Marseilles, PTT.  
+C. B. C. (Caterham): (a) new Rome station testing; (b) Marseilles, PTT.  
 Tic-Tac: Madrid (EAJ7).  
 Quercus (Middlesbrough): Hamburg (“Songs and Music of all Nations”).  
 BM/WW20D: Barcelona (EAJ1).  
 Fatty (Gainsborough): Madrid (EAJ7).  
 Burdel No. 1 (Birmingham): probably Barcelona (EAJ1).  
-Pony Moore (Westbourne Park): Madrid (EAJ7) (Spain uses G.M.T.).  
+Pony Moore (Westbourne Park): Madrid EAJ7 (Spain uses G.M.T.).  
 Wickholm (Catford): cannot trace; are you sure this was not Hilversum?  
 F. S. A. (Edinburgh): Buda-Pesth.

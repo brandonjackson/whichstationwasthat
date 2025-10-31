@@ -32,9 +32,7 @@ Flute: Muenster.
 Idonia: Karlstadt relay of Stockholm.  
 E.A.T.A.: Barcelona (EAJ13).  
 B.E.M. (Dundee): Toulouse (441 m.).  
-Cabinet 5 Valver (Catford):   
-W.W.W.; C.H.B.; Albert Boyes; Frank (Leicester);   
-S.T.100 (Plymouth); L.V. (Liverpool) (368 m.).  
+Cabinet 5 Valver (Catford): W.W.W.; C.H.B.; Albert Boyes; Frank (Leicester); S.T.100 (Plymouth); L.V. (Liverpool) (368 m.).  
 Jacko: Prague.  
 Musician: San Sebastian.  
 Ove head Valve: Hanover (296 m.).  
@@ -49,7 +47,7 @@ G.W.R.: Yes, probably Madrid (EAJ6), as they do not keep to their advertised tim
 Siki: Untraceable.  
 D.X.: WJZ (455 m.).  
 Radio Frequency Choke (Choppington): probably new Strasnice station testing.  
-Condenser (Norfolk): (10-11) presumably Seville (EAJ5), but cannot confirm (11.15) Madrid (EAJ4) (12 a.m., Madrid (EAJ6).  
+Condenser (Norfolk): (10-11) presumably Seville (EAJ5), but cannot confirm (11.15) Madrid (EAJ4) (12 a.m., Madrid (EAJ6)).  
 X.Y.Z.: cannot trace, probably U.S.A station.  
 18 Gauge: Rome.  
 Twice One: (1) Berne; (2) Hamburg; (3) San Sebastian.  
@@ -65,9 +63,9 @@ Ravelly: W.L., apparently wrong, cannot trace.
 Ebor: Yes, Radio Paris.  
 Doncaster: Berne.  
 Radsup: cannot trace.  
-F.C.H. (Enfield) (27/12) Stockholm; (22/11) Malmö.  
+F.C.H. (Enfield): (27/12) Stockholm; (22/11) Malmö.  
 Pape: presumably Moscow (Radio Peredacha).  
-J.O.T. (Henteag): no German station on this W.L.  
+J.O.T. (Henteage): no German station on this W.L.  
 Battery Bill: Madrid (Union Radio).  
 Oxo: S.G. Mason; Bonzo; Jones; H.T. Wallis; C. Revill; Rego; Cowpex; Achtung; Norman Conquest; A.L.G.C. Reinartz; Venice Wafer: Prague (368 m.).  
 Glencoyne: (a) San Sebastian, (b) Prague (368 m.).  
@@ -87,9 +85,9 @@ Leff (Birmingham): Rome and Hamburg.
 Echo: Oslo.  
 L. Ether: Berne (Switzerland).  
 Harris (Denbury): Radio Paris.  
-H. McK.: British amateur.  
+H. McK: British amateur.  
 Max of Offchurch: (a) Berne, (b) too vague, (c) too vague, (d) Madrid (Radio Iberica), (e) WGY, Schenectady.  
-Fox-Terrier (Oxford): Spanish station, but W.L. too indefinite.  
+Fox Terrier (Oxford): Spanish station, but W.L. too indefinite.  
 Barney: Stettin.  
 Ediswan: probably Oslo (request programme).  
 Quixotic: probably amateur station.  
@@ -117,38 +115,38 @@ High Tension: (1) cannot trace, (2) Gothenburg.
 Meolith: if not Nuremberg, Copenhagen.  
 3 A: Gleiwitz relaying Breslau.  
 Mixup: Moscow (RDW).  
-Heatherfield: (a) Hamburg, (392 m.), (b) Madrid (Union Radio).  
+Heatherfield: (a) Hamburg (392 m.), (b) Madrid (Union Radio).  
 Dan: Hamburg.  
 Uncle: Madrid (Union Radio).  
 X.X.X.: Yes, Oslo.  
-Forest Hall: Dorothy: Madrid (Union Radio).  
+Forest Hall: too indefinite for identification.  
+Dorothy: Madrid (Union Radio).  
 Ansculator: Berne.  
 F.R.A. (Rugby): details too vague, cannot trace.  
 Felix: Bremen.  
 Waffles: San Sebastian.  
-W.L. too indefinite, but Spanish station.  
 Tom Thumb: Gothenburg.  
 Rusthall: Hamburg.  
 D.X. Fan: Madrid (EAJ4).  
 Condensor (Leicester): cannot trace call.  
 Gierko (Islington): Petit Parisien.  
-P.Q.D. (3/1): Yes, Radio Berne.  
-(a) 11) probably WJZ, New Jersey; (b) Dresden relaying Leipzig.  
+P.Q.D.: (3/1) Yes, Radio Berne. (11) probably WJZ, New Jersey; (b) Dresden relaying Leipzig.  
 Reflex: Petit Parisien.  
 Devonian: (b) W.L. apparently wrong, cannot trace; (a) San Sebastian.  
 A.L.G.C.: Breslau.  
-Beta (Reigate): Ear.  
-Mugra: Shinner: A.W.W (Cannon Hill, Birmingham): Prague (368 m.).  
+Beta (Reigate): Ear. Mugra:  
+Shinner: unknown location.  
+A.W.W. (Cannon Hill, Birmingham): Prague (368 m.).  
 Kilmarnock: Malmö (Sweden).  
 Cera: Prague (368 m.).  
 1 V.Z. (Hendon): San Sebastian.  
 Eastbourne: Madrid (EAJ7).  
 15 OS: San Sebastian.  
-G.A.L.L. (Brighton): Reuben: Gothenburg.  
-G.F. (Leicester): Lutroam (Notts.)  
+G.A.L.L. (Brighton): Gothenburg.  
+G.F. (Leicester): Lutroam (Notts.).  
 Broadlands (Abernethy): Hamburg, altered programme.  
 Cas: Barcelona (EAJ13).  
-Utopian (Feltham): (1) Hamburg, (2) new station at Prague (368 m.). (3) Czecho-Slovakia.  
+Utopian (Feltham): (1) Hamburg, (2) new station at Prague (368 m.), (3) Czecho-Slovakia.  
 Stockfield: Probably San Sebastian.  
 French: Berlin.  
 5 B.T. (Leeds): Madrid (EAJ6).  
@@ -157,12 +155,12 @@ Leigh (Essex): San Sebastian (344 m.).
 A.T.S. (Hampton): Probably Cadiz (EAJ3).  
 Borderer: Berlin.  
 26 H.S.: (a) Nuremberg, (b) Madrid (EAJ7), (c) Nuremberg.  
-Rover (Rug’len): Amateur (Dundee).  
+Rover (Rug'len): Amateur (Dundee).  
 Lang (Harlesden): Hilversum.  
 Enthusiast: (a) Not advertised, possibly Dublin, (b) Hamburg.  
 A.J.N. (Lowestoft): (Choir) probably U.S.A. station.  
 Amon-ra: Milan.  
-Strom: Madrid (EAJ7). (3/1) W.L. wrong probably substituted concert; Hamburg.  
+Strom: Madrid (EAJ7).  
 Crossley: Yes, Breslau.  
 Polar (Lough-Can): No coupon.  
 Pippin: Berlin (Radio Talk).  

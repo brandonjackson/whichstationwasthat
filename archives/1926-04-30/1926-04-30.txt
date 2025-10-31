@@ -1,91 +1,91 @@
-P.D. (Westminster): Sorö, relay of Copenhagen.
-O.V.1: Graz, relay of Vienna (play).
-Veritas: Presumably Sorö, relay of Copenhagen.
-Powerful 3 (Wood Green): (a) Buda-Pesth, (b) Barcelona (EAJ13), (c) Madrid (EAJ7).
-Tollhouse: Not traceable in programmes.
-Trivalve: Hilversum (1060m).
-Grove (Acton): Madrid (EAJ7).
-Midget A (Belfast): Amateur.
-Noya (Spain): Was not this Hilversum testing?
-Valve (Birkdale): (4) Hilversum.
-BM/B.C.G.O.: Hamburg.
-Glasharn: Oslo.
-Erin: Warsaw.
-Wild Flower: Milan.
-Four Valve (Nuffield): Muenster.
-Rubberneck: Hamburg.
-Lex: Bordeaux, relay of PTT, Paris.
-Wally (Dawlish): Hamburg, relay of Hanover.
-Glevum (Gloucester): (1) San Sebastian, (2) Madrid (EAJ6).
-4 V (Harrogate): Yes, Warsaw.
-R.N. (Dublin): Odense, relay of Copenhagen.
-Twin (Forest Gate): Hilversum.
-Lond Scot: Rome.
-Argoeme: (1) Details vague, but presumably Hamburg, (2) Madrid (EAJ6).
-Squeak: Rome.
-4 V (Norbury): Brussels.
-A.R.D.E.: No coupon.
-E. (Keighley): Cannot trace more transmissions.
-Nippon: (1) Bilbao, (2) Madrid (EAJ7).
-Mause (Ireland): (a) Presumably amateur, (b) cannot trace.
-4 Valve (Eastbourne): (1) Harmonic of Eiffel Tower, (2) Berlin.
-Ecouteur (Kilburn): Carmen was only given at Rome.
-Super Valve (Brondesbury): Probably Seville (EAJ5).
-P.E.B. (West Ealing): Can trace no transmission on that wavelength, possibly Prague.
-Wireless Bug: Nuremberg, relay of Munich (item not advertised).
-W.S.H (Cambridge): No, Hilversum, dance music from Cafe Miele Colonnes.
-Beelzebub: (1) Hilversum, (2) probably U.S.A. station, (3) Hilversum.
-Wovenhie: San Sebastian.
-Bristol: San Sebastian according to call.
-Bivalve (Clapham): Brünn.
-W.J. Gillott: Berlin.
-Rockets: Hamburg.
-Optimistic R.: (a) Moscow, (b) Warsaw.
-Clarity (Deal): Berlin.
-Cat's Whisker: Berlin.
-Five Valve (Winchester): B.B.C. ‘Grand Good Night’ via Bournemouth.
-C.B. (St. Annes): Madrid (EAJ6).
-S.F.11a: Cardiff.
-M. 2984: Yes, Rome.
-Judy: Private station at Paris.
-E.S. (St. Andrews): British amateur.
-Sewel: (1) Milan, (2) Frankfurt-on-Main.
-Coil Pusher: (1) Berlin, (2) Rome.
-B.H.S.: Either Radio Paris or Eiffel Tower.
-Dee Ex: Cannot trace amateur transmissions.
-O.F.T. (Balham): No estimated W.T. given.
-An Irishman: (1) Prague, (2) Rome.
-Sea Breeze: Probably harmonic of Rugby.
-Audivox: 5XN amateur (Eltham).
-Pelican Universnier 123456789: (1) Elberfeld, relay of Dortmund, (2) Bilbao, (3) Barcelona (EAJ13).
-Valve Birkdale: (1) Muenster (play), (2) Malmö, relay of Stockholm, (3) too vague.
-W.G.C.: Moscow.
-Mellovox (Newton Abbot): Presumably harmonic of Eiffel Tower.
-Dombey (Clapham): Surely Radio Paris.
-Cattes-Whiskyre: Muenster.
-J.W.B. (Brondesbury): Cannot trace any transmission on that W.L. at that time; possibly Madrid (EAJ6) relaying Berlin.
-P.B.T. (Bradford): Hilversum.
-Low Waves (3): Dance music was not advertised at Oslo for that evening; (4) No, Muenster, (5) Yes, Karlsborg, relay of Stockholm.
-Chaser (Glasgow): Madrid (EAJ7).
-Loco (Swindon): Hilversum.
-Black Diamond: Rome.
-R.G.: (1) Details too vague for that waveband, (2) Hamburg.
-R.P. Munn (Worthing): Presumably Lausanne (Children’s Hour).
-Super-Het (Catford): Cannot trace.
-Gecophoner (Crouch End): Yes, Sorö, relaying Copenhagen; item not advertised in programmes.
-E.A. Wells: Milan.
-4 D. B.: W.L. apparently wrong; would tally with Toulouse relay of PTT, Paris.
-M. (King’s Lynn): Yes, a British amateur—cannot trace.
-D. A. M’Sauvage: Cannot trace morse transmissions.
-Chicot (Worcester): Cannot trace 2XCO; 5KB (Amateur, Worcester).
-Great Yarmouth: Presumably an amateur.
-2JEJ (Clifton): Cannot trace morse transmissions.
-Grid-Leak (Coventry): Breslau relaying Berlin (German National Anthem).
-J.T. (Dowlais): Radio-Paris.
-Nero (Kidderminster): Madrid (EAJ7).
-8SL/MC (Higher Broughton): Probably Kiel, relay of Hanover.
-Twin Valve and Amp (Stratford): Cardiff.
-Neville (Newcastle-on-Tyne): Rome.
-33 EQ: (1) Berlin (Magic Flute), (2) San Sebastian.
-Melville (Fishponds): San Sebastian.
+P.D. (Westminster): Sorö, relay of Copenhagen.  
+O.V.1: Graz, relay of Vienna (play).  
+Veritas: Presumably Sorö, relay of Copenhagen.  
+Powerful 3 (Wood Green): (a) Buda-Pesth, (b) Barcelona (EAJ13), (c) Madrid (EAJ7).  
+Tollhouse: Not traceable in programmes.  
+Trivalve: Hilversum (1060m).  
+Grove (Acton): Madrid (EAJ7).  
+Midget A (Belfast): Amateur.  
+Noya (Spain): Was not this Hilversum testing?  
+Valve (Birkdale): (4) Hilversum.  
+BM/B.C.G.O.: Hamburg.  
+Glasharn: Oslo.  
+Erin: Warsaw.  
+Wild Flower: Milan.  
+Four Valve (Nuffield): Muenster.  
+Rubberneck: Hamburg.  
+Lex: Bordeaux, relay of PTT, Paris.  
+Wally (Dawlish): Hamburg, relay of Hanover.  
+Glevum (Gloucester): (1) San Sebastian, (2) Madrid (EAJ6).  
+4 V (Harrogate): Yes, Warsaw.  
+R.N. (Dublin): Odense, relay of Copenhagen.  
+Twin (Forest Gate): Hilversum.  
+Lond Scot: Rome.  
+Argoeme: (1) Details vague, but presumably Hamburg, (2) Madrid (EAJ6).  
+Squeak: Rome.  
+4 V (Norbury): Brussels.  
+A.R.D.E.: No coupon.  
+E. (Keighley): Cannot trace more transmissions.  
+Nippon: (1) Bilbao, (2) Madrid (EAJ7).  
+Mause (Ireland): (a) Presumably amateur, cannot trace.  
+4 Valve (Eastbourne): (1) Harmonic of Eiffel Tower, (2) Berlin.  
+Ecouteur (Kilburn): Carmen was only given at Rome.  
+Super Valve (Brondesbury): Probably Seville (EAJ5).  
+P.E.B. (West Ealing): Can trace no transmission on that wavelength, possibly Prague.  
+Wireless Bug: Nuremberg, relay of Munich (item not advertised).  
+W.S.H (Cambridge): No, Hilversum, dance music from Cafe Miele Colonnes.  
+Beelzebub: (1) Hilversum, (2) probably U.S.A. station, (3) Hilversum.  
+Wovenhie: San Sebastian.  
+Bristol: San Sebastian according to call.  
+Bivalve (Clapham): Brium.  
+W.J. Gillott: Berlin.  
+Rockets: Hamburg.  
+Optimistic R.: (a) Moscow, (b) Warsaw.  
+Clarity (Deal): Berlin.  
+Cat's Whisker: Berlin.  
+Five Valve (Winchester): B.B.C. ‘Grand Good Night’ via Bournemouth.  
+C.B. (St. Annes): Madrid (EAJ6).  
+S.F.11a: Cardiff.  
+M. 2984: Yes, Rome.  
+Judy: Private station at Paris.  
+E.S. (St. Andrews): British amateur.  
+Sewel: (1) Milan, (2) Frankfort-on-Main.  
+Coil Pusher: (1) Berlin, (2) Rome.  
+B.H.S.: Either Radio Paris or Eiffel Tower.  
+Dee Ex: Cannot trace amateur transmissions.  
+O.F.T. (Balham): No estimated W.T. given.  
+An Irishman: (1) Prague, (2) Rome.  
+Sea Breeze: Probably harmonic of Rugby.  
+Audivox: 5XN amateur (Eltham).  
+Pelican Universnier 123456789: (1) Elberfeld, relay of Dortmund, (2) Bilbao, (3) Barcelona (EAJ13).  
+Valve Birkdale: (1) Muenster (play), (2) Malmö, relay of Stockholm, (3) too vague.  
+W.G.C.: Moscow.  
+Mellovox (Newton Abbot): Presumably harmonic of Eiffel Tower.  
+Dombey (Clapham): Surely Radio Paris.  
+Cattes-Whiskyre: Muenster.  
+J.W.B. (Brondesbury): Cannot trace any transmission on that W.L. at that time; possibly Madrid (EAJ6) relaying Berlin.  
+P.B.T. (Bradford): Hilversum.  
+Low Waves: (3) Dance music was not advertised at Oslo for that evening, (4) No, Muenster, (5) Yes, Karlsborg, relay of Stockholm.  
+Chaser (Glasgow): Madrid (EAJ7).  
+Loco (Swindon): Hilversum.  
+Black Diamond: Rome.  
+R.G.: (1) Details too vague for that waveband, (2) Hamburg.  
+R.P. Munn (Worthing): Presumably Lausanne (Children’s Hour).  
+Super-Het (Catford): Cannot trace.  
+Gecophoner (Crouch End): Yes, Sorö, relaying Copenhagen; item not advertised in programmes.  
+E.A. Wells: Milan.  
+4 D. B.: W.L. apparently wrong; would tally with Toulouse relay of PTT, Paris.  
+M. (King’s Lynn): Yes, a British amateur—cannot trace.  
+D. A. M’Sauvage: Cannot trace morse transmissions.  
+Chicot (Worcester): Cannot trace 2XCO; 5KB (Amateur, Worcester).  
+Great Yarmouth: Presumably an amateur.  
+2JEJ (Clifton): Cannot trace morse transmissions.  
+Grid-Leak (Coventry): Breslau relaying Berlin (German National Anthem).  
+J.T. (Dowlais): Radio-Paris.  
+Nero (Kidderminster): Madrid (EAJ7).  
+8SL/MC (Higher Broughton): Probably Kiel, relay of Hanover.  
+Twin Valve and Amp (Stratford): Cardiff.  
+Neville (Newcastle-on-Tyne): Rome.  
+33 EQ: (1) Berlin (Magic Flute), (2) San Sebastian.  
+Melville (Fishponds): San Sebastian.  
 Bishop Burton: Madrid (EAJ7).
