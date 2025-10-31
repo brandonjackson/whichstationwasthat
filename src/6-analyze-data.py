@@ -40,6 +40,7 @@ Output:
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
+import matplotlib.colors as mcolors
 import numpy as np
 from pathlib import Path
 from math import radians, sin, cos, sqrt, atan2
@@ -62,25 +63,30 @@ MAP_RADIUS_METERS = MAP_RADIUS_KM * 1000
 
 # Color configuration for map visualization
 MAP_COLORS = {
-    'land_color': 'lightgray',           # Color for land features
-    'land_alpha': 0.2,                   # Transparency of land (0.0 = transparent, 1.0 = opaque)
-    'ocean_color': 'lightblue',          # Color for ocean features
-    'ocean_alpha': 0.2,                  # Transparency of ocean
-    'coastline_color': 'black',          # Color for coastlines
-    'coastline_width': 0.5,              # Width of coastline lines
+    'background_color': 'black',         # Background color for figure
+    'land_color': 'black',               # Color for land features (black to blend with background)
+    'land_alpha': 1.0,                   # Transparency of land (0.0 = transparent, 1.0 = opaque)
+    'ocean_color': 'black',              # Color for ocean features (black to blend with background)
+    'ocean_alpha': 1.0,                  # Transparency of ocean
+    'coastline_color': '#4d4d4d',        # Color for coastlines (midpoint between #333 and #666)
+    'coastline_width': 1.0,              # Width of coastline lines
+    'show_borders': False,               # Whether to show country borders
     'borders_color': 'gray',             # Color for country borders
     'borders_width': 0.5,                # Width of border lines
     'borders_alpha': 0.3,                # Transparency of borders
-    'heatmap_colormap': 'Reds',          # Colormap for heatmap ('Reds', 'Blues', 'Greens', 'Purples', 'Oranges', 'viridis', 'plasma', etc.)
-    'heatmap_alpha': 0.7,                # Transparency of heatmap overlay
-    'heatmap_levels': 20,                # Number of contour levels in heatmap
+    'heatmap_max_color': '#ffde8a',      # Maximum (light) color for heatmap gradient
+    'heatmap_colormap': None,            # Will be created as custom colormap (black to heatmap_max_color)
+    'heatmap_alpha': 1.0,                # Transparency of heatmap overlay (1.0 = fully opaque)
+    'heatmap_levels': 30,                # Number of contour levels in heatmap (more = smoother)
     'heatmap_min_threshold': 0.1,        # Minimum value threshold (values below this are transparent/not shown)
-    'circle_color': 'gray',              # Color for distance circles
-    'circle_alpha': 0.5,                 # Transparency of distance circles
-    'circle_linestyle': '--',            # Line style for circles ('-', '--', '-.', ':')
+    'circle_color': '#AAA',              # Color for distance circles
+    'circle_alpha': 0.6,                 # Transparency of distance circles
+    'circle_linestyle': '-',             # Line style for circles ('-', '--', '-.', ':')
     'circle_linewidth': 0.8,             # Line width for distance circles
-    'center_marker_color': 'blue',       # Color for center point marker
+    'center_marker_color': 'white',      # Color for center point marker
     'center_marker_size': 10,            # Size of center point marker
+    'text_color': 'white',               # Color for text labels
+    'title_color': 'white',              # Color for title text
 }
 
 
@@ -310,8 +316,16 @@ def plot_tracing_success_rate(df, output_dir):
     print(f"   Fail: {ordered_counts.get('fail', 0)} ({100-success_rate:.1f}%)")
 
 
-def plot_station_heatmap(df, output_dir):
-    """Plot heatmap of station locations using azimuthal equidistant projection centered on London."""
+def plot_station_heatmap(df, output_dir, map_radius_km=None, ring_increment_km=None, output_filename=None):
+    """Plot heatmap of station locations using azimuthal equidistant projection centered on London.
+    
+    Args:
+        df: DataFrame with station data
+        output_dir: Directory to save the output
+        map_radius_km: Radius in km (default: MAP_RADIUS_KM)
+        ring_increment_km: Distance between rings in km (default: 2000)
+        output_filename: Output filename (default: 'station_location_heatmap.png')
+    """
     if not CARTOPY_AVAILABLE:
         print("⚠️  Cartopy not available. Install with: pip install cartopy")
         print("   Skipping heatmap generation.")
@@ -338,29 +352,45 @@ def plot_station_heatmap(df, output_dir):
         print("⚠️  No valid station coordinates found for heatmap")
         return
     
+    # Use provided parameters or defaults
+    if map_radius_km is None:
+        map_radius_km = MAP_RADIUS_KM
+    if ring_increment_km is None:
+        ring_increment_km = 2000
+    if output_filename is None:
+        output_filename = 'station_location_heatmap.png'
+    
+    map_radius_meters = map_radius_km * 1000
+    
     # Create figure with azimuthal equidistant projection centered on London
-    fig = plt.figure(figsize=(14, 14))
+    fig = plt.figure(figsize=(14, 14), facecolor=MAP_COLORS['background_color'])
     proj = ccrs.AzimuthalEquidistant(
         central_latitude=LONDON_LAT,
         central_longitude=LONDON_LNG
     )
     ax = plt.axes(projection=proj)
+    ax.set_facecolor(MAP_COLORS['background_color'])
     
-    
-    # Add map features
-    ax.add_feature(cfeature.COASTLINE, 
-                   linewidth=MAP_COLORS['coastline_width'],
-                   edgecolor=MAP_COLORS['coastline_color'])
-    ax.add_feature(cfeature.BORDERS, 
-                   linewidth=MAP_COLORS['borders_width'], 
-                   alpha=MAP_COLORS['borders_alpha'],
-                   edgecolor=MAP_COLORS['borders_color'])
+    # Add map features in drawing order: background -> coastlines -> distance rings -> heatmap
+    # 1. Background (land and ocean)
     ax.add_feature(cfeature.LAND, 
                    alpha=MAP_COLORS['land_alpha'], 
                    color=MAP_COLORS['land_color'])
     ax.add_feature(cfeature.OCEAN, 
                    alpha=MAP_COLORS['ocean_alpha'], 
                    color=MAP_COLORS['ocean_color'])
+    
+    # 2. Coastlines
+    ax.add_feature(cfeature.COASTLINE, 
+                   linewidth=MAP_COLORS['coastline_width'],
+                   edgecolor=MAP_COLORS['coastline_color'])
+    
+    # Add borders only if enabled
+    if MAP_COLORS['show_borders']:
+        ax.add_feature(cfeature.BORDERS, 
+                       linewidth=MAP_COLORS['borders_width'], 
+                       alpha=MAP_COLORS['borders_alpha'],
+                       edgecolor=MAP_COLORS['borders_color'])
     
     # Prepare data for heatmap
     lons = valid_stations['lon'].values
@@ -384,31 +414,44 @@ def plot_station_heatmap(df, output_dir):
     heatmap = heatmap.T
     
     # Plot heatmap
-    # Use log scale for better visualization of distribution
+    # Use log scale for better visualization of distribution (highlights rare distant observations)
     heatmap_log = np.log1p(heatmap)  # log(1+x) to handle zeros
+    
+    # Create custom colormap from black to the specified max color
+    colors_list = ['black', MAP_COLORS['heatmap_max_color']]
+    custom_cmap = mcolors.LinearSegmentedColormap.from_list('custom_heatmap', colors_list, N=256)
     
     im = ax.contourf(
         lon_mesh, lat_mesh, heatmap_log,
         levels=MAP_COLORS['heatmap_levels'],
         transform=ccrs.PlateCarree(),
-        cmap=MAP_COLORS['heatmap_colormap'],
+        cmap=custom_cmap,
         alpha=MAP_COLORS['heatmap_alpha']
     )
     
-    # Add colorbar
+    # Add colorbar with formatted ticks showing actual observation counts
     cbar = plt.colorbar(im, ax=ax, orientation='horizontal', pad=0.05, shrink=0.8)
-    cbar.set_label('Log of Observation Count', fontsize=10)
     
-    # Mark London as the center
-    ax.plot(LONDON_LNG, LONDON_LAT, 'o', 
-            color=MAP_COLORS['center_marker_color'], 
-            markersize=MAP_COLORS['center_marker_size'],
-            transform=ccrs.PlateCarree(), label='London (center)')
+    # Format ticks to show approximate observation counts (convert from log scale)
+    # Use a formatter function to convert log values to observation counts
+    def format_count(x, p):
+        """Formatter function to convert log scale to observation counts"""
+        if x <= 0:
+            return '0'
+        count = int(np.expm1(x))
+        if count == 0:
+            return '0'
+        return str(count)
     
-    # Add distance circles at 2k km increments
-    # In azimuthal equidistant projection, circles are drawn in projection coordinates (meters)
-    circle_increment_km = 2000
-    for distance_km in range(circle_increment_km, MAP_RADIUS_KM + 1, circle_increment_km):
+    # Apply the formatter
+    cbar.ax.xaxis.set_major_formatter(plt.FuncFormatter(format_count))
+    
+    cbar.set_label('Observation Count (log scale)', fontsize=10, color=MAP_COLORS['text_color'])
+    cbar.ax.xaxis.set_tick_params(colors=MAP_COLORS['text_color'])
+    cbar.outline.set_edgecolor(MAP_COLORS['text_color'])
+    
+    # 4. Distance circles (added after heatmap so they're visible on top)
+    for distance_km in range(ring_increment_km, map_radius_km + 1, ring_increment_km):
         circle_radius_m = distance_km * 1000
         circle = mpatches.Circle((0, 0), circle_radius_m, 
                                  transform=proj, 
@@ -426,19 +469,25 @@ def plot_station_heatmap(df, output_dir):
         ax.text(label_x, label_y, f'{distance_km:,} km',
                 transform=proj,
                 ha='center', va='bottom',
-                fontsize=8, color='gray', alpha=0.7)
+                fontsize=8, color=MAP_COLORS['text_color'], alpha=0.8)
+    
+    # Mark London as the center (on top of everything)
+    ax.plot(LONDON_LNG, LONDON_LAT, '+', 
+            color=MAP_COLORS['center_marker_color'], 
+            markersize=MAP_COLORS['center_marker_size'],
+            transform=ccrs.PlateCarree(), label='London (center)')
     
     # Set the map extent in projection coordinates (meters from center)
     # Do this last to ensure circular aspect ratio is maintained
-    ax.set_xlim(-MAP_RADIUS_METERS, MAP_RADIUS_METERS)
-    ax.set_ylim(-MAP_RADIUS_METERS, MAP_RADIUS_METERS)
+    ax.set_xlim(-map_radius_meters, map_radius_meters)
+    ax.set_ylim(-map_radius_meters, map_radius_meters)
     
-    plt.title(f'Station Location Heatmap\n(Azimuthal Equidistant Projection, Centered on London, {MAP_RADIUS_KM:,} km radius)',
-              fontsize=14, fontweight='bold', pad=20)
+    plt.title(f'Station Location Heatmap\n(Azimuthal Equidistant Projection, Centered on London, {map_radius_km:,} km radius)',
+              fontsize=14, fontweight='bold', pad=20, color=MAP_COLORS['title_color'])
     plt.tight_layout()
-    plt.savefig(output_dir / 'station_location_heatmap.png', dpi=300, bbox_inches='tight')
+    plt.savefig(output_dir / output_filename, dpi=300, bbox_inches='tight')
     plt.close()
-    print("✅ Created: station_location_heatmap.png")
+    print(f"✅ Created: {output_filename}")
     print(f"   Plotted {len(valid_stations)} station observations")
 
 
@@ -495,7 +544,17 @@ def analyze_data(data_csv: str = "data.csv", results_dir: str = "results"):
     plot_top_stations_pie(df, results_path)
     plot_top_countries_pie(df, results_path)
     plot_tracing_success_rate(df, results_path)
-    plot_station_heatmap(df, results_path)
+    
+    # Generate multiple heatmaps with different configurations
+    # 10k km map with rings at 2/4/6/8/10 (2k increments)
+    plot_station_heatmap(df, results_path, 
+                        map_radius_km=10000, ring_increment_km=2000,
+                        output_filename='station_location_heatmap_10k.png')
+    # 3k km map with rings at 1/2/3 (1k increments)
+    plot_station_heatmap(df, results_path,
+                        map_radius_km=3000, ring_increment_km=1000,
+                        output_filename='station_location_heatmap_3k.png')
+    
     plot_distances_histogram(df, results_path)
     
     print()
