@@ -21,7 +21,7 @@ Behavior:
       1. Time series: scatter plot of observations per week with 3-week smoothing
       2. Pie chart of top stations (by station_location_city)
       3. Pie chart of top countries (by station_location_country)
-      4. Bar chart categorizing observations (broadcast, something else, untraceable)
+      4. Bar chart showing tracing success rate (success/fail)
       5. Histogram of distances (calculated from reporter location or London if missing)
     - Saves all figures to results/ directory
 
@@ -30,7 +30,7 @@ Output:
     - observations_per_week.png
     - top_stations_pie.png
     - top_countries_pie.png
-    - observation_categories.png
+    - tracing_success_rate.png
     - distances_histogram.png
 """
 
@@ -195,46 +195,59 @@ def plot_top_countries_pie(df, output_dir, top_n=10):
 
 def categorize_observation(row):
     """
-    Categorize an observation as:
-    - 'untraceable': Cannot be traced/identified
-    - 'something else': Amateur or other non-broadcast stations
-    - 'broadcast': Regular broadcast stations
+    Categorize an observation for tracing success rate:
+    - 'success': Successfully traced/identified (has station location or meaningful observation text)
+    - 'fail': Untraceable (explicitly cannot trace, or no information)
     """
-    # Check if station location is missing (untraceable)
-    station_city = str(row.get('station_location_city', '')).strip()
-    station_country = str(row.get('station_location_country', '')).strip()
+    # Check station location fields
+    station_city = row.get('station_location_city')
+    station_country = row.get('station_location_country')
+    has_station_location = (pd.notna(station_city) and str(station_city).strip() != '' and str(station_city).strip().lower() != 'nan') or \
+                          (pd.notna(station_country) and str(station_country).strip() != '' and str(station_country).strip().lower() != 'nan')
     
     # Check observation text and full text for keywords
     obs_text = str(row.get('observation_text', '')).lower()
     full_text = str(row.get('full_text', '')).lower()
     combined_text = obs_text + ' ' + full_text
     
-    # Untraceable: no station location OR explicit untraceable keywords
-    if (pd.isna(row.get('station_location_city')) or 
-        station_city == '' or station_city == 'nan' or
-        'cannot trace' in combined_text or
+    # Explicit untraceable keywords = fail
+    if ('cannot trace' in combined_text or
         'not traceable' in combined_text or
-        'untraceable' in combined_text):
-        return 'untraceable'
+        'untraceable' in combined_text or
+        'not sufficient' in combined_text or
+        'too vague' in combined_text):
+        return 'fail'
     
-    # Something else: amateur stations or other non-broadcast
-    if ('amateur' in combined_text or
-        'Amateur' in obs_text or 'Amateur' in full_text):
-        return 'something else'
+    # If we have station location, it's a success
+    if has_station_location:
+        return 'success'
     
-    # Otherwise, it's a broadcast station
-    return 'broadcast'
+    # If no station location but observation text suggests a station was identified
+    # (has meaningful content), consider it a success
+    obs_text_orig = str(row.get('observation_text', ''))
+    if obs_text_orig and obs_text_orig.strip() and obs_text_orig.strip() not in ['', '.']:
+        # Has observation text suggesting a station was identified, even if not geocoded
+        return 'success'
+    
+    # No station location and no meaningful observation text = fail
+    return 'fail'
 
 
-def plot_observation_categories(df, output_dir):
-    """Plot categorization of observations (broadcast, something else, untraceable)."""
+def plot_tracing_success_rate(df, output_dir):
+    """Plot tracing success rate (success/fail)."""
     # Categorize each observation
     categories = df.apply(categorize_observation, axis=1)
     category_counts = categories.value_counts()
     
+    # Ensure consistent ordering: success first, then fail
+    ordered_counts = pd.Series({
+        'success': category_counts.get('success', 0),
+        'fail': category_counts.get('fail', 0)
+    })
+    
     plt.figure(figsize=(10, 6))
-    colors = ['#2ecc71', '#f39c12', '#e74c3c']  # green, orange, red
-    bars = plt.bar(category_counts.index, category_counts.values, color=colors[:len(category_counts)])
+    colors = ['#2ecc71', '#e74c3c']  # green for success, red for fail
+    bars = plt.bar(ordered_counts.index, ordered_counts.values, color=colors)
     
     # Add value labels on bars
     for bar in bars:
@@ -243,15 +256,19 @@ def plot_observation_categories(df, output_dir):
                 f'{int(height)}\n({height/len(df)*100:.1f}%)',
                 ha='center', va='bottom', fontsize=11)
     
-    plt.xlabel('Category', fontsize=12)
+    # Calculate and display success rate
+    success_rate = (ordered_counts.get('success', 0) / len(df)) * 100
+    
+    plt.xlabel('Tracing Result', fontsize=12)
     plt.ylabel('Number of Observations', fontsize=12)
-    plt.title('Observation Categories', fontsize=14, fontweight='bold')
+    plt.title(f'Tracing Success Rate (Success: {success_rate:.1f}%)', fontsize=14, fontweight='bold')
     plt.grid(True, alpha=0.3, axis='y')
     plt.tight_layout()
-    plt.savefig(output_dir / 'observation_categories.png', dpi=300, bbox_inches='tight')
+    plt.savefig(output_dir / 'tracing_success_rate.png', dpi=300, bbox_inches='tight')
     plt.close()
-    print("✅ Created: observation_categories.png")
-    print(f"   Categories: {dict(category_counts)}")
+    print("✅ Created: tracing_success_rate.png")
+    print(f"   Success: {ordered_counts.get('success', 0)} ({success_rate:.1f}%)")
+    print(f"   Fail: {ordered_counts.get('fail', 0)} ({100-success_rate:.1f}%)")
 
 
 def plot_distances_histogram(df, output_dir):
@@ -306,7 +323,7 @@ def analyze_data(data_csv: str = "data.csv", results_dir: str = "results"):
     plot_time_series(df, results_path)
     plot_top_stations_pie(df, results_path)
     plot_top_countries_pie(df, results_path)
-    plot_observation_categories(df, results_path)
+    plot_tracing_success_rate(df, results_path)
     plot_distances_histogram(df, results_path)
     
     print()

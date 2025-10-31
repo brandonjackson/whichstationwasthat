@@ -54,7 +54,7 @@ The digitization pipeline consists of six sequential stages:
    - Time series plot of observations per week with 3-week smoothing
    - Pie chart of top stations
    - Pie chart of top countries
-   - Bar chart categorizing observations (broadcast, something else, untraceable)
+   - Bar chart showing tracing success rate (success/fail)
    - Histogram of distances from observer to station locations
 
 ## 🚀 Installation & Usage
@@ -135,7 +135,7 @@ whichstationwasthat/
 │   ├── observations_per_week.png
 │   ├── top_stations_pie.png
 │   ├── top_countries_pie.png
-│   ├── observation_categories.png
+│   ├── tracing_success_rate.png
 │   └── distances_histogram.png
 ├── Makefile           # Convenient command shortcuts
 ├── data.csv           # Final merged dataset
