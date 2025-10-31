@@ -28,23 +28,23 @@ All scans are released under a **CC0 (Public Domain Dedication)** license, makin
 
 The digitization pipeline consists of five sequential stages:
 
-1. **Folder Creation** (`1-create-folders.py`)  
+1. **Folder Creation** (`make folders`)  
    Generates weekly archive folders organized by publication date.
 
-2. **Optical Character Recognition** (`2-run-ocr.py`)  
+2. **Optical Character Recognition** (`make ocr`)  
    Processes scanned images (JPEG/PNG) using GPT-4o vision to extract text transcriptions. Each image generates a corresponding `.txt` file containing the OCR output.
 
-3. **Transcript Combination** (`3-combine-transcripts.py`)  
+3. **Transcript Combination** (`make combine`)  
    Merges multiple OCR snippet files from a single week's column into a single consolidated transcript file (`YYYY-MM-DD.txt`).
 
-4. **CSV Parsing** (`4-parse-transcripts-to-csv.py`)  
+4. **CSV Parsing** (`make parse`)  
    Extracts structured data from combined transcripts using GPT-4o, generating weekly CSV files (`YYYY-MM-DD.csv`) with fields including:
    - Reporter name and location
    - Station location and identification
    - Observation text and full report text
    - Geographic coordinates
 
-5. **Data Merging** (`5-merge-weekly-csvs.py`)  
+5. **Data Merging** (`make merge`)  
    Combines all weekly CSV files into a single `data.csv` file with an `issue_date` column for temporal analysis.
 
 ## 🚀 Installation & Usage
@@ -52,58 +52,111 @@ The digitization pipeline consists of five sequential stages:
 ### Prerequisites
 
 - Python 3.8+
+- Make (usually pre-installed on macOS/Linux)
 - OpenAI API key (set as `OPENAI_API_KEY` environment variable)
-- Required Python packages:
-  ```bash
-  pip install openai pandas
-  ```
+
+### Installation
+
+Install required Python packages:
+
+```bash
+make install
+```
+
+This installs `openai` and `pandas`.
 
 ### Running the Pipeline
 
-#### Step 1: Create Archive Folders
+The project uses a `Makefile` with convenient commands for each pipeline stage:
+
+#### Quick Start
+
+Run the complete pipeline:
 
 ```bash
-cd src
-python 1-create-folders.py
+make all
 ```
 
-This creates weekly folders in `archives/` based on the start date and number of weeks specified in the script.
+This executes all five stages sequentially:
+1. Creates archive folders
+2. Runs OCR on scanned images (skips existing `.txt` files)
+3. Combines transcript snippets
+4. Parses transcripts to CSV
+5. Merges weekly CSVs into `data.csv`
 
-#### Step 2: Run OCR on Scanned Images
+**Safe to re-run:** You can run `make all` multiple times safely—it won't overwrite existing `.txt` files from the OCR step, and it won't clean or delete any files. Each step is designed to be idempotent and preserve your work.
 
-Place your scanned images (JPEG/PNG) in the appropriate weekly folders under `archives/`. Then run:
+#### Individual Steps
+
+You can also run each stage individually:
 
 ```bash
-python 2-run-ocr.py
+make folders    # Step 1: Create archive folders
+make ocr        # Step 2: Run OCR on images
+make combine    # Step 3: Combine transcripts
+make parse      # Step 4: Parse to CSV
+make merge      # Step 5: Merge weekly CSVs
 ```
 
-This processes all images in the archive folders and generates `.txt` files with OCR transcriptions. The script skips images that already have corresponding `.txt` files.
-
-**Note:** OCR errors are common with historical documents. Review and manually correct the generated `.txt` files as needed before proceeding to the next step.
-
-#### Step 3: Combine Transcripts
+#### Other Commands
 
 ```bash
-python 3-combine-transcripts.py
+make help       # Show all available commands
+make clean      # Remove generated files (keeps images)
 ```
 
-This merges all OCR snippet files within each week's folder into a single consolidated transcript file (`YYYY-MM-DD.txt`).
+### Workflow Details
 
-#### Step 4: Parse Transcripts to CSV
-
+**Step 1: Create Archive Folders**
 ```bash
-python 4-parse-transcripts-to-csv.py
+make folders
 ```
+Creates weekly folders in `archives/` based on the start date and number of weeks specified in `src/1-create-folders.py`.
 
-This extracts structured data from the combined transcripts and generates weekly CSV files. Each CSV contains parsed reports with standardized fields.
-
-#### Step 5: Merge Weekly CSVs
-
+**Step 2: Run OCR on Scanned Images**
 ```bash
-python 5-merge-weekly-csvs.py
+make ocr
 ```
+Place your scanned images (JPEG/PNG) in the appropriate weekly folders under `archives/` first. The OCR process:
+- Processes all images in archive folders
+- Generates `.txt` files with OCR transcriptions
+- **Skips images that already have corresponding `.txt` files** - existing files are never overwritten
 
-This combines all weekly CSV files into a single `data.csv` file in the project root, ready for analysis.
+**Important:** This means you can safely:
+- Re-run `make ocr` without losing manual corrections
+- Process new images while preserving previously processed ones
+- Fix OCR errors in `.txt` files without worry of overwriting
+
+**Note:** OCR errors are common with historical documents. Review and manually correct the generated `.txt` files as needed before proceeding to the next step. Your corrections will be preserved even if you re-run the OCR step.
+
+**Step 3: Combine Transcripts**
+```bash
+make combine
+```
+Merges all OCR snippet files within each week's folder into a single consolidated transcript file (`YYYY-MM-DD.txt`). This step regenerates the combined file from the snippet files each time it runs.
+
+**Step 4: Parse Transcripts to CSV**
+```bash
+make parse
+```
+Extracts structured data from the combined transcripts and generates weekly CSV files. Each CSV contains parsed reports with standardized fields.
+
+**Note:** This step skips folders where a CSV file already exists, so you can safely re-run without overwriting existing parsed data.
+
+**Step 5: Merge Weekly CSVs**
+```bash
+make merge
+```
+Combines all weekly CSV files into a single `data.csv` file in the project root, ready for analysis. This step regenerates `data.csv` from all weekly CSV files each time it runs.
+
+### Advanced Usage
+
+For direct Python script execution, see the individual scripts in the `src/` directory. Each Makefile target corresponds to a script:
+- `make folders` → `src/1-create-folders.py`
+- `make ocr` → `src/2-run-ocr.py`
+- `make combine` → `src/3-combine-transcripts.py`
+- `make parse` → `src/4-parse-transcripts-to-csv.py`
+- `make merge` → `src/5-merge-weekly-csvs.py`
 
 ## 📊 Results Overview
 
@@ -135,6 +188,7 @@ whichstationwasthat/
 │   ├── 3-combine-transcripts.py
 │   ├── 4-parse-transcripts-to-csv.py
 │   └── 5-merge-weekly-csvs.py
+├── Makefile           # Convenient command shortcuts
 ├── data.csv           # Final merged dataset
 └── README.md          # This file
 ```
