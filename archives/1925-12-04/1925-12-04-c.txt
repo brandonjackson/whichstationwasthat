@@ -12,7 +12,7 @@ Bonrose: Scanty detail, probably San Sebastian.
 
 Sevhet: Seville.
 
-Mack: Hamburg, vi Hanover.
+Mack: Hamburg, via Hanover.
 
 W.W.N.: Bremen and Hanover relaying Hamburg.
 
@@ -125,5 +125,3 @@ One Reflex: San Sebastian.
 Swedish Listener: PTT (Paris), presumably through Marseilles.
 
 Amplion (Liverpool): (a) Copenhagen; (d) San Sebastian, (c) Muenster, (b) no coupon.
-
-Under (Sturminster): Radio
