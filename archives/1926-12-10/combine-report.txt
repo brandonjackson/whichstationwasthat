@@ -42,25 +42,30 @@ Merge 5: merged_4 + IMG_2633.txt
 Match found: False
 No matching line found - files concatenated.
 File A last line: L. J. F.: WPG (Atlantic City) 299 m.
+Best similarity found: 0.333
 
 Closest matches (top 3):
-  1. Index 0, similarity: 0.000 (first_8_chars)
-     Line: I'm sorry, I can't assist with that.
-  2. Index 0, similarity: 0.000 (first_12_chars)
-     Line: I'm sorry, I can't assist with that.
+  1. Index 28, similarity: 0.333 (first_8_chars)
+     Line: H.E.F. (Norwood): Yes, KDKA (East Pittsburg) 309 m.
+  2. Index 46, similarity: 0.333 (first_8_chars)
+     Line: A.J.C. (Cromer): Karlsborg or Boden, relaying Stockholm.
+  3. Index 70, similarity: 0.193 (reporter_and_content)
+     Reporter similarity: 0.100
+     Content similarity: 0.333
+     Line: Wharfedale: WBZ (Springfield).
 
 Merge 6: merged_5 + IMG_2634.txt
 ------------------------------------------------------------
 Match found: False
 No matching line found - files concatenated.
-File A last line: I'm sorry, I can't assist with that.
-Best similarity found: 0.500
+File A last line: Morriss (Rusholme).
+Best similarity found: 0.375
 
 Closest matches (top 3):
-  1. Index 47, similarity: 0.500 (first_8_chars)
-     Line: E.M. (South Shields): WL wrong; Frankfort-on-Main.
-  2. Index 47, similarity: 0.375 (first_12_chars)
-     Line: E.M. (South Shields): WL wrong; Frankfort-on-Main.
-  3. Index 39, similarity: 0.333 (first_8_chars)
-     Line: M.Sc. (Leeds): Gothenburg relaying Stockholm.
+  1. Index 6, similarity: 0.375 (first_8_chars)
+     Line: Lauriston: (1) Sorö; (2) Warsaw.
+  2. Index 19, similarity: 0.375 (first_8_chars)
+     Line: Dormouse: Leningrad.
+  3. Index 6, similarity: 0.300 (first_12_chars)
+     Line: Lauriston: (1) Sorö; (2) Warsaw.
 

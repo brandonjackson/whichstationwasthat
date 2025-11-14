@@ -44,7 +44,38 @@ Hynsite: Malmö, relay of Stockholm.
 Wuncell IV (Graythorp): Presumably 2LO (Broadcast to Schools).
 Teixeira (Portugal): Would point to either Hull or Plymouth.
 BM/CLJ: presumably KDKA, as reception never exceptional.
-North: W.V.L: Correct, possibly W.H. (2) Bournemouth PTT, Paris, relay.PTT, Lyons, relay of Paris. 510 amateur (W.12), 2OZ, amateur (Exmouth). Milordian: (1) San Sebastian, (2) Radio Lyon. R. L. J. (Sowerby Bridge): Somewhat later, Hilversum. L. M. (Catford): Yes, presumably Dublin, no programmes available. Pat (East Leicester): Madrid (EAJ6). Lily-white (Gothenburg): relay of Stockholm. H.F. 42 (Dublin): A. G. (Hanwell): PTT, Paris, relaying 6 days’ cycle race. Frame Aerial: Cannot trace, no Spanish station on that W.L. Triente-e-Seis: Stockholm. Reinartz 3 (Hexham): 11 a.m. cannot trace, 1 p.m. amateur or Zurich. RTZ/O.V.O./J.W.F. (Muenster): P.W.3: Vague, Frankfurt. Harmony Four (Harlesden): Yes, San Sebastian (EAJ8). Kingsbury Twin (Tooting): San Sebastian. J. S.: (1) Cannot trace (2) Radio Anjou, (3) Cannot trace. C0O0GLL (Bristol): Hamburg. Hynslite: Malmö, relay of Stockholm. Wuncell IV (Graythorpe): Presumably 2LO (Broadcast to Schools). Teixeira (Portugal): Would point to either Hull or Plymouth. BM/CLU: presumably KDKA, as reception conditions were exceptional. North: W.L. correct, possibly Munich. F. C. P. (Bournemouth): PTT, Paris, relay St. Quentin Carillon. G.S.123 (Southport): (a) Leipzig, (b) Lyons PTT relay, 11 a.m. Bruce: Dublin (2RN) 397 m. Roy: Madrid (EAJ7). Wonderer: Hilversum, Braemar (Seaham): BM/EXGQ. A. J. S.: Hilversum, relay of St. Dominic’s Church Amsterdam. Three Valver (Blackpool): amateur, cannot trace. 2VYH.11: Berlin. Smugger: PTT (Paris). Osan (Belgium): Was this not Hilversum? 2VHV.10: Lyons PTT. Reinartz One Valve: San Sebastian. S.T.100: Stockholm. Wuncell IV (Graythorpe): San Sebastian. Bryn, Four Valves (Bristol): Surely Hilversum. Duo: Muenster, relay of Elberfeld, no detailed programme available. A.E. (Ealing): Bremen. R. J. Blackgang: Presumably Helsingfors, no programmes available. Searcher (East Leicester): Muenster, relay of Elberfeld. P. E. B. (West Ealing): Probably Malmö concert, no programme available. B. A. L. (Addiscombe): Bilbao. Bud (Hull): (11 p.m.) Cardiff, (11.35 p.m.) San Sebastian. Ross-Wy: If not Hilversum, presumably relay of Stockholm. Hereward 10: Marseilles. Hereward 11: Dublin. Kells (Worthing): Yes, Lyons PTT. OVI: Experimental station, Paris. Eflan (Newcastle-on-Tyne): Hamburg. F.S. 221: Oslo. H.D.: Cannot trace on that W.L. Quendon: Many.thanks. Yes, WJZ (Boundbrook) relay of WGY.
+North 11: W.L. correct, possibly Munich.  
+F. C. P. (Bournemouth): PTT, Paris, relay of St. Quentin Carillon.  
+G.S.123 (Southport): (a) Leipzig (b) Lyons PTT relay. (c) Dublin (2RN) 397 m.  
+Roy: Madrid (EAJ7).  
+Wonderer: Hilversum.  
+Braemar (Seaham): BM/EXGQ.  
+A. J. S.: Hilversum, relay of St. Dominie’s Church Amsterdam.  
+Three Valver (Blackpool): amateur, cannot trace.  
+2VHV11: Berlin.  
+Smugger: PTT (Paris).  
+Osan (Belgium): Was this not Hilversum?  
+2VHV.10: Lyons PTT.  
+Reinartz One Valve: San Sebastian.  
+S.T.100: Stockholm.  
+Wuncell IV (Craythorp): San Sebastian.  
+Bryn, Four Valves (Bristol): Surely Hilversum.  
+Duo: Muenster, relay of Elberfeld, no detailed programme available.  
+A.E. (Ealing): Bremen.  
+R. J. Blackgang: Presumably Helsingfors, no programmes available.  
+Searcher (East Leicester): Muenster, relay of Elberfeld.  
+P. E. B. (West Ealing): Probably Malmö concert, no programme available.  
+B. A. L. (Addiscombe): Bilbao.  
+Bud (Hull): (11 p.m.) Cardiff, (11.35 p.m.) San Sebastian.  
+Ross-W.: If not Hilversum, presumably relay of Stockholm.  
+Hereward 10: Marseilles.  
+Hereward 11: Dublin.  
+Kells (Worthing): Yes, Lyons PTT.  
+O.V.1: Experimental station, Paris.  
+Eflan (Newcastle-on-Tyne): Hamburg.  
+F. S. 221: Oslo.  
+HD: Cannot trace on that W.L.  
+Quendon: Many.thanks. Yes, WJZ (Boundbrook) relay of WGY.
 Glavum (Gloucester): Madrid (EAJ6).
 Swindon: Rome.
 Bivalve 2: Cannot trace, but word Telegraphierat would be German, not Italian.

@@ -52,10 +52,10 @@ File A last line: H.G.S. (Dublin): (1) The German station working on a wavelengt
 Best similarity found: 0.200
 
 Closest matches (top 3):
-  1. Index 2, similarity: 0.200 (first_12_chars)
-     Line: Elstree (Leeds)-Stiffy (Liverpool): Milan (altered programme); a relay from a theatre of a performance of Verdi’s opera Aida. Confirmed by many listeners.
-  2. Index 2, similarity: 0.143 (first_8_chars)
-     Line: Elstree (Leeds)-Stiffy (Liverpool): Milan (altered programme); a relay from a theatre of a performance of Verdi’s opera Aida. Confirmed by many listeners.
-  3. Index 1, similarity: 0.125 (first_8_chars)
+  1. Index 4, similarity: 0.200 (first_12_chars)
+     Line: Elstree (Leeds); Stiffy (Liverpool): Milan (altered programme); a relay from a theatre of a performance of Verdi’s opera Aida. Confirmed by many listeners.
+  2. Index 4, similarity: 0.143 (first_8_chars)
+     Line: Elstree (Leeds); Stiffy (Liverpool): Milan (altered programme); a relay from a theatre of a performance of Verdi’s opera Aida. Confirmed by many listeners.
+  3. Index 2, similarity: 0.125 (first_8_chars)
      Line: Etherite (Norwich): We can trace no station broadcasting an opera by Wagner at that time. Berlin gave The Vampire (Marschner). If you heard the same programme from Dortmund, it was Orpheus in the Underworld (Offenbach) transmitted by Langenberg.
 

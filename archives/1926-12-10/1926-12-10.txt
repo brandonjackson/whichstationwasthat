@@ -60,8 +60,7 @@ J. P. M. (Bristol): Madrid (EAJ7), relay of Barcelona (EAJ1).
 A. B. C.: Basle.
 Brid.: Leipzig.
 All- Concert (Sid.): cannot trace.
-M.71613 (Shrewsbury): Perplexed (Amersham).
-J. Drinkwater (Shrewsbury): Karlsborg, relaying Stockholm.
+M.71613 (Shrewsbury): Perplexed (Amersham), J. Drinkwater (Shrewsbury): Karlsborg, relaying Stockholm.
 Mustard Club: Vienna (operetta).
 H. G. (Sedlescombe): Leipzig.
 G. P. (Aberystwyth): W.L. too vague, item not in any programme.
@@ -82,9 +81,9 @@ H. S. B. (Leeds): Karlsborg, relaying Stockholm.
 Senor Carlos (Jersey): Madrid (EAJ7), a relay of Stockholm, possibly Malmo.
 2. Valve (Rotherham): Moscow (RDW).
 Polar Twin (Peckham): (1) Moscow (RDW); (2) Riga (Latvia) confirmed by other listeners; (3) PTT, Paris.
-Pinder: Cannot trace, no WL indicated.
+Pinder: Cannot trace, no WL. indicated.
 A. A.: Radio Paris.
-Valve (Dublin): WGY (Schenectady), WJ-Z (Boundbrook) on 361 m.
+Valve (Dublin): WGY (Schenectady) WJ-Z (Boundbrook) on 361 m.
 Westbourne (Birkenhead): Interval signal, Stuttgart.
 Puzzled (S.W. 19): Relay of altered programme, Stockholm.
 Renato 2 (Cardiff): (1) Cannot trace; (2) Bremen, relay during Hanover; (3) Berne (relayed), Bremen.
@@ -97,8 +96,7 @@ Gal/WJ-ZEE: Guernsey (a) Hanover; (b) Koenigsberg (Children’s Hour).
 Shaw (Southport): Prague.
 Mrs. Dog (Weybridge): (1) Stuttgart; (2) Leipzig.
 V 2 (Middlesex): WPG (Atlantic City), on 299.8 m.
-G. C. (Limerick): (1) Karlsborg, relay of Stockholm; (2) Karlsborg or Boden, relay of Stockholm (Church service).
-All times in World-Radio are reduced to G.M.T.
+G. C. (Limerick): (1) Karlsborg, relay of Stockholm; (2) Karlsborg or Boden, relay of Stockholm (Church service). All times in World-Radio are reduced to G.M.T.
 Plain 2 Valver (Erith): WEEI (Boston).
 Condenser (Leyton): (1) If 1,800 m. must be Radio Paris, but item not in programme; (2) Berlin.
 Devonian: (1) Prague; (2) No coupon received; (3) Barcelona (EAJ13); (4) WGY (Schenectady); (5) WPG (Atlantic City); (6) WJZ (Boundbrook).
@@ -149,8 +147,54 @@ Pepper (Leicester): (2) Madrid (EAJ7).
 T.O.M. (Preston): Frankfort-on-Main.
 R.T.F. (Edinbridge): WGY (Schenectady).
 M. (King’s Lynn): Frankfort a.m.
-L. J. F.: WPG (Atlantic City) 299 m.
-T. A. P. (Letchworth): WBZ (Springfield).
+L. J. F.: WPG (Atlantic City) 299 m.(5) Oslo.
+Wee Mac IV.: Moscow (RDW) confirmed.
+Hispano Suiza (Dewsbury): (2) Yes, Moscow (Peredacha).
+Mag (Wiltenhall): (8) Moscow (RDW).
+Doctor (Inverness): (1) Apparently Riga (Lettlandsender).
+Frenzied Nightmare: (1) Cannot trace; (2) Madrid (EAJ7).
+Pepper (Leicester): Budapest.
+T.O.M. (Preston): Frankfort-on-Main.
+R.T. (Edinburgh): WGY (Schenectady).
+M. (King’s Lynn): Yes, WPG (Atlantic City), 299.8 m.
+V.Z. (Timperley): Radio Belgique, Brussels.
+Warspite: No estimated W.L. giyen, cannot trace.
+Nannette (Brussels): Radio Par (Glasgow). Radio Paris.
+H.E.F. (Norwood): Yes, KDKA (East Pittsburg) 309 m.
+Gattonside (Bourneinouth): PTT, Marseilles relaying Eiffel Tower (see this week’s “Via Ether”).
+Goluno (Earby): PTT, Paris.
+Westminster (Ilminster): Karlsborg, relaying Stockholm.
+By Jove: Hamburg.
+A.V. (Hackney): Zurich.
+Azile: Leningrad (1,100 m).
+Straight Two (Fulham): (1) Frankfort-on-Main; (2) Berne.
+A.F.S. (Liverpool): WEAF (New York).
+A.J.C. (Cromer): Karlsborg or Boden, relaying Stockholm.
+Done This Time: Rather vague, possibly Toulouse.
+H.H. (Birmingham): Frankfort-on-Main, relaying Beni.
+Bunter (Newcastle-on-Tyne): Bilbao (EAJ11).
+Kentsdu (W. Ealing): Hilversum (English lesson).
+A.G.Y. (Elgin): Petit Parisien, Paris.
+Vario-Reinartz (Swansea): KDKA (East Pittsburg).
+Radio Crank (Eastbourne): Cadiz (EAJ3).
+Ether Comber (Guildford): Malmö.
+H.D.H. 2 V.R.: W.L. apparently wrong; cannot trace in any programme.
+Ether Hog: Too vague; cannot trace.
+Abbeytonian: Zurich.
+Wharfedale: WBZ (Springfield).
+3 W.T.A.: W.L. apparently wrong; Elberfeld.
+Sharland: This transmission was broadcast by WJZ, WBZ, WGY, etc., but we cannot trace from which one you received it.
+Ultra-Audion (N.W.2): No estimated W.L. given, cannot trace.
+W.T.6 (Doncaster): The transmission tallies with one reported from WGY, WBZ and WJZ, but we cannot identify the W.L. on which you received it.
+Nadroj: Possibly WSAI (Cincinnati).
+Bunclody Ethodyne: WJZ (Boundbrook).
+Esses Emma (W.13): WBZ (Springfield).
+F.H. (Harrogate): Not in progs., possibly Karlsborg.
+O.W.S. (Bournemouth): (1) and (2) Mlot too vague; cannot trace.
+Rock Fire (Lewes): (a) Hamburg, (b) Stuttgart; (c) Naples.
+Amplidyne: (a) Barcelona (EAJ1); (b) Breslau.
+Morriss (Rusholme).
+T.A.P. (Letchworth): WBZ (Springfield).
 B.F.R.P.: Either WGN (Chicago) or KDKA (East Pittsburg).
 Revlac (Fulham): Not in progs.; possibly Sorö.
 R.C. (St. Leonards): Berne, Morse; (b) Interval signal from Berlin.
@@ -197,4 +241,4 @@ Tutan: Karlsborg relaying Stockholm (heard by many readers).
 Low waver: Berlin on 58 m.
 E. Brangaster: Cannot trace tests.
 E.M. (South Shields): WL wrong; Frankfort-on-Main.
-These coupons bore no names: 309 m. (23/11) Konigsberg. 330 m. (18/11), call heard: Yargo; call sign misunderstood. Probably Naples—Uno-enn-ah. 384 m. (21/11): Presumably 379 m. WGY (Schenectady); 312 m. (21/11) KDKA (East Pittsburgh), 1,450 m. (21/11); (2) Moscow (RDW), 1,450 m. (25/11); (4) Moscow (RDW).
+These coupons bore no names: 309 m. (23/11) Konigsberg; 330 m. (18/11), call heard: Yargo; call sign misunderstood. Probably Naples—Uno-enn-ah; 384 m. (21/11): Presumably 379 m. WGY (Schenectady); 312 m. (21/11) KDKA (East Pittsburgh), 1,450 m. (21/11); (2) Moscow (RDW), 1,450 m. (25/11); (4) Moscow (RDW).

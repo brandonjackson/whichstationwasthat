@@ -1,3 +1,25 @@
-```plaintext
-relaying Madrid (EAJ7). Do not know of any Spanish station with call EAJ14. Jill (S. E. 11): Hilversum (1,060 m.). Symphony concert. H. Hodgson (Southsea): Cannot understand your estimated WL., which is very far wrong. This English talk on Shelby by Miss Stella Mead was broadcast by PTT Paris on 464 m., and by Eiffel Tower on 2650 m. Cob (Stourbridge): Langenberg (468 m.), gramophone records followed by talk "Five Minutes for Housewives." Jay Pip (Dover): Cannot trace unless some estimation of WL. is given. 2VHV 80: Nuremberg (303 m.) relaying orchestral concert from the Hotel Stadt Wien at Munich. Three Valves (Walton-on-Thames): (1) Dortmund (283 m.) relaying dance music from Langenberg until 1 a.m. on 5/6/'27, (2) Aerodrome transmission (900 m.). Insulator (King's Cross): Madrid (EAJ7) 375 m. Selection from opera Rigoletto (Verdi). See programme in World-Radio. S. R. (Kettering): Rome (450 m.) Special Beethoven Centenary concert, with solos and chorus; Corona (Kettering): Cannot trace, unless a Canadian relay of Stockholm, which possibly worked later than advertised in programmes. R.A.J.B. (Cosham): (1) Electric clock in studio; (2) Antwerpound (504 m.) relaying English lesson from Oslo; (3) Bergen (370 m.) cello recital, followed by relay of concert; (4) Bratislava (300 m.) Talk (394 m). Opera from the State Theatre, followed by relay of concert at the Alster Pavillion; (6) Petit Parisien, Paris (340 m.). Binkey (Las Palmas): (1) Yes, undoubtedly Dortmund (283 m.) relaying dance music from Langenberg until midnight, (2) WL. is surely wrong; details would tally with Cassel (272.7 m.), which was giving dance music from studio at that time, and there is a lady announcer at this station. Chitos (Sheffield): Dresden (275.2 m.) relaying dance music from Leipzig. R. A. J. B. (Cosham): (1) If French, PTT Lyons, (478 m.), (2) Yes, Dublin (319 m.) relaying programme from Cork. Selections by the Second Army Band, (3) Yes, Hilversum (1,070 m.) Symphony concert, (4) Naples (333.3 m.) Programme relayed from the Eldorado Theatre, (5) cannot trace, (6) Graz (357 m.) relaying opera Tristan und Isolde (Wagner) from the Opera House at Vienna, (7) can trace no French station on that WL., (8) regret, cannot trace, (9) Frankfort-on-Main (428 m.) variety concert; Tenor : Olaf Shoenflug, (10) Cadiz (EAJ3) 400 m., (11) Hamburg (394 m). A musical play, (12) if WL. correct, possibly Uppsala (500 m.) relaying Stockholm. Selections from The Beautiful.
-```
+relaying Madrid (EAJ7). Do not know of any Spanish station with call EAJ14. Jill (S. E. 11): Hilversum (1,060 m.) Symphony concert.  
+
+H. Hodgson (Southsea): Cannot understand your estimated WL., which is very far wrong. This English talk on Shelley by Miss Stella Mead was broadcast by PTT Paris on 464 m., and by Eiffel Tower on 2650 m.  
+
+Cob (Stourbridge): Langenberg (468 m.), gramophone records followed by talk “Five Minutes for Housewives.”  
+
+Jay Pip (Dover): Cannot trace unless some estimation of WL. is given.  
+
+2VHV 80: Nuremberg (303 m.) relaying orchestral concert from the Hotel Stadt Wien at Munich.  
+
+Three Valves (Walton-on-Thames): (1) Dortmund (283 m.) relaying dance music from Langenberg until 1 a.m. on 5/6/’27, (2) Aerodrome transmission (900 m.).  
+
+Insulator (King’s Cross): Madrid (EAJ7) 375 m. Selection from opera Rigoletto (Verdi). See programme in World-Radio.  
+
+S. R. (Kettering): Rome (450 m.) Special Beethoven Centenary concert, with solos and chorus;  
+
+Corona (Kettering): Cannot trace, unless a relay of Stockholm, which possibly worked later than advertised in programmes.  
+
+R. A. J. B. (Cosham): (1) Electric clock in studio; (2) Ostergrund (504 m.) “Relaying English lesson from Oslo”; (3) Bergen (370 m.) cello recital, followed by news.  
+
+Binkey (Las Palmas): (1) Yes, undoubtedly Dortmund (283 m.) relaying dance music from Langenberg until midnight, (2) WL. is surely wrong; details would tally with Cassel (272.7 m.), which was giving dance music from studio at that time, and there is a lady announcer at this station.  
+
+Chitos (Sheffield): Dresden (275.2 m.) relaying dance music from Leipzig.  
+
+R. A. J. B. (Cosham): (1) If French, PTT Lyons (478 m.), (2) Yes, Dublin (319 m.) relaying programme from Cork. Selections by the Second Army Band, (3) Yes, Hilversum (1,070 m.) Symphony concert, (4) Naples (333.3 m.). Programme relayed from the Eldorado Theatre, (5) cannot trace, (6) Graz (357 m.) relaying opera Tristan und Isolde (Wagner) from the Opera House at Vienna, (7) can trace no French station on that WL, (8) regret, cannot trace, (9) Frankfort-on-Main (428 m.) variety concert; Tenor: Olaf Shoenflug, (10) Cadiz (EAJ3) 400 m., (11) Hamburg (394 m.). A musical play, (12) if WL. correct, possibly Uppsala (500 m.) relaying Stockholm. Selections from The Beautiful

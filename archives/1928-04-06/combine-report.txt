@@ -27,9 +27,12 @@ File A last line: ```
 
 Merge 4: merged_3 + IMG_3341.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: ```
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: A. E. B. (Birmingham): (1) W.L., apparently wrong.
+File B matching line: A. E. B. (Birmingham): (1) WL. Apparently wrong, Hamburg and its relays were the only German stations advertised to close down at 11.30 p.m. G.M.T.; (2) Possibly a Polish station, but cannot confirm as your estimate of WL. is much too vague; (3) Cologne (dancing lesson); (4) Königswusterhausen relaying the last hour of the Six Days’ Cycle Races from the Sports Palace at Berlin.
 
 Merge 5: merged_4 + IMG_3342.txt
 ------------------------------------------------------------

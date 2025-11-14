@@ -9,13 +9,13 @@ Wiggs: Presumably Radio-Luxemburg, no programmes available.
 Perrous: Was not this San Sebastian? Know of no station working in Portugal.
 Ande (Otley): Not in programmes, possibly Belgrade.
 Saucepan (Llanelly): Probably Seville (EAJ5), PTT, Lyons.
-W. D. (Redditch): 60Y amateur (Golders Green, N.W.11).
+W. D. (Redditch): 60Y amateur (Golders Green, N.W.11)
 Twin Valve (Northampton): 2CW amateur (Bath), 2GW amateur (Cheshire).
 G. B. M.: Brünn.
 Blase Bill: Probably Stockholm.
 Francaise: No. PTT Paris relaying the Vélodrome d’Hiver (6 days’ cycle race).
 G. H. C. (Berne): Stuttgart.
-Reinartz 3 (Heckham): Moscow (RDW).
+Reinartz 3 (Heckham): Moscow (RDW)
 C. E. Tottle: (2) Probably PTT, Bordeaux testing, (1) Dublin.
 Lilian: Can trace no station with this call sign, probably amateur.
 Ovi: Yes, Koenigsberg (operetta).
@@ -30,7 +30,7 @@ Low Waves: (1) Bremen, relay of Hanover, (2) Yes, Kiel, relay of Hamburg.
 BM/BBWS: Madrid (EAJ7).
 Cameron (Lochiel): (a) Madrid (EAJ7), (b) Hamburg (operetta).
 E. A. W. (Earls Court): Cannot trace.
-Spero (Glasgow): Frankfort-on-Main, (interval signal:  F).
+Spero (Glasgow): Frankfort-on-Main, (interval signal . . . F).
 S. B. Loud-Speaker (Edinburgh): Cannot trace item in programmes.
 Benson (Wallingford): Hamburg.
 L. P. H.: (1) Yes, presumably extended programme, Berne, not advertised, (2) Oslo.
@@ -45,33 +45,33 @@ Cosmos Amplion: Probably PTT, Bordeaux.
 Osmosis: Cannot remember. Madrid (EAJ7).
 Cameron (Lochiel): (a) Madrid (EAJ7), (b) Hamburg (operetta).
 E. A. W. (Earls Court): Cannot trace.
-Spero (Glasgow): Frankfort-on-Main, (interval signal:  F).
+Spero (Glasgow): Frankfort-on-Main, (interval signal : F).
 S. B. Loud-Speaker (Edinburgh): Cannot trace item in programmes.
 Benson (Wallingford): Hamburg.
-L. P. H.: (1) Yes, presumably extended programme, Berne, not advertised, (2) Oslo.
+L. P. H. (1): (1) Yes, presumably extended programme, Berne, not advertised, (2) Oslo.
 Russ (Plymouth): Surely Berlin.
 A. E. G. (Earlsfield): Radio-Toulouse.
 Ultra-Crystal (Colchester): Radio L.L. Paris.
-Neutrophase IV: (1) Radio-Belgique always gives call sign; probably PTT Toulouse, (2) Yes, Breslau, relay of Berlin.
-3 D. E. R. S: Presumably WGY (Schenectady).
+Neutrophase 1V: (1) Radio-Belgique always gives call sign ; probably PTT Toulouse. (2) Yes, Breslau, relay of Berlin.
+3 D.E.R.’s: Presumably WGY (Schenectady).
 M 81: PTT, Paris, relay of Vélodrome d’Hiver.
-Heswall: Probably Dublin.
-Cosmos Amplion (Rochdale): Cannot trace Morse stations.
-Midnight (Chorley): Madrid (EAJ7). XX. Berlin (1300 m).
+Heswall: Probably Dublin. Cannot trace morse stations.
+Midnight (Chorley): Madrid (EAJ7).
+XX: Berlin (1300 m.).
 Devon Coast: No, Madrid (EAJ7).
-Electrician (Dorking): W.T. too vague cannot trace.
+Electrician (Dorking): W.T. too vague, cannot trace.
 Nosey (Swindon): (8 p.m.) Prague, (8.40) if in German, Hamburg.
 D. E. Benson: Presumably Radio-Paris.
-Frame Aerial: (1) Vienna (Galsworthy’s Windows), (2) Buda-Pesth (“Zigagne music).
+Frame Aerial: (1) Vienna (Galsworthy’s “Windows”). (2) Buda-Pesth (“Zigane music).
 Felix (Felixstowe): Are you sure this was not Hilversum?
-Pat (East Leicester): Hamburg.
-Joey (Rochdale): Cannot trace interference.
+East Leicester: Hamburg.
+Joey (Rochdale): Cannot trace tone interference.
 2VHV: (12) cannot trace, (13) Rome, (14) Brussels, (15) was this not Toulouse, (430 m.)?
 Grid Leak (Leicester): Cassel, relay of Frankfort.
 Franco (Burnley): (1) Probably relay of Copenhagen, (2) Probably amateur.
-Ticus: If W.L. correct must be Oslo.
+Tricus: If W.L. correct must be Oslo.
 Roller (Holmes): Swansea, relay of Cardiff.
-Kidney: Was not this Cardiff?
+Kilney: Was not this Cardiff?
 M. E. W. (Spalding): (1) Amateur, cannot trace, (2) PTT, Paris, (Vélodrome d’Hiver).
 F. C. Mansfield (Notts.): Cannot trace.
 P. J. L. (Newcastle-on-Tyne): Berne.
@@ -79,17 +79,18 @@ Midget (Plumstead): Bilbao.
 Student (Maesteg): Hamburg.
 Kid Boots: Radio-Toulouse.
 Lex (Newcastle-on-Tyne): Breslau, relay of Berlin.
-Shinner (Southampton): (1) Cannot trace test, (2) Madrid (EAJ6).
+Shinner (Rome):
+Valver (Southampton): (1) Cannot trace test, (2) Madrid (EAJ6).
 L. W. F. (Clapham): Hilversum.
 R. J. Fife: Barcelona (EAJ1).
-Iberica: (1.40 a.m.) either U.S.A. or PTT Toulouse, relaying Paris relay of Vélodrome d’Hiver. (8.30 p.m.) Bruinn.
+Iberica: (1.40 a.m.) either U.S.A. or PTT Toulouse, relaying Paris relay of Vélodrome d’Hiver (c. 8.30 p.m.) Brunn.
 Crab: Swansea, relay of Cardiff.
 Sago (Dublin): Probably Barcelona (EAJ1).
-Puzzled: (1) 2.5 a.m. then Moscow.
-W. K. L. L. (Wylde Green): (1) Breslau, relay of Berlin, (2) Vienna.
+Puzzled: If 2.5 a.m. then Moscow.
+W. K. L. (Wylde Green): (1) Breslau, relay of Berlin, (2) Vienna.
 Fiddler (Bedford): Marseilles, relay of PTT, Paris.
-Melville (Fishponds): PTT, relay (Vélodrome d’Hiver).
-RTZ/O.V.O./J.W.F. (Harrogate): PTT’s (Paris), relay of 6 days’ cycle race (Vélodrome d’Hiver).
+Melville (Fishponds): PTT, or relay (Vélodrome d’Hiver).
+RTZ/O.V.O./J.W.F.: Prague 4V (Harrogate): PTT’s (Paris), relay of 6 days’ cycle race (Vélodrome d’Hiver).
 Royalty: Madrid (EAJ6).
 A. B. C. (Nottingham): Seville (EAJ5).
 2 V (Deal): Hilversum.
@@ -129,7 +130,7 @@ O.V.1: For PTT Lyons as “wait” signal in morse; (6) Cassel relay of Frankfor
 No Namo (370 m.): Prague.
 Mac (Burscough): PTT, Toulouse.
 Leddy: Test transmission Bordeaux.
-PPV4: Bilbao (EAJ11).
+PPV4: Bilbao (EAJ11)
 Home Made 2 (Wimbledon): A relay of Stockholm.
 Trigon: Sorö, relaying Copenhagen Clock.
 Coeur-de-Lion: (1) Barcelona or Seville, (2) Sorö.

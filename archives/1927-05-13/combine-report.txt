@@ -21,13 +21,13 @@ Merge 3: merged_2 + IMG_3004.txt
 Match found: False
 No matching line found - files concatenated.
 File A last line: Bennekiket (Antwerp, Belgium): Apparently, although tuned in to Warsaw, at your distance from Hilversum you receive the latter transmission. The interruption was undoubtedly from Warsaw.
-Best similarity found: 0.125
+Best similarity found: 0.182
 
 Closest matches (top 3):
-  1. Index 1, similarity: 0.125 (first_8_chars)
+  1. Index 0, similarity: 0.182 (first_12_chars)
+     Line: broadcasts through Scheveningen-Haven, and also, we believe, through Hilversum, but in this case news bulletins only.
+  2. Index 0, similarity: 0.125 (first_8_chars)
+     Line: broadcasts through Scheveningen-Haven, and also, we believe, through Hilversum, but in this case news bulletins only.
+  3. Index 4, similarity: 0.125 (first_8_chars)
      Line: Mother of Six (Leicester): (1) If you are sure it was not PTT Paris, we cannot trace any other French transmission on that wavelength, (2) yes, Belgrade testing; it has been reported by several readers.
-  2. Index 1, similarity: 0.100 (first_12_chars)
-     Line: Mother of Six (Leicester): (1) If you are sure it was not PTT Paris, we cannot trace any other French transmission on that wavelength, (2) yes, Belgrade testing; it has been reported by several readers.
-  3. Index 2, similarity: 0.100 (first_12_chars)
-     Line: M. X. (Belfast): Leipzig. Thanks for information.
 

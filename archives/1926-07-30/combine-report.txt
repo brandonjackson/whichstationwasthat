@@ -15,15 +15,13 @@ Merge 2: merged_1 + IMG_2449.txt
 Match found: False
 No matching line found - files concatenated.
 File A last line: H.W.B.: (1) Rome; (2) Bordeaux.
-Best similarity found: 0.111
+Best similarity found: 0.333
 
 Closest matches (top 3):
-  1. Index 0, similarity: 0.111 (first_12_chars)
-     Line: Sure, here is the transcribed text:
-  2. Index 2, similarity: 0.060 (reporter_and_content)
-     Reporter similarity: 0.100
-     Content similarity: 0.000
-     Line: relay of PTT, (3) Copenhagen. J.W.S. (Formby): Yes EAJ7, station is in the Paris-Madrid building. C. Davis: Does not tally with any advertised programme, but believe this was PTT, Toulouse. Short Wave (Derby): Milan; (2) possibly WGY or KDKA on short wave. Maclagan (Rothesay): Koenigswusterhausen testing. Denton: (1) No details available, possibly Buda-Pesth; (2) cannot trace, was this not Sheffield or Stoke, relay of London? (3) Stuttgart (also heard by us). C.G/PB.3: Hamburg; (1) Oslo; (2) Madrid (EAJ7). J.J.C. (Cumberland): All Milan. Special Five: Prague. Negative: Presumably 1.30 a.m. Berne (extended programme). Aero (Scarborough): Eiffel Tower time signals. M.B. (Weston-super-Mare): Prague (relay from Weinberge Radio Palace). Abracadabra (2): San Sebastian. Tropadyne Five: Frankfort-on-Main. Ajax (E8): Frankfort-on-Main, relay of Berlin. G.R.C. (E. Walver High Wycombe): Frankfort relay of Berlin. Rome. I.T.C.H. (Newcastle-on-Tyne): Buda-Pesth (560 m). G.E.M. (Wimbledon): Wavelength apparently wrong - Berlin (504 m). B.A.L. (Addiscombe): Brussels, afternoon concert. Crispin (2): Madrid, (EAJ 7). Nobby Wraysbury: Madrid, EAJ 7. N.B. (Middlesbro): (1) Cadiz, EAJ 3, experimental transmission; (2) Madrid, (EAJ 6); (3) cannot trace. J.A. (Wimbledon): Prague. O.V.O. (Edinburgh): Details rather vague; suggest Moscow or Karlsborg. Super-set (Dublin): Possibly CNRO, Ottawa (Ont.). Reflex, D.L. (Kent): WL, apparently wrong; it was not advertised in any German programme. Snipe (W2): Brussels (afternoon concert). Crispin (1): British amateur - cannot trace. Grid-leak (Glasgow): Berlin (504 m). Wavecatcher (Putney): Frankfort-on-Main. G.H.A (Worcester): Berlin. (The Mastersingers of Nuremberg, relayed from State Opera House. Organist (S.E.13): Hilversum, relay of Kurhaus, Scheveningen. C.W.S. (Fulham): Muenster. C.D. (London): Hilversum. G.M. Honiley: Hilversum (Roermond Tattoo). S.J.M. (Swindon): Aberdeen relaying Albert Lemaire and his Orchestra from Palais de Danse, Aberdeen.
-  3. Index 0, similarity: 0.000 (first_8_chars)
-     Line: Sure, here is the transcribed text:
+  1. Index 1, similarity: 0.333 (first_8_chars)
+     Line: J.W.S. (Formby): Yes, EAJ7, station is in the Paris-Madrid building.
+  2. Index 36, similarity: 0.333 (first_8_chars)
+     Line: C.W.S. (Fulham): Muenster.
+  3. Index 3, similarity: 0.286 (first_8_chars)
+     Line: Short Wave (Derby): Milan; (2) possibly WGY or KDKA on short wave.
 

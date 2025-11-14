@@ -1,34 +1,30 @@
 Errant Three (W. Croydon): (1) Possibly Lille, relaying Paris (PTT); (2) Wavelength of Juan-les-Pins indefinite at present; (3) Cassel has changed to 236.2 m.
 Sobanan: Yes, Glasgow.
 Granny 5 Valve Solodyne (Lasswade): Leningrad.
-Mac (Porto): Your dial readings are very little guide, but we suggest the following: (1) Leningrad; (2) Hilversum, Ocete, N. 10; (1) Wavelength doubtful; possibly Radio Lyon; (2) Falun (Sweden).
+Mac (Porto): Your dial readings are very little guide, but we suggest the following: (1) Leningrad; (2) Hilversum, Octe, N. 10.; (1) Wavelength doubtful; possibly Radio Lyon; (2) Falun (Sweden).
 Alicia (Hounslow): Probably WHAM (Rochester, N.Y.).
 J. F. S. (Tidworth): Surely the wavelength is wrongly estimated.
 L. O. G. (Dunfermline): You do not give any indication of wavelength, without which we cannot give the information.
 DEV (Finchley): Swedish relay station, probably Trollhättan if your estimate of wavelength is correct.
 Novice (Stamford): Not an American station. Your estimate of wavelength is very doubtful.
 Claybos (Hamilton): Kalundborg relaying Copenhagen. Dance music.
-Novice (Barnsley): Probably Kovno, which was broadcasting Rigoletto. Which wedding march?
-Seeker (Bradford): Yes, Leningrad.
-A Rum'un: Aberdeen relaying Edinburgh.
+Novice (Barnsley): Probably Kovno, which was broadcasting Rigoletto. Which Wedding March?
+Seeker U9 (Bradford): Yes, Leningrad.
+A Rum 'Un: Aberdeen relaying Edinburgh.
 Ova 2: 2FC (S.W.) is heard occasionally.
-A. R. M. (Portsmouth): Assuming wavelength approximately correct: (5) Copenhagen; (6) Paris; (3) Barcelona; (4) Notodden relaying Oslo; (5) Fredrikstad relaying Oslo; (6) Huizen.
-Searcher (Donny): Leningrad.
+A. R. M. (Portsmouth): Assuming wavelength approximately: (1) Prague; (2) Copenhagen; (3) Leipzig; (5) Barcelona; (4) Notodden relaying Oslo; (5) Fredriksstad relaying Oslo; (6) Huizen.
+Searcher (Drony): Leningrad.
 R. N. V. R. (Leicester): Warsaw.
 Lonnie (Chester): Kalundborg relaying Copenhagen.
-Earlyriser (Essex): According to your dial readings, Motala, but "Austrian National Anthem" disagrees.
+Earlyriser (Essex): According to your dial readings, Motala, but “Austrian National Anthem” disagrees.
 Dent (Worthing): If wavelength certain, Kharkov.
 Johnny (Tunbridge Wells): (1) Vienna; (2) Stuttgart; CDG Interval signal notes.
 F. C. (Mitcham): Yes, Stamboul.
 Midge (Bolton): More probably Kalundborg, in spite of your estimate of wavelength.
 Geo Whizz, H. B. S.: (1) Kattowitz; (2) Rennes.
 Concert (Yorks.): Details of wavelength too vague. Leningrad indicated, but programme does not tally.
-Puzzling (Robin's Hood Bay): Impossibly vague. Please be far more definite in particulars.
-Eric's E. S. 3 Valve: (1) Cassel, relaying Frankfurt; (2) Bremen relaying Hamburg; (3) If wavelength approximately correct, Leipzig, which relayed Berlin dance music at that time.
-Robinson Crusoe: Impossible to say without some knowledge of wavelength.
-De Luxe Receiver (Yorks.): You give no idea of the wavelength, impossible to trace.
-P. A. Wigley (Evesham): Langenberg, broadcasting the operetta Adrienne.
-J. K. M. (Barnet): You give no idea of the wavelength, therefore your estimates are too vague. Probably Moscow.
+Puzzling (Robin’s Hood Bay): Impossibly vague. Please be far more definite in particulars.
+Eric’s E. S. 3 Valve: (1) Cassel, relaying Frankfurt; (2) Bremen relaying Hamburg; (3) If wavelength approximately correct, Leipzig, which relayed Berlin dance music at that time.
 Robinson Crusoe: Impossible to say without some knowledge of wavelength.
 De Luxe Receiver (Yorks.): You give no idea of the wavelength; impossible to trace.
 P. A. Wigley (Evesham): Langenberg, broadcasting the operetta Adrienne.
@@ -58,7 +54,7 @@ Aislabaran (Streatham): Cannot trace on anything like your wavelength.
 N. F. (Brighton): In the absence of any indication of wavelength other than Daventry coils, we cannot be certain, but probably it was Huizen.
 3VHV.38: (1) Yes, probably WHO; (2) Circumstances pointed to WOWO.
 Llewdeb (Birmingham): (1) Are you sure it was not KDKA?; (2) None but stations of very low power round this wavelength; (3) Possibly WBAL (Baltimore); (4) Suggest WADC (Akron, Ohio); (5) WOC (Davenport, Iowa); (6) KGO (Oakland, Cal.); (7) Probably WLS (Chicago); (8) This may have been WOK (Chicago), WORD (Batavia, Ill.) or WMBB (Homewood, Ill.).
-Inquisitive Bill (Leicester): (1) Kalundborg relaying Copenhagen; (2) No coupon enclosed.
+Inquisitive Bill: (Leicester) (1) Kalundborg relaying Copenhagen; (2) No coupon enclosed.
 All (Dinnington): Leningrad.
 Fairflight (Luton): Probably Barcelona (AEJ1).
 A. W. W. (Tipton): No coupon.
@@ -102,7 +98,7 @@ Listener (Salop): According to your wavelength Madrid, but programme does not ag
 M. D. (Norwich): (1) surely Hanover; (2) no coupon sent.
 Mimi (Stockport): Rjukan relaying Oslo.
 Jimmo (Kent): Motala relaying Stockholm.
-G. H. (Sussex): You do not state wavelength. Probably Air Ministry station, Mitcham, testing.
+G. H. (Sussex): You do not state wave-fragment: length. Probably Air Ministry station, Mitcham, testing.
 E. F. L. (West Kensington): Probably Dublin.
 F. H. (Blackburn): B.B.C. station, Cardiff.
 Beesknees (Ramsgate): Probably Air Ministry Station, Mitcham. See our article in last issue.
@@ -115,8 +111,7 @@ Little Jim (Dewsbury): Probably Kattowitz. Wrong coupon enclosed.
 E. P. M. D. (Bristol): According to wavelength suggested and programme, Wilno (Poland); otherwise improbable.
 Jew Inver (Pinner): (8) Motala relaying Stockholm. One coupon, one reply.
 Capitalls (N.13): Not sufficient indication of wavelength. Probably U.S.A. station.
-Earache (Glam.): Cannot confirm programme, as 2 M.E.'s wavelength is 28.5 m.
-W. L. (Warling-): In any case wavelength is badly estimated.
+Earache (Glam.): Cannot confirm programme, as 2 M.E.'s wavelength is 28.5 m. W. L. (Warling-In any case wavelength is badly estimated.
 Radio (France): Probably Moscow.
 Short Wave (Denmark): Radio LL.
 Disclose (Wandsworth): Probably Rennes, relaying Paris PTT.
@@ -130,8 +125,7 @@ Wilks: Not a custom of this station we believe.
 Melody Maker (Clapham): Cannot give Amateur's "Call Letters."
 Two Valver (Swansea): Frankfurt relaying Stuttgart. Kalundborg relaying Copenhagen.
 Ginuel (Reigate): Yes, Kattowitz.
-Ronan (Cork): Probably Kalundborg at close of relayed opera but afterwards it relayed foreign station A.
-(Halifax): Oslo.
+Ronan (Cork): Probably Kalundborg at close of relayed opera but afterwards it relayed foreign station A. (Halifax): Oslo.
 Verzweifelt (Camberwell): Fredrikstad relaying Oslo.
 Ohm Sweet Ohm (Bradford): Regret, cannot trace.
 Monsieur X (Ramgsate): Not LL's announcement probably an Amateur.

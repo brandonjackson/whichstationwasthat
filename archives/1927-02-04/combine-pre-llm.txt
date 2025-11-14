@@ -1,8 +1,30 @@
-```plaintext
-W. A. R. (Lowestoft); New Zealander (Cheltenham); Menevia (St. David's); O-V-2 (Luton); Pakefield: Berlin (Variety Concert), relayed to Koenigswusterhausen. It is possible that this entertainment was also relayed by a transmitter in a neighbouring country, as it was picked up on various wavelengths. S. T. G. B./4 V.: (A) Yes, Warsaw; (b) Lausanne (Sermon); (c) Sorö relaying Copenhagen; (d) Basle relaying Berne; (e) Karlsborg relaying Stockholm (news and weather); (f) Yes, Rome (news); (g) Bergen. E. V. B. (Portsmouth): (1) Gleiwitz relaying Portsmouth; (2) Karlsborg relaying Stockholm (news and weather). Reinaritz (Shirley): Moscow, RDW not Banjo but balalaika. Dick (Hendon): (1) possibly Bilbao, but cannot confirm; (2) WL. apparently wrong, as the entertainment was given at Berlin. Radio Vagabond (Windlesham): Yes, Zagreb (gram.). Works on 310 m. Said to broadcast on 350 watts, but recent reports point to the power having been increased. 1 Valve (Seaton): Vienna, opera, The Twilight of the Gods (Wagner). J. L. M. (Oxton, Cheshire): Karlsborg relaying Stockholm. Rico (Marlow): Warsaw (relay of dance music from Café Vielka Ziemianski (Warsaw). Gallop (Bristol); Vienna (Rosentheue); Paris (The Twilight of the Gods): Eiffel Tower relaying PTT (Paris). S. R. (Kettering): Moscow (RDW). T. C. (Leicester): WGY, Schenectady. Edix (N. S.): Amateur transmitter, Oakham. Monkton (Hereford): Moscow (RDW). Peter (Aldeburgh): KDKA (East Pittsburgh) direct on about 63 m. Oscillating Orace (Erith): (1) Marseilles relaying PTT Paris; (2) Warsaw; (3) Moscow (Popoff Station); (4) Koenigswusterhausen (Press); (5) also Koenigswusterhausen (Press). Lightfoot (Hove): Amateur transmitter; cannot identify. Davidson (East Hill): Karlsborg relaying Stockholm. A. L. M. (Bristol): Warsaw (Morse Sign - W.). Sparken Pallawr: (1) Leningrad (1,165 m.); (2) Warsaw (Call - "Radio Varsava"); (3) Boden relaying Stockholm (news); (4) Barcelona EAJ13. Hawes (Northampton): Frankfort-on-Main relaying concert by Symphony orchestra playing at Saalbau (in that city). Haydn’s Symphony No. 7. H. E. H. (Devon): Muenster group relayed Boxing Matches from Dortmund. Arbeeque (West Derby): Karlsborg relaying Stockholm. Howler (Cheltenham): Langenberg relaying concert from Café Korso, Dortmund. W. T. 6.: (2) Believe British amateur; (1) Kovno. Pottery (Stoke-on-Trent): Moscow, RDW (Call: Radio Moskva). Farley (Sutton): Berne. H. L. C. (Wallington): Yes, Madrid (EAJ 7). Stockholm.
-```W. T. 6: (2) Believe British amateur (1) Kovno.
-Potterer (Stoke-on-Trent): Moscow, RDW (Call: Radio Moskva).
-Tiddley (Staines): Berne.
+W. A. R. (Lowestoft); New Zealander (Cheltenham); Menevia (St. David’s); O-V-2 (Luton); Pakefield: Berlin (Variety Concert), relayed to Koenigswusterhausen.
+It is possible that this entertainment was also relayed by a transmitter in a neighbouring country, as it was picked up on various wavelengths.
+S. T. G. B/4V: (A) Yes, Warsaw; (b) Lausanne (Sermon); (c) Sorö relaying Copenhagen; (d) Basle relaying Berne; (e) Karlsborg relaying Stockholm; (f) Yes, Rome (news); (g) Bergen.
+E. V. B. (Portsmouth): (1) Gleiwitz relaying Portsmouth; (2) Karlsborg relaying Stockholm (news and weather).
+Reinartz (Shirley): Moscow, RDW - not Banjo but balalaika.
+Dick (Hendon): (1) possibly Bilbao, but cannot confirm; (2) WL. apparently wrong, as the entertainment was given at Berlin.
+Radio Vagabond (Windlesham): Yes, Zagreb (gram). Works on 310 m. Said to broadcast on 350 watts, but recent reports point to the power having been increased.
+1 Valve (Seaton): Vienna, opera, The Twilight of the Gods (Wagner).
+J. L. M. (Oxton, Cheshire): Karlsborg relaying Stockholm.
+Rico (Marlow): Warsaw (relay of dance music from Café Vielka Ziemianski (Warsaw).
+Gallop (Bristol): Vienna (Rosenthal) relaying “The Twilight of the Gods” by Wagner.
+Two-Valver (Grimsby): Eiffel Tower relaying PTT (Paris).
+S. R. (Kettering): Moscow (RDW).
+T. C. (Leicester): WGY, Schenectady.
+Edix (N.S.): Amateur transmitter, Oakham.
+Monkton (Hereford): Moscow (RDW).
+Peter (Aldeburgh): KDKA (East Pittsburg) direct on about 63 m.
+Oscillating Orace (Erith): (1) Marseilles relaying PTT, Paris; (2) Warsaw; (3) Moscow (Popoff Station); (4) Koenigswusterhausen (Press); (5) also Koenigswusterhausen (Press).
+Lightfoot (Hove): Amateur transmitter; cannot identify.
+Davidson (East Hill): Karlsborg relaying Stockholm.
+A. L. M. (Bristol): Warsaw (Morse Sign - W. B. Sparken Pallawr; (1) Leningrad (1,165 m.); (2) Warsaw (Call: “Radio Varsava”); (3) Boden relaying Stockholm (news); (4) Barcelona EAJ 13).
+Hawes (Northampton): Frankfort-on-Main relaying concert by Symphony orchestra playing at Saalbau (in that city). Haydn’s Symphony No. 7.
+H. E. H. (Devon): Muenster group relayed Boxing Matches from Dortmund.
+Arbeege (West Derby): Karlsborg relaying Stockholm.
+Howler (Cheltenham): Langenberg relaying concert from Café Korso, Dortmund.
+W. T. 6: (2) Believe British amateur; (1) Kovno.
+Potter (Stoke-on-Trent): Moscow, RDW (Call: “Radio Moskva”).
 H.L.C. (Wallington): Yes, Madrid (EAJ 7).
 Thompson (Weedon): San Sebastian (EAJ 8).
 V 2 Marconi (King's Lynn): Vienna (Opera: The Twilight of the Gods) (Wagner).

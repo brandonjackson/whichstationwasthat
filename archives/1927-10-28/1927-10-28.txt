@@ -51,7 +51,7 @@ Searcher (Rusholme): (8) Possibly Kovno; (9) yes, Koenigswusterhausen (2,525 m.)
 Finn: We can trace no station on about 380 m. giving the opera Faust at that time. Although not advertised in programmes, as regards the time it might tally with a transmission from Madrid (EAJ7), Saturday 15, October 15; your condenser readings would appear to tally with Warsaw.  
 Variometer: Nürnberg, a relay of open-air choral concert.  
 S. Bell (Grimsby): Huizen (Holland) setting on 1,840 and 1,950 m. (gramophone records).  
-Distance Urge (W.12): (1) Stuttgart. A concert of the music of Bach, with choir, orchestra and organ. Interval signal, three notes, C, D, G, produced by oscillating valves, (2) Rome (a lady announcer). News, followed at 7.45 p.m. by a relay of the opera Carmen (Bizet).  
+Distance Urge (W.12): (1) Stuttgart. A concert of the music of Bach, with choir, orchestra and organ. Interval signal, three notes, C, D, Gr, produced by oscillating valves, (2) Rome (a lady announcer). News, followed at 7.45 p.m. by a relay of the opera Carmen (Bizet).  
 Solodyne (Berkhamsted): Yes, the first harmonic of Hamburg (about 197 m.).  
 Butterfly: If your estimate of WL. is correct, this was WLW (Cincinnati) on 52.2 m.  
 W. R. Fairfield (South Norwood): Nürnberg, relaying variety concert from Munich.  
@@ -61,4 +61,4 @@ J. G. L. Crosier (York): It is impossible to trace these short wave transmission
 N. W. (Hockley): Radio Toulouse Spanish station, possibly Madrid (EAJ7).  
 Portland Bill: (1) Naples (Interval signal: ticking of metronome); (2) Yes, Radio Toulouse; (3) Munich (News and weather).  
 Schoolboy (Bank House): No, not Scheveningen Haven, but Huizen (Holland) testing on 1,840 and 1,950 m.  
-I.O.C.S. (Lincoln): Koenigsberg, relaying The Mastersingers of Nürnberg (Wagner) from theatre.
+I.O.C.s. (Lincoln): Koenigsberg, relaying The Mastersingers of Nürnberg (Wagner) from theatre.

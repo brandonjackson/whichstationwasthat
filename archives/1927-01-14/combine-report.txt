@@ -85,33 +85,29 @@ Closest matches (top 3):
 
 Merge 7: merged_6 + IMG_2688.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: Burn (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace them.
-Best similarity found: 0.333
+Match found: True
+Match index in file B: 3
+Match strength: 0.891
 
-Closest matches (top 3):
-  1. Index 0, similarity: 0.333 (first_8_chars)
-     Line: Sure, here's the transcription:
-  2. Index 0, similarity: 0.300 (first_12_chars)
-     Line: Sure, here's the transcription:
-  3. Index 2, similarity: 0.100 (reporter_and_content)
-     Reporter similarity: 0.000
-     Content similarity: 0.250
-     Line: and Galvo (Edgbaston): Mr. Arthur Burrows, speaking at Geneva; apparently received through Berne. Amateur WL. far too vague: cannot trace. Everyman 4 (Brixton) and Manchester. Brun (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace transmitter, unless wavelength is fairly accurately estimated, as such relays are rarely advertised in the programmes. A.M.L. (Stockport): Cannot trace. Jolly Good (S.W.15): Manchester. Bogey (Hampstead): (a) Yes, KGO has been received on several occasions; (b) Tallies with Manchester, special transmission. Aperiodic Coupling (Castlenock): Surely Manchester. A.D.T.: Manchester. J.W.L./P.Z.: (1) Naples; (2) Rome on 449 m. F.S.G. (Eastbourne): Yes, Leningrad. Nighthawk (Bishop Auckland): If not Dortmund cannot trace; (2) Cadiz (EAJ3). Yarn (Halifax): (1) see reply to Brun (Burnley); (2) Bordeaux-Lafayette3 too vague; possibly a relay of Stockholm. W.M. (Prestwich): Frankfort relaying dance music from Berlin. Paris-ite (St. Cloud, France): Manchester (“The Ceremony of the Vacant Chair”, special late transmission. 3 Unidyne (Steppingley): (22) Malmo relay Stockholm (1165 m.); (23) Buda-Pesth; (24) London relaying Manchester; (25) R.C.A.; (26) Prague relaying Manchester. Gec. (Redditch): (1) Zurich; (2) Stettin relaying Berlin; (3) Breslau. Cantilever (Forest Hill.): (11) WL (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1950 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists. Dixie II (Liverpool): Not a Spanish station. You heard the German National Anthem. If WL. correct, Bremen relaying Hamburg, but we are inclined to believe that you are receiving the Frankfort transmission. Luggar (Sheffield): Prague (Call: “Allo! Praha.”) Green (Knighton): Langenberg effecting a test relay of chimes from Cologne Cathedral. Brookfield (Stoke-on-Trent): Was not this Daventry? Hill (Portsmouth): Cannot trace transmitter from details of coils; some estimated WL. must be given. Puzzled Midget (Crosby): Apparently U.S.A. station, but there are very many on this WL.; we could not possibly confirm which station you received; possibly WJAS, Pittsburgh. Taffy (Flintshire): (2) Langenberg relaying chimes from Cologne Cathedral. Lex (Southampton): WL. wrong; this was Frankfort-on-Main. Kemp (Hampden): Zurich is the only station that has been received for some weeks so late as time stated. No details of this transmission.
+File A last line: Burn (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace them.
+File B matching line: Brun (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace transmitter, unless wavelength is fairly accurately estimated, as such relays are rarely advertised in the programmes.
 
 Merge 8: merged_7 + IMG_2689.txt
 ------------------------------------------------------------
 Match found: False
 No matching line found - files concatenated.
-File A last line: and Galvo (Edgbaston): Mr. Arthur Burrows, speaking at Geneva; apparently received through Berne. Amateur WL. far too vague: cannot trace. Everyman 4 (Brixton) and Manchester. Brun (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace transmitter, unless wavelength is fairly accurately estimated, as such relays are rarely advertised in the programmes. A.M.L. (Stockport): Cannot trace. Jolly Good (S.W.15): Manchester. Bogey (Hampstead): (a) Yes, KGO has been received on several occasions; (b) Tallies with Manchester, special transmission. Aperiodic Coupling (Castlenock): Surely Manchester. A.D.T.: Manchester. J.W.L./P.Z.: (1) Naples; (2) Rome on 449 m. F.S.G. (Eastbourne): Yes, Leningrad. Nighthawk (Bishop Auckland): If not Dortmund cannot trace; (2) Cadiz (EAJ3). Yarn (Halifax): (1) see reply to Brun (Burnley); (2) Bordeaux-Lafayette3 too vague; possibly a relay of Stockholm. W.M. (Prestwich): Frankfort relaying dance music from Berlin. Paris-ite (St. Cloud, France): Manchester (“The Ceremony of the Vacant Chair”, special late transmission. 3 Unidyne (Steppingley): (22) Malmo relay Stockholm (1165 m.); (23) Buda-Pesth; (24) London relaying Manchester; (25) R.C.A.; (26) Prague relaying Manchester. Gec. (Redditch): (1) Zurich; (2) Stettin relaying Berlin; (3) Breslau. Cantilever (Forest Hill.): (11) WL (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1950 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists. Dixie II (Liverpool): Not a Spanish station. You heard the German National Anthem. If WL. correct, Bremen relaying Hamburg, but we are inclined to believe that you are receiving the Frankfort transmission. Luggar (Sheffield): Prague (Call: “Allo! Praha.”) Green (Knighton): Langenberg effecting a test relay of chimes from Cologne Cathedral. Brookfield (Stoke-on-Trent): Was not this Daventry? Hill (Portsmouth): Cannot trace transmitter from details of coils; some estimated WL. must be given. Puzzled Midget (Crosby): Apparently U.S.A. station, but there are very many on this WL.; we could not possibly confirm which station you received; possibly WJAS, Pittsburgh. Taffy (Flintshire): (2) Langenberg relaying chimes from Cologne Cathedral. Lex (Southampton): WL. wrong; this was Frankfort-on-Main. Kemp (Hampden): Zurich is the only station that has been received for some weeks so late as time stated. No details of this transmission.
-Best similarity found: 0.375
+File A last line: Kemp (Hampton): Zurich is the only station on that wave of which we know so late as time stated.
+Best similarity found: 0.400
 
 Closest matches (top 3):
-  1. Index 5, similarity: 0.375 (first_8_chars)
-     Line: Cantilever (Forest Hill): (11) WJZ (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1930 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists.
-  2. Index 5, similarity: 0.300 (first_12_chars)
-     Line: Cantilever (Forest Hill): (11) WJZ (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1930 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists.
-  3. Index 7, similarity: 0.300 (first_12_chars)
-     Line: Luggar (Sheffield): Prague (Call: "Alo! Praha.")
+  1. Index 14, similarity: 0.657 (reporter_and_content)
+     Reporter similarity: 0.429
+     Content similarity: 1.000
+     Line: Champ (Harpenden): Zurich is the only station on that WL., but does not usually work so late as time stated. No details of this transmission were given in programmes.
+  2. Index 14, similarity: 0.400 (first_12_chars)
+     Line: Champ (Harpenden): Zurich is the only station on that WL., but does not usually work so late as time stated. No details of this transmission were given in programmes.
+  3. Index 13, similarity: 0.343 (reporter_and_content)
+     Reporter similarity: 0.571
+     Content similarity: 0.000
+     Line: Lex (Southampton): W. Veirs, this was Frankfort-on-Main.
 

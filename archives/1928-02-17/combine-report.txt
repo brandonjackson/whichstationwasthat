@@ -3,9 +3,12 @@ Combine Report for 1928-02-17
 
 Merge 1: IMG_3264.txt + IMG_3265.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: ```
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: J. K. M. (Barnet): You give no idea of the wavelength or whether you were listening on L.O.F. or on S.O.F.
+File B matching line: J. K. M. (Barnet): You give no idea of the wavelength or whether you were listening to 2LO or 5XX. Probably an amateur.
 
 Merge 2: merged_1 + IMG_3266.txt
 ------------------------------------------------------------

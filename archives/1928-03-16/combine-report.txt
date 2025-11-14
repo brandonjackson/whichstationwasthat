@@ -112,15 +112,15 @@ Merge 9: merged_8 + IMG_3312.txt
 ------------------------------------------------------------
 Match found: False
 No matching line found - files concatenated.
-File A last line: sometimes carried out by Berlin, Stuttgart and Munich.
-Best similarity found: 0.375
+File A last line: Kenvic (Manor Park): No German station advertised a relay of foreign stations on that date, but this is sometimes carried out by Berlin, Stuttgart and Munich.
+Best similarity found: 0.300
 
 Closest matches (top 3):
-  1. Index 9, similarity: 0.375 (first_8_chars)
-     Line: Komc (Manchester); Ajax (Sheffield): All Polish stations were broadcasting election results at that time, with gramophone records in the intervals.
-  2. Index 11, similarity: 0.364 (first_12_chars)
-     Line: Gobblins (Hale): Quite possibly WPG (Atlantic City), U.S.A.
-  3. Index 9, similarity: 0.273 (first_12_chars)
+  1. Index 0, similarity: 0.300 (first_12_chars)
+     Line: regret, cannot trace.
+  2. Index 2, similarity: 0.300 (first_12_chars)
+     Line: Pinchin: (1) Kattowitz, giving election results (gramophone records in the intervals); (2) U.S.A. station, but your details are too vague to trace.
+  3. Index 9, similarity: 0.300 (first_12_chars)
      Line: Komc (Manchester); Ajax (Sheffield): All Polish stations were broadcasting election results at that time, with gramophone records in the intervals.
 
 Merge 10: merged_9 + IMG_3313.txt
@@ -128,30 +128,26 @@ Merge 10: merged_9 + IMG_3313.txt
 Match found: False
 No matching line found - files concatenated.
 File A last line: Hibernia (Loughrea): (1) Yes, WGY (Schenectady); (2) WJZ (Boundbrook?); (3) Yes,
-Best similarity found: 0.125
+Best similarity found: 0.300
 
 Closest matches (top 3):
-  1. Index 2, similarity: 0.474 (reporter_and_content)
+  1. Index 0, similarity: 0.474 (reporter_and_content)
      Reporter similarity: 0.123
      Content similarity: 1.000
-     Line: WGY (Schenectady); (2) WJZ (Boundbrook); (3) Yes, WCCO (Minneapolis). Disclose (Wandsworth): (1) Yes, WGY (Schenectady) direct ; (2) PTT Lille. J. W. P. (Leeds): Your estimate of WL. is apparently wrong; the transmission was by Stuttgart from the Liederhalle (soloist Erica Morini, violinist) ; this was also taken by Frankfurt-on-Main, Cassel, and Freiburg ; probably you heard this through Frankfurt-on-Main. West Hove: Kaiserslautern (204.1 m.) relaying Munich. Alpha (Llanelly): Hamburg advertised dance music at that time; we are asking the station to give us the name of the baritone. Stage (Gloucester): We cannot confirm, but possibly Stockholm which advertised a relay of foreign stations at that time. Crucible (S.W.3): (1) Kattowitz, election results (gramophone records in the intervals) ; (2) possibly WTAM (Cleveland), U.S.A., which is often received in Great Britain. Naylor (Peacehaven): Münster, relaying concert from "Hotel Zur Post " (Elberfeld). St. Jacut (Kent): Barcelona (EAJ1). Doc (Belfast): Oslo. Moonshine (Melrose): Cannot trace without some estimation of WL. Wagge (Cowley): Berlin. Königswausterhausen, German National Anthem "Deutschland ueber alles," music by Haydn. H.F. 42; (a) PTT Lyons on 40.20 m. (b) We do not know the call, but apparently a short wave transmitter of the Cie Générale; (c) Private transmitter, Berlin; (d) We have not traced the Spanish short wave station. Twin Reflex (Hammersmith): WGY (Schenectady) received direct. G. L. W. (Bucks.): Although you give many details we cannot make any search as you give no idea of WL. Smugger (Shalford): (1) PTT Remes; (2) only English lesson given at that time was by the Ecole Supérieure, Paris; possibly received through Malmo. Muff: No, this does not tally with the Juan-les-Pins programme; more probably Bordeaux, Radio-Sud-Ouest, of which detailed programmes are not published. D. Brand (Rosebury Terrace): A Polish station giving election results (gramophone records in the intervals) ; you do not state WL., so cannot trace actual transmitter. Radio (Lympne): Cannot confirm, but possibly relayed by Moscow. New Comet (Eastbourne): We cannot trace these items in programmes, but the WL. would seem to Huizen, which at that time was transmitting on 1.950 m. (Children's Hour). Reinartz (Sunderland): Stockholm.
-  2. Index 0, similarity: 0.125 (first_8_chars)
-     Line: Sure, here is the transcription:
-  3. Index 0, similarity: 0.100 (first_12_chars)
-     Line: Sure, here is the transcription:
+     Line: WGY (Schenectady); (2) WJZ (Boundbrook); (3) Yes, WCCO (Minneapolis) Disclose (Wandsworth): (1) Yes, WGY (Schenectady) direct; (2) PTT Lille.
+  2. Index 28, similarity: 0.312 (reporter_and_content)
+     Reporter similarity: 0.188
+     Content similarity: 0.500
+     Line: Smugger (Shalford): (1) PTT Rennes; (2) only English lesson given at that time was by the Ecole Superieure, Paris; possibly received through PTT Grenoble; (3) Malmo, or Eskilstuna, relaying Malmo.
+  3. Index 32, similarity: 0.300 (first_12_chars)
+     Line: D. Brand (Rosebury Terrace): A Polish station giving election results (gramophone records in the intervals); you do not state WL, so cannot trace actual transmitter.
 
 Merge 11: merged_10 + IMG_3314.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: WGY (Schenectady); (2) WJZ (Boundbrook); (3) Yes, WCCO (Minneapolis). Disclose (Wandsworth): (1) Yes, WGY (Schenectady) direct ; (2) PTT Lille. J. W. P. (Leeds): Your estimate of WL. is apparently wrong; the transmission was by Stuttgart from the Liederhalle (soloist Erica Morini, violinist) ; this was also taken by Frankfurt-on-Main, Cassel, and Freiburg ; probably you heard this through Frankfurt-on-Main. West Hove: Kaiserslautern (204.1 m.) relaying Munich. Alpha (Llanelly): Hamburg advertised dance music at that time; we are asking the station to give us the name of the baritone. Stage (Gloucester): We cannot confirm, but possibly Stockholm which advertised a relay of foreign stations at that time. Crucible (S.W.3): (1) Kattowitz, election results (gramophone records in the intervals) ; (2) possibly WTAM (Cleveland), U.S.A., which is often received in Great Britain. Naylor (Peacehaven): Münster, relaying concert from "Hotel Zur Post " (Elberfeld). St. Jacut (Kent): Barcelona (EAJ1). Doc (Belfast): Oslo. Moonshine (Melrose): Cannot trace without some estimation of WL. Wagge (Cowley): Berlin. Königswausterhausen, German National Anthem "Deutschland ueber alles," music by Haydn. H.F. 42; (a) PTT Lyons on 40.20 m. (b) We do not know the call, but apparently a short wave transmitter of the Cie Générale; (c) Private transmitter, Berlin; (d) We have not traced the Spanish short wave station. Twin Reflex (Hammersmith): WGY (Schenectady) received direct. G. L. W. (Bucks.): Although you give many details we cannot make any search as you give no idea of WL. Smugger (Shalford): (1) PTT Remes; (2) only English lesson given at that time was by the Ecole Supérieure, Paris; possibly received through Malmo. Muff: No, this does not tally with the Juan-les-Pins programme; more probably Bordeaux, Radio-Sud-Ouest, of which detailed programmes are not published. D. Brand (Rosebury Terrace): A Polish station giving election results (gramophone records in the intervals) ; you do not state WL., so cannot trace actual transmitter. Radio (Lympne): Cannot confirm, but possibly relayed by Moscow. New Comet (Eastbourne): We cannot trace these items in programmes, but the WL. would seem to Huizen, which at that time was transmitting on 1.950 m. (Children's Hour). Reinartz (Sunderland): Stockholm.
-Best similarity found: 0.400
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
 
-Closest matches (top 3):
-  1. Index 17, similarity: 0.400 (first_12_chars)
-     Line: G. T. C. (Heald Green): WGY (Schenectady) received direct.
-  2. Index 17, similarity: 0.333 (first_8_chars)
-     Line: G. T. C. (Heald Green): WGY (Schenectady) received direct.
-  3. Index 5, similarity: 0.300 (first_12_chars)
-     Line: Moonshine (Melrose): Berlin.
+File A last line: Reinartz (Sunderland): Stockholm now
+File B matching line: Reinartz (Sunderland): Stockholm was relaying foreign stations at that time, but we do not know whether this transmitter rebroadcast a programme from WGY (Schenectady).
 

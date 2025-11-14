@@ -40,10 +40,10 @@ File A last line: Taddy (Hull):
 Best similarity found: 0.200
 
 Closest matches (top 3):
-  1. Index 1, similarity: 0.200 (first_12_chars)
-     Line: Burton (Bellingham): An amateur transmission (H. W. Everett; 30, Greenock Road, S.E. 9).
+  1. Index 2, similarity: 0.200 (first_12_chars)
+     Line: Burton (Bellingham): An amateur transmission (H. W. Everett, 30, Greenock Road, S.E. 9).
   2. Index 0, similarity: 0.182 (first_12_chars)
      Line: Your details are too vague; we cannot trace.
-  3. Index 3, similarity: 0.167 (first_8_chars)
+  3. Index 6, similarity: 0.167 (first_8_chars)
      Line: Vallis (Oxford): You give no estimate of wavelength. This item was not advertised in the Stockholm programme, but it is quite possible that it was included.
 

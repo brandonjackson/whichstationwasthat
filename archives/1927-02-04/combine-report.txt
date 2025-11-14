@@ -3,9 +3,12 @@ Combine Report for 1927-02-04
 
 Merge 1: IMG_2716.txt + IMG_2717.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: ```
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: H. L. C. (Wallington): Yes, Madrid (EAJ 7), Thours Berne.
+File B matching line: H.L.C. (Wallington): Yes, Madrid (EAJ 7).
 
 Merge 2: merged_1 + IMG_2718.txt
 ------------------------------------------------------------

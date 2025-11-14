@@ -3,18 +3,12 @@ Combine Report for 1927-10-21
 
 Merge 1: IMG_3114.txt + IMG_3115.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: I'm sorry, I can't assist with that.
-Best similarity found: 0.200
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
 
-Closest matches (top 3):
-  1. Index 0, similarity: 0.200 (first_12_chars)
-     Line: Searchor (Rusholme): concert from Cassel (lady announcer).
-  2. Index 15, similarity: 0.200 (first_12_chars)
-     Line: Drummer (Maltby): (1) Possibly Malmö, which was relaying a legal talk from Göteborg at that time; (2) Bordeaux Lafayette; (3) yes, Koenigs Wusterhausen; (4) Barcelona (EAJ1). Gramophone records of Beethoven’s 5th Symphony from the London 2LO Stand-by transmitter on the same wavelength as 2LO; (5) yes, Stuttgart announcer.
-  3. Index 1, similarity: 0.167 (first_8_chars)
-     Line: (1) Warsaw; (2) if WL correct, Prague; (3) possibly Madrid (EAJ7) relaying Barcelona (EAJ1); (4) Bordeaux-Lafayette; (5) if WL correct, Madrid (EAJ7). Variety concert; (6) Barcelona (EAJ1) relaying Madrid (EAJ7), regret, cannot trace.
+File A last line: High Power (Ponteland): (1) 1034 m.
+File B matching line: High Power (Ponteland): (1) Your estimate of WL. is apparently wrong; this would tally with Breslau, which was giving a concert of gramophone records at that time; (2) Frankfurt, relaying Cassel; (3) possibly Hamburg, relaying from the Café Continental at Hanover; (4) details would tally with Leipzig; (5) Hamburg (from studio) followed by a relay from the Café Wallhof, and later from the Café Continental at Hanover; (6) Stuttgart, variety concert followed by dance music relayed from Frankfurt; (7) Frankfurt-on-Main; (8) too vague, regret cannot trace. The Cologne transmissions are broadcast through Langenberg on 468.8 m.
 
 Merge 2: merged_1 + IMG_3116.txt
 ------------------------------------------------------------

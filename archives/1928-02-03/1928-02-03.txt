@@ -34,7 +34,7 @@ B.M./B.G.G.R.: Yes, your details would tally with the Zagreb programme.
 W.X. (Coleford): Cannot trace any details of W.L.; it was W.I. choir which was giving a sacred service in Welsh, relayed from the Bethlehem Welsh Congregational Church.
 W. R. P. (Guildford): Huizen (Holland).
 Questioner (Brentford): (1) WGY (Schenectady) direct; (2) 5XM, amateur, cannot trace, but possibly 5XN amateur, Eltham.
-R. A. J. B. (Cosham): (1) WGY (Schenectady); (2) WPG (Atlantic City); (3) Kiel relaying dance music from Hamburg; (4) possibly the operetta Les Cloches de Corneville (Planquette); (5) KDKA (East Pittsburgh), possibly relaying WJZ (pronounced W J Zee), Boundbrook; (6) if W.L. approximately correct, possibly CKOW (Bowmanville); (7) if Spanish, possibly Barcelona (EAJ1); (8) KDKA (East Pittsburgh) on 26.5 m. (9) yes, 2XAF, short wave transmitter of WGY (Schenectady) on 32.77 m.; (10) WEAF (New York); (11) WGN (Chicago); (12) can trace no European station giving physical exercises at that time; (13) if call sign correct, yes, WAMD (Minneapolis); (14) WJAY (Cleveland) on 227 m.; (15) Zurich [English songs with Joan Elwes), followed by orchestral concert; (16) 2BL, amateur, cannot trace. (17) PTT L W. (18) possibly Augsburg relaying Munich; (19) possibly Radio Vitus; (20) cannot trace; (21) Frankfurt-on-Main relaying dance music from the Tanzaiklasse; (22) WGN (Chicago); (12) can trace no European station giving physical exercises at that time; (13) if call sign correct, yes, WAMD (Minneapolis); (14) WJAY (Cleveland) on 227 m.; (15) Zurich (English songs with Joan Elwes), followed by orchestral concert; (16) 2BL, amateur, cannot trace; (17) PTT Lille; (18) possibly Augsburg relaying Munich; (19) possibly Radio Vitus; (20) cannot trace; (21) Frankfurt-on-Main relaying dance music from the Tanzklause; (22) yes, Huizen (organ recital relayed from Amsterdam).
+R. A. J. B. (Cosham): (1) WGY (Schenectady); (2) WPG (Atlantic City); (3) Kiel relaying dance music from Hamburg; (4) possibly the operetta Les Cloches de Corneville (Planquette); (5) KDKA (East Pittsburgh), possibly relaying WJZ (pronounced W J Zee), Boundbrook; (6) if W.L. approximately correct, possibly CKOW (Bowmanville); (7) if Spanish, possibly Barcelona (EAJ1); (8) KDKA (East Pittsburgh) on 26.5 m.; (9) yes, 2XAF, short wave transmitter of WGY (Schenectady) on 32.77 m.; (10) WEAF (New York); (11) WGN (Chicago); (12) can trace no European station giving physical exercises at that time; (13) if call sign correct, yes, WAMD (Minneapolis); (14) WJAY (Cleveland) on 227 m.; (15) Zurich [English songs with Joan Elwes), followed by orchestral concert; (16) 2BL, amateur, cannot trace; (17) PTT L W.; (18) possibly Augsburg relaying Munich; (19) possibly Radio Vitus; (20) cannot trace; (21) Frankfurt-on-Main relaying dance music from the Tanzaiklasse; (22) WGN (Chicago); (12) can trace no European station giving physical exercises at that time; (13) if call sign correct, yes, WAMD (Minneapolis); (14) WJAY (Cleveland) on 227 m.; (15) Zurich (English songs with Joan Elwes), followed by orchestral concert; (16) 2BL, amateur, cannot trace; (17) PTT Lille; (18) possibly Augsburg relaying Munich; (19) possibly Radio Vitus; (20) cannot trace; (21) Frankfurt-on-Main relaying dance music from the Tanzklause; (22) yes, Huizen (organ recital relayed from Amsterdam).
 Vulvulus Tertius (Worcester): (1) WTAM (Cleveland); (2) WIOD (Miami Beach, Fla.) 1 kw., roughly 4,600 miles; (3) WGY (Schenectady) 100 kw. - received direct; (4) yes, possibly WABC (New York), but cannot confirm; (5) yes, KGO (Oakland); (6) if not Leningrad, regret, cannot trace.
 Dykes (Andover): Stockholm relaying revue from the Casino Theatre at Oslo; (2) if 2CC, amateur transmitter at Stocksfield, Northumberland.
 Kone (Derby): Possibly 2XAF (Schenectady) but cannot confirm.
@@ -87,7 +87,7 @@ Tuned Anode (Dublin): Yes, apparently WJZ (Boundbrook).
 W. J. E. (Tottenham): AFK Nauen (Germany).
 Busy Bee (Jersey): Bruenn (1) relay of concert from the Restaurant Narodni dum (Prague); (2) own transmission, French lesson.
 Mack (Edinburgh): Yes, WGY (Schenectady) direct.
-8 Valve (Waterlooville): Possibly Oslo English lesson at that time.
+8 Valve (Waterlooville): Possibly Oslo English lesson at that time).
 Firmie (Torquay): Kalundborg, relaying Copenhagen.
 Night Crank (Grantham): (1) WGY (Schenectady) direct; (2) KDKA (East Pittsburgh); (3) not advertised in programme, but PTT Lyons, relay from either theatre or cabaret.
 Boxall (Thornton Heath): Hanover, relaying dance music from Hamburg.
@@ -107,7 +107,7 @@ Dado (W. 11): Madrid (EAJ7), La Favorita (Donizetti).
 Robinson (Bolton): (1) Possibly Stockholm; (2) 6MI amateur Douglas, (I.O.M.) or 6NI, amateur, Bootle, Lancs.; (3) Koenigsberg (English lesson).
 J. U. B. (Bellingham): Kalundborg, relay of Copenhagen.
 Det 2LF (Worthing): We suggest that you heard amateur transmissions, but cannot trace as you give no call signs.
-Leonides (Harrow): (1) Yes, Huizen (Holland); (2) no.
+Leonides) (Harrow): (1) Yes, Huizen (Holland); (2) no.
 Hillside (Bickley): Yes, quite possibly Luxemburg; details of programme not published.
 N.C. Signals (York): Madrid (EAJ7) La Favorita (Donizetti).
 Curious (Huddersfield): Apparently a U.S.A. station; possibly WGY (Schenectady), we cannot trace the relay.
@@ -132,23 +132,20 @@ Padre (Grays): Government wireless station at Mitcham.
 Kingsteignton (Kingsteignton): Some estimation of W.L. must be given; regret, cannot trace. No coupon sent.
 Miskinlte (Newport, I.O.W.): Madrid (EAJ7).
 Quarlitur (Faine): The coacert was apparently from Leningrad, but the QSL was received from a wireless fog beacon; possibly Scilly Isles.
-Safety (Bexhill): We know of no Scandinavian station giving such.
-Jumbo (Guildford): (1) Vienna (Rosenhugel). (2) Bordeaux-Radio-Sud-Ouest on 237 m.
-E. A. Wells: (1) Jersey amateur, but cannot trace; (2 and 3) regret, but can not trace from details given.
-America (Stillorgan): (1) details too vague; regret, cannot trace, (2) if foreign, cannot trace (3) no European station advertised to work so late, (3) yes, all received direct.
-A. E. (Bacup): (1) WCCO (Minneapolis) (2) PTT Lyons, relay from theatre or cabaret.
+Safety (Bexhill): We know of no Scandinavian station giving such.an early news transmission, unless this be a local broadcast from Malmö. Were it not for the fact that you say it was not German, we should suggest that it was Kiel relaying Hamburg.
+Jumbo (Guildford): (1) Vienna (Rosenhügel) (2) Bordeaux-Radio-Sud-Ouest on 237 m. (3) regret, but cannot trace; (4) Jersey amateur, but cannot trace; (2 and 3) regret, but cannot trace from details given.
+America (Stillorgan): (1) details too vague; regret, cannot trace, (2) if foreign, cannot trace as no European station advertised to work so late, (3) yes, all received direct.
+A. E. (Bacup): (1) WCCO (Minneapolis) or WTAM (Cleveland), (2) PTT Lyons, relay from theatre or cabaret.
 Cranbrook (London): Copenhagen, relaying dance music from the Restaurant Nimb until 1 a.m. G.M.T.
-Evening Echo (Cobh Irish Free State): Kalundborg, relaying Copenhagen; a relay of dance music from the Restaurant Nimb until 1 a.m. G.M.T.
-V.H.V.: (28) Either WCCO (Minneapolis) or WTAM (Cleveland), (29) if WL, correct, KPO (San Francisco), (30) WOW (Omaha), (31) KGO (Oakland), (32) possibly WLW (New York) on 370.2 m., (33) WGBS (New York) on 348.6 m., (34) possibly KMOX (St. Louis), (35) details too vague, regret cannot trace, (36) WHAM (New York), (37) WG (New York) on 293.9 m.
-Qui Vive (Boston): regret, but it is impossible to trace stations heard without some estimate of WL.
-Trebreh (Littlehampton): Possibly WLW (Cincinnati) on 428.6 m., but cannot confirm.
+Evening Echo (Cobh, Irish Free State): Kalundborg, relaying Copenhagen; a relay of dance music from the Restaurant Nimb until 1 a.m. G.M.T.
+V.H.V.: (28) Either WCCO (Minneapolis) or WTAM (Cleveland), (29) if WL correct, KPO (San Francisco), (30) WOW (Omaha), (31) KGO (Oakland), (32) possibly WLM (New York) on 370·2 m., (33) WGBS (New York) on 348·6 m., (34) possibly KMOX (St. Louis), (35) details too vague, regret cannot trace, (36) WHAM (New York), (37) possibly WJZ (New York) on 293·9 m.
+Qui Vive (Boston): WJZ (New York), but it is impossible to trace stations heard without some estimate of WL.
+Trebreh (Littlehampton): Possibly WLW (Cincinnati) on 428·6 m., but cannot confirm.
 Dryhurst (Bridgewater): Amateur, but cannot trace call-sign.
-Nobby Clark (Maidenhead): (1) Copenhagen (modern dance music), (2) possibly Copenhagen, relaying Oslo (Revue), (3) Salamanca (EAJ22), (4) if WL, correct Leningrad, but Warsaw (1111 m.) was relaying opera from the Opera House at Kattowitz at that time, (5) Posen, relaying opera from the Opera House at Kattowitz, (6) Fredrikstad, relaying Oslo; (Revue) by Madam Reymond Engum, (8) Leipzig.
-Whoaoop (Ealing): (1) Possibly WGBS (New York) on 348.6 m., but cannot confirm, (2) PTT Lyons, relaying from theatre or cabaret.
-Keppel (Bay): Stuttgart, relaying Frankfurt-on-Main, (2) regret, cannot trace as you give no estimate of WL.
-The Cynic (S.W.2.): (a) Possibly Madrid (EAJ7), (b) Aachen (Aix-la-Chapelle), (c) possibly Copenhagen; classical and dance music from Cologne, (d) Petit Parisien relaying 5XX, not advertised in programme, (d) Zeesen was transmitting Berlin from about 7 p.m. G.M.T.
-Zeesen: (38) Berlin (Witzleben) the Berlin programme.
-Bobbin (Salfords): Essen. (b) insufficient detail, cannot trace.
+Nobby Clark (Maidenhead): (1) Copenhagen (modern dance music), (2) possibly Copenhagen, relaying Oslo (Revue), (3) Salamanca (EAJ22), (4) if WL. correct Leningrad, but Warsaw (111·1 m.) was relaying opera from the Opera House at Kattowitz at that time, (5) Posen, relaying opera from the Opera House at Kattowitz, (6) Fredriksstad, relaying Oslo; (7) Bergen (French lesson) by Madam Reymond Engum, (8) Leipzig.
+Whoaoop (Ealing): (1) Possibly WGBS (New York) on 348·6 m., but cannot confirm, (2) PTT Lyons, relaying from theatre or cabaret, (2) regret, cannot trace as you give no estimate of WL.
+Keppel (Bay): Possibly Stuttgart, relaying Frankfurt-on-Main, (2) regret, cannot trace as you give no estimate of WL.
+The Cynic (S.W.2.): (1) possibly relaying (2) Madrid (EAJ7), (3) Aachen (Aix-la-Chapelle), (4) classical and dance music from Cologne, (c) possibly Copenhagen relaying 5XX, not advertised in programme, (d) Petit Parisien (Paris), on about 7 p.m. G.M.T. Zeesen (183) Berlin Witzleben on the Berlin programme.(b) insufficient detail, cannot trace.
 Bobbin (Salford): (1) Berlin (Witzleben) relaying dance music from the Hotel Adlon until 11.30 p.m. G.M.T., (2) Copenhagen.
 W. L. T. (Brighton): (1) WGY (Schenectady direct), (2) yes, Leningrad.
 Kerpar (Grimsby): WGY (Schenectady) direct, banquet given to President Cosgrave of the Irish Free State; coupon must be sent with each enquiry.
@@ -170,29 +167,30 @@ Duke (Liverpool): PTT Paris, also relayed by PTT Lyons.
 Short Wave (Hunstanton): Regret, but the measure to trace these short-wave transmissions unless the measure of WL is positive.
 Bickett (Bicester): Possibly WGY (Schenectady direct).
 Dee Bee (Luton): Yes; WGY (East Pittsburgh) on 62 m.
-Poche (Grimsby): yes, this (East Pittsburgh) on 62 m. (2) yes, WJZ (Boundbrook), (3) yes, WEAF (New York).
+Poche (Grimsby): yes, this (East Pittsburgh) on 62 m.
 Pocho (Grimsby): yes, this received direct at that time.
-H. R. (Reading): WGY (Schenectady) direct.
-Fishing (Nelson): Yes, relayed by Copenhagen.
-J. Waiver (Yorks): Yes, WGY (Schenectady).
+H. R. (Reading): WGY (Schenectady) direct.[Easl Pittsburgh), (4) W BZ (Springfield, (5) KDKA (Pittsburgh), (6) W PG (Atlantic City) 272 m., (7) yes, if WLW correct, Salamanca (EAJ22); possibly relaying Radio Espafla, Madrid.
+Fishing (Nelson): Yes, WGY (Schenectady) received, yes, relayed by Copenhagen,
+Walter (Yorks): Yes, WGY (Schenectady) direct.
 Twirp (Workington): See previous answer.
-E. Enness (Radstock): Yes, this is Hamburg. Time signal given at 5.55 a.m. and G.M.T. followed by news and weather forecast at 6 a.m. and G.M.T., the housewife at 7 p.m. G.M.T.
+Enness (Radstock): Yes, this is Hamburg. Time signal given at 5.55 a.m. G.M.T. followed by news and weather forecast at 6 a.m., and talk for the housewife at 7 p.m. G.M.T.
 Twister (Edinburgh): (1) Madrid (EAJ7) see programme in World-Radio, (2) possibly WGY (Schenectady) but cannot confirm as details are too vague.
 L. W. (Doncaster): This was Kalundborg, relaying Copenhagen, working later than advertised in programme.
-Gee Gee (Seven Kings): This was a relay of PTT Paris possibly PTT Marseilles.
+Gee Gee (Seven Kings): This was a relay of PTT Paris, possibly PTT Marseilles.
 G. H. L. N. I. (Islington): PTT Lyons, relaying from theatre or cabaret.
-Deane (Fairfield): WGY (Schenectady) received direct ; it is impossible to say what station closed at 12.5 a.m. Coupon must be sent with each query.
-Searcher (Lurgan): (1) Warsaw (a lady announcer), (2) Kalundborg, relaying dance music from the Restaurant Nimlo at Copenhagen.
+Deane (Fairfield): WGY (Schenectady) received direct - it is impossible to say what station closed at 12.5 a.m. Coupon must be sent with each query.
+Searcher (Lurgan): (1) Warsaw (lady announcer). (2) Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen.
 May (Preston): Amateur, 2IL (Southampton).
-Duke (Liverpool): PTT Paris ; also relayed by PTT Lyons.
-Short Wave (Hunstanton): Repeat, but it is impossible to trace these short-wave transmissions unless the measurement of WL is positive.
+Duke (Liverpool): PTT Paris; also relayed by PTT Lyons.
+Short Wave (Hunstanton): Report, but it is impossible to trace these short-wave transmissions unless the measurement of WL is positive.
 Bickett (Bicester): Yes, WGY (Schenectady) direct.
 Dee Bee (Luton): Possibly KDKA (East Pittsburgh) on 62 m.
-Poche (Grimsby): Yes, WGY (Schenectady) received direct at that time.
-S. P. H. (Redditch): Valver (Birmingham): WGY (Schenectady) direct.
-Wann and Bath: (1) No, this was WGY (Schenectady) direct, WPG (Atlantic City), (3) yes, this station is now 5 kw.
-W.J.S. (Poplar), Confirmation (Edinburgh), A. T. C. (Aston), Normidan (Ilford): Yes, WGY (Schenectady) direct.
-Padshadan: (2) WGY (Schenectady) received direct, (1) WTAM (Cleveland).
+Poche (Grimsby): Yes, WGY (Schenectady) received direct at that time. (2) yes, WJZ (Boundbrook), (3) yes, WEAF (New York).
+S. P. H. (Redditch):
+Valver (Birmingham): WGY (Schenectady) direct.
+Wannand (Bath): (1) No, this was WGY (Schenectady) direct, (2) this was WPG (Atlantic City), (3) yes, this station is now 5 kw.
+W. J. S. (Poplar), Confirmation (Edinburgh), A. T. C. (Aston), Normid (Ilford): Yes, WGY (Schenectady) received direct.
+Pads (Cleveland): (2) WGY (Schenectady) received direct, (1) WTAM (Cleveland).
 Max (Dewsbury): Yes, possibly 3LO (Melbourne) on 32 m., but cannot confirm.
-Boxhall (Ashington): (1) Nd WL given, cannot trace, (2) interval signal, Stuttgart.
-Marcel Hullot (Paris 16e): 13 Janv. Daventry (5XX) était le seul poste émettant musique de danse jusqu’à minuit. Ou bien une harmonique ou bien un poste étranger, mais cela annonce a cet effet dans les programmes, (2) 25 Janv. La voiture n’est pas la première observation rapportée concernant l’émission Italienne mais nous n'avons pas d'information concernant un poste sur cette longueur d’onde.
+Boxall (Ashington): (1) Nd WL given, cannot trace, (2) interval signal, Stuttgart.
+Marcel Hullot (Paris 16e): 13 Janv. Daventry (5XX) était le seul poste émettant musique de danse jusqu’à minuit. Ou bien une harmonique ou bien un poste étranger, mais aucune annonce à cet effet dans les programmes, (2) 25 Janv. La vôtre n’est pas la première observation rapportée concernant l’émission Italienne mais nous n’avons pas d’information concernant un poste sur cette longueur d’onde.

@@ -25,11 +25,11 @@ Best similarity found: 0.625
 
 Closest matches (top 3):
   1. Index 0, similarity: 0.625 (first_8_chars)
-     Line: Dovercourt: Moscow (Komintern). Leipzig (extended dance transmission).
+     Line: Dovercourt: Moscow (Komintern).
   2. Index 0, similarity: 0.600 (first_12_chars)
-     Line: Dovercourt: Moscow (Komintern). Leipzig (extended dance transmission).
+     Line: Dovercourt: Moscow (Komintern).
   3. Index 0, similarity: 0.300 (reporter_and_content)
      Reporter similarity: 0.500
      Content similarity: 0.000
-     Line: Dovercourt: Moscow (Komintern). Leipzig (extended dance transmission).
+     Line: Dovercourt: Moscow (Komintern).
 

@@ -51,8 +51,7 @@ Scannell: a.m. or p.m. ? If p.m. Radio Paris.
 W. H. Wright: Madrid (EAJ7).
 Starlight: (1) San Sebastian, (2) Madrid (EAJ4).
 Susie (Ilford): Breslau relay of Berlin (Rhineland Commemoration Festival).
-3 Unidyne: (2) Frankfort-on-Main relay of Cassel’s relay of Berlin.
-(1) Vienna (Faust).
+3 Unidyne: (2) Frankfort-on-Main relay of Cassel’s relay of Berlin. (1) Vienna (Faust).
 Little - Wilfred: Moscow (RDW).
 E. B. H. D.: Graz (Faust).
 Joe: (a) too vague, (7) Rome.
@@ -80,19 +79,19 @@ Keen: amateur (Eltham, London).
 E. G. D.: Rome.
 Homer: no W.L. given.
 Mill Lad: probably KGO (Oakland, U.S.A.).
-5 Neutro- dyne: cannot trace, not in programmes.
+5 Neutro-dyne: cannot trace, not in programmes.
 H. G. S. (King's Lynn): Hilversum.
 Secrecy: Petit Parisien.
 Trinayne: Barcelona (EAJ13).
 Annibale (Swadlincote): PTT, Paris; relay of Fête in Lyons.
-Tinkabell: Hilversum. (1) no detailed programmes, presumably Hamburg; (2) Seville (EAJ5); (3) PTT, Paris, relay of Fête in Lyons.
+Tinkabell: Hilversum. (1) no detailed programmes, presumably Hamburg; (2) Seville (EAJ5). (3) PTT, Paris, relay of Fête in Lyons.
 Neutro-Straight: cannot trace, probably harmonic.
 A.R.: 114. Dresden, relaying Leipzig.
 Sweet Pea (Tunbridge Wells): Brunn (521 m).
 Sunday Searcher: (10 a.m.) probably Moscow (2 or 3m. above Hamburg); Graz relaying Vienna.
 Maylane: probably WGY (Schenectady).
 Clachnacuddin: Berlin.
-L. G. (Eastwood): no W.L. given. Vienna gave “Faust” at that time.
+L. G. (Eastwood): no W.L. given Vienna gave “Faust” at that time.
 Hill Crest (Kirby Hill): Madrid (EAJ7).
 Philbob: Berlin (Fidelio).
 Sans Filist: are you sure of the W.L.? Zurich at that time.
@@ -108,7 +107,7 @@ Four Valve (Bristol): Bilbao (EAJ11).
 BM/FAAA: Madrid (EAJ7).
 Ulster: (1) presumably an amateur; (3) Breslau; (4) can trace no station, probably a gramophone record by amateur experimenting.
 Hypo (Penge): cannot trace item.
-P.A.J. (Dundee): would tally with WJAZ (Chicago 322.4 m.).
+P.A.J. (Dundee): would tally with WJAZ (Chicago 322. 4 m.).
 Super One (Reading): presumably Newcastle-on-Tyne.
 Quikko: details are very vague, also W.L. possibly Dortmund, relay of 6 days’ cycle race.
 Burwood (Carlisle): if 2.30 p.m. cannot trace any station.
@@ -117,9 +116,9 @@ J.W.L.: Sterling.
 L.F.T. (Beckenham): Petit Parisien.
 Trigon British Amateurs: C.N.R.: Rome testing.
 Polliwog (Middlesbro'): Berlin.
-E. A. A.: (1) Bilbao (EAJ9); (2) Bilbao (EAJ9); (3) Breslau; (4) Barcelona (EAJ1).
+E. A. A.: (1): Bilbao (EAJ9); (2) Bilbao (EAJ9); (3) Breslau; (4) Barcelona (EAJ1).
 Biffin (Exeter): Koenigs wusterhausen.
-Locarno 5WK: (a) Could be only Lyon la Doua, that W.L.; (b) probably Bilbao (EAJ11).
+Locarno 5WK: (a) Could be only Lyon la Doua, that W.L. (b) probably Bilbao (EAJ11).
 Metrocl (Liverpool): Vienna.
 Investigator: cannot trace perhaps KDKA (309 m.).
 L.42914: Hilversum (Broadcast to Hospitals).
@@ -127,36 +126,22 @@ S. M. (Catford): Hamburg (“Music or Nations”?).
 A. V. B. (Crofton Park): Madrid (EAJ5).
 H. M. (Doncaster): cannot trace.
 4 Valve (Chingford): details too vague.
-J. W. L. (Penzance): Petit Parisien higher W.L. Sure, here is the transcription:
-Bootlace: tallies with Oslo.
-Four Valves (Bristol): Bilbao (EAJ11).
-BM/FAAA: Madrid (EAJ7).
-Ulster: (1) presumably an amateur; (3) Breslau; (4) can trace no station, probably a gramophone record by amateurs experimenting.
-Hypo (Penge): cannot trace item.
-P.A.J. (Dundee): presumably Newcastle-on-Tyne.
-Quikko (Reading): details are very vague, also W.L.; possibly Dortmund, relay of 6 days’ cycle race.
-Burwood (Carlisle): if 2.30 p.m. cannot trace any station.
-Mole; Senex; BAA (Waterford): San Sebastian.
-J.W.L.: Sterling.
-L.F.T.; Beckenham: Petit Parisien.
-Trigon: British Amateur.
-C.N.R.: Rome testing.
+J.W.L. (Beckenham): Petit Parisien.
+Trigon: British Amateur C.N.R.: Rome testing.
 Polliwog (Middlesbro’): Berlin.
 E.A.A.: (1) Bilbao (EAJ9); (2) Bilbao (EAJ9); (3) Breslau; (4) Barcelona (EAJ1).
 Biffin (Exeter): Koenigs-wusterhausen.
-Locarno 5WK: (a) Could be only Lyon la Doua on that W.L.; (b) probably Bilbao (EAJ11).
-Metrocoil (Liverpool): Vienna.
-Investigator: cannot trace perhaps BDIXA (309 m.).
+Locarno 5WK: (a) Could be only Lyon la Doua on that W.L.; (b) probably Bilbao (EAJ11), perhaps BDKA (309 m).
 L.42914: Hilversum (Broadcast to Hospitals).
-L. M. (Catford): Hamburg (“Music of all Nations”).
-A. V. B. (Crofton Park): Madrid (EAJ7).
-H. M. M. (Doncaster): cannot trace.
-Vale (Northforeland): details too vague.
-J.W.L. (Penzance): Petit Parisien or higher W.L.
+L.M. (Catford): Hamburg (“Music of all Nations”).
+A.V.B. (Crofton Park): Madrid (EAJ7).
+F.H.M. (Doncaster): cannot trace.
+Valve (Chelmsford): details too vague.
+J.W.L. (Penzance): Petit Parisien on higher W.L.
 3 H. T. L. (Leeds): (1) cannot trace; (2) Stuttgart (Cabaret).
 Rover (Chester): too vague; would tally with Hamburg and dance music followed after short interval.
 Oom Jan (Consett): cannot say definitely Madrid (EAJ6) was wkg. late.
-C. B. C. (Caterham): (a) new Rome station testing; (b) Marseilles, PTT.
+C.B.G. (Caterham): (a) new Rome station testing; (b) Marseilles, PTT.
 Tic-Tac: Madrid (EAJ7).
 Quercus (Middlesbrough): Hamburg (“Songs and Music of all Nations”).
 BM/WW20D: Barcelona (EAJ1).
@@ -164,4 +149,4 @@ Fatty (Gainsborough): Madrid (EAJ7).
 Burdel No. 1 (Birmingham): probably Barcelona (EAJ1).
 Pony Moore (Westbourne Park): Madrid EAJ7 (Spain uses G.M.T.).
 Wickholm (Catford): cannot trace; are you sure this was not Hilversum?
-F. S. A. (Edinburgh): Buda-Pesth.
+F.S.A. (Edinburgh): Buda-Pesth.

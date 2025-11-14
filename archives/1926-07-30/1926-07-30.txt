@@ -9,7 +9,7 @@ Halfah: Cannot trace.
 Denton (4): Elberfeld relay of Muenster; (5) Buda-Pesth (56 m).
 Papworth: Italian amateur’s experimental transmission; cannot trace, address, etc.
 J.G. (Derry): Surely Berlin (1,300 m).
-C.R.B. (Worcester): (1) Muenster, relay of Hamburg (Hotel Continental, Hanover); (2) Hamburg; (3) Sorö, relay of Copenhagen.
+C.R.B. (Worcester): (1) Muenster, relay of Hamburg (Hotel Continental, Hanover); (2) Hamburg (3) Sorö, relay of Copenhagen.
 S.L.B. (WC1): Cannot trace if received on loud-speaker, why so scanty details?
 Jopie (Nottingham): (a) Graz relay of Vienna; (b) Frankfort-on-Main. Closed down with German National Anthem.
 Round the Stations (Carlisle): If p.m. Hamburg relay of Hanover.
@@ -47,13 +47,13 @@ Night Searcher (Derby): Madrid (EAJ7).
 J.B.S.C.: (1) Madrid (EAJ7); (2) Milan; (3) Barcelona (EAJ1).
 Chemico: Madrid (EAJ7).
 Quixer: (1) Milan; (2) Rome.
-H.W.B.: (1) Rome; (2) Bordeaux; relay of PTT, (3) Copenhagen.
-J.W.S. (Formby): Yes EAJ7, station is in the Paris-Madrid building.
-C. Davis: Does not tally with any advertised programme, but believe this was PTT, Toulouse.
+H.W.B.: (1) Rome; (2) Bordeaux, relay of PTT; (3) Copenhagen.
+J.W.S. (Formby): Yes, EAJ7, station is in the Paris-Madrid building.
+C. Davies: Does not tally with any advertised programme, but believe this was PTT, Toulouse.
 Short Wave (Derby): Milan; (2) possibly WGY or KDKA on short wave.
-Maclagan (Rothesay): Koenigswusterhausen testing.
-Denton: (1) No details available, possibly Buda-Pesth; (2) cannot trace, was this not Sheffield or Stoke, relay of London? (3) Stuttgart (also heard by us).
-C.G/PB.3: Hamburg; (1) Oslo; (2) Madrid (EAJ7).
+Maclagan (Rothesay): Koenigswustahausen testing.
+Denton: (1) No details available, possibly Buda-Pesth; (2) cannot trace; was this not Sheffield or Stoke, relay of London? (3) Stuttgart (also heard by us).
+C.G./PB.3: Hamburg, (1) Oslo; (2) Madrid (EAJ7).
 J.J.C. (Cumberland): All Milan.
 Special Five: Prague.
 Negative: Presumably 1.30 a.m. Berne (extended programme).
@@ -62,24 +62,25 @@ M.B. (Weston-super-Mare): Prague (relay from Weinberge Radio Palace).
 Abracadabra (2): San Sebastian.
 Tropadyne Five: Frankfort-on-Main.
 Ajax (E8): Frankfort-on-Main, relay of Berlin.
-G.R.C. (E. Walver High Wycombe): Frankfort relay of Berlin; Rome.
+G.R.C.: (It will not harmonize, presumably German amateur relay).
+Powerful Valver (High Wycombe): Frankfort relay of Berlin.
+E.L.T. (Kent): Rome.
 I.T.C.H. (Newcastle-on-Tyne): Buda-Pesth (560 m).
-G.E.M. (Wimbledon): Wavelength apparently wrong - Berlin (504 m).
+G.E.M. (Wimbledon): Wavelength apparently wrong; Berlin (504 m).
 B.A.L. (Addiscombe): Brussels, afternoon concert.
 Crispin (2): Madrid, (EAJ 7).
-Nobby Wraysbury: Madrid, EAJ 7.
-N.B. (Middlesbro): (1) Cadiz, EAJ 3, experimental transmission; (2) Madrid, (EAJ 6); (3) cannot trace.
+Nobby (Wraysbury): Madrid, EAJ 7.
+N.B. (Middlesbro’): (1) Cadiz, EAJ 3, experimental transmission; (2) Madrid (EAJ 6); (3) cannot trace.
 J.A. (Wimbledon): Prague.
 O.V.O. (Edinburgh): Details rather vague; suggest Moscow or Karlsborg.
-Super-set (Dublin): Possibly CNRO, Ottawa (Ont.).
-Reflex, D.L. (Kent): WL, apparently wrong; it was not advertised in any German programme.
-Snipe (W2): Brussels (afternoon concert).
-Crispin (1): British amateur - cannot trace.
-Grid-leak (Glasgow): Berlin (504 m).
+Super-set (Dublin): Possibly CNRO, Ottawa (Ont).
+Reflex, D.L. (Kent): WL, apparently wrong; think it was Brussels (afternoon concert).
+Snipe (W2): British amateur - cannot trace.
+Crispin (1): Berlin (504 m).
+Grid-leak (Glasgow): Berlin.
 Wavecatcher (Putney): Frankfort-on-Main.
-G.H.A (Worcester): Berlin. (The Mastersingers of Nuremberg, relayed from State Opera House.)
+G.H.A (Worcester): Berlin. (The Mastersingers of Nuremberg, relayed from State Opera House).
 Organist (S.E.13): Hilversum, relay of Kurhaus, Scheveningen.
 C.W.S. (Fulham): Muenster.
 C.D. (London): Hilversum.
-G.M. Honiley: Hilversum (Roermond Tattoo).
-S.J.M. (Swindon): Aberdeen relaying Albert Lemaire and his Orchestra from Palais de Danse, Aberdeen.
+S.J.M. (Swindon): Honiley - Hilversum (Roermond Tattoo); also Bournemouth and Aberdeen relaying Albert Lemaire and his Orchestra from the Palais de Danse, Aberdeen.

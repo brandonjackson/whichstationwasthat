@@ -4,28 +4,20 @@ Combine Report for 1927-11-11
 Merge 1: IMG_3141.txt + IMG_3142.txt
 ------------------------------------------------------------
 Match found: True
-Match index in file B: 0
+Match index in file B: 2
 Match strength: 1.000
 
 File A last line: S. T. 100 (Birmingham): Kalundborg, relaying dance music from the Restaurant Nimb of Copenhagen. Chimes from the Town Hall at midnight (11 p.m. G.M.T.).
-File B matching line: S.T. 100 (Birmingham): Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen. Chimes from the Town Hall at midnight (11 p.m. G.M.T.). Rags (West Lothian): Munich. On 30/10/27, relaying orchestral concert from the Café Stadt; Wien. Lymp 4 (Exeter): 5CK, amateur (Nottingham). 1 Valve (Seaton): (1) Your details would only tally with Vienna, which was broadcasting a musical comedy at that time (Der Liebe Augustin); (2) Yes, Breslau. G. Cooke (Blackpool): Warsaw (vocal and instrumental concert). Very Mystified (Didcot): W.L. apparently wrong, possibly Warsaw. Scrounger (Hove): (1) Koenigs Wusterhausen, relaying Berlin. Talk before dance music, (2) Stamboul (Turkey), about 1,180 m. Grid Leak (Leicester): Moscow (Comintern (RDW)). Special bulletins broadcast for the benefit of men's clubs and rest houses; they are read slowly in order to allow transcription to be made of the news. Reina Calafia: No, this was Breslau. The German National Anthem is played to the melody of the old Austrian Hymn of which the music is by Haydn. Queen Fisher: Basle, relaying Berne. Glebo (Wallasey): Apparently, Frankfurt-on-Main, relay of the third Friday Concert. Ginger: Frankfurt-on-Main. Details of programme were not advertised. Grip (Merthyr): It is impossible to identify station heard without some estimate of W.L. There appears little doubt that this was an Italian amateur. Neutrodyne (Dorking): Yes, 2XAF, short-wave transmitter of WGY (Schenectady). The General Electric Company often experiment in relays of the British transmissions, and it is quite possible on this occasion it was taking Daventry, but cannot confirm. Short Wave (Lincs): details much too vague; regret cannot trace. F. N. F. (Upminster): Kalundborg, relaying German lesson from Copenhagen. Chimes taken from the Town Hall at 12 noon (11 a.m. G.M.T.). Water Pipe (Edinburgh): Leningrad. J. Gibson (Glasgow): Apparently a test, but details too vague, regret, cannot trace. 2 Valver (New Southgate): (1) Nürnberg, relaying guitar concert from Munich, (2) Barcelona (EAJ7), relaying Madrid (EAJ7). Selection from a musical play. G. E. C. (West Derby): Moscow Comintern (RDW). Jam (Bristol): (1) Muenster, relaying Dortmund. Organ recital relayed from the St. Reinoldi Church, followed by a relay of a talk from Cologne "via" Langenberg, (2) Your details are too vague, regret, cannot trace. Schoolboy: No, not Graz, this was Falun, a relay of Stockholm on 356.1 m. Big Ben (S.W.10): (1) Radio L.L. (Paris, 2) Milan, a lady announcer; (3) Time signal, followed by relay of operatic; (4) Nürnberg, a test.
+File B matching line: S. T. 100 (Birmingham): Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen. Chimes from the Town Hall at midnight (11 p.m. G.M.T.).
 
 Merge 2: merged_1 + IMG_3143.txt
 ------------------------------------------------------------
-Match found: False
-No matching line found - files concatenated.
-File A last line: S.T. 100 (Birmingham): Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen. Chimes from the Town Hall at midnight (11 p.m. G.M.T.). Rags (West Lothian): Munich. On 30/10/27, relaying orchestral concert from the Café Stadt; Wien. Lymp 4 (Exeter): 5CK, amateur (Nottingham). 1 Valve (Seaton): (1) Your details would only tally with Vienna, which was broadcasting a musical comedy at that time (Der Liebe Augustin); (2) Yes, Breslau. G. Cooke (Blackpool): Warsaw (vocal and instrumental concert). Very Mystified (Didcot): W.L. apparently wrong, possibly Warsaw. Scrounger (Hove): (1) Koenigs Wusterhausen, relaying Berlin. Talk before dance music, (2) Stamboul (Turkey), about 1,180 m. Grid Leak (Leicester): Moscow (Comintern (RDW)). Special bulletins broadcast for the benefit of men's clubs and rest houses; they are read slowly in order to allow transcription to be made of the news. Reina Calafia: No, this was Breslau. The German National Anthem is played to the melody of the old Austrian Hymn of which the music is by Haydn. Queen Fisher: Basle, relaying Berne. Glebo (Wallasey): Apparently, Frankfurt-on-Main, relay of the third Friday Concert. Ginger: Frankfurt-on-Main. Details of programme were not advertised. Grip (Merthyr): It is impossible to identify station heard without some estimate of W.L. There appears little doubt that this was an Italian amateur. Neutrodyne (Dorking): Yes, 2XAF, short-wave transmitter of WGY (Schenectady). The General Electric Company often experiment in relays of the British transmissions, and it is quite possible on this occasion it was taking Daventry, but cannot confirm. Short Wave (Lincs): details much too vague; regret cannot trace. F. N. F. (Upminster): Kalundborg, relaying German lesson from Copenhagen. Chimes taken from the Town Hall at 12 noon (11 a.m. G.M.T.). Water Pipe (Edinburgh): Leningrad. J. Gibson (Glasgow): Apparently a test, but details too vague, regret, cannot trace. 2 Valver (New Southgate): (1) Nürnberg, relaying guitar concert from Munich, (2) Barcelona (EAJ7), relaying Madrid (EAJ7). Selection from a musical play. G. E. C. (West Derby): Moscow Comintern (RDW). Jam (Bristol): (1) Muenster, relaying Dortmund. Organ recital relayed from the St. Reinoldi Church, followed by a relay of a talk from Cologne "via" Langenberg, (2) Your details are too vague, regret, cannot trace. Schoolboy: No, not Graz, this was Falun, a relay of Stockholm on 356.1 m. Big Ben (S.W.10): (1) Radio L.L. (Paris, 2) Milan, a lady announcer; (3) Time signal, followed by relay of operatic; (4) Nürnberg, a test.
-Best similarity found: 0.300
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
 
-Closest matches (top 3):
-  1. Index 14, similarity: 0.480 (reporter_and_content)
-     Reporter similarity: 0.133
-     Content similarity: 1.000
-     Line: Wafty (Witney): Kalundborg, relaying dance music from Copenhagen.
-  2. Index 16, similarity: 0.300 (first_12_chars)
-     Line: Gotham (Bristol): Amateur transmission (gramophone records).
-  3. Index 3, similarity: 0.200 (first_12_chars)
-     Line: Schoolboy (N.): No, not Graz, this was Fahlun, a relay of Stockholm on 356.1 m.
+File A last line: Big Ben (S.W.10): (1) Radio L.L. (Paris), (2) Milan, a lady announcer. Time signal, followed by relay of operatic (3) Nurnberg, guitar music.
+File B matching line: Big Ben (S.W.10): (1) Radio LL, Paris. (2) Milan (a lady announcer). Time signal, followed by relay of operetta. (3) Nürnberg; relaying Munich. News, followed by Cabaret.
 
 Merge 3: merged_2 + IMG_3144.txt
 ------------------------------------------------------------

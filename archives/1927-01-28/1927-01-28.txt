@@ -74,32 +74,32 @@ Spalding: Radio-Paris.
 Eddis (Llaniarchfain): Amateur transmitter (Blackpool).
 Neddy (Burgess Hill): (1) Frankfort-on-Main (health exercises), (2) Hamburg, Bremen, etc. (News Bulletin).
 H. H. (Kensington): Marseilles.
-Gerrards (New Malden): From details given it is difficult to establish which station might have interfered, but it would point to Leipzig or Graz.
-Hammans (Gillingham): Many thanks for the information, but this is not the station to which reference was made in ‘Via the Stations’.
-Hughes (Cambridge): We very much appreciate the information sent.
+Gerardts (New Malden): From details given it is difficult to establish which station might have interfered, but it would point to Leipzig or Graz.
+Hammas (Gillingham): Many thanks for the information, but this is not the station to which reference was made in “
+Via Etna and Hughes (Newbridge): We very much appreciate the information sent.
 3 Valve (Newton Abbot): Breslau (Divine Service).
-B. R. G. (Ben Rhydding): Your estimation of WL, appears to be high, as items tally with the Warsaw relay of the Philharmonic concert at that time.
+B. R. G. (Ben Rhydding): Your estimation of WL. appears to be high as items tally with the Warsaw relay of the Philharmonic concert at that time.
 Di Gester (Basingstoke): (2) Yes, Toulouse (PTT) relay of Paris.
 G. B. (Lincoln): Rather vague, but would tally with Frankfort.
 Space Scraper (St. Leonards-on-Sea): Warsaw; relay of concert from Philharmonic Hall.
 Davies (Forest Hill): Bruenn.
 Cowan (Hyde Park W.2): Possibly Eskilstuna; it was the Stockholm programme.
-Courser 4V (Bridge of Weir): (1) Manchester (“Ceremony of the Vacant Chair”), (2) if WL, correct Varberg, relaying Stockholm.
+Courser 4V (Bridge of Weir): (1) Manchester (“Ceremony of the Vacant Chair”). (2) if WL. correct Varberg, relaying Stockholm.
 Wal-Wal (Dorchester): Definitely Moscow (RDW).
 Peterborough City: Vienna.
-Phil Garlic: Yes, Barcelona (EAJ1).
+Phil Garlic: Yes, Barcelona [EAJ].
 A. B. G. (Muswell Hill): (436 m. ?) Bruenn.
 Holmes (Waltham): Warsaw.
 Poor Papa: (8) Langenberg. (9) Karlsborg relaying Stockholm (news).
-Felstree (Cornwall): Vienna.
+Felstre (Cornwall): Vienna.
 Jacko (Tunbridge Wells): Warsaw.
 Smith (Croydon): Moscow (RDW).
 Piscus: Eskilstuna (relay of opera from Stockholm).
 Ellivas (Sheffield): Kovno.
 M. A. S. (Gloucester): Kovno.
-A. D. J. A. (Leicester): (1) Kovno (news) (2) Zurich, (3) not according to programme: it is seldom that foreign relays are advertised.
-Querist (Lowestoft): San Sebastian (EAJ8).
-Solodyne (Cardiff): Probably Eskilstuna; it was the Stockholm programme.
+A. D. J. A. (Leicester): (1) Kovno (news) (2) Zurich, (3) not according to programme; it is seldom that foreign relays are advertised.
+Queriest (Lowestoft): San Sebastian (EAJ8).
+Solodyne (Cardiff):Probably Eskilstuna; it was the Stockholm programme.
 Chad (Leeds): (1) Cadiz (EAJ3), (3) Kiel relaying Hanover.
 Narran (Grimsby): (a) Yes, Bordeaux; it would close down at about that time; (b) Nuremberg.
 Mystified (Cambridge): You do not give a WL; possibly Eiffel Tower.
@@ -155,6 +155,47 @@ Devonian 75: Barcelona (EAJ1).
 Songs (Bedford): Sorö relaying Copenhagen? (3) probably Basle.
 A. J. (Bude): Frederikstad relaying orchestral concert from
 Amateur (Cambridge Park, E.11): (2) Yes, Oslo, English lesson.
+Wilkes: (1) Berlin; (2) Leningrad.
+R. O. (Northallerton): We reciprocate your good wishes; you heard Karlsborg relaying opera Faust from Stockholm.
+A. H. (Portsmouth): Berlin.
+Devonian 75: Barcelona (EAJ1).
+Snogs (Bedford): (1) Sorö relaying Copenhagen; (2) Yes, probably Basle; (3) Frederikssatd relaying orchestral concert from Oslo.
+Benedair (Dublin): Not advertised in programmes, but points to Prague.
+Ada Cottrill (Sharpway Gate): Yes, Moscow (RDW). This station is well received in U.K.
+H. G. (Casler): Impossible to trace without some estimation of WL.; there are so many Continental stations giving dance music every night.
+Straight-Three (Winchester): Stuttgart.
+H. W. W. (Basingstoke): (a) Evidently the Leningrad transmitter, possibly relaying Moscow (RDW); (b) Basle relaying Berne; (c) Warsaw, new h.p. station.
+Bonnie Scotland: (3) Breslau.
+W. E. T. (Pontefract): Not advertised in programmes; believe Prague.
+F. Shotbolt (Hastings): Yes, Swansea.
+One-Valve (Newcastle): Berlin.
+B. G. (York): Koenigsberg.
+Richardson (Linton): Moscow (RDW).
+G. Hilton (Manchester): Prague ("Allo Praha!").
+S. C. Jefferson (Woking): Apparently Muenster or Dortmund relaying Hamburg's Borsing relay of some U.S.A. station with Cologne studio.
+H. C. W. (Rugby): Impossible to trace from coil tunes; WL. must be estimated.
+Ajax (Belfast): Possibly Seville (EAJ5).
+J. C. Glasway: Frankfort-on-Main.
+Puzzled (Blackpool): Hamburg (Gram. records before news bulletin).
+Crystal (Hamworthy): Hamburg or Bremen relaying Hamburg.
+Ultra (Kilfeel): Radio-Madrilena, Madrid (EAJ12).
+Searcher (W.13): Frankfort-on-Main relaying Berlin.
+Brighton 3 Valves: Karlsborg relaying Stockholm.
+Charmian (Kettering): Frankfort-on-Main (Gram. records).
+Stan Hay (W.10): Either Marseilles PTT or Algiers; cannot specify as programmes not published.
+Moss: Norddeich (weather report).
+Fledermaus (S.W.2): (1) Cannot trace; (2) Frankfort relaying dance music from Berlin.
+T. E. S. (Blackpool): (1) Barcelona (EAJ13); (2) Are you sure that this was not Barcelona (EAJ1) relaying opera, as per programme?; Milan was also taking an outside broadcast; (3) Marseilles (PTT).
+J. L. (Gorebridge): Yes, Vienna.
+Pluggy (Kingston-on-Thames): No, Kiel.
+M. J. G. (Portsmouth): Berne.
+Bayite (Colwyn Bay): (1) Madrid (EAJ7); (2) Cadiz (EAJ3); (3) Somewhat vague; possibly Barcelona (EAJ1).
+Galway Bay: Sorö relaying Copenhagen.
+Incognito (Rishton): Apparently a relay but no Copenhagen.
+Lissenola 3333 (Southampton): (a) Dublin; (b) Yes, Hilversum; (c) Sorö relaying Copenhagen; (d) Petit Parisien.
+A. E. (Bacup): Malmö or Norrköping relaying Stockholm (Shorthand lesson).
+Rupert (Gt. Marlow): Cannot trace.
+Searcher (Exeter): The item was not advertised in any programme on that date.
 Gold Rooster (N. 7): Amateur (Cambridge Park, E. 11).
 J. W. L. P. Z.: (1) Basle relaying Berne; (2) Sorö relaying Copenhagen.
 Jack Hardy (Bradford): Would tally, as regards time, with WSAL (Cincinnati) 325 m.
