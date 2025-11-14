@@ -1,7 +1,7 @@
 """
 Step 4: Parse Transcripts to CSV
 
-Extracts structured data from combined transcripts using GPT-4o, generating
+Extracts structured data from combined transcripts using GPT-5.1, generating
 weekly CSV files (YYYY-MM-DD.csv) with standardized fields.
 
 Usage:
@@ -54,12 +54,12 @@ def parse_transcript_to_csv(transcript_path: Path, output_csv: Path):
     print(f"📄 {transcript_path.parent.name}: Parsing transcript...")
 
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-5.1-2025-11-13",
         messages=[
             {"role": "system", "content": PARSE_PROMPT},
             {"role": "user", "content": transcript.strip()}
         ],
-        max_tokens=16384,
+        max_completion_tokens=16384,
         temperature=0,
     )
 

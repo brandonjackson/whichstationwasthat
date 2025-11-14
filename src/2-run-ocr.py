@@ -1,7 +1,7 @@
 """
 Step 2: Run OCR on Scanned Images
 
-Processes scanned images (JPEG/PNG) using GPT-4o vision API to extract text transcriptions.
+Processes scanned images (JPEG/PNG) using GPT-5.1 vision API to extract text transcriptions.
 Each image generates a corresponding .txt file containing the OCR output.
 
 Usage:
@@ -50,18 +50,18 @@ def image_to_base64_data_url(image_path):
         base64_data = base64.b64encode(image_data).decode("utf-8")
         return f"data:{mime_type};base64,{base64_data}"
 
-# --- Run OCR using GPT-4o ---
+# --- Run OCR using GPT-5.1 ---
 def transcribe_with_openai(image_path: str) -> str:
     image_url = image_to_base64_data_url(image_path)
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-5.1-2025-11-13",
         messages=[
             {"role": "system", "content": PROMPT},
             {"role": "user", "content": [
                 {"type": "image_url", "image_url": {"url": image_url}}
             ]}
         ],
-        max_tokens=2048,
+        max_completion_tokens=16384,
     )
     return response.choices[0].message.content
 
