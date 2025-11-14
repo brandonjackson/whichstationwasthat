@@ -1,0 +1,106 @@
+Combine Report for 1927-03-04
+============================================================
+
+Merge 1: IMG_2921.txt + IMG_2922.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 0.829
+
+File A last line: Porteus: (1) Nottingham, relaying Daventry, (2) Dresden, relaying Leipzig; (3) Belfast; (3) 606.
+File B matching line: Proteus: (1) Nottingham, relaying Daventry; (2) Dresden, relaying Leipzig; (3) Belfast (306 m.); 5) Boden (1,200 m.).
+
+Merge 2: merged_1 + IMG_2923.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Acme (Woodford): Frankfort-on-Main.
+File B matching line: Acme (Woodford): Frankfort-on-Main, Carnival programme from Mainz.
+
+Merge 3: merged_2 + IMG_2924.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Sparks (Gle)ands): WJZ (Boundbrook).
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 14, similarity: 0.500 (first_8_chars)
+     Line: W. Darkun: No WL given, but from call, apparently Berne.
+  2. Index 14, similarity: 0.333 (first_12_chars)
+     Line: W. Darkun: No WL given, but from call, apparently Berne.
+  3. Index 23, similarity: 0.333 (first_8_chars)
+     Line: Seal (Liverpool): (1) Surely Hilversum, relay of service from the New West Church, Rotterdam; (2) Munich.
+
+Merge 4: merged_3 + IMG_2925.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 5: merged_4 + IMG_2926.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Either Frankfort-on-Main or Langenberg, both relayed
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 19, similarity: 0.429 (first_8_chars)
+     Line: White (Frome): (1) Sorö, relaying foreign stations; (2) Leningrad; (3) Moscow, RDW (Opera “Faust”).
+  2. Index 19, similarity: 0.364 (first_12_chars)
+     Line: White (Frome): (1) Sorö, relaying foreign stations; (2) Leningrad; (3) Moscow, RDW (Opera “Faust”).
+  3. Index 14, similarity: 0.286 (first_8_chars)
+     Line: Walter (Newcastle-on-Tyne): Yes, it frequently links up with WGY and American stations in concerted WLS; given as 300-400 m.; this would include some fifty-five U.S.A. transmitters alone!
+
+Merge 6: merged_5 + IMG_2927.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Angell (Bristol): Coupon must be sent with.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 13, similarity: 0.538 (reporter_and_content)
+     Reporter similarity: 0.231
+     Content similarity: 1.000
+     Line: 4 Valve (Seaton): Coupon must be sent with each query: (1) Vienna; (2) Madrid (EAJ7).
+  2. Index 6, similarity: 0.333 (first_8_chars)
+     Line: G. E. Phillips All Stations: (1) Warsaw, relay from Philharmonic Hall; (2) Leningrad.
+  3. Index 22, similarity: 0.333 (first_8_chars)
+     Line: Roger (Alt): (1) WJZ (Boundbrook); (2) Dortmund (time signal from Muenster).
+
+Merge 7: merged_6 + IMG_2928.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (2) KDKA East
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.250 (first_12_chars)
+     Line: F. G. Hatts (Battersea): Leningrad (1,010 m.).
+  2. Index 29, similarity: 0.250 (first_12_chars)
+     Line: H. F. D. (S.W. 16): No German broadcasting station on a WL. below that of Muenster, possibly Warsaw.
+  3. Index 22, similarity: 0.222 (first_12_chars)
+     Line: BM/BXAK: Cannot trace.
+
+Merge 8: merged_7 + IMG_2929.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Julius Caesar (Burton-on-Trent): 5XX.
+Best similarity found: 0.364
+
+Closest matches (top 3):
+  1. Index 23, similarity: 0.366 (reporter_and_content)
+     Reporter similarity: 0.610
+     Content similarity: 0.000
+     Line: but cannot confirm. Julius Caesar (Burton-on-Trent): San
+  2. Index 3, similarity: 0.364 (first_12_chars)
+     Line: Wells). Cannot trace any English transmission on a wave-
+  3. Index 42, similarity: 0.364 (first_12_chars)
+     Line: this case the advertised programme was not broadcast. Gibbs
+

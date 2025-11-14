@@ -1,0 +1,9 @@
+The Week’s Searching Hint.  
+
+ENLARGING THE LOG.  
+
+If one confines oneself to searching more or less at haphazard over the broadcast band the “bag” is apt to grow rather slowly even when the set is calibrated, for the weaker transmissions are so easily missed. Here is a tip that will enable anyone to add considerably to the list of transmissions that forms part of his records. Make out a list of expected condenser settings for selected stations that you have not already heard. If the set is calibrated, on the lines previously suggested in World-Radio, the process is easy. All that need be done is this. Take a portion of the list of stations in order of wavelength and frequencies and tick off the stations that you have already heard. Now make a selection of those which you have not received, choosing those of reasonable power which are using wavelengths that give a 10-kilocycle, or very nearly a 10-kilocycle, separation from their neighbours on either side. By referring to your calibration chart it is easy to discover the approximate settings upon which they should be received. The field of search is thus very much narrowed down, and if a station is receivable in your locality you are bound eventually to pick it up.  
+
+When the set is not calibrated, a similar process can be used. Suppose, for example, that you have never heard Göteborg, but do receive Frankfurt and Berne, you know that the Swedish station is to be found by careful searching between the settings needed for the other two. Note well that “careful searching” does NOT mean allowing the set to oscillate. No station received by this process can be regarded as fairly logged.  
+
+R. W. H.

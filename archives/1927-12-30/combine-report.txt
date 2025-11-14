@@ -1,0 +1,52 @@
+Combine Report for 1927-12-30
+============================================================
+
+Merge 1: IMG_3199.txt + IMG_3200.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3201.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Programme: 11 p.m. G.M.T. chimes from the Town Hall.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 21, similarity: 0.333 (reporter_and_content)
+     Reporter similarity: 0.111
+     Content similarity: 0.667
+     Line: F. B. P. (Hove): (1) Possibly Antwerp.
+  2. Index 9, similarity: 0.256 (reporter_and_content)
+     Reporter similarity: 0.294
+     Content similarity: 0.200
+     Line: A. L. Rogers (Stratford): Apparently an English station, but the only one giving gramophone records at that time was Sheffield; your wavelengths are apparently wrong; regret, cannot trace first station.
+  3. Index 3, similarity: 0.250 (first_8_chars)
+     Line: Nomad (Peterborough): Huizen (Holland).
+
+Merge 3: merged_2 + IMG_3202.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 32
+Match strength: 1.000
+
+File A last line: F. B. P. (Hove): (1) Possibly Antwerp.
+File B matching line: F. B. P. (Hove): (1) Possibly Barcelona (EAJ13), (2) Nürnberg relaying Munich. A concert of gramophone records.
+
+Merge 4: merged_3 + IMG_3203.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Enthusiast (Killie): Kalundborg relaying Copenhagen. Danish Evening, 8.30 p.m. G.M.T. Press news, followed by a concert of light music and dance music from the Restaurant Nimb. Chimes from the Town Hall at midnight (11 p.m. G.M.T.).
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.250 (first_8_chars)
+     Line: Three Valve (Bedford): Breslau. Robert Koppel Evening. Songs and dances.
+  2. Index 0, similarity: 0.125 (first_8_chars)
+     Line: Novice (Whitley Bay): We regret, but we cannot possibly trace station heard without some estimate of WL. and your condenser readings do not help.
+  3. Index 8, similarity: 0.125 (first_8_chars)
+     Line: W. E. S. K. (Aldershot): (1) Yes, Moscow Comintern (RDW), (2) Stuttgart, relaying from St. Mark’s Church.
+

@@ -41,9 +41,9 @@ F.E.C. (Gatwick): Madrid (Union Radio).
 Radio (Malta): Prague.
 Rumplestiltskin; Blogg; S.T. Kersey: Moscow (RDW).
 Rob Roy: Seville (EAJ5).
-Alfredo (No. 2): Possibly Copenhagen, but details of concert not given (No. 1) cannot trace.
+Alfredo (No. 2): Possibly Copenhagen, but details of concert not given (No.). Cannot trace.
 Old Bill (Mitcham 41): Madrid (EAJ6).
-26 H.S.: (4) Too vague.
+26 H.S.: (q) Too vague.
 O.B.E.: San Sebastian.
 W.McI.: Presumably WGY, Schenectady.
 Auchterarder (Perthshire): Barcelona (EAJ1).
@@ -57,9 +57,38 @@ Fireside: Radio Paris.
 Optico: Frankfort-on-Main.
 T.H.S. (Alford): Hamburg.
 Mac: Amateur signals.
-Maco: (8.30) Helsingsfors, (10.30) Lyon PTT.
+Maco: (8.30) Helsingsfors, (10.30) Lyon PTT. fragment: feld.
 A.A.G (Aberystwyth): Daventry.
 Gordon: W.L. too indefinite.
+Pullover (Maidstone): Madrid.
+L.1 (Croydon): WGY (Schenectady).
+Wireless Willy: If W.L. correct, probably German amateur.
+J.B.S.: Prague.
+Bellerive: Studio clock.
+G.M.T. (East Molesey): WGY (Schenectady).
+G.E.T. (Woking): (a) W.L. wrong, cannot trace; (b) no coupon.
+Armstrong-Super: More likely Union Radio (Madrid).
+F.E.C. (Gatwick): Madrid (Union Radio).
+Radio (Malta): Prague.
+Rumplestiltskin: Blogg.
+S.T. Kersey: Moscow (RDW).
+Rob Roy: Seville (EAJ5).
+Alfredo (No. 2): Possibly Copenhagen, but details of concert not given, (No. 1) cannot trace.
+Old Bill (Mitcham 41): Madrid (EAJ6).
+26 H.S.: (4) Too vague.
+O.B.E.: San Sebastian.
+W.McI.: Presumably WGY, Schenectady.
+Auchterarder (Perthshire): Barcelona (EAJ1).
+Cutts: Probably U.S.A.
+Curious: Hamburg.
+Tony Emanuel: Items not given in any programmes, presumably Spanish.
+Amplion: Cannot trace, but believe Moscow.
+Trans. 4: (1) Rome, (2) Stuttgart.
+Street: Barcelona EAJ5.
+Fire-side: Radio Paris.
+Optico: Frankfort-on-Main.
+T.H.S. (Alford): Hamburg.
+Mac: Amateur.
 Jason (East Sheen): Prague.
 Freeman: San Sebastian.
 Clememre (Sevenoaks): Probably Moscow.
@@ -82,16 +111,20 @@ Safety: Prague.
 Billmac: (10/50) Probably Berne; (12/45) Seville (EAJ5).
 Malvolio: Prague.
 Veralpha: Spain, but W.L. too vague.
+A.C.W.: Cannot trace if not Spanish.
+Pakefield: Hamburg.
+Ladbrock: Yes, Rome.
+Reflex: W.L. too vague, probably U.S.A.
 A.J.G. (Leicester): Prague.
 U.W.: WGY, Schenectady.
 Russia: (a) Moscow; (b) Prague (368 m).
-Long Tom: (1) Yes, Rome; (2) presumably Breslau, details not published; (3) Prague.
-Rheostat: ZAXH, Schenectady.
+Long Tom 1: Yes, Rome; (2) presumably Breslau, details not published (3) Prague.
+Rheostat: ZAХH, Schenectady.
 E.R. Fone: Prague, Strasbourg.
 BM/BDB: Cannot trace.
 Pogo: Berne.
 Bell (I’boro): Cadiz (EAJ3).
-Hereward: If stated languages barred, cannot trace.
+Hereward 4: If stated languages barred, cannot trace.
 Searcher (Grimsby): Hamburg.
 Dicky: (a) Hamburg; (b) W.L. wrong.
 Iberica: KDKA.
@@ -120,7 +153,7 @@ A.P.A.J.S.: Cannot trace.
 High Tension: Oslo.
 Tropadyne: Barcelona (EAJ1).
 Excelsior (Wycombe): Kiel.
-H.W.C.: (8/1) Madrid (EAJ6); (10/1) Oslo.
+H.W.C. (8/1) Madrid (EAJ6); (10/1) Oslo.
 W.R.P. (Newport): Kiel.
 Ingatestone (Redwick): Stockholm.
 Kendal: Amateur (Bootle).
@@ -140,8 +173,7 @@ Aychiff: Hilversum.
 Qui Vive (Frome): Hamburg; (10.30) cannot trace item, possibly Bilbao.
 Alleyman (S.W. 16): Glasgow.
 Second Detector: Too vague.
-Cats Whisker: 
-Whisker Twister; 
+Cats Whisker: Whisker Twister;
 Lucky Jim (Grimsby): Madrid (EAJ7).
 Behoer-Bahar: Cannot trace, probably U.S.A.
 I.C.L.L.: Hamburg.
@@ -152,9 +184,9 @@ Cumnor Hill (Foster): German Aviation Service (1525 m).
 Comaca: (8 p.m.) Moscow (RDW), (8 p.m.) Madrid (EAJ4).
 Puzzled One Valver: W.L. too vague.
 Rexboro (St. Helens): (a) PTT (Paris); (b) Hamburg, relay of Bremen.
-Brum 3: (a) Madrid (EAJ4), (b) Madrid (EAJ7).
+Brum 3: (6/1) Madrid (EAJ4), (3/8) Madrid (EAJ7).
 Nora: (7.10) Frankfort-on-Main (8.25) probably Reval, but no programmes available.
-Unidyne II: Gothenberg relay of Stockholm Radio.
+Unidyne 11: Gothenberg relay of Stockholm Radio.
 Shovel: Tour Eiffel (Eiffel Tower).
 Condenser: Berlin.
 One Valve Set: W.L. too indefinite, probably Madrid (EAJ7).
@@ -181,7 +213,7 @@ Sound Detector: Vienna.
 H.E.B. (Blackpool): PTT. Paris.
 Chercheur: Possibly Moscow.
 Zwei Valve (Deal): Cannot trace items.
-Kinnie (Forfar): Many British Government stations.
+Kiinie (Forfar): Many British Government stations.
 Accumlator (Orford): Hilversum.
 B-P.: Berlin.
 Gecophone (Warrington): Most certainly not Newfoundland. Cannot trace.

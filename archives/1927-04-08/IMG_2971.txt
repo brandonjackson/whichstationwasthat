@@ -1,3 +1,37 @@
-```plaintext
-celona (EAJ13). Ashville (Withington): Not in programmes; possibly one of the Spanish stations. P. Wyatt (Norwich): Yes, San Sebastian relays Barcelona at times. Derik (Guildford): Yes, Milan (relay from Theatre Carcano). Twin Enthusiast (Clapton): (1) Barcelona (EAJ1); (2) Cadiz (experimental concert). Anti-Morse (Liverpool): (1) Rather vague; possibly Juan les Pins (relaying from Casino); (2) Hilversum; (3) Cannot confirm, not advertised in programmes. W. G. H. (Reading): Radio Toulouse on 389.6 m. G. E. C. 4: PTT Lyons (own programme). Polkyth Two: Cork, relaying Dublin's broadcast of football match. Treffynnon: (9) Yes, possibly Moscow; (10) Stuttgart, (relay from the Liederhalle). Horsey: Berlin (566 m.). Daddy (Gainsboro): (1) Karlsborg, relaying Stockholm; (2) Scheveningen-Haven (news only). F. E. C. 4: Your coupons were apparently lost; (1) Very vague; possibly Breslau; (2) Possibly Juan les Pins (230 m.); (3) WL, must be wrong, cannot trace; (4) Yes, Boden, relaying Stockholm; (5) Sorö, relaying Copenhagen; (6) Cannot trace; (7 & 8) We do not trace Morse stations. J. W. B. (Malta): (1) Do not know of a Russian station on that wavelength; possibly the new Stamboul transmitter testing; (2) Sorö relaying Copenhagen (dance music from Restaurant Wivel). Art (Ashford): Frankfort relaying Cassel; call "Frankfurt am Main und Cassel." AIS 2 (Coventry): Regret, cannot trace. D. P. C. (Leeds): Bordeaux-Lafayette (France). Curious (Llangefni, Anglesey): Not "Port Said" but "Cork station" testing.
-```
+Czech Philharmonic Orchestra.  
+
+J. Davis (Litherland): Barcelona (EAJ13).  
+
+Ashville (Withington): Not in programmes; possibly one of the Spanish stations.  
+
+P. Wyatt (Norwich): Yes, San Sebastian relays Barcelona at times.  
+
+Derik (Guildford): Yes, Milan (relay from Theatre Carcano).  
+
+Twin Enthusiast (Clapton): (1) Barcelona (EAJ1); (2) Cadiz (experimental concert).  
+
+Anti-Morse (Liverpool): (1) Rather vague; possibly Juan les Pins (relaying from Casino); (2) Hilversum; (3) Cannot confirm, not advertised in programmes.  
+
+W. G. H. (Reading): Radio Toulouse on 389.6 m.  
+
+G. E. C. 4: PTT Lyons (own programme).  
+
+Polkyth Two: Cork, relaying Dublin’s broadcast of football match.  
+
+Treffynnon: (9) Yes, possibly Moscow; (10) Stuttgart, (relay from the Liederhalle).  
+
+Horsey: Berlin (566 m.).  
+
+Daddy (Gainsboro): (1) Karlsborg, relaying Stockholm; (2) Scheveningen-Haven (news only).  
+
+F. E. C. 4: Your coupons were apparently lost; (1) Very vague; possibly Breslau; (2) Possibly Juan les Pins (230 m.); (3) WL, must be wrong, cannot trace; (4) Yes, Boden, relaying Stockholm; (5) Sorö, relaying Copenhagen; (6) Cannot trace; (7 & 8) We do not trace Morse stations.  
+
+J. W. B. (Malta): (1) Do not know of a. Russian station on that wavelength; possibly the new Stamboul transmitter testing; (2) Sorö relaying Copenhagen (dance music from Restaurant Wivel).  
+
+Art (Ashford): Frankfort relaying Cassel; call “Frankfurt am Main und Cassel.”  
+
+A15 2 (Coventry): Regret, cannot trace.  
+
+D. P. C. (Leeds): Bordeaux-Lafayette (France).  
+
+Curious (Llangefni, Anglesey): Not “Port Said” but “Cork station” testing.

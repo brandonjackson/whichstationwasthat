@@ -1,0 +1,11 @@
+Practical Searching Hints.
+
+SHORT-WAVE TUNING.
+
+Many of those who use short-wave sets do not get the best out of them for the simple reason that they do not give them a fair chance. Powerful transmissions such as 2XAD, 2XAF, and KDKA may be picked up without allowing the set to oscillate, though in order to find the weaker ones it is necessary to hear the carrier wave in the first instance. For all that, the set should never be allowed to do more than oscillate very gently whilst searching is in progress; that is to say, the reaction coupling should be adjusted so that a very slight hissing or rustling noise is heard in the receivers. When a carrier wave is heard, slacken off the reaction coupling immediately and retune with the grid condenser. The controlling reaction may then be adjusted until the set is a little below the point of oscillation. In this way the greatest possible signal strength and the purest reception are obtained. On no account should an attempt be made with the set in oscillation to tune to the silent point. To begin with, it is exceedingly difficult to do so; for even if long extension handles are provided, body capacity effects become very marked, so that the slightest movement of the hands may completely alter the tuning. Secondly, if one does succeed in tuning in a transmission in this way signal strength is never as good as it ought to be, whilst both speech and music are considerably distorted. 
+
+R. W. H.
+
+(Continued from page 3.)
+
+It had innumerable harmonics of a very loud and penetrating kind. After it had been carefully erected in its nice new house, it behaved no better.

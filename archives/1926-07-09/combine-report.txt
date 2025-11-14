@@ -1,0 +1,12 @@
+Combine Report for 1926-07-09
+============================================================
+
+Merge 1: IMG_2432.txt + IMG_2434.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: Crystal: Hanover, relay of Hamburg.
+File B matching line: Crystal: Breslau relaying Berlin.
+

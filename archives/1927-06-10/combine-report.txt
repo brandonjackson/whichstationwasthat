@@ -1,0 +1,21 @@
+Combine Report for 1927-06-10
+============================================================
+
+Merge 1: IMG_3023.txt + IMG_3024.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: J. H. R. (Scarthoe): relaying orchestral concert from the Hotel Vier Jahreszeiten.
+File B matching line: J.H.R. (Scarthoe): W.L. very vague, but possibly Breslau (315 m.) which was relaying an orchestral concert from the Hotel Vier Jahreszeiten at that time.
+
+Merge 2: merged_1 + IMG_3025.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: R.C. 3 (Belfast): (1) Possibly Falun
+File B matching line: R.C. 3 (Belfast): (1) Possibly Falun (357 m.) relaying Stockholm; (2) Bilbao (EAJ11) 423 m.; (3) Stamboul (Turkey) 1,200 m.
+

@@ -1,0 +1,18 @@
+Combine Report for 1927-08-05
+============================================================
+
+Merge 1: IMG_3054.txt + IMG_3055.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 22
+Match strength: 0.900
+
+File A last line: Capacite (Huddersfield): Lyons, relaying PTT Paris. Relay from the concert at Paris.
+File B matching line: Capacity (Huddersfield): PTT Lille, relaying PTT Paris. Relay from the Coliseum at Paris.
+
+Merge 2: merged_1 + IMG_3056.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

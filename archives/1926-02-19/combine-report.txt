@@ -1,0 +1,55 @@
+Combine Report for 1926-02-19
+============================================================
+
+Merge 1: IMG_1840.txt + IMG_1841.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Susan: cannot trace.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 30, similarity: 0.500 (first_12_chars)
+     Line: Blink: cannot trace on that W.L.
+  2. Index 60, similarity: 0.471 (reporter_and_content)
+     Reporter similarity: 0.118
+     Content similarity: 1.000
+     Line: Knotbwister; Winkle: cannot say, testing with Rugby.
+  3. Index 30, similarity: 0.400 (reporter_and_content)
+     Reporter similarity: 0.000
+     Content similarity: 1.000
+     Line: Blink: cannot trace on that W.L.
+
+Merge 2: merged_1 + IMG_1842.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 72
+Match strength: 0.900
+
+File A last line: Amor Ra: cannot say, either Madrid, Bilbao, or.
+File B matching line: Amon-Ra: cannot say, either Madrid, altered programme, or Hamburg, late transmission.
+
+Merge 3: merged_2 + IMG_1843.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Chwilywr: Berne (Switzerland).
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.375 (first_8_chars)
+     Line: Coil Pusher: (1) Madrid (EAJ6).
+  2. Index 26, similarity: 0.375 (first_8_chars)
+     Line: Family Four Bert: Cannot trace.
+  3. Index 6, similarity: 0.300 (first_12_chars)
+     Line: Coil Pusher: (1) Madrid (EAJ6).
+
+Merge 4: merged_3 + IMG_1844.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: E. V. G. S. (Chung Services): Muenster relaying Elberfeld.
+File B matching line: E. V. G. S.: Surely WL. wrong or harmonic; talk tallies with Eiffel Tower.
+

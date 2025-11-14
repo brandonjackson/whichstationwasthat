@@ -1,0 +1,117 @@
+Combine Report for 1927-01-14
+============================================================
+
+Merge 1: IMG_2681.txt + IMG_2682-muddled.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 1.000
+
+File A last line: Yvonne Nicholas (Newton Ferrers): What you gave corresponds.
+File B matching line: Yvonne Nicholas (Newton Ferrers): What you give are condenser readings, not wavelengths, but Der Freischuetz was performed at the Dortmund Municipal Theatre and relayed to Dortmund, Langenberg, Muenster and Elberfeld.
+
+Merge 2: merged_1 + IMG_2683.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Guy G. (Harrogate): Bremen.
+Best similarity found: 0.111
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.111 (first_12_chars)
+     Line: (2) Frankfort-on-Main, (3) Berlin (Die Fledermaus, comic opera by J. Strauss), but dance music started at about 9.30 p.m. GMT. Primax Loud Speaker (Bristol): (2) Karlsburg relaying Stockholm, (3) Milan. Parkfield (Blackpool): Dortmund relaying dance music from Langenberg. Cosmopolitan (Bournemouth): Moscow (RDW). Faulkner (W12): Impossible to trace from your condensed readings; some oscillator of wavelength must be made; probably Radio-Paris. R. W. A. (Dover): If notes, c, d, g, undoubtedly Stuttgart. D. R. E. M. (Bath): Yes, Basle taking a programme from Berne. Disabled (Hampton Wick): (1) Leipzig (confirmed),
+  2. Index 0, similarity: 0.100 (first_12_chars)
+     Line: Madrid (EAJ7): (3) Undoubtedly, Frankfort-on-Main.
+  3. Index 4, similarity: 0.093 (reporter_and_content)
+     Reporter similarity: 0.156
+     Content similarity: 0.000
+     Line: (2) Breslau relaying dance music from Berlin. Bulldog (E5): Almost impossible to trace transmitter from condenser readings but possibly Leipzig. C. A. S.: Langenberg relaying Der Freischuetz from Dortmund Theatre. Rubric (Edinburgh): (1) Freiburg relaying Stuttgart, (2) probably Bilbao (EAJ9). Williams (Mile End): Much too vague, cannot trace. T. D. (Loughborough): Bilbao (EAJ9). Solo (Sheffield): PTT, Paris relaying dance music from Coliseum, Paris. Three Valver (Glasgow): Hamburg. W. N. H. (Accrington): Yes, most probably an amateur transmission. 4 Valver (Redruth): Regret cannot confirm. Cannot possibly believe that this was KGO (Oaklands) at that time. 3GF/3SP (Wandsworth): (1) Madrid (EAJ7), (2) Yes, (3) cannot trace. Spectroscope (Leith): (a) Moscow (RDW), (b) Karlsborg relay dramatic performance from Gothenburg. E. M. H. (Finchley): Berlin (Opera- Die Fledermaus, J.-Strauss). W. L. S./G. K. (Greenock): (1) EAJ7 and EAJ4 work according to a rota;
+
+Merge 3: merged_2 + IMG_2684.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (2) Breslau relaying dance music from Berlin. Bulldog (E5): Almost impossible to trace transmitter from condenser readings but possibly Leipzig. C. A. S.: Langenberg relaying Der Freischuetz from Dortmund Theatre. Rubric (Edinburgh): (1) Freiburg relaying Stuttgart, (2) probably Bilbao (EAJ9). Williams (Mile End): Much too vague, cannot trace. T. D. (Loughborough): Bilbao (EAJ9). Solo (Sheffield): PTT, Paris relaying dance music from Coliseum, Paris. Three Valver (Glasgow): Hamburg. W. N. H. (Accrington): Yes, most probably an amateur transmission. 4 Valver (Redruth): Regret cannot confirm. Cannot possibly believe that this was KGO (Oaklands) at that time. 3GF/3SP (Wandsworth): (1) Madrid (EAJ7), (2) Yes, (3) cannot trace. Spectroscope (Leith): (a) Moscow (RDW), (b) Karlsborg relay dramatic performance from Gothenburg. E. M. H. (Finchley): Berlin (Opera- Die Fledermaus, J.-Strauss). W. L. S./G. K. (Greenock): (1) EAJ7 and EAJ4 work according to a rota;
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 29, similarity: 0.429 (first_8_chars)
+     Line: 2 Valves (Steyning): Basle relay of Berne.
+  2. Index 33, similarity: 0.400 (first_8_chars)
+     Line: G. B. S.: (1) WGY (Schenectady), (2) possibly Madrid (EAJ7).
+  3. Index 8, similarity: 0.333 (first_8_chars)
+     Line: Brooks (Hartford End): 5XN, amateur (London, S.E.9).
+
+Merge 4: merged_3 + IMG_2685.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: G. B. S.: (1) WGY (Schenectady), (2) possibly Madrid (EAJ7).
+File B matching line: G. B. S.: (1) WGY (Schenectady), (2) possibly WJY (New York), 405.2 m.
+
+Merge 5: merged_4 + IMG_2686.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: The Old Man (Eastbourne):
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 34, similarity: 0.375 (first_8_chars)
+     Line: Asteroid: Know of no French station in that position unless one of them was very much off its will.
+  2. Index 46, similarity: 0.333 (first_8_chars)
+     Line: Gerald (Conalugh): Too vague, cannot trace.
+  3. Index 4, similarity: 0.300 (first_12_chars)
+     Line: Shooter (Eastgate): This was the 2LO transmission Looking Backward, probably received through Newcastle.
+
+Merge 6: merged_5 + IMG_2687.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: G. S. 2. 3. 4. (Southport): (1) Langenburg relaying Muenster; (2) Dortmund relaying Muenster; (3) Eskilstuna relaying Church service from Stockholm; (4) Madrid (EAJ34).
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 58, similarity: 0.333 (first_8_chars)
+     Line: A. S. P. Osram Valves: (1) Aberdeen, not London; (2) Langenberg; (3) Hamburg; (4) Surely too was wrong for London; (5) impossible to trace; (6) too vague; (7) Stettin relaying Berlin; (9) possibly Madrid (EAJ7).
+  2. Index 30, similarity: 0.267 (reporter_and_content)
+     Reporter similarity: 0.312
+     Content similarity: 0.200
+     Line: H. Hodgson (Southsea): Berlin (566 m.).
+  3. Index 30, similarity: 0.250 (first_12_chars)
+     Line: H. Hodgson (Southsea): Berlin (566 m.).
+
+Merge 7: merged_6 + IMG_2688.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Burn (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace them.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.333 (first_8_chars)
+     Line: Sure, here's the transcription:
+  2. Index 0, similarity: 0.300 (first_12_chars)
+     Line: Sure, here's the transcription:
+  3. Index 2, similarity: 0.100 (reporter_and_content)
+     Reporter similarity: 0.000
+     Content similarity: 0.250
+     Line: and Galvo (Edgbaston): Mr. Arthur Burrows, speaking at Geneva; apparently received through Berne. Amateur WL. far too vague: cannot trace. Everyman 4 (Brixton) and Manchester. Brun (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace transmitter, unless wavelength is fairly accurately estimated, as such relays are rarely advertised in the programmes. A.M.L. (Stockport): Cannot trace. Jolly Good (S.W.15): Manchester. Bogey (Hampstead): (a) Yes, KGO has been received on several occasions; (b) Tallies with Manchester, special transmission. Aperiodic Coupling (Castlenock): Surely Manchester. A.D.T.: Manchester. J.W.L./P.Z.: (1) Naples; (2) Rome on 449 m. F.S.G. (Eastbourne): Yes, Leningrad. Nighthawk (Bishop Auckland): If not Dortmund cannot trace; (2) Cadiz (EAJ3). Yarn (Halifax): (1) see reply to Brun (Burnley); (2) Bordeaux-Lafayette3 too vague; possibly a relay of Stockholm. W.M. (Prestwich): Frankfort relaying dance music from Berlin. Paris-ite (St. Cloud, France): Manchester (“The Ceremony of the Vacant Chair”, special late transmission. 3 Unidyne (Steppingley): (22) Malmo relay Stockholm (1165 m.); (23) Buda-Pesth; (24) London relaying Manchester; (25) R.C.A.; (26) Prague relaying Manchester. Gec. (Redditch): (1) Zurich; (2) Stettin relaying Berlin; (3) Breslau. Cantilever (Forest Hill.): (11) WL (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1950 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists. Dixie II (Liverpool): Not a Spanish station. You heard the German National Anthem. If WL. correct, Bremen relaying Hamburg, but we are inclined to believe that you are receiving the Frankfort transmission. Luggar (Sheffield): Prague (Call: “Allo! Praha.”) Green (Knighton): Langenberg effecting a test relay of chimes from Cologne Cathedral. Brookfield (Stoke-on-Trent): Was not this Daventry? Hill (Portsmouth): Cannot trace transmitter from details of coils; some estimated WL. must be given. Puzzled Midget (Crosby): Apparently U.S.A. station, but there are very many on this WL.; we could not possibly confirm which station you received; possibly WJAS, Pittsburgh. Taffy (Flintshire): (2) Langenberg relaying chimes from Cologne Cathedral. Lex (Southampton): WL. wrong; this was Frankfort-on-Main. Kemp (Hampden): Zurich is the only station that has been received for some weeks so late as time stated. No details of this transmission.
+
+Merge 8: merged_7 + IMG_2689.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: and Galvo (Edgbaston): Mr. Arthur Burrows, speaking at Geneva; apparently received through Berne. Amateur WL. far too vague: cannot trace. Everyman 4 (Brixton) and Manchester. Brun (Burnley): Many foreign stations relay transmissions from 5XX at odd times; it is seldom possible to trace transmitter, unless wavelength is fairly accurately estimated, as such relays are rarely advertised in the programmes. A.M.L. (Stockport): Cannot trace. Jolly Good (S.W.15): Manchester. Bogey (Hampstead): (a) Yes, KGO has been received on several occasions; (b) Tallies with Manchester, special transmission. Aperiodic Coupling (Castlenock): Surely Manchester. A.D.T.: Manchester. J.W.L./P.Z.: (1) Naples; (2) Rome on 449 m. F.S.G. (Eastbourne): Yes, Leningrad. Nighthawk (Bishop Auckland): If not Dortmund cannot trace; (2) Cadiz (EAJ3). Yarn (Halifax): (1) see reply to Brun (Burnley); (2) Bordeaux-Lafayette3 too vague; possibly a relay of Stockholm. W.M. (Prestwich): Frankfort relaying dance music from Berlin. Paris-ite (St. Cloud, France): Manchester (“The Ceremony of the Vacant Chair”, special late transmission. 3 Unidyne (Steppingley): (22) Malmo relay Stockholm (1165 m.); (23) Buda-Pesth; (24) London relaying Manchester; (25) R.C.A.; (26) Prague relaying Manchester. Gec. (Redditch): (1) Zurich; (2) Stettin relaying Berlin; (3) Breslau. Cantilever (Forest Hill.): (11) WL (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1950 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists. Dixie II (Liverpool): Not a Spanish station. You heard the German National Anthem. If WL. correct, Bremen relaying Hamburg, but we are inclined to believe that you are receiving the Frankfort transmission. Luggar (Sheffield): Prague (Call: “Allo! Praha.”) Green (Knighton): Langenberg effecting a test relay of chimes from Cologne Cathedral. Brookfield (Stoke-on-Trent): Was not this Daventry? Hill (Portsmouth): Cannot trace transmitter from details of coils; some estimated WL. must be given. Puzzled Midget (Crosby): Apparently U.S.A. station, but there are very many on this WL.; we could not possibly confirm which station you received; possibly WJAS, Pittsburgh. Taffy (Flintshire): (2) Langenberg relaying chimes from Cologne Cathedral. Lex (Southampton): WL. wrong; this was Frankfort-on-Main. Kemp (Hampden): Zurich is the only station that has been received for some weeks so late as time stated. No details of this transmission.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 5, similarity: 0.375 (first_8_chars)
+     Line: Cantilever (Forest Hill): (11) WJZ (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1930 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists.
+  2. Index 5, similarity: 0.300 (first_12_chars)
+     Line: Cantilever (Forest Hill): (11) WJZ (Boundbrook) 454 m.; (12) Scheveningen-Haven (Holland), new commercial wireless telephony station on 1930 m.; (13) Berne; (14) WTAM, Cleveland (Ohio) on 389.4 m.; (15) Cannot trace in last U.S.A. lists.
+  3. Index 7, similarity: 0.300 (first_12_chars)
+     Line: Luggar (Sheffield): Prague (Call: "Alo! Praha.")
+

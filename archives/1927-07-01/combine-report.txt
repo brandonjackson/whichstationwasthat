@@ -1,0 +1,28 @@
+Combine Report for 1927-07-01
+============================================================
+
+Merge 1: IMG_3036.txt + IMG_3037.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: The Old Roman Bridge (Bellshill): 2BXA, amateur, of Nelson, Lancs; 6WW, amateur, cannot trace; 5OEt, amateur, cannot trace; 2AU, amateur, of West Ham, E. 15; 6LH, amateur, cannot trace; possibly Belgrade testing.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 12, similarity: 0.265 (reporter_and_content)
+     Reporter similarity: 0.308
+     Content similarity: 0.200
+     Line: Solodyne (Buckhurst Hill): Details tally with Sorö, which was probably relaying the orchestral concert from Copenhagen although advertised to close earlier than the capital station; (2) Warsaw.
+  2. Index 6, similarity: 0.218 (reporter_and_content)
+     Reporter similarity: 0.231
+     Content similarity: 0.200
+     Line: Rags (West Lothian): Motala (1,320 m.) relaying Church service from the Vasterasser Cathedral at Stockholm, Preacher: the Bishop of Tammerton.
+  3. Index 4, similarity: 0.200 (first_12_chars)
+     Line: J. Tirror (Totland Bay): (1) Possibly the London stand-by transmitter; (2) Rome (450 m.); (3) Leipzig; (4) Barcelona (EAJ13); (5) Cadiz (EAJ3) experimental concert; coupon must be sent with each enquiry.
+
+Merge 2: merged_1 + IMG_3038.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

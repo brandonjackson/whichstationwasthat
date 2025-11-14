@@ -1,4 +1,3 @@
-(b) about 458m.) not traceable; (c) An amateur.
 3.D.E.2: Prague.
 Howie: probably British amateur.
 One Fine Day: Marseilles, relay of PTT, Paris.
@@ -17,7 +16,7 @@ Beaufort (Swansea): no estimated W.L. given.
 Heidi: Frankfort-on-Main, relay of Berlin.
 The Prince Receiver (Gatford): Madrid (EAJ7).
 Memo: cannot trace on that W.L.
-Barcelona (Spain): not a report.
+Barcelona (Spain):
 3336 (Southampton): (1) too vague; not an ordinary transmission; presumably a test; (2) Malmö, relay of Stockholm; (3) Hanover, relay of Hamburg.
 Jugo (Lowestoft): cannot trace; presumably amateur transmission.
 Gecophone: (1) Kiel, relay of Hamburg, (2) Bremen, relay of Hamburg.
@@ -36,8 +35,24 @@ L.K.B.: Madrid (EAJ7).
 Konk (Norwich): Berlin (1300 m.).
 Mercury: Cannot trace transmission on 150 metres.
 Ajax, Als (Coventry): Madrid (EAJ7).
-Town Mill: Your W.L. Ao W. (350-400 m. comprises 22 European stations), C.O.M. (Barnet): Madrid (EAJ7).
-The Prince Receiver (Balham): relay of Berlin.
+Town Mill: Your W.L. Ao W. (350-400 m. comprises 22 European stations),
+C.O.M. (Barnet): Madrid (EAJ7).
+The Prince Receiver (Balham): of Berlin.
+Memo: cannot trace on that W.L. Barcelona (Spain).
+3336 (Southampton): (1) too vague; not an ordinary transmission; presumably a test; (2) Malmö, relay of Stockholm; (3) Hanover, relay of Hamburg.
+Jugo (Lowestoft): cannot trace; presumably amateur transmission.
+Gecophone: (1) Kiel, relay of Hamburg, (2) Bremen, relay of Hamburg.
+Sailor: Sorö, relay of Copenhagen.
+Smith (Acocks Green, B’ham): If W.L. correct, Madrid (EAJ7), but item not in programme; believe this was Hamburg.
+Ray (Surrey): (a) detailed items point to Milan, (b) can trace no broadcast transmission in programmes, was this not Haeren (Belgium) weather forecast on Flemish on 1100 m.
+Wenlli: Montpellier, relay of Radio Toulouse.
+Chene, Little One, F. L. B. C, Finglas, Wealden (Kent), Wickholm: Hilversum.
+N. H. J. T. S., Wave Trap (Chadwell Heath), Gwynne (Devon), Night Hawk (Portsmouth), S.T. 100 (Mile End), Marine Engineer (Poplar), Brownie (Westoken), W. S. H. (Cambridge): Berne.
+Cossorite (Port Talbot), Bonus (Jersey), Radio (Coventry), X T. 4813 (Tottenham), Hopeful (Cricklewood): Berne (see footnote note).
+Offaly: Madrid (EAJ7).
+Vulcan: (a) Yes, Stettin, relay of Berlin, (b) Frankfort-on-Main, relay of Berlin.
+T. A. 3 (Plumstead): Madrid (MAJ).
+Four Valve (Dublin): Hamburg.
 L. K. B. (Enfield): Harmonic of Croydon (Aircraft).
 K. W. (Paignton): Milan.
 Cornelian (St. Anthony’s): Cadiz.
@@ -46,7 +61,7 @@ Bobtail (Swansea): Quite possibly, Cadiz.
 Hawes (Upwell): Not in programmes, probably Milan, which advertised Opera for that evening.
 F. W. M. (Chesterfield): Muenster.
 Haron (Notts.): Madrid (EAJ7).
-H. (Oldham): Possibly Antwerp, relay of.
+H. (Oldham): Possibly Antwerp, relay of
 Rockets: Too vague; so many stations give dance music at that hour; possibly Spanish.
 Denton (Manchester): (1) Madrid (EAJ7); (2) Vienna; (3) PTT, Paris.
 Coil Pusher (Coupon 3): Yes, probably KDKA, 309 m., but details are too vague to ascertain.

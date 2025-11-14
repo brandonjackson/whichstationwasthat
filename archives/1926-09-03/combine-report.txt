@@ -1,0 +1,24 @@
+Combine Report for 1926-09-03
+============================================================
+
+Merge 1: IMG_2479.txt + IMG_2480.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 20
+Match strength: 0.750
+
+File A last line: Warnercoath: Prague.
+File B matching line: Warner: (1) Prague, (2) Dortmund (283m).
+
+Merge 2: merged_1 + IMG_2481.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_2482.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

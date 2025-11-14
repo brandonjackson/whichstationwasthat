@@ -1,0 +1,72 @@
+Combine Report for 1928-02-24
+============================================================
+
+Merge 1: IMG_3273.txt + IMG_3274.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Nobby (Llandudno):——
+File B matching line: Nobby (Llandudno): Transmission not advertised.
+
+Merge 2: merged_1 + IMG_3275.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 1.000
+
+File A last line: A.E. (Liverpool): We doubt your wavelength.
+File B matching line: A. E. (Liverpool): We doubt your wavelength. Can you name a known station near the unknown ? J. F. S. (Tidworth): San Sebastian. Links (Edinburgh): (1) Oslo; (2) Points to Madrid (EAJ7) with altered programme; (3) Cannot trace such a transmission. A. R. M. (Ilford): Kalundborg. Candida Case (Carlisle): We have no information on this point and cannot trace in programmes. Alaskan (Southend): (1) Leningrad; (2) PCJJ or Bergen according to wavelength. 4JERS: (1) Leningrad; (2) Wavelength estimate too vague. Hilversum or Warsaw; (3) Kalundborg (Prof. Dr. Lorentzen); (4) If wavelength certain. Kharkov; (5) Koenigsusterhausen; (6) Motala; (7) Huizen. Rex (Bournemouth): Kalundborg relaying Copenhagen from restaurant Nimb. 4 Valve (Pembrokeshire): Motala. Jim-Jam (Birmingham): Surely Brussels. Elldee (Luton): Kattowitz. Baxter (Walsall): Oslo gave this talk on February 6 at 8.30-9 p.m. (through Rjukan). Forest (Epping): Likely to be 3LO, but wavelength of Short Wave stations must be definite. Night Hawk 5 (Cannington): (1) WPG; (2) KDKA. Searcher (Shalford): Air Ministry Station. North Pole (Inverness): Wilno, relaying Warsaw. Constable (Warrington): (1) Not near that wavelength, (2) Hamburg.
+
+Merge 3: merged_2 + IMG_3276.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Loftus (S.W. 18): Leipzig relaying Dresden. Morse Martyr (Weymouth): Barcelona. Arcadia (Thornton Heath): Perhaps Madrid (EAJ7), but some idea of wavelength should be given. Pizzicato (Northants): Kalundborg relaying Copenhagen. Angus (Newport): If wavelength certain, KJR (Seattle). Wave Trap (Northampton): Madrid (EAJ7). A. J. S. (Small Heath): Berlin. Filadyne Three (Norbury): Copenhagen. B. A. (Stourbridge): Direct. G. S. C. (West-gate): Radio Beziers. Dalton (Airdrie): Frankfurt.
+Best similarity found: 0.125
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.125 (first_8_chars)
+     Line: Wharfedale (Leeds): WEAF (N.Y.).
+  2. Index 2, similarity: 0.120 (reporter_and_content)
+     Reporter similarity: 0.067
+     Content similarity: 0.200
+     Line: Wharfedale (Leeds): WEAF (N.Y.).
+  3. Index 2, similarity: 0.100 (first_12_chars)
+     Line: Wharfedale (Leeds): WEAF (N.Y.).
+
+Merge 4: merged_3 + IMG_3277.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: N. A. (Wigan): Kalundborg relaying Copen-
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 5, similarity: 0.286 (first_12_chars)
+     Line: J. G. S. (N.I.): 3LO Melbourne.
+  2. Index 6, similarity: 0.222 (first_12_chars)
+     Line: Night Hawk (Barry): (1) Warsaw; (2) Kovno.
+  3. Index 1, similarity: 0.200 (first_12_chars)
+     Line: Quizzing (Chipping): (1) Radio Paris (wavelength wrongly estimated); (2) Koenigsusterhausen (wavelength 1,250 m.).
+
+Merge 5: merged_4 + IMG_3278.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Neutrodyne (Leeds): (1) Amateur station playing
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 36, similarity: 0.520 (reporter_and_content)
+     Reporter similarity: 0.200
+     Content similarity: 1.000
+     Line: Donegal: (1) Angora, if particulars are correct; (2) Kalundborg; (3) Motala.
+  2. Index 52, similarity: 0.480 (reporter_and_content)
+     Reporter similarity: 0.133
+     Content similarity: 1.000
+     Line: A. D. B. (Cornwall): (1) Angora; (2) Warsaw; (3) Novosibersk, in Siberia (4 kw).
+  3. Index 2, similarity: 0.400 (first_12_chars)
+     Line: Pen Bryn (Neasden): WPG (Atlantic City).
+

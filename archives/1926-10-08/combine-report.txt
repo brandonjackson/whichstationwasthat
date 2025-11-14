@@ -1,0 +1,29 @@
+Combine Report for 1926-10-08
+============================================================
+
+Merge 1: IMG_2524.txt + IMG_2525.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 39
+Match strength: 1.000
+
+File A last line: Petta (Syston):
+File B matching line: Petta (Syston): Prague.
+
+Merge 2: merged_1 + IMG_2526.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Ajax (E.8.): New station at Naples.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.400 (first_8_chars)
+     Line: J.H.X.: No estimated W.L. given; Zurich (not dulcimer, but Balalaika).
+  2. Index 8, similarity: 0.400 (reporter_and_content)
+     Reporter similarity: 0.333
+     Content similarity: 0.500
+     Line: J.H.X.: No estimated W.L. given; Zurich (not dulcimer, but Balalaika).
+  3. Index 18, similarity: 0.400 (first_8_chars)
+     Line: A.J.S. 4: Vienna.
+

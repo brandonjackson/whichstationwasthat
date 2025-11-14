@@ -1,0 +1,45 @@
+Combine Report for 1926-01-29
+============================================================
+
+Merge 1: IMG_1819.txt + IMG_1820.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 10
+Match strength: 1.000
+
+File A last line: Central (Halifax): Prague.
+File B matching line: Central (Halifax): Prague testing.
+
+Merge 2: merged_1 + IMG_1821.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Eric:
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 19, similarity: 0.500 (first_8_chars)
+     Line: R.I.P.: Berlin (1300 m.) probably San Sebastian.
+  2. Index 20, similarity: 0.400 (first_12_chars)
+     Line: Acid (Berwick-on-Tweed): Rome.
+  3. Index 25, similarity: 0.300 (first_12_chars)
+     Line: Ether (Gillingham): Prague.
+
+Merge 3: merged_2 + IMG_1822.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 15
+Match strength: 1.000
+
+File A last line: Pom-Pom (Prestwich): Cannot trace.
+File B matching line: Pom-Pom (Prestwich): Relay of Stockholm.
+
+Merge 4: merged_3 + IMG_1823.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 19
+Match strength: 1.000
+
+File A last line: Accra: No coupon, Prague (368 m).
+File B matching line: Accra: No coupon, Prague (368 m).
+

@@ -1,0 +1,12 @@
+Combine Report for 1927-04-22
+============================================================
+
+Merge 1: IMG_2981.txt + IMG_2982.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 18
+Match strength: 1.000
+
+File A last line: Disabled (Hampton Wick): (1) a relay of Stockholm, possibly Karlskrona (196 m.).
+File B matching line: Disabled (Hampton Wick): (1) A relay of Stockholm, possibly Karlskrona (196 m.); (2) Cardiff. Relay of Presbyterian church service. Not advertised in programmes.
+

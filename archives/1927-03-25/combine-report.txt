@@ -1,0 +1,60 @@
+Combine Report for 1927-03-25
+============================================================
+
+Merge 1: IMG_2953.txt + IMG_2954.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: Listener (Mid.): British American (Bootle).
+File B matching line: Listener (Mid.): British Amateur (Bootle).
+
+Merge 2: merged_1 + IMG_2955.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
+
+File A last line: Wuncell: IV.
+File B matching line: Wuncell: IV. (Gaythorp): Karlsborg, relaying Stockholm.
+
+Merge 3: merged_2 + IMG_2956.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: G. Wythe (South Tottenham): Not in programmes.
+Best similarity found: 0.444
+
+Closest matches (top 3):
+  1. Index 58, similarity: 0.444 (first_12_chars)
+     Line: R.W. Johnstone: (1) Cassel, relaying Frankfort.
+  2. Index 10, similarity: 0.400 (first_12_chars)
+     Line: Polkyth Two: (1) Berne; (2) Scheveningen-Haven (1,950 m.), News Bulletin and Stock Exchange quotations, etc.; (3) Milan on 322.6 m.
+  3. Index 36, similarity: 0.375 (first_12_chars)
+     Line: B.T.H.-2 (Sussex): (1) Madrid (Radio España EAJ2), about 392/393 m.; (2) Cannot trace; beam stations work on the lower wave band.
+
+Merge 4: merged_3 + IMG_2957.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 700D (R.W. Valley)
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 38, similarity: 0.200 (first_8_chars)
+     Line: Bondi: (1) Breslau; (2) Berne relaying from Geneva Beethoven’s Missa Solemnis.
+  2. Index 38, similarity: 0.143 (first_12_chars)
+     Line: Bondi: (1) Breslau; (2) Berne relaying from Geneva Beethoven’s Missa Solemnis.
+  3. Index 16, similarity: 0.100 (first_12_chars)
+     Line: Scrutator (Winscombe): (1) Zurich (The Valkyries, relayed from the Municipal Theatre in that city); (2) Warsaw.
+
+Merge 5: merged_4 + IMG_2958.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 38
+Match strength: 1.000
+
+File A last line: Jameson (King’s Worthy): (1) Estimated W.I. given; cannot trace; coupon enclosed.
+File B matching line: Jameson (King's Worthy): (1) No estimated W.L. given; cannot trace; (no coupon enclosed).
+

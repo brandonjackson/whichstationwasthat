@@ -1,0 +1,54 @@
+Combine Report for 1927-09-30
+============================================================
+
+Merge 1: IMG_3092.txt + IMG_3093.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Long Waves: (1) Yes, Norddeich (weather report).
+Best similarity found: 0.444
+
+Closest matches (top 3):
+  1. Index 28, similarity: 0.444 (first_12_chars)
+     Line: One Valve (Dover): We know of no French telephony station on a WL between 1,000 and 1,200 m.
+  2. Index 28, similarity: 0.429 (first_8_chars)
+     Line: One Valve (Dover): We know of no French telephony station on a WL between 1,000 and 1,200 m.
+  3. Index 16, similarity: 0.295 (reporter_and_content)
+     Reporter similarity: 0.158
+     Content similarity: 0.500
+     Line: W. J. Gillott (Birmingham): (1) regret, can trace no station on about 500 m. giving an outside relay at that time; (2) Langenberg, relaying dance music from Cologne.
+
+Merge 2: merged_1 + IMG_3094.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: A. Campbell, Jnr. (Manchester): This was
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.482 (reporter_and_content)
+     Reporter similarity: 0.136
+     Content similarity: 1.000
+     Line: Fingey (Dover): This would appear to be a transmission from an aerodrome, possibly on 1,400 m., in which case, in view of your position, either Saint Inglevert or Le Bourget.
+  2. Index 6, similarity: 0.482 (reporter_and_content)
+     Reporter similarity: 0.136
+     Content similarity: 1.000
+     Line: Cedar (Liverpool): This was a relay, via PTT Paris, of a banquet given in honour of the delegates of the American Legion at the Hôtel du Palais d’Orsay. Possibly you heard this through PTT Lille on 286m.
+  3. Index 19, similarity: 0.333 (first_8_chars)
+     Line: A.D.A.F. (Ilford): Yes, Leipzig, relaying concert from the Winterrestaurant des Hauptbahnhofes until midnight.
+
+Merge 3: merged_2 + IMG_3095.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 4: merged_3 + IMG_3096.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: Interested (Grindleford): Cannot trace these items in any.
+File B matching line: Interested (Grindleford): Cannot trace these items in any published programmes.
+

@@ -7,8 +7,7 @@ Knighton Fields (Leicester): W.L. apparently wrong, too late for Milan.
 Diamond: amateurs, cannot trace locality.  
 Croxtonian (Southport): (1) Nuremberg, (2) Madrid (Union Radio).  
 Speedy S.W.: Madrid (EAJ7).  
-Carlo: Madrid (EAJ6). Via: Yes, Berne (435 m.); Rome same power as old 2LO.  
-100,000 K.W.  
+Carlo: Madrid (EAJ6). Via: Yes, Berne (435 m.); Rome same power as old 2LO. 100,000 K.W.  
 Duodyne V. (Macclesfield): E.H.F.; Yes, Berne (435 m.).  
 Wacode; Notrub; G.R.J.H.: Moscow (RDW).  
 Ampere (Redditch); Toby: Berlin.  
@@ -85,11 +84,11 @@ Mutt: probably Moscow.
 Knotbwister; Winkle: cannot say, testing with Rugby.  
 H. L. 2: cannot trace, time tallies with Muenster.  
 Coil Pusher: (1) sounds like WGY, Schenectady, (2) cannot trace, no French station on that W.L.  
-Yarn (Halifax): Toulouse off its W.L.  
+Yarr (Halifax): Toulouse off its W.L.  
 X. Y. Z.: (1) Radio Paris, (2) Madrid (EAJ7).  
 L. R. D.: Muenster, relay of Cologne.  
 Echo (Doncaster): if German, presumably Cassel, relay of Berlin.  
-L. W.: apparently harmonic of Koenigswusterhausen.  
+L. W.: apparently harmonic of Koenigsusterhausen.  
 A. R. C. (Cottenham): not advertised in programmes, but probably Hamburg.  
 Carbamide: Swedish relay of 5XX.  
 Leger (Doncaster): Bilbao (EAJ9).  
@@ -104,8 +103,7 @@ H. L. S. B. Y.: (1) Hamburg, (2) Radio Toulouse.
 D. X. 2: Lyon la Doua.  
 Toc Pip Esses: Hamburg, heterodyne whistle.  
 Old Parish: Rome.  
-Chwilywr: Berne (Switzerland).  
-(Birmingham): Cadiz (EAJ3).  
+Chwilywr: Berne (Switzerland). (Birmingham): Cadiz (EAJ3).  
 G. S. (Tottenham): Cadiz (EAJ3).  
 Yarn (Halifax): probably Bilbao.  
 All Concert (Aberdare): Madrid (EAJ7).  
@@ -143,8 +141,9 @@ Gin: Prague.
 Lactus: Madrid (EAJ6).  
 Red Gauntlet (Reading): Would tally with Oslo.  
 E. V. G. S.: Surely W.L. wrong or harmonic; talk tallies with Eiffel Tower.  
-E. V. G. S. (Chung Services): Muenster relaying Elberfeld.  
-San Sebastian.  
+E. V. G. S.: Surely WL. wrong or harmonic; talk tallies with Eiffel Tower.  
+E. V. G. S. (Church Service): Hilversum.  
+Sand Grounder: Muenster relaying Elberfeld’s relay of foreign dance broadcast.  
 Balgownie: San Sebastian.  
 Radiotron (Eastbourne): Yes, probably Dundee.  
 W. J. S.: 6NI, amateur (Bootle).  
@@ -153,7 +152,7 @@ Curious (Appleby): Radio-Toulouse.
 Duoval: Madrid (EAJ6).  
 Coilwinder (Derby): San Sebastian.  
 Ras: Hamburg.  
-Croxtonian (Southport): Toulouse testing on new W.L.  
+Croxtonian (Southport): Toulouse testing on new WL.  
 3-Valver (X) (Hoddesdon): San Sebastian.  
 Wave-Trap: Madrid.  
 Barny: Brisbane, 4QG (385 m.), Sydney, 2FC (1100 m.), 2BL (353 m.) temporary.  
@@ -166,11 +165,11 @@ A. L. M. (Dyserth): Pre-eminently KDKA base Pittsburgh.
 Wirexis (Portsmouth): Berne (then on 315 m.).  
 G. B. Y.: Dortmund.  
 Peto: Malmo (Call: Malmoens-Radio).  
-B. T. Nameless (Harrow): If W.L. correct, Bilbao (EAJ9).  
+B. T. Nameless (Harrow): If WL. correct, Bilbao (EAJ9).  
 Resistoflex: Buda-Pesth.  
 Ex-R.C.O.S.: Madrid (EAJ7).  
-Clem (Southampton): Koenigswusterhausen (English lesson).  
-Luftforscher: W.L. very indefinite but do you mean Thursday 11th or Friday?  
+Clem (Southampton): Koenigsusterhausen (English lesson).  
+Luftforscher: WL. very indefinite but do you mean Thursday 11th or Friday?  
 Old Set (Pompey): Hamburg.  
 One-Valver (Hastings): More likely Prague.  
 Somerset (S.D.): Hilversum.  
@@ -178,10 +177,10 @@ Rams (Derby): Too vague but might be WGY (Schenectady).
 43 B. R. H., N8L: Prague.  
 Target: Either Hamburg extended transmission or Madrid EAJ6.  
 B.J. 7931: Radio Toulouse.  
-Oscillating 'arry: W.L. wrong; cannot trace.  
+Oscillating 'arry: WL. wrong; cannot trace.  
 Trapdyne: 6-Valver: Very scanty details; presumably Hamburg.  
 De Bosco (Dorset): Cannot trace.  
 Stunt Three (Sutherland): Graz.  
 Wotwuzit (Cardiff): (a) Soro or Hjoerring; (b) Kiel (Morse, Ha).  
-William (Swindon): Koenigswusterhausen (English lesson).  
+William (Swindon): Koenigsusterhausen (English lesson).  
 No Name: (1250 m.) Relay of Copenhagen’s relay of Daventry. (5 February, 405 m.) details vague but presumably Muenster.

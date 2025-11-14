@@ -26,9 +26,13 @@ Concert (Yorks.): Details of wavelength too vague. Leningrad indicated, but prog
 Puzzling (Robin's Hood Bay): Impossibly vague. Please be far more definite in particulars.
 Eric's E. S. 3 Valve: (1) Cassel, relaying Frankfurt; (2) Bremen relaying Hamburg; (3) If wavelength approximately correct, Leipzig, which relayed Berlin dance music at that time.
 Robinson Crusoe: Impossible to say without some knowledge of wavelength.
-De Luxe Receiver (Yorks.): You give no idea of the wavelength; impossible to trace.
+De Luxe Receiver (Yorks.): You give no idea of the wavelength, impossible to trace.
 P. A. Wigley (Evesham): Langenberg, broadcasting the operetta Adrienne.
 J. K. M. (Barnet): You give no idea of the wavelength, therefore your estimates are too vague. Probably Moscow.
+Robinson Crusoe: Impossible to say without some knowledge of wavelength.
+De Luxe Receiver (Yorks.): You give no idea of the wavelength; impossible to trace.
+P. A. Wigley (Evesham): Langenberg, broadcasting the operetta Adrienne.
+J. K. M. (Barnet): You give no idea of the wavelength or whether you were listening to 2LO or 5XX. Probably an amateur.
 Trevail (Bristol): Not a "Which Station was That?" question. If you will send a stamped addressed envelope, we will give you any available information.
 High Frequency: (1) Yes, 2ME (short wave of 2FC); (2) Official communication (not public); (3) Probably an amateur.
 Aerial (Lowestoft): Moscow (1,450 m.).
@@ -53,11 +57,16 @@ Interested (Southsea): Possibly Aix-la-Chapelle relaying Cologne. You do not men
 Aislabaran (Streatham): Cannot trace on anything like your wavelength.
 N. F. (Brighton): In the absence of any indication of wavelength other than Daventry coils, we cannot be certain, but probably it was Huizen.
 3VHV.38: (1) Yes, probably WHO; (2) Circumstances pointed to WOWO.
-Llewdeb (Birmingham): (1) Are you sure it was not KDKA? (2) None but stations of very low power round this wavelength; (3) Possibly WBAL (Baltimore); (4) Suggest WADC (Akron, Ohio); (5) WOC (Davenport, Iowa); (6) KGO (Oakland, Cal.); (7) Probably WLS (Chicago); (8) This may have been WOK (Chicago), WORD (Batavia, Ill.) or WMBB (Homewood, Ill.).
+Llewdeb (Birmingham): (1) Are you sure it was not KDKA?; (2) None but stations of very low power round this wavelength; (3) Possibly WBAL (Baltimore); (4) Suggest WADC (Akron, Ohio); (5) WOC (Davenport, Iowa); (6) KGO (Oakland, Cal.); (7) Probably WLS (Chicago); (8) This may have been WOK (Chicago), WORD (Batavia, Ill.) or WMBB (Homewood, Ill.).
 Inquisitive Bill (Leicester): (1) Kalundborg relaying Copenhagen; (2) No coupon enclosed.
 All (Dinnington): Leningrad.
 Fairflight (Luton): Probably Barcelona (AEJ1).
 A. W. W. (Tipton): No coupon.
+Lewdeb (Birmingham): (1) Are you sure it was not KDKA? (2) None but stations of very low power round this wavelength; (3) Possibly WBAL (Baltimore); (4) Suggest WADC (Akron, Ohio); (5) WOC (Davenport, Iowa); (6) KGO (Oakland, Cal.); (7) Probably WLS (Chicago); (8) This may have been WOK (Chicago), WORD (Batavia, Ill.) or WMBB (Homewood, Ill.).
+Inquisitive Bill (Leicester): (1) Kahundborg relaying Copenhagen; (2) No coupon enclosed.
+Ali (Dinnington): Leningrad.
+Fairlight (Luton): Probably Barcelona (EAJ1).
+A. W. (Tipton): No coupon sent. Also see note at the end of the answers.
 Bee (Ash): 'Between 20 m. and 50 m.' is far too vague.
 Enquirer (Birmingham): Surely wrong wavelength.
 U. J. R. (Lowestoft): (1 and 2) Dial readings alone insufficient guide.
@@ -86,7 +95,7 @@ Chorister (Middx.): Amateur; cannot identify from particulars given.
 Wondering (Stamford Hill): Dublin.
 Cagall (Bristol): Oslo.
 Pearl (Acton): Probably Leningrad.
-Well I'm—! (Cambridge): We cannot give names and addresses of amateurs.
+Well I’m—! (Cambridge): We cannot give names and addresses of amateurs.
 Bridge St. (Barrow): Impossible to say; wavelength too vague (see note at end).
 3 Valver (Bamber Bridge): Surely your estimate of wavelength is wrong.
 Listener (Salop): According to your wavelength Madrid, but programme does not agree.
@@ -148,29 +157,35 @@ Beta (Ireland): More likely Huizen or Kovno.
 Query (Eastbourne): Leningrad.
 Det S.L.F. (Carnarvon): Your estimate of wavelength is too vague to enable us to trace.
 Ekcol (Hudd.): Moscow.
-Blue (Hastings) (Keighley): Not a "Which Station" query. Blue gives such a wavelength as 272.6 does not seem unreasonable PY7.
-Your description, the second station was WGY.
+Blue (Hastings) (Keighley): Not a "Which Station" query. Blue gives such a wavelength as 272.6 does not seem unreasonable PY7. Your description, the second station was WGY.
 Pop Stage (Gloucester): Probably direct.
 Glenbuck (Surbiton): Cannot trace such a transmission on that date.
 Volti Subito: Probably.
 Hillyer: Probably.
+Stage (Gloucester): Probably direct.
+Glenbuck (Surbiton): Cannot trace such a transmission on that wavelength.
+Volti Subito (Denbigh): Probably Hilversum. Does not accord with Leningrad’s programme.
 W. J. (Joppa): Probably an American station, but dial reading alone is insufficient guide.
 Solodyne (Lasswade): Coupon must be sent for each enquiry.
 Reinartz (N.12): You were presumably receiving Moscow.
 A. P. S. (Birmingham): Information too vague. No coupons sent.
 Nurik (Belfast): Programme of first part tallies with Dublin; second part cannot be traced on estimated wavelength.
 A. L. R. (Stratford): (1) perhaps Radio Espana, if language agrees; (2) Madrid; (3) more likely Lyons (La Doua); (4) cannot identify amateur.
-Rosedale (Sheffield): Unless you are sure of approximate wavelength you heard Fredrikstad relaying Oslo's retransmission of other stations.
+Rosedale (Sheffield): Unless you are sure of approximate wavelength you heard Fredrikssdad relaying Oslo’s retransmission of other stations.
 Anode Bird (Buckingham): Probably Moscow, and programmes agree, but languages suggested are somewhat doubtful.
-S. I. T. L. (Italy): Surely your estimate of wavelength is incorrect. We cannot trace this item on any such wavelength and shall be interested to know if you hear this station again.
-Acacia Grove (Bristol): Stuttgart relaying Berlin, which at 9 p.m. began broadcast of water polo.
-Wertzof (Nottingham): Radio Toulouse.
-W. I. D. (Annotford): Koenigs Wusterhausen transmission of gramophone records.
+S. I. T. I. (Italy): Surely your estimate of wavelength is incorrect. We cannot trace this item on any such wavelength and shall be interested to know if you hear this station again.
+Ascaria Grove (Bristol): Stuttgart relaying Berlin, which at 9 p.m. began broadcast of water polo.
+Werzhof (Nottingham): Radio Toulouse.
+W. L. D. (Annonfor): Koenigs-wusterhausen transmission of gramophone records.
 Toreador (Middleton): Amateur (Leeds).
 H. F. 42 (a): (1) if wavelength correct, Biarritz; (2) cannot trace on that wavelength; (3) probably Radio Beziers.
 R. N. B. (U.S.A.): (1) London; (2) Manchester; (3) Belfast; (4) Newcastle; (5) Stuttgart; (6) Frankfurt; (7) Madrid (EAJ7); (8) cannot trace; (9) Barcelona; (10) Iceland or Naples; (11) Bandoeng (Java).
 Winkle (Nottingham): Are you sure of approximate wavelength? Cannot trace.
-Toreador (Cardiff), Hoy (Haylake), Victor (Hull), Grid Bias (Keighley), Learner (S. Norwood), Helvetia (N. 10), Inquisitive (Derby), Bobbin (Salford), Oak Beams (Ickenham), Super Het (Sheffield), Bussie (Kilburn), BM/VRE6, J. L. (Peterborough), Auto (Edinburgh), Minka (Sheffield), Novice (Keighley), Radio (Liverpool), G. F. (Hendon), Abbo (Derby), Goldstream (Colnbrook), G. S. F. (Bristol), Beginner (Shepherd’s Bush), Screened Grid (Leeds), Clari (Birmingham), J. E. B. S. (Bradford), Cornubian (Cornwall), K. W. 19 (Ipswich), No Luck (Palmers Green), Gronbinum (Guildford), Tinker (Essex), M. T. (Chiswick), Shemell (Brighton), J. H. K. (Blackpool), E. R. V. (Felixstowe), Torero.
+Toreador (Middleton): Amateur (Leeds).
+H. F. 42 (a): (1) if wavelength correct, Biarritz; (2) cannot trace on that wavelength; (3) probably Radio Beziers.
+R. N. B. (U.S.A.): (1) London; (2) Manchester; (3) Belfast; (4) Newcastle; (5) Stuttgart; (6) Frankfurt; (7) Madrid (EAJ7); (8) cannot trace; (9) Barcelona; (10) Iceland or Naples; (11) Bandoeng (Java).
+Winkle (Nottingham): Are you sure of approximate wavelength?
+Victor (Hull), Grid Bias (Keighley), Learner (S. Norwood), Helvetia (N. 10), Inquisitive (Derby), Bobbin (Salford), Oak Beams (Ickenham), Super Het (Sheffield), Bussie (Kilburn), BM/VRE6, J. L. (Peterborough), Auto (Edinburgh), F. U. (Sheffield), Novice (Keighley), Radio (Liverpool), Minka (Hendon), Abbo (Derby), Goldstream (Colnbrook), G. S. F. (Bristol), Beginner (Shepherd's Bush), Screened Grid (Leeds), Clari (Birmingham), J. E. B. S. (Bradford), Muxicus (Summerline), No Luck (Palmers Green), Cornubian (Cornwall), Geo Geo (Ipswich), M. T. (Chiswick), Shemell (Brighton), Tinker (Essex), Snowball (Blackpool), E. R. V. (Guildford), H. K. (Holloway), H. Eatough (Burnley), Gipsy (Harrogate), H. K. (Durham), P. E. C. (Newport), H. J. L. (Maistge), Toreador (Cardiff): We are making special enquiries with regard to the transmission heard by you, and hope to give a definite reply in our next issue.
 J. H. (Peterborough): (2) Probably Moscow, although its afternoon programme was not advertised to begin till 2.30; (3) yes, Norddeich.
 H. R. A. (Tenterden): Are you sure of your wavelength?
 BM/VRE6: (2) Almeria; (8) Rostov Don; (4) Leningrad; (5) Kiev; (6) Kharkov; (8) if wavelength sure, then Angora.

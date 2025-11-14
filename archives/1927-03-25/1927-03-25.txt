@@ -1,9 +1,9 @@
 Ajax (E. 8): (1) Lyons, relaying PTT; Paris; (2) New station Radio España, Madrid (EAJ2) on 392/394 m.; (3) Bilbao (EAJ11).
 Fay of Ickenham: Yes, Frankfort-on-Main relayed Stuttgart (concert at Liederhalle), Jan Kiepura (Polish Tenor) and Augmented Philharmonic Orchestra.
 T. Farrell (Lutterworth): Cannot identify from programmes, possibly San Sebastian.
-Nob (Little Ilford), Mac (Porto): Madrid (EAJ12).
+Nob (Little Ilford) Mac (Porto): Madrid (EAJ12).
 Four Valver (Fleetwood): WJY (New York) 405 m.
-Undiyne (Steppingley): (32) Klagenfurt, relay of Vienna; (33) Innsbruck, relay of Vienna; (34) Danzig, relay of Koenigsberg; (35) Warsaw, relay from Philharmonic Hall; (36) Upsala, relay of Stockholm.
+3. Undiyne (Steppingley): (32) Klagenfurt, relay of Vienna; (33) Innsbruck, relay of Vienna; (34) Danzig, relay of Koenigsberg; (35) Warsaw, relay from Philharmonic Hall; (36) Upsala, relay of Stockholm.
 P. Payne (Fingringhoe): Cadiz (EAJ3).
 B, M/FF: Yes, Briinn.
 A. E. (Chelsea): Do you not mean March 11, when Danish, Norwegian, and Swedish stations all relayed "Tales of Hoffmann" from Stockholm Opera House? (in which case, Soro).
@@ -21,7 +21,7 @@ P. A. N. (Cardiff): Radio Madrileña, Madrid (EAJ12).
 The Old Man (Eastbourne): WEAF (New York) 491.5 m.
 J. M. Toulmin (Preston): Possibly Madrid (EAJ2).
 L. A. (Halifax): No estimated WL given; (1) Madrid (EAJ7); (2) Cannot trace, for reason given.
-Renrut (Barnsbury): Yes, possibly WJZ (Boundbrook 454 m.
+Renrut (Barnsbury): Yes, possibly WJZ (Boundbrook 454 m).
 Mae (Church End, Finchley): Madrid (EAJ4), relay of Madrid (EAJ7).
 Hopeful Novice (Acton): Hilversum.
 A. F. C. (Croydon): Madrid (EAJ2) Radio España, 392-393 m.
@@ -30,10 +30,8 @@ J. A. S. (Chester): 5CC amateur (Bath).
 J. Read (Putney): Briinn (441 m.).
 B. W. J. (Belfast): (1) Briinn (441 m.); (2) Yes, Hilversum (Tarnhäuser); (3) Yes, Salamanca (402.5 m.).
 D. P. C. (Leeds): Berlin 483.9 m.
-Sheerness (sjn) N: No transmitter at Düsseldorf a studio broadcasting through Langenberg; (2) Frankfort-on-Main, relay of dance music from Philharmonic Hall at Dusseldorf (Mar. 7th).
-Listener (Mid.): British American (Bootle).
-Ark (Sheerness): (1) No transmitter at Düsseldorf: a studio only, broadcasting through Langenberg; (2) Frankfort-on-Main, relay of dance music from Berlin.
-Radio Mad (Leicester): Madrid (EAJ7).
+Sheerness (sjn) N: No transmitter at Düsseldorf a studio broadcasting through Langenberg. (2) Frankfort-on-Main, relay of dance music from Philharmonic Hall at Dusseldorf (Mar. 7th).
+Listener (Mid.): British Amateur (Bootle).
 C. R. (Clonmel): 5SC amateur, cannot trace.
 SALOP M71613: Sorö, relaying foreign stations.
 Black Eagle: Yes, amateurs at that hour.
@@ -59,14 +57,13 @@ Sahib (Jersey): (1) Karlsborg, relaying Stockholm; (2) Berne.
 Drake (Cheshire): (3) It was Stuttgart. Talk on English humour followed by news. Coupon must be sent with each enquiry; (2) Yes, Karlsborg, relaying Stockholm; (1) Kovno.
 C. D. L. (Maidenhead): Believe another transmitter has been erected in Stettin to cover the neighbourhood.
 A. Lambert: Karlsborg, relaying from Stockholm.
-Searcher (Rusholme): (27) Cadiz (EAJ3). (28) Stockholm (Tales of Hoffmann).
-(29) Lyons, relay of PTT Paris (from Coliseum).
+Searcher (Rusholme): (27) Cadiz (EAJ3) (Tales of Hoffmann). (29) Lyons, relay of PTT Paris (from Coliseum).
 Frothblower: Radio España, Madrid (EAJ2) on 392/394 m.
 Tulip: Brünn (441 m.).
 K. H. C. (Newbury): Cadiz (EAJ3).
-Southall (Peterborough): (1) Munich; (2) Sundsvall, relay of Stockholm.
+Southall (Peterborough): (1) Milan; (2) Sundsvall, relay of Stockholm.
 J. P. (Macclesfield): Moscow (RDW) testing.
-Wuncell: IV.
+Wuncell IV. (Gaythorp): Karlsborg, relaying Stockholm.
 Enydolos (Oxford): Apparently Stockholm (revue). Possibly Umea on 229 m.
 Warspite (Greenhithe): Stuttgart, chimes and gramophone records.
 Traversal Two (Sydenham): Brünn from National Opera House.
@@ -86,10 +83,10 @@ Milforidia: Moscow (RDW).
 G. Syred (Bellingham): A relay of revue from Stockholm; possibly Uppsala (315 m.).
 R. (Stretford): (2) Yes, probably Brussels testing; (1) Freiburg (577 m.) relaying Stuttgart.
 High Power (Ponteland): (1) Hamburg; (2) Radio Toulouse; (3) Frankfort-on-Main, relaying from Berlin.
-G. Wythe (South Tottenham): Not in programmes, possibly Madrid (EAJ7).
+G. Wythe (South Tottenham): Not in programmes.possibly Madrid (EAJ7).
 P.B.S. (Glasgow): Cadiz (EAJ3).
 Santrace: W.L. vague; possibly Madrid (EAJ7).
-Pendle Almer: (81) Yes, Breslau on altered W.L., 315.8 m.; (85) Radio España, Madrid (EAJ2) on 393 m. (App.).
+Pendle Almer: (81) Yes, Breslau on altered W.L., 315.8 m. (85) Radio España, Madrid (EAJ2) on 393 m. (App.).
 E.E.P.: Item and time do not tally with any broadcasting station; apparently amateur transmission.
 Polkyth Two: (1) Berne; (2) Scheveningen-Haven (1,950 m.), News Bulletin and Stock Exchange quotations, etc.; (3) Milan on 322.6 m.
 G. Greasley (Guernsey): PTT Lyons, relaying from PTT Paris.
@@ -113,38 +110,38 @@ A.E.P. (Gravesend): British amateur transmitter.
 E.J. Mannix (Dublin): B.B.C. relayed WGY (Schenectady) on that night: if received on 379 m. you may have picked it up from New York direct, unless you receive Manchester easily.
 E. Holloway (Catford): Coupon must be sent with each enquiry; possibly WGY (Schenectady).
 J. T. Owen (Brighton): Hamburg (first news bulletin).
-Loge 14 (Paris): Nous n'avons aucune intimation officielle concernant un changement d’onde de la part de Zurich, mais plusieurs lecteurs nous en ont informé; (2) Croyons que l’Espagne a fait des essais de relais par un poste à haute puissance (Prado del Rey).
-Warsaw. Link (Manchester): W.I. apparently wrong; cannot trace.
+Loge 14 (Paris): Nous n'avons aucune intimation officielle concernant un changement d’onde de la part de Zurich, mais plusieurs lecteurs nous en ont informé; (2) Croyons que l’Espagne a fait des essais de relais par un poste à haute puissance (Prado del Rey). Warsaw.
+Link (Manchester): W.I. apparently wrong; cannot trace.
 R.W. Johnstone: (1) Cassel, relaying Frankfort.
 KDKA (East Pittsburg): (3) Radio Iberica, Madrid (EAJ6).
 W.D. Nighthawk (Whitchurch): Maples (333.3 m).
-Orbiston Estate: No coupon may be sent with enquiry; hence can’t repeat.
-G. E. C. 4: (1) not French, possibly San Sebastian; (2) Koenigsberg, relaying Danzig; (3) Radio Toulouse.
+Orbiston Estate (3): No coupon may be sent with enquiry; hence can’t repeat.
+700D (R.W. Valley): Metronome.
+G. E. C. 4: (1) not French, possibly San Sebastian; (2) Koenigsberg, relaying Danzig (3) Radio Toulouse.
 La France: Yes, Boden, relaying Stockholm.
-Specia Five: (1) Too vague, cannot trace; (2) Karlsborg, relaying Stockholm. Coupon must be sent with each inquiry.
-E. Boon (Manchester): Prague (348 m.), relaying Brünn (from National Theatre).
+Special Five: (1) Too vague, cannot trace; (2) Karlsborg, relaying Stockholm. Coupon must be sent with each inquiry.
+E. Boon (Manchester): Prague (343 m.), relaying Brünn (from National Theatre).
 Daniel Eyssette: Munich.
 P. Wyatt (Norwich): (1) Gothenberg, relaying Stockholm; (2) yes Nuremberg, relaying Munich; (3) Paris PTT possibly on 464/465 m. (5 kv.).
 D. L. (Yeovil): (1) If French, undoubtly PTT, Lyons, but we believe that you will find this was Berlin; (2) PTT, Toulouse, relaying Paris, PTT.
 Scrutator (Winscombe): (1) Zurich (The Valkyries, relayed from the Municipal Theatre in that city); (2) Warsaw.
 B. L. U. (Colwyn Bay): Rather vague; either Hamburg or Bremen relaying concert from Café Wallhof, Hamburg.
 Deane (Chatham): Apparently WGY direct on 379 m.
-Radio (Gateshead-on-Tyne): Possibly Madrid (Radio España), EAJ2 on 393 m.
+Radix (Gateshead-on-Tyne): Possibly Madrid (Radio España), EAJ2 on 393 m.
 H. F. 42: Prague relayed by Brünn on 441 m.
-A. O. C. (Grange-over-Sands): Rjukan (Norway) on 443 m., relay of Verdi’s Aida from Opera House, Stockholm.
+A. C. (Orange over-Sands): Rjukan (Norway) on 443 m., relay of Verdi’s Aida from Opera House, Stockholm.
 W. R. (Keighley): Amateur transmitter, Sowerby Bridge.
-L. B. (Woolerhaugh): (1) Berne; (2) Koenigswterthaensen on 2,525 m.; (3) Madrid (EAJ7).
-W. H. D. S. (V.): Porsgrund (Norway) relaying Verdi’s Opera Aida from Royal Opera House, Stockholm.
-The Courses (Bridge of Weir): No, PTT, Lyons.
-Seaman (Thuxton): Yes, Hanover. HR, in morse as interval signal.
+W. B. (Middlesbrough): (1) Berne; (2) Koenigswterhausen PTT, Lyons.
+Seaman (Thuxton): Yes, Hanover. HR in morse as interval signal.
 F. W. Bell (Hull): Apparently Stockholm; Verdi’s Aida, instead of his opera The Masked Ball, as advertised.
-N. W. 2 (Penarth): Cannot trace this opera, but presume that it was given at Stockholm instead of The Masked Ball. Either Stockholm or Oslo, to which it was also relayed.
-Radio Jun (Douglas, I. of M.): Amateur transmitter: if 5 D.C., Thornton-le-Fylde.
+N W 2 (Penarth): Cannot trace this opera, but presume that it was given at Stockholm instead of The Masked Ball. Either Stockholm or Oslo, to which it was also relayed.
+Radio Jun (Douglas, I. of M.): Amateur transmitter; if 5 D.C. Thornton-le-Fylde.
 Bondi: (1) Breslau; (2) Berne relaying from Geneva Beethoven’s Missa Solemnis.
 A. L. S. (Coventry): Yes, Koenigsberg; a Grieg evening of chamber music.
 Collenette (Gournsey): Rome.
-W. L. G./G.K.: (5) There is no station advertised as working between Edinburgh and Dortmund; nearest Swedish relay is Trollhattan on 277.8 m.; (6) Cannot identify; must be a local interference.
-Straight Eight (Rochdale): Cannot identify from scanty details given; if U.S.A., possibly WPG (Atlantic City) on 298.8 m.
-Jameson (King’s Worthy): (1) Yes.
-E. A. (Wells): (1) Bratislava or (2) EAJ7, (2) Porsgrund.
+W. L./G.K. (G): There is no station advertised as working between Edinburgh and Dortmund; nearest Swedish relay is Trollhattan on 277.8 m.
+(6) Cannot identify; must be a local interference.
+Straight Eight (Rochdale): Cannot identify from scanty details given; if U.S.A. possibly WPG (Atlantic City) on 298.8 m.
+Jameson (King's Worthy): (1) No estimated W.L. given; cannot trace; (no coupon enclosed).
+E. A. (Wells): (1) Bratislava on 300 m; (2) Porsgrund (Norway), relay of Oslo.
 Marcel Hullot (Paris): (1) Pour autant que nous le sachions, le poste Italien à haute puissance fait ses essais sur une longueur d’onde de 1,200 m.; nous l’avons capté à deux reprises. Nous ne connaissons pas d'autre poste sur 1,400/1,450 m. sauf Moscou (Komintern); (2) Fribourg-en-Breisgau fait le relai de Stuttgart sur 577 m.; (4) Bratislava sur 300 m. fait le relai de Prague. Kosice est un poste de telegraphie et ce n'est qu’infrequemment qu’il effectué des émissions radiophoniques.

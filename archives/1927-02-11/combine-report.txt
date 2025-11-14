@@ -1,0 +1,106 @@
+Combine Report for 1927-02-11
+============================================================
+
+Merge 1: IMG_2731.txt + IMG_2732.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (3) WJY (New York) 405 m.; (4) Presumably WGY (Schenec-
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.286 (first_12_chars)
+     Line: O. S. B. (Netherton): (1) Cannot trace, unless Reval, of which programmes are not available (2) Frederikstad, relaying Oslo.
+  2. Index 33, similarity: 0.286 (first_12_chars)
+     Line: L. B. W. (Newton Hill): Vienna (577 m.).
+  3. Index 3, similarity: 0.250 (first_8_chars)
+     Line: W. L. (Northampton): Radio Paris.
+
+Merge 2: merged_1 + IMG_2733.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 13
+Match strength: 1.000
+
+File A last line: Monkton (Hereford): Sorö, relaying Copenhagen.
+File B matching line: Monkton (Hereford): Sorø, relaying Copenhagen.
+
+Merge 3: merged_2 + IMG_2734.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: C. A. L (Beaconsfield): (1) Hilversum; (2) Sorø, relaying Copenhagen; (3) Cannot trace Die Fledermaus in any programme; (4) Vague.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.520 (reporter_and_content)
+     Reporter similarity: 0.200
+     Content similarity: 1.000
+     Line: Cossor User: (1) Hanover, relaying Hamburg; (2) Madrid (EAJ7); (3) Barcelona (EAJ1); (4) Warsaw.
+  2. Index 42, similarity: 0.360 (reporter_and_content)
+     Reporter similarity: 0.267
+     Content similarity: 0.500
+     Line: Crab (Retford): (1) No, this is Cadiz (EAJ3); (2) Frequently off its WL.
+  3. Index 56, similarity: 0.360 (reporter_and_content)
+     Reporter similarity: 0.267
+     Content similarity: 0.500
+     Line: C. B. C. (North Ken): (1) No WL. given, cannot trace; (2) yes, KDKA (East Pittsburg) was relayed by Petit Parisien, Paris.
+
+Merge 4: merged_3 + IMG_2735.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: E. W.
+Best similarity found: 0.667
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.667 (first_8_chars)
+     Line: E. W. L. (Liverpool): Sorö, relaying Copenhagen (chimes from Town Hall).
+  2. Index 6, similarity: 0.400 (first_12_chars)
+     Line: E. W. L. (Liverpool): Sorö, relaying Copenhagen (chimes from Town Hall).
+  3. Index 5, similarity: 0.333 (first_8_chars)
+     Line: E. J. B. (Braintree): Moscow (RDW).
+
+Merge 5: merged_4 + IMG_2736.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Shipper (Gt. Yarmouth): Moscow (RDW).
+File B matching line: Shipper (Gt. Yarmouth): (1) Langenberg from Cologne, (2) possibly PTT, Paris, which gave a concert at that time, but programme details are not published.
+
+Merge 6: merged_5 + IMG_2738.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 123 5NO: Impossible to trace, much too vague.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 20, similarity: 0.333 (first_8_chars)
+     Line: DX 35/75 (Croydon): Excellent results. San Sebastian.
+  2. Index 18, similarity: 0.227 (reporter_and_content)
+     Reporter similarity: 0.111
+     Content similarity: 0.400
+     Line: Wayfarer (Kilmarnock): It is pronounced Frankfort-am-Maine.
+  3. Index 20, similarity: 0.222 (first_12_chars)
+     Line: DX 35/75 (Croydon): Excellent results. San Sebastian.
+
+Merge 7: merged_6 + IMG_2739.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Faded Fiddler: (1) PTT, Paris. Dance music relayed from the Coliseum in that city, (2) if, as we pre-
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 18, similarity: 0.429 (first_8_chars)
+     Line: A. D. (Douglas, I.O.M.): (1) Moscow (RDW), (2) Karlsborg relaying Stockholm, (3) Stuttgart.
+  2. Index 18, similarity: 0.364 (first_12_chars)
+     Line: A. D. (Douglas, I.O.M.): (1) Moscow (RDW), (2) Karlsborg relaying Stockholm, (3) Stuttgart.
+  3. Index 21, similarity: 0.300 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 0.500
+     Line: Royal Three Valve (Rotherham): (1) Berne; this was the first orchestral piece in programme, (2) Bordeaux-Lafayette (France), (3) gramophone records, possibly Dundee or Swansea, (4) Sorö relaying Copenhagen (Radio Trio), (5) Leningrad, (6) Karlsborg relaying Stockholm.
+

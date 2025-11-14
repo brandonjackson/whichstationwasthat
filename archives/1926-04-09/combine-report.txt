@@ -1,0 +1,24 @@
+Combine Report for 1926-04-09
+============================================================
+
+Merge 1: IMG_1887.txt + IMG_1888.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_1889.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Shaftesbury: W.L. apparently wrong, and details vague.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.375 (first_8_chars)
+     Line: S. A. (Bexhill): presumably Berlin (1,300 m.).
+  2. Index 30, similarity: 0.364 (first_12_chars)
+     Line: 2HV.9: Elberfeld (request concert, no details).
+  3. Index 2, similarity: 0.273 (first_12_chars)
+     Line: S. A. (Bexhill): presumably Berlin (1,300 m.).
+

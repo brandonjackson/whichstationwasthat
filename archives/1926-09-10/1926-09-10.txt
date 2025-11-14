@@ -1,5 +1,4 @@
-A.B.C. (Bootle): (1) Frankfort-on-Main, (2) Brussels, (3) Vienna.
-Wanderer: Berne.
+A.B.C. (Bootle): (1) Frankfort-on-Main, (2) Brussels, (3) Vienna. Wanderer Berne.
 Su-Het 8 (Nunhead): Karlsborg (1,365 m.), relay of Stockholm.
 Two-Valve (Berkhamsted): Barcelona (EAJ13).
 T. E. F. (Salop): Frankfort-on-Main. Very excellent results, reception of such foreign stations on crystal sets is not of common occurrence.
@@ -44,11 +43,11 @@ Seton: Cannot trace.
 L. Burrows: Details rather vague, but in conjunction with other enquiries received, we are able to confirm that this was Hamburg.
 M. D. (Worcester): Details too vague, cannot trace, but certainly a German station.
 G. L. (Highgate): Barcelona (EAJ1).
-Zoraida: (1) Cassel, relay of Frankfort-on-Main, (2) Frankfort-on-Main (English hymn heard was the present German National Anthem), (3) Leipzig.
+Zoraida (1) Cassel, relay of Frankfort-on-Main, (2) Frankfort-on-Main (English hymn heard was the present German National Anthem), (3) Leipzig.
 Nunsthorpe: (1) vague, presumably Breslau, (2) Cadiz.
 Santrace (Hull): (1) Hilversum, (2) too vague, but probably Madrid (EAJ6).
 I-V-O (East Ham): Frankfort-on-Main (The Mastersingers of Nuremberg).
-W. S. A. T. (Birmingham): Prague.
+W. S. A. T (Birmingham): Prague.
 Senart: Stuttgart.
 Chester Cannie: Breslau, relay of Berlin (The Theft of Hoffmann).
 Brighton 4 Valve: Buda Pesth.
@@ -61,9 +60,8 @@ W. D. B.: Bordeaux, relay of PTT, Paris.
 Three D.E.R.-er (Leighton Buzzard): Prague (372 m.).
 Arthur Mominter (Stratford Market): W.L. much too vague, cannot trace.
 World Radio (Bristol): Muenster.
-Lady Be Good: Oslo.
-(10.15 p.m.) probably San Sebastian (9.55 p.m.).
-Kit-Kat: (1) Hilversum, (2) Quite possibly Vienna or Brunn, but details too vague to confirm, (3) Madrid (EAJ6), (4) Prague, (5) No German station near your wavelength, (6) Radio Toulouse.
+Lady Be Good: Oslo. (10.15 p.m.) probably San Sebastian (9.55 p.m.).
+Kit-Kat (1) Hilversum, (2) Quite possibly Vienna or Brunn, but details too vague to confirm, (3) Madrid (EAJ6), (4) Prague, (5) No German station near your wavelength, (6) Radio Toulouse.
 Bri: (a) Probably relay of Stockholm, (b) Hanover, (c) PTT Toulouse, (d) Barcelona (EAJ1), (e) If English, possibly Hull, (f) Stockholm, relay of Daventry, (g) Cannot trace, (h) Eiffel Tower.
 Pink: Frankfort-on-Main (The Mastersingers of Nuremberg).
 Batteries (Norwich): Moscow (RDW).
@@ -78,7 +76,7 @@ Togo II (Portsmouth): Prague.
 Glaxo G.G.W. 13: Madrid (EAJ6).
 Brighto (Nottingham): Frankfort-on-Main.
 Amplifier (Manchester): Stuttgart.
-Via Ether: (1) Eiffel Tower; (2) Madrid (EAJ7).
+Via Ether.: (1) Eiffel Tower; (2) Madrid (EAJ7).
 Twin (Forest Gate): Cannot trace on that wavelength.
 M.C.W.: Koenigswusterhausen, relay of Muenster.
 3 Valve (Canterbury): Much too vague, cannot trace.
@@ -88,7 +86,7 @@ Taffy (Llanelly): Madrid (EAJ7).
 Web (Bury): Dortmund, relay of Muenster.
 Arthur Hatton (Nottingham): Hamburg.
 Lewis (Cheltenham): Frankfort-on-Main.
-Rolyat Busser (Dorset): WL too indefinite and details too vague, cannot trace.
+Rolyat Busser (Dorset): WL - too indefinite and details too vague, cannot trace.
 2-V Straight (S.E.): Muenster.
 Transatlantic (Darwen): Cardiff "Silent Fellowship."
 Knot Twister: If Russian, possibly Moscow (1,010 m).
@@ -107,7 +105,7 @@ No Name: WL too vague, cannot trace; (10.10 p.m.) WL too vague, possibly Berlin 
 V.D.; T.D. (Hamilton): details too vague, but taking time into consideration, would suggest Madrid EAJ6 or 7, or Cadiz EAJ3.
 A. H. Wickersham: (1) Bilbao (EAJ11), (2) Rome, (3) Leipzig.
 Leanda (Felixtowm): Sörö, relay of Copenhagen.
-Noisy Parker (Portsmouth): Sofia, relay of Copenhagen.
+Noisy Parker (Portsmouth): Hamburg.
 2 V. (Deal): Leipzig, relay of Dresden.
 Telophony (Liverpool): Berne.
 T.V.R. (Newquay): (1) Stuttgart, (2) Frankfort-on-Main.
@@ -118,14 +116,14 @@ Grid Leak (Glasgow): (1) Milan; (2) rather vague, possibly Radio-Toulouse; (3) I
 Key Switch (Leicester): Surely items were reversed; Frankfort-on-Main.
 Wave Catcher (Putney): (1) Breslau (Hotel Residenz), (2) Leipzig (Variety programme), (3) Hull (gramophone records).
 Knight (Bristol): WL too vague.
-Stingo: (1) Cassel relaying Frankfort; (2) Hamburg relay; (3) relay of Bremen.
+Stingo (1): Cassel relaying Frankfort; (2) Hamburg relay; (3) relay of Bremen.
 S.T.V. (Islington): Obviously two transmissions cannot trace.
 Chrystalvalencia: Frankfort (piano solos).
 Gillott: Madrid (EAJ6).
 Arth (Southampton): Muenster.
 A.L.S. (Coventry): (1) B.B.C. relays took 2LO programme possibly harmonic 5XX, (2) Bremen.
 Pouvez-Vous Dire (Liverpool): No German station on this WL; if lady announcer, Leipzig.
-Denton: (4) WL must be wrong—items tally with Berlin; (5) Stuttgart.
+Denton (4): WL must be wrong—items tally with Berlin; (5) Stuttgart.
 Black (Tredegar): Madrid (EAJ7).
 L.C.W.3 (Oxon): Cassel, relay of Frankfort.
 E.A.1 (Wells): Moscow (RDW).

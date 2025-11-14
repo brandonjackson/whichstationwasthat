@@ -1,0 +1,48 @@
+Combine Report for 1926-01-01
+============================================================
+
+Merge 1: IMG_1793.txt + IMG_1794.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: L: Leipzig.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 26, similarity: 0.429 (first_8_chars)
+     Line: Raleigh: cannot trace, WL wrong.
+  2. Index 40, similarity: 0.333 (first_8_chars)
+     Line: L. W. (Plymouth): either San Sebastian or Madrid (EAJ4).
+  3. Index 41, similarity: 0.333 (first_8_chars)
+     Line: A. L. E.: Berlin.
+
+Merge 2: merged_1 + IMG_1795.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: B. M./BCLB: probably Stettin.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 17, similarity: 0.500 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 1.000
+     Line: C. H. A.: probably U.S.A. station, cannot trace.
+  2. Index 10, similarity: 0.486 (reporter_and_content)
+     Reporter similarity: 0.143
+     Content similarity: 1.000
+     Line: Sunbeam: probably B.B.C. station testing.
+  3. Index 8, similarity: 0.400 (reporter_and_content)
+     Reporter similarity: 0.000
+     Content similarity: 1.000
+     Line: Lotus: probably relay of Munich, but not in programme.
+
+Merge 3: merged_2 + IMG_1796.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 22
+Match strength: 0.900
+
+File A last line: Handle (Londonderry): 23rd. In not in programme.
+File B matching line: Handie (Londonderry): Not in programme, presumably German stations.
+

@@ -1,0 +1,22 @@
+Combine Report for 1926-06-25
+============================================================
+
+Merge 1: IMG_2419.txt + IMG_2420.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: S.T. 100 Hearn (Stamford Hill): (1) Croydon.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.250 (first_12_chars)
+     Line: R.N. (Rathfarnham, co. Dublin): Cannot trace, unless Swansea.
+  2. Index 5, similarity: 0.218 (reporter_and_content)
+     Reporter similarity: 0.364
+     Content similarity: 0.000
+     Line: Harmony Four (Hull): WL much too vague, probably Madrid (EAJ7).
+  3. Index 10, similarity: 0.218 (reporter_and_content)
+     Reporter similarity: 0.364
+     Content similarity: 0.000
+     Line: R.N. (Rathfarnham, co. Dublin): Cannot trace, unless Swansea.
+

@@ -1,0 +1,90 @@
+Combine Report for 1928-01-27
+============================================================
+
+Merge 1: IMG_3232.txt + IMG_3233.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3234.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Alberten (Woodbridge): (1) WGY (Schenectady); (2) KDKA (East Pittsburgh).
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 50, similarity: 0.300 (first_12_chars)
+     Line: Patience (Holyhead):
+  2. Index 76, similarity: 0.300 (first_12_chars)
+     Line: (1) Langenberg, relaying Cologne; concert of light music; (2) No WL given, regret, cannot trace.
+  3. Index 88, similarity: 0.300 (first_12_chars)
+     Line: Can trace no station on about that WL working at that time.
+
+Merge 3: merged_2 + IMG_3235.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Sundsvall, relaying Stockholm (a relay).
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 26, similarity: 0.300 (first_12_chars)
+     Line: Granvill
+  2. Index 0, similarity: 0.250 (first_8_chars)
+     Line: Bunny (Chester): Malmö, relaying Stockholm (a relay of foreign stations); (2) Copenhagen.
+  3. Index 18, similarity: 0.250 (first_8_chars)
+     Line: Slider Set (Ipswich): Kalundborg, relaying Copenhagen.
+
+Merge 4: merged_3 + IMG_3236.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Granvill
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 1, similarity: 0.500 (first_8_chars)
+     Line: Brand (Loughton): (1) WGY (Schenectady); (2) 2YZ, a commercial company's transmitter at North Woolwich.
+  2. Index 14, similarity: 0.333 (first_12_chars)
+     Line: 4 Valve (Balham): (1) Kalundborg, relaying Copenhagen; (2) Koenigswusterhausen, relaying Berlin.
+  3. Index 1, similarity: 0.300 (first_12_chars)
+     Line: Brand (Loughton): (1) WGY (Schenectady); (2) 2YZ, a commercial company's transmitter at North Woolwich.
+
+Merge 5: merged_4 + IMG_3237.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 6: merged_5 + IMG_3238.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 7: merged_6 + IMG_3239.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 0.954
+
+File A last line: RUYMN (Ramsgate): 2XAF, which you received on Monday.
+File B matching line: RUYM (Ramsgate): 2XAF, which you received on Monday would not be transmitting at 18.10 on Tuesday; this sounds more like amateur.
+
+Merge 8: merged_7 + IMG_3240.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Apart from Madrid (EAJ7), possibly Madrid.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 16, similarity: 0.375 (first_8_chars)
+     Line: Searcher (North Wales): Not advertised in programme, but possibly Vienna (Rosenhuegel).
+  2. Index 11, similarity: 0.286 (first_8_chars)
+     Line: Xmas (Forest Gate): (1) Frankfurt-on-Main; (2) Berne, relaying orchestral concert from the Kursaal.
+  3. Index 14, similarity: 0.286 (first_8_chars)
+     Line: Corder (Birmingham): (4) WBZ (Springfield). A coupon must be sent with each enquiry; we are holding other enquiries back for further coupons.
+

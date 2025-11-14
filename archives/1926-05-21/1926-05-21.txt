@@ -15,7 +15,7 @@ HF (Marlboro'): British amateurs, cannot trace.
 DE6 (Catford): Muenster, relay of Elberfeld.
 Semper Paratus: Cannot trace unless Madrid (EAJ7).
 F.L.B.C. (Kent): Frankfort-on-Main.
-Transformer: Presumably Dublin.
+Transformer: presumably Dublin.
 R.J.L. (Barking): Madrid (EAJ7).
 J.W. (Armagh): Yes, amateur 6NI (Bootle).
 Rheostat (Bath): Radio Toulouse.
@@ -44,28 +44,27 @@ I Guess (Maesteg): Madrid (EAJ7).
 Univalve: British amateurs, cannot trace.
 Paddy (Clonmel): (a) presumably PTT, Paris; (b) if 4.45 p.m. Breslau.
 Peeping Tom: British amateur, cannot trace.
-F.G.L. (Nottingham): Possibly Frankfort-on-Main, no detailed programme available.
+F.G.L. (Nottingham): possibly Frankfort-on-Main, no detailed programmes available.
 Plymouth: Madrid (EAJ7).
 Mullard D.S. 599/682/347 (Southampton): Cassel (own relay from local concert hall).
 I Wonder (Maesteg): Madrid (EAJ7).
 Clock: Elberfeld, relay of Muenster.
-Doubtful: Do not believe this was Schenectady, but an amateur transmission.
+Doubtful: do not believe this was Schenectady, but an amateur transmission.
 H.F.D.L.F.: Kiel, relay of Hanover (Café Continental via Hamburg).
 W.M. (Clerkenwell): Radio Paris.
-Four Valve (Dover): Cannot trace.
-Ireland (Camden Town): Can trace no other European transmission, possibly WGY (379.5 m).
+Four Valve (Dover): cannot trace.
+Ireland (Camden Town): can trace no other European transmission, possibly WGY (379.5 m).
 Detail (Swindon): Too vague.
 Wave-Catcher (1 and 2): Both Cadiz (EAJ3).
 Quendon (Purley): Do not recognise the W.L., but possibly WBZ (Springfield) on 50 m.
 S.G.S.: Warsaw.
-Squeaker: Wandsworth (Coventry). Oslo.
-Potential would deny a degree of carbon trace.
+Squeaker: Wandsworth (Coventry). Oslo. Potential would deny a degree of carbon trace.
 General Purpose/3: No time stated.
 Glaxo G.W.38: Hamburg, ex Hanover.
 Night-Hawk: (1) Possibly U.S.A. station; (2) Oslo.
-Curious Again (Gatford): Presumably foreign relay of 5XX, but not advertised in programmes; if WL correct, would point to Swedish station.
+Curious Again (Gatford): Presumably foreign relay of 5XX, but not advertised in programmes; if WL. correct, would point to Swedish station.
 F.L.B. (Birmingham): Breslau relay of Berlin.
-Horace (Manchester): Cannot trace any Teutonic transmission near that WL at that time, but San Sebastian was working.
+Horace (Manchester): Cannot trace any Teutonic transmission near that WL. at that time, but San Sebastian was working.
 Secrecy (Dartford): Stuttgart.
 Low Waves: Radio-Montpellier (France).
 3 Knob-Twister (Preston): Dresden.
@@ -89,15 +88,14 @@ Sandy M/cr: Radio-Paris do not always close to time.
 W. A. (Chapel Brow): 6NI amateur (Bootle).
 Xmas: Madrid (EAJ7).
 W. J. Gillott: (3). Hilversum, (4) cannot trace.
-Y. R. Less: (1) Copenhagen, (2) Radio Luxembourg, (3) Elberfeld; (4) Was this not WJZ (Bounderbrook)? (6) Koenigsusterhausen (Press).
-Ah: (1) Details too vague, probably Rome, (2) Berlin.
-Twin (Forest Gate): PTT, Paris.
+Y. R. Less: (1) Copenhagen, (2) Radio Luxembourg, (3) Elberfeld; (4) was this not WJZ (Bounderbrook)? (6) Koenigsusterhausen (Press). Ah: (1) Details too vague, probably Rome, (2) Berlin.
+Twin (Forest Gate): PTT. Paris.
 SW 3V (Spalding): Cannot trace.
 Night-Hawk (Sanquhar): Cannot confirm Riga, no programme issued.
 May (Folkestone): Relay of Copenhagen.
 Lotus 3Way: (1) Stuttgart, (2) Milan.
 S. R. (Kettering): Paris, PTT.
-One Valve (East Ham): Marseilles, relay of PTT, Paris.
+One Valve (East Ham): Marseilles, relay of PTT; Paris.
 Water (Alnwick): Moscow (Kremlin Bells).
 Bill Max: (1) Berne, (2) cannot trace.
 L. 21 (Leicester): Norddeich (weather report).
@@ -112,8 +110,8 @@ Lutina: Lausanne (Madame Butterfly).
 Phyllis: (1) PTT, Toulouse, (2) cannot trace.
 Quinton: Radio-Paris.
 Jay-Jay: Koenigsusterhausen (Press).
-A.C.N.: Cadiz (EAJ3).
-H.F.D.L.F.: Yes, Radio Toulouse.
+A. C. N.: Cadiz (EAJ3).
+H. F. D. L. F.: PTT, Radio Toulouse.
 1RN (Dublin): Moscow (CDW).
 Det and L. F. (Bexhill): Bordeaux, relay of PTT, Paris.
 Digit (Highwood): Barcelona (EAJ1).
@@ -126,11 +124,12 @@ Hodges (Leamington): British Amateur testing.
 Liberty Super-Six (Birmingham): Radio-Paris.
 Greyfriars V: Moscow (RDW).
 Flewelling (N.W.10): Cadiz (EAJ3).
-No Name: (“Anitra’s Dance,” French Tango, etc.) (1) Cannot trace from items given; (2) Not in programmes; presumably Berne.
+No Name: Anitra’s Dance”, French Tango, etc.) (1) Cannot trace from items given (2) Not in programmes; presumably Berne.
 John Bull (Deal): Madrid (EAJ6).
 Marconi Prescot: Cannot trace afternoon transmission on this wl.
-Runkerry: Presumably some test; cannot trace.
-West Fife: 5XX possibly Paris but Berlin was doing it on that date; (422 m.), Breslau, dance music.
+Runkerry: Presumably some test cannot trace.
+West Fife: 5XX relayed by Berlin.
+Cathcart: (about 1600 m.), a relay of 5XX, possibly Paris but Berlin was doing it on that wl.
 A. G. S. (Ilford): Surely Berlin.
 Rover (Ruglen): Not German, possibly Moscow (RDW).
 Disif (Highwood): Barcelona (EAJ1).
@@ -142,4 +141,4 @@ Midget B (Belfast): Details of wl. too vague.
 Gunophone 2 (Northampton): Can trace nothing between 373 and 378 m. Are you sure this was not Hamburg, with which station the times would tally?
 No Name (April 24—Opera from Theatre): Prague, (2) Cadiz (EAJ3).
 Scottish (Atherstone): Hilversum.
-Straight Four (Rusholme): (1) Hilversum; (2) None other than Hilversum at that time; (3) Yes, Oslo; (4) Prague; (5) possibly Madrid (EAJ6).
+Straight Four (Rusholme): (1) Hilversum; (2) None other than Hilversum at that time; (3) yes, Oslo; (4) Prague; (5) possibly Madrid (EAJ6).

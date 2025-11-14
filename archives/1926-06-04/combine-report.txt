@@ -1,0 +1,18 @@
+Combine Report for 1926-06-04
+============================================================
+
+Merge 1: IMG_1923.txt + IMG_1924.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Ireland (Camden Town): Oslo (from Hotel).
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 22, similarity: 0.300 (first_12_chars)
+     Line: E. R. (Ealing): PTT Lyons, relay of Paris.
+  2. Index 24, similarity: 0.300 (first_12_chars)
+     Line: Pen-y-Cwm (Monmouth): Hamburg.
+  3. Index 20, similarity: 0.286 (first_8_chars)
+     Line: Renown Super-Two (Uttoxeter): San Sebastian.
+

@@ -1,0 +1,119 @@
+Combine Report for 1927-02-04
+============================================================
+
+Merge 1: IMG_2716.txt + IMG_2717.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_2718.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Yorston (Bangor).
+File B matching line: Yorston (Bandra, Bombay): Prague; relay from National Theatre.
+
+Merge 3: merged_2 + IMG_2719.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Devonian: (72) Ostersund relaying Stockholm; (73) Karlsborg relaying Stockholm.
+Best similarity found: 0.556
+
+Closest matches (top 3):
+  1. Index 18, similarity: 0.556 (first_12_chars)
+     Line: D. E. Osman, 4, Cambridge Park, E. 11.
+  2. Index 36, similarity: 0.455 (first_12_chars)
+     Line: Abbeytonian (Cumberland): WGY (Schenectady).
+  3. Index 18, similarity: 0.375 (first_8_chars)
+     Line: D. E. Osman, 4, Cambridge Park, E. 11.
+
+Merge 4: merged_3 + IMG_2720.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 5: merged_4 + IMG_2721.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 6: merged_5 + IMG_2722.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: O-V-1 (Hastings): The Manager, Radio Station KDKA (Westinghouse Electric and Manufacturing Company), East Pittsburgh-Pennsylvania, U.S.A.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 23, similarity: 0.333 (first_8_chars)
+     Line: Bolshy (N.W. 8): Yes, Leningrad.
+  2. Index 13, similarity: 0.324 (reporter_and_content)
+     Reporter similarity: 0.273
+     Content similarity: 0.400
+     Line: Chitos (Largs): Bremen relaying Hamburg.
+  3. Index 16, similarity: 0.300 (first_12_chars)
+     Line: Donswin (Swindon): Cadiz (EAJ3).
+
+Merge 7: merged_6 + IMG_2723.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 8: merged_7 + IMG_2724.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 9: merged_8 + IMG_2725.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Centre-Hall: (1) cannot trace - does not tally with Stockholm programme; (2) Nuremburg relaying.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 44, similarity: 0.350 (reporter_and_content)
+     Reporter similarity: 0.250
+     Content similarity: 0.500
+     Line: One Valve (Barnsley): (1) Porsgrund, 504 m. (2) Oslo on 461 m.; (3) cannot trace.
+  2. Index 40, similarity: 0.309 (reporter_and_content)
+     Reporter similarity: 0.182
+     Content similarity: 0.500
+     Line: C. F. M. (Gwithian): (1) Breslau news and close down.
+  3. Index 4, similarity: 0.306 (reporter_and_content)
+     Reporter similarity: 0.176
+     Content similarity: 0.500
+     Line: Jansome (Birmingham): (1) Berne; (2) Vienna (news).
+
+Merge 10: merged_9 + IMG_2726.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 22
+Match strength: 0.950
+
+File A last line: L. C. S. 5 (Dartford): Paris (FPTT).
+File B matching line: L. C. J. 5 (Dartford): Paris (PTT) relaying dance music from the Coliseum, Paris.
+
+Merge 11: merged_10 + IMG_2727.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Gordon B. Smithdale (Norwich):
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 18, similarity: 0.300 (first_12_chars)
+     Line: Mondial (Hammersmith): if WL, correct, Warsaw on 980 m., but does not close down at 11.0 p.m.; was it not Hilversum on 1,050 m.?
+  2. Index 18, similarity: 0.286 (first_8_chars)
+     Line: Mondial (Hammersmith): if WL, correct, Warsaw on 980 m., but does not close down at 11.0 p.m.; was it not Hilversum on 1,050 m.?
+  3. Index 20, similarity: 0.222 (first_12_chars)
+     Line: L. F. (Ponty): no, impossible to trace; no call sign given; O.K. meant “all correct.”
+

@@ -14,7 +14,7 @@ Boy-Scout (Nelson): 2BXA, amateur (Nelson, Lancs.).
 Dites-Moi: (9) Stettin, relaying Berlin.
 Melody Three: Marseilles relaying PTT, Paris.
 Scouts: (1) Boden (relay of Stockholm), Changing of the Military Guard at Royal Palace, Stockholm; (2) cannot trace.
-King Radio (London, N.1): 
+King Radio (London, N.1):
 T.D. (Hastings):
 Plumbago; J.F.M.G.G.: No special transmission advertised in programmes, but details and wavelengths tally with Boden, relay of Stockholm (Changing of Military Guard at Royal Palace).
 Diamond: Bordeaux PTT.
@@ -42,17 +42,13 @@ Bydand (Murtle): (8) Prague; (9) Trollhattan (322 m.).
 B.F.M. (Bristol): Madrid (EAJ7).
 Oldham H.T.L.: Do not understand how 480 metres could be swamped by EAJ7. Do you mean 380 m.? If so, possibly Prague.
 O-V-1 (N.12): (a) Bordeaux, relay of PTT; (b) Vienna (Hauenschildsburg).
-Cedars (Didsbury): Yes, Vienna.
-B.P.M. (Bristol): Madrid (12/6), yes Munich, if so understand how 480 metres could be swamped by EAJ7.
-Do you mean 380 m.? If so, possibly Prague.
-O-V-1 (N.12): (a) Bordeaux, relay of PTT; (b) Vienna (Comedy: Goldberg).
-Cedars (Didsbury): Yes, Milan. Spanish Station Barcelona (EAJ1), French station: Radio Agen.
+Cedars (Didsbury): Yes, Milan. Spanish Station Barcelona (EAJ1), French station : Radio Agen.
 Scales (Gateshead): W.L. too vague, cannot trace.
 Bydand (Murtle): (1) Berne (not Guitar, but Balalaika).
 G.W./X.Y.Z. (Dublin): (1) Surely Milan; (2) Rome (news).
 Heticus (Bucks): Not advertised in programmes, believe Stuttgart.
 D. Cooper (Rotherham): Hanover relaying Hamburg (news, weather).
-Anglo American (Rusholme): (18) If German, Nuremberg relaying Munich (Opera: Fidelio); (19) Yes, Leipzig; (20) Munich (The Count of Luxemburg, by Lehar).
+Anglo American (Rusholme): (18) If German, Nuremberg relaying Munich (Opera : Fidelio); (19) Yes, Leipzig; (20) Munich (The Count of Luxemburg, by Lehar).
 9 Valve Super: (1) WJY (New York); (2) Possibly WFI (Philadelphia); (3) Strasbourg.
 Bradninch: Too vague, cannot trace.
 Long Range (Willowbank): (1) Possibly U.S.A. station; (2) Cadiz (experimental concert).
@@ -73,16 +69,14 @@ Smugger: (1) Prague; (2) Bordeaux relaying PTT, Paris; (3) San Sebastian (Spain)
 Thermionic Triode: Possibly Helsingfors, but no programme available.
 Bubbly Howl: Possibly Karlstadt, relay of Stockholm.
 Loup 11: Oslo (relaying dance music from Berlin).
-Tnomal W.K.1: Koenigsberg.
-Vienna. (2) San Sebastian.
+Tnomal W.K.1: Koenigsberg. Vienna. (2) San Sebastian.
 Peter Thomas: (1) Prague; (2) Yes, Radio LL (Paris).
 Marconi Osram: San Sebastian.
-D.H. (Dalmaronock): Dublin (relay of Hurling Match at Thurles).
+D.H.(Dalmaronock): Dublin (relay of Hurling Match at Thurles).
 Clockwork (Leicester): Vienna.
 F.J.R. (Dunmow): Madrid (EAJ7).
 I.T.C.H. (Newcastle): Vienna.
-Winstone: (6.10 p.m.) Berlin (6.25 p.m.), Hilversum, Neutrodyne Four (Birmingham).
-(23) Probably Helsingfors, (24) Brünn (Czechoslovakia).
+Winstone: (6.10 p.m.) Berlin (6.25 p.m.), Hilversum, Neutrodyne Four (Birmingham). (23) Probably Helsingfors, (24) Brünn (Czechoslovakia).
 G.R.G.: Possibly French amateur, cannot trace.
 S.E.B.: (1) Barcelona (EAJ1), (2) if German station, must be Dortmund (relay of Cafe Corso).
 Ajax: New station at Naples testing.
@@ -90,8 +84,7 @@ G.2.WDN: Radio-Paris.
 Radio Taxpayer: Cadiz.
 H.S. (Pudsey): Tallies with Basle.
 P.M.I. (Luton): Yes, Berne.
-Raingo: This transmission was reported by many listeners on about 1,200 m. Boden relay of Stockholm (changing of the Military Guard at the Royal Palace, Stockholm).
-Quite possibly you received this through Karlsborg.
+Raingo: This transmission was reported by many listeners on about 1,200 m. Boden relay of Stockholm (changing of the Military Guard at the Royal Palace, Stockholm). Quite possibly you received this through Karlsborg.
 Braha: Prague.
 Nortolk: WL, too vague, possibly Frankfort-on-Main (gramophone records).
 B.M./F.A.3.R: Frankfort-on-Main (gramophone records).
@@ -123,26 +116,6 @@ Jacko (Tunbridge Wells): (a) Radio LL (Paris), (b) new station at Naples testing
 Ajax (E.8.): Cadiz.
 Teleograph (Shrewsbury): (a) Rome, (b) Solo.
 Novo (Newcastle-on-Tyne): Prague.
-A.W.T. (St. Helens): Hamburg.
-G.W.D. (N. 15): Frankfort-on-Main, relaying Berlin.
-Amico: Rome.
-Farmer's Boy: (1) Berne, (2) cannot trace.
-Joamley (Leicester): (2) Berlin (571 m.), (3) Copenhagen, (4) Lyons, PTT.
-Three Valver: A relay of Stockholm.
-Taffy (Swansea): Believe Barcelona (EAJ13).
-B.A.M/C: Both Hamburg.
-S.W.8. (Liverpool): Possibly Moscow (RDW), not advertised in other programmes.
-S.W.9: Nuremberg relay of Munich.
-S.D.G. (Savage): Yes, Rome. Station now comes in at considerable strength.
-Ariel (Marlborough): Yes, Rome.
-Enthusiast: (1) Munich, (2) Stuttgart.
-Allo (Brid.): Prague.
-Elmwood (Eastbourne): New station at Naples testing.
-Cockaday (Dortmund): Yes, Hamburg.
-Jacko (Tunbridge Wells): (a) Radio LL (Paris), (b) new station at Naples testing.
-Ajax (E.8): Cadiz.
-Telegraph (Shrewsbury): Oslo.
-Novo (Newcastle-on-Tyne): Buda-Pesth.
 W.W. (St. Helens): Hamburg.
 Lawson (Manchester): Madrid (EAJ7) 873 m.
 Yank (Northampton): Yes, Hamburg.

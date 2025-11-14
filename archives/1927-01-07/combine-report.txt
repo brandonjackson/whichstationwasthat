@@ -1,0 +1,48 @@
+Combine Report for 1927-01-07
+============================================================
+
+Merge 1: IMG_2674.txt + IMG_2675.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Radio Super-Single:
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.500 (first_12_chars)
+     Line: D.X. Super-Singe (Chichester): Milan.
+  2. Index 50, similarity: 0.429 (first_8_chars)
+     Line: Vario (Guisborough): Moscow (RDW).
+  3. Index 50, similarity: 0.400 (first_12_chars)
+     Line: Vario (Guisborough): Moscow (RDW).
+
+Merge 2: merged_1 + IMG_2676.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: All Concert Three (Balham): Frankfort-on-Main relaying dance music.
+Best similarity found: 0.571
+
+Closest matches (top 3):
+  1. Index 12, similarity: 0.571 (first_8_chars)
+     Line: Alco (Putney): Moscow (RDW).
+  2. Index 2, similarity: 0.375 (first_8_chars)
+     Line: Wallasey Village: Zurich.
+  3. Index 12, similarity: 0.300 (first_12_chars)
+     Line: Alco (Putney): Moscow (RDW).
+
+Merge 3: merged_2 + IMG_2677.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Guess-Guy (Elfre):
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 16, similarity: 0.429 (first_8_chars)
+     Line: George (Eastbourne): Coupons not enclosed.
+  2. Index 22, similarity: 0.300 (first_12_chars)
+     Line: Tuned Anode 3 (Hull): Bradford (Clifford Essex Dance Band).
+  3. Index 0, similarity: 0.286 (first_8_chars)
+     Line: ces), Barcelona (EAJ1).
+

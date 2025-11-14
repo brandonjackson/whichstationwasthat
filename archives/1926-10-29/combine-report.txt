@@ -1,0 +1,46 @@
+Combine Report for 1926-10-29
+============================================================
+
+Merge 1: IMG_2550.txt + IMG_2551.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Casmutter: Testing on new wavelength.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 13, similarity: 0.400 (first_12_chars)
+     Line: Cabinet Set: Bilbao, relaying Madrid (EAJ7).
+  2. Index 13, similarity: 0.375 (first_8_chars)
+     Line: Cabinet Set: Bilbao, relaying Madrid (EAJ7).
+  3. Index 14, similarity: 0.375 (first_8_chars)
+     Line: Soutar (Selkirk): Not in programmes; probably station testing on new wavelength.
+
+Merge 2: merged_1 + IMG_2552.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Aetheroak (Hengrave): Koenigswusterhausen (short wave transmitter).
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.506 (reporter_and_content)
+     Reporter similarity: 0.176
+     Content similarity: 1.000
+     Line: Escuchador: Koenigs Wusterhausen (Pres.).
+  2. Index 20, similarity: 0.375 (first_8_chars)
+     Line: Sunderland 4: Madrid (EAJ7), No Name (Organ recital, 20/10 followed by dance music) Hilversum relay of Park Church, Amsterdam, then studio.
+  3. Index 6, similarity: 0.292 (reporter_and_content)
+     Reporter similarity: 0.353
+     Content similarity: 0.200
+     Line: Neutrodyne Three: Moscow (RDW).
+
+Merge 3: merged_2 + IMG_2553.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 22
+Match strength: 1.000
+
+File A last line: Ensign:
+File B matching line: Ensign (Clacton-on-Sea): Zurich.
+

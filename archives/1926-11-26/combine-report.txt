@@ -1,0 +1,36 @@
+Combine Report for 1926-11-26
+============================================================
+
+Merge 1: IMG_2580.txt + IMG_2581.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 38
+Match strength: 0.970
+
+File A last line: Cantilever (Forest Hall): (1) Lausanne, (2) Hamburg.
+File B matching line: Cantinever (Forest Hall): (1) Lausanne, (2) Hamburg (392 m). and Hanover (297 m). (3) WGY (Schenectady) through one of the B.B.C. stations, (4) Radio Paris, (5) Hamburg.
+
+Merge 2: merged_1 + IMG_2582.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Ether-Searcher (Basingstoke): Amateur.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 44, similarity: 0.429 (first_8_chars)
+     Line: Super-Het (E.7): KGO (Oaklands) 361 m.
+  2. Index 8, similarity: 0.286 (first_8_chars)
+     Line: Tenrab: Kiel, relaying Hanover (Café Continental).
+  3. Index 9, similarity: 0.286 (first_8_chars)
+     Line: Erc. O. (Downham): Prague.
+
+Merge 3: merged_2 + IMG_2583.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 34
+Match strength: 1.000
+
+File A last line: Super-Het (E.7): KGO (Oaklands) 361 m.
+File B matching line: Super-Het (E.7): KGO (Oaklands) 361 m.
+

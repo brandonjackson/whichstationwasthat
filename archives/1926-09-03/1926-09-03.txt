@@ -1,4 +1,4 @@
-Monkeyshatch: Hanover (297m), relay of Hamburg.  
+Monkeyshatch: Hanover (297m), relay of Hamburg.
 Denton: (2) either Barcelona (EAJ13) or Seville (EAJ17), but no programmes available; (3) Bilbao (EAJ11).
 Abbey: Berlin.
 Nighthawk: Barcelona (EAJ1).
@@ -39,7 +39,6 @@ Trevine: Muenster.
 No Name: Barcelona (EAJ1).
 Vulcan: Possibly WGY, Schenectady (379 m).
 It Annoys Me: San Sebastian.
-Warnercoath: Prague.
 Warner: (1) Prague, (2) Dortmund (283m).
 C. R. B. (Worcester): Madrid (EAJ6).
 Volts (St. Albans City): (9.30 p.m.) Dortmund (283 m.), (10 p.m.) Koenigswusterhausen, relay of Berlin.
@@ -61,8 +60,8 @@ J. V. (Bordeaux): Karlsborg, relay of Stockholm.
 H. L. G. (Kentish Town): a.m. or p.m.?
 D. C. G.: Koenigswusterhausen, relay of Berlin.
 Simplex Two: can trace no European station giving a church service at that time on that date.
-Anglo American (Rusholme): (1) Koenigsberg, (2) probably Frankfort, (3) too vague, (4) Madrid (EAJ7), (5) item rather vague, presumably Madrid (EAJ7), (6) San Sebastian.
-Fishing: (1) Frankfort-on-Main, (2) Rome.
+Anglo American (Rusholme): (1) Koenigsberg, (2) probably Frankfort, (3) too vague, (4) Madrid (EAJ7), (5) item rather vague, presumably Madrid (EAJ7), (6) San Sebastian,
+Fishing: (1) Frankfort-on-Main (2) Rome.
 Tourist (Clapham): probably experimental transmitter PCJJ, Eindhoven (Holland).
 T. L. H. (Leicester): cannot trace.
 Ribble (Preston): (1) the programme tallies with that of Frankfort on 9th, not 10th: relay of wrestling match, (2) Frankfort-on-Main.
@@ -102,8 +101,40 @@ Seeker (Heckington): At this time could only be British amateur or possibly WGY,
 H. W. G. (Bristol): Madrid, (EAJ7, Spain).
 n Watch: Leipzig (Call heard “Achtung”, “Hier Mirag”).
 Lyn (Swindon): Stuttgart.
-C. W. S. (Fulham): (1) Cannot trace any probable station near this WL.; (2) Petit Parisien, Paris; (3) Milan; (4) No German relay on those WL.; details to Radio J. L. possibly PCFF, Amsterdam (Stock).
+C. W. S. (Fulham): (1) Cannot trace any probable station near this WL.; (2) Petit Parisien, Paris (3) Milan; (4) No German relay on those WL.; details to Radio J. L. possibly PCFF, Amsterdam (Stock).
 Skittle: Alright: probably Koenigswusterhausen.
+Mac: Leipzig.
+M.F.H. (Hoddesdon): Rome.
+Ethereal (Plaistow): Leipzig.
+San (Castle Douglas): Madrid (EAJ7).
+Mistley: (1) Madrid (EAJ6).
+Grocer (Norwich): Hamburg (Café Continental).
+A. Smith (Acocks Green): Oslo.
+Tuesday: Sorø, relay of Copenhagen.
+Beginner (Glyn Neath): Frankfurt-on-Main.
+Royalist: Hamburg.
+Reflex (Barrow-in-Furness): Barcelona (EAJ1).
+The Searcher (Staffs): W.L. too vague, cannot trace.
+A. E. C. (Ickenham): Hamburg, relay of Hanover (Café Continental).
+Vulcan: Cannot trace; possibly Rugby testing.
+Tony (Bootle): Hanover relaying Café Continental.
+Novice (Sutton Coldfield): Prague.
+Scala (Leeds): Yes, Rome.
+Shack (Liverpool): Madrid (EAJ7).
+Wallis (Wokingham): Yes, Eiffel Tower not Tour Eiffel (pronounced Ay-fel).
+39 Volts: (1) Frankfort-on-Main; (2) Cassel relaying Frankfort.
+Vidler (Dulwich): Barcelona (EAJ1).
+Telegraph (Shrewsbury): Berlin (1,300 m., Call was Achtung! Achtung!).
+Shulio: Would tally with Frankfort-on-Main.
+B. P. (Bristol): San Sebastian, (EAJ8) Spain.
+Moggy (Wolverhampton): Cadiz (EAJ3).
+Jopie (Nottingham): probably Cadiz (EAJ3).
+3VACDL: Madrid (EAJ7).
+Skipper (Lowestoft): Not in progs., cannot trace.
+Seeker (Heckington): At this time could only be British amateur or possibly WGY, Schenectady.
+H. W. C. (Bristol): Madrid, (EAJ7, Spain).
+H. Watch: Leipzig (Call heard: Achtung, Hier Mirag).
+Lyn (Swindon): Stuttgart.
 W. S. (Fuham): (1) Cannot trace any probable station near this W.L.; (2) Petit Parisien, Paris; (3) Milan; (4) No German relay on those W.L.; details too vague.
 Archer: (1) probably PCFF, Amsterdam (Stock Exchange news, etc.); (2) Koenigswusterhausen (Press); (3) Too vague; (4) Yes, Radio L.L., Paris; (5) Radio Toulouse.
 Marco: (1) Not in progs.; either Barcelona (EAJ1) or Milan; (2) Breslau; (3) Dance music not advertised for that evening - probably Rome.

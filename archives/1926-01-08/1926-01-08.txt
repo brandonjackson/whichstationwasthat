@@ -1,187 +1,187 @@
-Current (Islington): Hilversum.  
-W.P.B.: San Sebastian.  
-Family 4 (Canterbury): Cannot trace, probably San Sebastian.  
-Puzzled: Berne (Switzerland).  
-Hereward No. 2: Hilversum.  
-Mountaineer: Probably Warsaw testing.  
-Colline (Redhill): San Sebastian.  
-Nesper: (1) PTT (Paris), (2) Barcelona (Radio Catalana), (3) Berlin (1300 m).  
-M.Y.C.: Gothenburg, relay of children’s Hour Stockholm.  
-Impedance (Manchester): U.S.A. station, cannot trace.  
-Harmony Four: British amateur.  
-Dibby: It was Hamburg.  
-Rover (Rug'len): Probably Canadian station.  
-Brush: Koenigs wusterhausen.  
-Noisy: British amateurs testing.  
-R.S.B. (Uplands): Hamburg, relay of Hanover.  
-K.E.C.K. (Exeter): Cannot trace.  
-L.E.W.: Hamburg.  
-Abbgee (West Derby): WBZ Springfield, Mass.  
-Rose Marie (Richmond): Hilversum, relay of Amsterdam (St. Dominic’s Church).  
-Alpha: Madrid (Union Radio).  
-Query: Probably WBZ Springfield, Mass.  
-Valver: Amateur.  
-M.W. (Liverpool): Radio Berne (315 m).  
-S.T.: (1-2) WGY Schenectady. (12 30) Barcelona (Radio Catalana) relay of Tivoli Theatre.  
-G.R.H. (Brighton): Hamburg.  
-Radio Frequency Choke: Yes, Union Radio.  
-Inside Aerial: Hamburg.  
-Sleepless: U.S.A. station testing.  
-Aether Wave (Walthamstow): Not European station.  
-Chrysolite: If French, cannot trace.  
-Cookie: Hamburg (Madam Butterfly).  
-BM/BCWP: Madrid (Union Radio).  
-Woffles: (1) Dortmund, (2) Hanover.  
-Y.R. Less: Cannot trace, W.L. apparently wrong, was not it 2525 m?  
-S.H.S. (Leicester): Both Hamburg.  
-Queriasca (M/C): Cannot trace.  
-Zwei Waves: Madrid (Union Radio).  
-Y.R. Less: Hamburg and Muenster.  
-E.L.W.: San Sebastian.  
-Falstaff: (7 25) Buda-Pesth, (7 50) Madrid (Union Radio).  
-H.M.C.K.: British amateur.  
-H.F.: Probably Hamburg.  
-W.R.P. (Newport): Berne.  
-O.G.S.S.: British amateur.  
-Bekenf (Brussels): p.m. or a.m.?  
-Family Four (East Ham): Barcelona (Radio Catalana).  
-Ack-Ack: Probably WGY Schenectady.  
-Elijah (Mortlake): Hilversum.  
-Niffy (Deal): Cardiff.  
-Blairdevon: Norddeich (1800 m).  
-Novice: W.L. probably wrong, cannot trace.  
-Rednock: Frankfurt-on-Main.  
-Radio (Malta): Elberfeld.  
-Ack-Ack: Radio Paris.  
-Gilbertian (Bristol): Elberfeld (259 m).  
-Londen (Oxford): W.L. wrong, cannot trace.  
-C.A.T.: Dresden (296 m).  
-Terra: Radio Paris.  
-O.H.M.Y.: Hilversum.  
-B.S.A.: Berlin (1300 m).  
-Clarendon: (1) Hamburg. (2) Berne (Switzerland).  
-Beer Toc: Probably Cadiz (EAJ3) midnight transmission.  
-Silver Bell: Bremen.  
-W.G.P. (Goodmayes): Cannot trace.  
-B.S.A.: (2) Cannot trace details too vague.  
-Bobby: Stuttgart.  
-Burst Valve (Bradford): WGY Schenectady.  
-Kit Kat: Cannot trace.  
-O.M.A.: B.B.C. station.  
-V.P. (Altrincham): San Sebastian.  
-Ronnie (Scunthorpe): Presumably not B.B.C. station.  
-D.B. (Co. Cork): Radio Iberica (Madrid).  
-Hetty: Cannot trace.  
-T.H.S. (Alfold): (27/12) vague, probably Hamburg, (23/12) Madrid (Union Radio).  
-Wicklow: Yes, Radio Paris.  
-Trebuh (Littlehampton): WGY Schenectady.  
-I.S.W. (Hanley): Radio Toulouse.  
-Curious: Radio Lyon relaying Paris.  
-Keystone (Edinburgh): Yes, Radio Lyon relaying Radio Paris.  
-Pit-Pat: WGY Schenectady.  
-Derf: Malmo, (11 p.m.) San Sebastian.  
-A.M.M. (Perth): Relay of Stockholm.  
-Captain Arthur: Hilversum (1050 m.).  
-Bexhill-on-Sea: WGY Schenectady.  
-Loud Speaker: San Sebastian.  
-E.H.F.: If French, probably Lyon la Doua, not advertised.  
-C.D. (Bristol): Radio Toulouse.  
-Menu (Newcastle-on-Tyne): Radio Paris.  
-Dual Power: Koenigs wusterhausen.  
-Straight Four (Erith): Insufficient detail, cannot trace.  
-W.A. (Arbour St): Radio Paris.  
-Darkie: Probably U.S.A. station.  
-Moston: (1) Berne (Switzerland), (2) Madrid (EAJ7), (3) Hamburg.  
-Triumph (Northampton): Hamburg.  
-Law Hill (Dundee): Madrid (EAJ7).  
-Sapper (Hounslow): Yes, Hamburg.  
-Falstaff (Birkenhead): WBZ Springfield, Mass.  
-Indoor Aerial (Newton Abbot): Gothen.  
-Hereward: (1) Oslo.  
-Rover (Swadlincote): Probably harmonic from Daventry.  
-Victoria, Aaron, Wilmato (Ilkley), Lutheran (Cornwall): Hamburg.  
-Scherrie (Blackburg): (a) Norköping, relay of Stockholm; (b) Brussels.  
-Kitten (Blackburn): Rome.  
-Arjoro: Probably harmonic of Daventry (Kitcat Band).  
-L. Burton: Cadiz (EAJ3).  
-Little Harp: Perhaps landline inductance.  
-Q.S.L.: Radio Toulouse on 441 and 180 m.  
-Neutrodyne IV (Dulwich): W.L. apparently wrong, cannot trace.  
-Optimist, Wireless Watcher (West Hartlepool): Madrid (Union Radio).  
-T.R. (Ilkeston), Thames Electric, Jenny, Frankie (Dulwich), D/689 (Bristol): Berlin (1300 m.).  
-BM/BCLB: Probably Elberfeld.  
-The Wonderer: Eiffel Tower relaying PTT (Paris).  
-Eboracum (Gt. Yarmouth): Berlin.  
-Goodchild: Barcelona (EAJ1).  
-Jacko (Tun. Wells): Persbureau Vas Draz, Amsterdam.  
-L.S.L.: Radio-Toulouse.  
-J.E.: Cannot trace, unless Lyons testing on lower W.L.  
-Interested: (c) Buda-Pesth (b) WPG, Atlantic City (299.8 m.); (c) cannot trace call sign.  
-Two-Valver (Glasgow): Too vague.  
-Iwannaknow: (1) Bremen, (2) Hanover relay of Hamburg; (3) Seville (EAJ5), (4) San Sebastian.  
-Loudon (Loughborough): KGO Oakland, Cal. (361.2 m.).  
-Red Top: Cadiz (EAJ3).  
-Early Riser: Probably Hamburg testing.  
-Echo: Bremen and Hanover relaying Hamburg.  
-Star: Zurich.  
-Hardware: Ryvang (1160 m.).  
-S.T.3 Dualise: WBZ Springfield, Mass (333.3 m.).  
-Wynnex: (1) Madrid (Union-Radio), (2) Berlin (1300 m.).  
-D.C.A.: Probably Hamburg testing.  
-Archer: (1) Petit Parisien, (2) WGR, Buffalo N.Y. (319 m.), (3) Seville (EAJ5).  
-H.F. and D.: Radio-Berne.  
-A.J.L.A.: Madrid (Union-Radio).  
-Delighted (Leicester): San Sebastian.  
-Barbers L.D.S.Y.: Probably WGY, Schenectady.  
-43, B.R.H., N.8., L.: Koenigswusterhausen.  
-Morse: Hamburg.  
-Edinburgh 11a: Jonköping or Malmö (Sweden).  
-Cosmos: Hanover.  
-Wally: Weringswusterhausen relaying Daventry.  
-Transformer: Yes, Koenigswusterhausen relaying Daventry.  
-Rose Villa: San Sebastian.  
-F.W.B.: Berne.  
-Accumulator (Oxford): Koenigswusterhausen.  
-Felix: (1) Madrid (Union-Radio), (2) probably PTT (Paris).  
-Hambone: Madrid (Union-Radio).  
-J.B.S.: (a) Moscow’s late concert was not advertised, perhaps Karlsborg (1380 m.), (b) cannot trace.  
-Topsy: Hamburg.  
-W.A.S.: Rather vague, probably Seville (EAJ5).  
-Alfredo: Item not advertised, probably relay of PTT (Paris).  
-Gand: PTT, Lyons relaying Paris.  
-Disturber of the Peace (Rochdale): Seville (EAJ17).  
-N.D.P. Timekeeper: Rather vague, but probably Marseilles relaying PTT (Paris).  
-Wilhyde: San Sebastian.  
-Hello (Ipswich): Berne (Switzerland).  
-Highreen: Cannot trace, probably Canadian station.  
-Grid-Leak: (a) Toulouse, relay of PTT (Paris), (b) Berlin, relaying Hamburg.  
-Reflex: Leipzig or Stuttgart.  
-Pen-and-Ink: Hamburg (Müncha Battery).  
-20 B.P.: Cannot trace on that W.L.  
-The All Concert (Carlisle): Not advertised, probably Muenster.  
-Albanian: WGY Schenectady.  
-Chupachoke: Hamburg.  
-G.E.C (Redditch): 20/12, San Sebastian; 31/12, Barcelona.  
-Troydene: Cannot trace items.  
-Silk-Worm: Gleiwitz, relay of Breslau; (B) cannot trace on that W.L.  
-BP'S Stortford: Stockholm (Radiotjaenst).  
-Atherjack: Sorry, cannot trace.  
-Chitos: Hamburg.  
-Red Flex (Torquay): Berlin.  
-Pedlar: W.L. very vague; could be Cassel or relay of Stockholm.  
-EWOL: Ryvang.  
-Inglaterra: Bilbao (EAJ11) Dance Band.  
-DXDB: Cannot trace on that W.L.; was this not an harmonic?  
-J.B.S.: KDKA (63 m.) or WJZ (50 m).  
-Manxman (Manchester): Probably Cassel relaying Frankfort.  
-Hello (Ipswich): Berne, Switzerland.  
-WAD (Ireland): Berlin.  
-L.G.K. (E6): Berne.  
-4HP: (a) San Sebastian, (b) Union Radio, Madrid.  
-Primax Loudspeaker: Madrid (EAJ7).  
-Algy: Ryvang.  
-DX (Lymm): More probably Madrid (EAJ4).  
-Linkoping: Moscow (RDW).  
-Tarzan: Koenigswusterhausen.  
-Radio Micro: KDKA (East Pittsburgh, berg).  
+Current (Islington): Hilversum.
+W.P.B.: San Sebastian.
+Family 4 (Canterbury): Cannot trace, probably San Sebastian.
+Puzzled: Berne (Switzerland).
+Hereward No. 2: Hilversum.
+Mountaineer: Probably Warsaw testing.
+Colline (Redhill): San Sebastian.
+Nesper: (1) PTT (Paris), (2) Barcelona (Radio Catalana), (3) Berlin (1300 m).
+M.Y.C.: Gothenburg, relay of children’s Hour Stockholm.
+Impedance (Manchester): U.S.A. station, cannot trace.
+Harmony Four: British amateur.
+Dibby: It was Hamburg.
+Rover (Rug'len): Probably Canadian station.
+Brush: Koenigs wusterhausen.
+Noisy: British amateurs testing.
+R.S.B. (Uplands): Hamburg, relay of Hanover.
+K.E.C.K. (Exeter): Cannot trace.
+L.E.W.: Hamburg.
+Abbgee (West Derby): WBZ Springfield, Mass.
+Rose Marie (Richmond): Hilversum, relay of Amsterdam (St. Dominic’s Church).
+Alpha: Madrid (Union Radio).
+Query: Probably WBZ Springfield, Mass.
+Valver: Amateur.
+M.W. (Liverpool): Radio Berne (315 m).
+S.T.: (1-2) WGY Schenectady. (12 30) Barcelona (Radio Catalana) relay of Tivoli Theatre.
+G.R.H. (Brighton): Hamburg.
+Radio Frequency Choke: Yes, Union Radio.
+Inside Aerial: Hamburg.
+Sleepless: U.S.A. station testing.
+Aether Wave (Walthamstow): Not European station.
+Chrysolite: If French, cannot trace.
+Cookie: Hamburg (Madam Butterfly).
+BM/BCWP: Madrid (Union Radio).
+Woffles: (1) Dortmund, (2) Hanover.
+Y.R. Less: Cannot trace, W.L. apparently wrong, was not it 2525 m?
+S.H.S. (Leicester): Both Hamburg.
+Queriasca (M/C): Cannot trace.
+Zwei Waves: Madrid (Union Radio).
+Y.R. Less: Hamburg and Muenster.
+E.L.W.: San Sebastian.
+Falstaff: (7 25) Buda-Pesth, (7 50) Madrid (Union Radio).
+H.M.C.K.: British amateur.
+H.F.: Probably Hamburg.
+W.R.P. (Newport): Berne.
+O.G.S.S.: British amateur.
+Bekenf (Brussels): p.m. or a.m.?
+Family Four (East Ham): Barcelona (Radio Catalana).
+Ack-Ack: Probably WGY Schenectady.
+Elijah (Mortlake): Hilversum.
+Nif y (Deal): Cardiff.
+Blairdevon: Norddeich (1800 m).
+Novice: W.L. probably wrong, cannot trace.
+Rednock: Frankfurt-on-Main.
+Radio (Malta): Elberfeld.
+Ack-Ack: Radio Paris.
+Gilbertian (Bristol): Elberfeld (259 m).
+Londen (Oxford): W.L. wrong, cannot trace.
+C.A.T.: Dresden (296 m).
+Terra: Radio Paris.
+O.H.M.Y.: Hilversum.
+B.S.A.: Berlin (1300 m).
+Clarendon: (1) Hamburg. (2) Berne (Switzerland).
+Beer Toc: Probably Cadiz (EAJ3) midnight transmission.
+Silver Bell: Bremen.
+W.G.P. (Goodmayes): Cannot trace.
+B.S.A.: (2) Cannot trace details too vague.
+Bobby: Stuttgart.
+Burst Valve (Bradford): WGY Schenectady.
+Kit Kat: Cannot trace.
+O.M.A.: B.B.C. station.
+V.P. (Altrincham): San Sebastian.
+Ronnie (Scunthorpe): Presumably not B.B.C. station.
+D.B. (Co. Cork): Radio Iberica (Madrid).
+Hetty: Cannot trace.
+T.H.S. (Alfold): (27/12) vague, probably Hamburg, (23/12) Madrid (Union Radio).
+Wicklow: Yes, Radio Paris.
+Trebuh (Littlehampton): WGY Schenectady.
+I.S.W. (Hanley): Radio Toulouse.
+Curious: Radio Lyon relaying Paris.
+Keystone (Edinburgh): Yes, Radio Lyon relaying Radio Paris.
+Pit-Pat: WGY Schenectady.
+Derf: Malmo, (11 p.m.) San Sebastian.
+A.M.M. (Perth): Relay of Stockholm.
+Captain Arthur: Hilversum (1050 m.).
+Bexhill-on-Sea: WGY Schenectady.
+Loud Speaker: San Sebastian.
+E.H.F.: If French, probably Lyon la Doua, not advertised.
+C.D. (Bristol): Radio Toulouse.
+Menu (Newcastle-on-Tyne): Radio Paris.
+Dual Power: Koenigs wusterhausen.
+Straight Four (Erith): Insufficient detail, cannot trace.
+W.A. (Arbour St): Radio Paris.
+Darkie: Probably U.S.A. station.
+Moston: (1) Berne (Switzerland), (2) Madrid (EAJ7), (3) Hamburg.
+Triumph (Northampton): Hamburg.
+Law Hill (Dundee): Madrid (EAJ7).
+Sapper (Hounslow): Yes, Hamburg.
+Falstaff (Birkenhead): WBZ Springfield, Mass.
+Indoor Aerial (Newton Abbot): Gothenberg.
+Hereward: (1) Oslo.
+Rover (Swadlincote): Probably harmonic from Daventry.
+Victoria, Aaron, Wilmato (Ilkley), Lutheran (Cornwall): Hamburg.
+Scherrie (Blackburg): (a) Norköping, relay of Stockholm; (b) Brussels.
+Kitten (Blackburn): Rome.
+Arjoro: Probably harmonic of Daventry (Kitcat Band).
+L. Burton: Cadiz (EAJ3).
+Little Harp: Perhaps landline inductance.
+Q.S.L.: Radio Toulouse on 441 and 180 m.
+Neutrodyne IV (Dulwich): W.L. apparently wrong, cannot trace.
+Optimist, Wireless Watcher (West Hartlepool): Madrid (Union Radio).
+T.R. (Ilkeston), Thames Electric, Jenny, Frankie (Dulwich), D/689 (Bristol): Berlin (1300 m.).
+BM/BCLB: Probably Elberfeld.
+The Wonderer: Eiffel Tower relaying PTT (Paris).
+Eboracum (Gt. Yarmouth): Berlin.
+Goodchild: Barcelona (EAJ1).
+Jacko (Tun. Wells): Persbureau Vas Draz, Amsterdam.
+L.S.L.: Radio-Toulouse.
+J.E.: Cannot trace, unless Lyons testing on lower W.L.
+Interested (c): Buda-Pesth (b) WPG, Atlantic City (299.8 m.); (c) cannot trace call sign.
+Two-Valver (Glasgow): Too vague.
+Iwannaknow: (1) Bremen, (2) Hanover relay of Hamburg; (3) Seville (EAJ5), (4) San Sebastian.
+Loudon (Loughborough): KGO Oakland, Cal. (361.2 m.).
+Red Top: Cadiz (EAJ3).
+Early Riser: Probably Hamburg testing.
+Echo: Bremen and Hanover relaying Hamburg.
+Star: Zurich.
+Hardware: Ryvang (1160 m.).
+S.T.3 Dualise: WBZ Springfield, Mass (333.3 m.).
+Wynnex: (1) Madrid (Union-Radio), (2) Berlin (1300 m.).
+D.C.A.: Probably Hamburg testing.
+Archer: (1) Petit Parisien, (2) WGR, Buffalo N.Y. (319 m.), (3) Seville (EAJ5).
+H.F. and D.: Radio-Berne.
+A.J.L.A.: Madrid (Union-Radio).
+Delighted (Leicester): San Sebastian.
+Barbers L.D.S.Y.: Probably WGY, Schenectady.
+43, B.R.H., N.8., L.: Koenigswusterhausen.
+Morse: Hamburg.
+Edinburgh 11a: Jonköping or Malmö (Sweden)
+Cosmos: Hanover.
+Wally: Weringswusterhausen relaying Daventry.
+Transformer: Yes, Koenigswusterhausen relaying Daventry.
+Rose Villa: San Sebastian.
+F.W.B.: Berne.
+Accumulator (Oxford): Koenigswusterhausen.
+Felix: (1) Madrid (Union-Radio), (2) probably PTT (Paris).
+Hambone: Madrid (Union-Radio).
+J.B.S.: (a) Moscow’s late concert was not advertised, perhaps Karlsborg (1380 m.), (b) cannot trace.
+Topsy: Hamburg (392 m.).
+W.A.S.: Rather vague, probably Seville (EAJ5).
+Alfredo: Item not advertised, probably relay of PTT (Paris).
+Gand: PTT, Lyons relaying Paris.
+Disturber of the Peace (Rochdale): Seville (EAJ17).
+N.D.P. Timekeeper: Rather vague, but probably Marseilles relaying PTT (Paris).
+Wilhyde: San Sebastian.
+Hello (Ipswich): Berne (Switzerland).
+Highreen: Cannot trace, probably Canadian station.
+Grid-Leak: (a) Toulouse, relay of PTT (Paris), (b) Berlin, relaying Hamburg.
+Reflex: Leipzig or Stuttgart.
+Pen-and-Ink: Hamburg (Müncha Battery).
+20 B.P.: Cannot trace on that W.L.
+The All Concert (Carlisle): Not advertised, probably Muenster.
+Albanian: WGY Schenectady.
+Chupachoke: Hamburg.
+G.E.C (Redditch): 20/12, San Sebastian; 31/12, Barcelona.
+Troydene: Cannot trace items.
+Silk-Worm: Gleiwitz, relay of Breslau; (B) cannot trace on that W.L.
+BP'S Stortford: Stockholm (Radiotjaenst).
+Atherjack: Sorry, cannot trace.
+Chitos: Hamburg.
+Red Flex (Torquay): Berlin.
+Pedlar W.L. very vague; could be Cassel or relay of Stockholm.
+EWOL: Ryvang.
+Inglaterra: Bilbao (EAJ11) Dance Band.
+DXDB: Cannot trace on that W.L.; was this not an harmonic?
+J.B.S.: KDKA (63 m.) or WJZ (50 m).
+Manxman (Manchester): Probably Cassel relaying Frankfort.
+Hello (Ipswich): Berne, Switzerland.
+WAD (Ireland): Berlin.
+L.G.K. (E6): Berne.
+4HP: (a) San Sebastian, (b) Union Radio, Madrid.
+Primax Loudspeaker: Madrid (EAJ7).
+Algy: Ryvang.
+DX (Lymm): More probably Madrid (EAJ4).
+Linkoping: Moscow (RDW).
+Tarzan: Koenigswusterhausen.
+Radio Micro: KDKA (East Pittsburgh).
 Billown: Moscow (RDW).

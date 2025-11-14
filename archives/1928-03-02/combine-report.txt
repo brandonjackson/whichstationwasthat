@@ -1,0 +1,108 @@
+Combine Report for 1928-03-02
+============================================================
+
+Merge 1: IMG_3282.txt + IMG_3283.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Curious (Oxford): Your estimate of W.I. surely wrong; is this Frankfurt-on-Main?
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 13, similarity: 0.429 (first_8_chars)
+     Line: Julius Caesar (Stockport): Yes, Frankfurt-on-Main, relaying orchestral concert from Cassel. The latter station has a lady announcer.
+  2. Index 6, similarity: 0.311 (reporter_and_content)
+     Reporter similarity: 0.385
+     Content similarity: 0.200
+     Line: A.J.T. (Ilford): Posen, concert of chamber music (a lady announcer).
+  3. Index 4, similarity: 0.286 (first_8_chars)
+     Line: Berlin Synchronous times with Prague.
+
+Merge 2: merged_1 + IMG_3284.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: British Constitution (Beaconsfield): Moscow Comintern (RDW).
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 7, similarity: 0.555 (reporter_and_content)
+     Reporter similarity: 0.258
+     Content similarity: 1.000
+     Line: Scott Head: Moscow Comintern (RDW).
+  2. Index 3, similarity: 0.286 (first_8_chars)
+     Line: R. T. P. (Cardiff): This was the Copenhagen programme; if estimate of W.L. approximately correct, apparently heard through Moscow Comintern (RDW) which frequently effects relays of foreign stations.
+  3. Index 16, similarity: 0.286 (first_8_chars)
+     Line: B. H. S. (Sydney): (1) Regret, but cannot give wavelengths of amateur transmitters; (2) 2XAG (New York).
+
+Merge 3: merged_2 + IMG_3285.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Detector (P’bury): Kalundborg, relaying Copenhagen.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 20, similarity: 0.446 (reporter_and_content)
+     Reporter similarity: 0.077
+     Content similarity: 1.000
+     Line: F. Edmonds (S.W. 18): Kalundborg, relaying Carnival concert from Copenhagen.
+  2. Index 4, similarity: 0.375 (first_8_chars)
+     Line: Wee Hours (J.H.R.): WEAF (New York).
+  3. Index 12, similarity: 0.375 (first_8_chars)
+     Line: Fyne Court (Bridgwater): You give no estimate of WL., but this was the Copenhagen relay of dance music from the Palace and Nimb Restaurants; either received direct, or through Kalundborg, on 1,153.8 m.
+
+Merge 4: merged_3 + IMG_3286.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Long Furrows (Mistley): Helsingfors; (11.30) the Band of the White Guards; Mtsci Moffat); Wilno (Poland); dance music until 10.30 p.m.
+File B matching line: Long Furrows (Mistley): Helsingfors (Finland); the Band of the White Guards.
+
+Merge 5: merged_4 + IMG_3287.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: G. W. A. (Bradford): Not advertised in programmes, but Kalundborg, relaying BGB; chimes from Grand Hotel Hall at midnight (11 p.m. G.M.T.). Copenhagen advertised that it would be a relay of London on Sunday, February.
+File B matching line: G.W.A. (Bradford): Not advertised in programmes, but Kalundborg, relaying 6GB; chimes from the Town Hall at midnight (11 p.m. G.M.T.). Copenhagen had advertised, in error, a relay of London on Sunday, February 19, this was given, instead, on Monday, February 20.
+
+Merge 6: merged_5 + IMG_3288.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 7: merged_6 + IMG_3289.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Little Elf (K.E.)
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 39, similarity: 0.429 (first_8_chars)
+     Line: (Middlesex): PTT Rennes, relaying English lesson given by
+  2. Index 22, similarity: 0.333 (first_12_chars)
+     Line: City). Sol (Warwick): Kaiserslautern (204 m.), relaying
+  3. Index 39, similarity: 0.333 (first_12_chars)
+     Line: (Middlesex): PTT Rennes, relaying English lesson given by
+
+Merge 8: merged_7 + IMG_3290.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (1) la longueur d'onde à Juan les Pins semble être fausse.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.333 (first_8_chars)
+     Line: Sol (Warwickshire): Kaiserslautern (204 m.), relaying Munich.
+  2. Index 40, similarity: 0.250 (first_8_chars)
+     Line: H. R. A. (Tenterden): Details tally with Rome programme.
+  3. Index 10, similarity: 0.200 (first_12_chars)
+     Line: Sol (Warwickshire): Kaiserslautern (204 m.), relaying Munich.
+

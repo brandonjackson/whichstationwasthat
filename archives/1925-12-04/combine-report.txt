@@ -1,0 +1,56 @@
+Combine Report for 1925-12-04
+============================================================
+
+Merge 1: 1925-12-04-a.txt + 1925-12-04-b.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Ether: PTT (Paris).
+Best similarity found: 0.667
+
+Closest matches (top 3):
+  1. Index 52, similarity: 0.667 (first_8_chars)
+     Line: L. Ether: (a) Insufficient detail, (b) Cadiz (EAJ3).
+  2. Index 35, similarity: 0.500 (first_8_chars)
+     Line: Peter: Bremen.
+  3. Index 52, similarity: 0.500 (reporter_and_content)
+     Reporter similarity: 0.833
+     Content similarity: 0.000
+     Line: L. Ether: (a) Insufficient detail, (b) Cadiz (EAJ3).
+
+Merge 2: merged_1 + 1925-12-04-c.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Senimore: Radio
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 94, similarity: 0.580 (reporter_and_content)
+     Reporter similarity: 0.300
+     Content similarity: 1.000
+     Line: Heterodyne: Radio Toulouse.
+  2. Index 86, similarity: 0.550 (reporter_and_content)
+     Reporter similarity: 0.250
+     Content similarity: 1.000
+     Line: Edinaber: Radio Toulouse.
+  3. Index 66, similarity: 0.538 (reporter_and_content)
+     Reporter similarity: 0.231
+     Content similarity: 1.000
+     Line: H.T. Avenue (Leeds): Radio Toulouse.
+
+Merge 3: merged_2 + 1925-12-04-d.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Amplion (Liverpool): (a) Copenhagen; (d) San Sebastian, (c) Muenster, (b) no coupon.
+Best similarity found: 0.571
+
+Closest matches (top 3):
+  1. Index 40, similarity: 0.571 (first_8_chars)
+     Line: Albion: Petit Parisien.
+  2. Index 21, similarity: 0.500 (first_8_chars)
+     Line: American Radio and Pip: Probably WBZ.
+  3. Index 21, similarity: 0.364 (first_12_chars)
+     Line: American Radio and Pip: Probably WBZ.
+

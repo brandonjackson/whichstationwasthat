@@ -1,0 +1,12 @@
+Combine Report for 1927-07-29
+============================================================
+
+Merge 1: IMG_3051.txt + IMG_3052.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
+
+File A last line: Tim (W.12): Please number your queries; (1) Yes, Paris PTT on 461 metres; (2) Oslo relaying dance music from Hotel Bristol.
+File B matching line: Tim (W.12): Please number your queries;
+

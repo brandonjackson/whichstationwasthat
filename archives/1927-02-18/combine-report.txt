@@ -1,0 +1,88 @@
+Combine Report for 1927-02-18
+============================================================
+
+Merge 1: IMG_2742.txt + IMG_2743.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: A. R. B. 4 Valve: No estimated W.L. given, but possibly Malmoe (260 m.) which gave a sacred concert.
+File B matching line: A. R. B. 4 Valve: No estimated WL given, but possibly Malmoe (260 m.) which gave a sacred service at that time.
+
+Merge 2: merged_1 + IMG_2744.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: H. Taylor (Wharton): Cannot trace.
+Best similarity found: 0.667
+
+Closest matches (top 3):
+  1. Index 14, similarity: 0.667 (first_8_chars)
+     Line: Taylor (Wharton, N.J., U.S.A.): Could not be the London station if you heard it at 12.45 a.m. Eastern Standard Time (this would be 6.45 a.m. here). Was not this 3LO Melbourne?
+  2. Index 14, similarity: 0.600 (first_12_chars)
+     Line: Taylor (Wharton, N.J., U.S.A.): Could not be the London station if you heard it at 12.45 a.m. Eastern Standard Time (this would be 6.45 a.m. here). Was not this 3LO Melbourne?
+  3. Index 6, similarity: 0.550 (reporter_and_content)
+     Reporter similarity: 0.250
+     Content similarity: 1.000
+     Line: J. Jones (Caernarvon): Cannot trace without Moscow (RDW).
+
+Merge 3: merged_2 + IMG_2745.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: S. T. 100/W: (1) Leningrad, (2) Montpellier advertises its WL. as 252.1 m. News is usually given at 3.45 p.m. and again
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 20, similarity: 0.286 (first_8_chars)
+     Line: East Bank (Sheffield): Leningrad (1,010 m.).
+  2. Index 2, similarity: 0.267 (reporter_and_content)
+     Reporter similarity: 0.111
+     Content similarity: 0.500
+     Line: J. T. S. (Pinley): (1) cannot trace; it is possible that the new Munich transmitter was testing. (2) cannot trace. (3) Boden, relaying news from Stockholm.
+  3. Index 2, similarity: 0.250 (first_8_chars)
+     Line: J. T. S. (Pinley): (1) cannot trace; it is possible that the new Munich transmitter was testing. (2) cannot trace. (3) Boden, relaying news from Stockholm.
+
+Merge 4: merged_3 + IMG_2746.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 0.940
+
+File A last line: Aota-Tea-Roa: Cadiz (EAJ3).
+File B matching line: Aoa-Tea-Roa: Cadiz (EAJ3).
+
+Merge 5: merged_4 + IMG_2747.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Kid Boots (Nottingham): Posgrund relaying of Half-hour to
+File B matching line: Kid Boots (Nottingham): Porsgrund relaying “Half-hour to Housewives” from Oslo. It broadcasts on 504 m.
+
+Merge 6: merged_5 + IMG_2749.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: M. S. F. (Gilharn) Dryden (Gates-
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.500 (first_8_chars)
+     Line: M.A. (St. Briac): Naples.
+  2. Index 2, similarity: 0.333 (first_8_chars)
+     Line: A.S.N.: Not Moscow but Leningrad.
+  3. Index 8, similarity: 0.333 (first_12_chars)
+     Line: M.A. (St. Briac): Naples.
+
+Merge 7: merged_6 + IMG_2750.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 18
+Match strength: 0.889
+
+File A last line: A.F. Webster (Derby):
+File B matching line: A. F. Webster (Derby): Moscow (RDW).
+

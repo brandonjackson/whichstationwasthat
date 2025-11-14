@@ -1,212 +1,207 @@
-Schol (Dunelm): (1) Madrid (EAJ6), (2) San Sebastian.  
-Knob Turner (Crook): Muenster.  
-A. J. H. (Gloucester): Cannot trace.  
-C. T. S. (South Shields): Yes, probably WGY, as nearest Spanish station had closed down.  
-A. L. S. (Coventry): Muenster (410 m.).  
-Espagne: San Sebastian.  
-Super-One (Dundee): Cannot say, details too vague, either Barcelona (EAJ13) or WJZ (Boundbrook), U.S.A.  
-Sparks (Sheffield): If W.L. correct, Barcelona (EAJ1).  
-M. J. M. (Oldham): Dortmund (283 m.).  
-Enigma: Prague (see Identification panel last week).  
-Radio Scatty: Can trace no other station, probably harmonic.  
-Blogg: Cannot say, this has been frequently done.  
-Goldcrest (Swainby): Hamburg (opera "Martha").  
-Searcher: (1) Bremen, (2) Cassel-relaying Frankfort-on-Main; (3) Elberfeld relaying Muenster.  
-Festus (Cardiff): (1) Barcelona (EAJ1), (2) programme tallies with Barcelona (EAJ1).  
-Voltometer (Leicester): Hamburg.  
-Pick-it-Up (Hugby): Cannot trace from details given.  
-Pharm: Hamburg (392 m.).  
-Reactron: Cannot trace.  
-G. W. Q.: Presumably Madrid (EAJ7).  
-Short Wave H. S.: Made for 42-Page (Scarborough): Experimental amateur.  
-Harmony (London): Swedish relay of English station.  
-Curious (Appleby): (1) Koenigsberg, (2) Oslo (English lesson), (3) Rome.  
-E. K. W. (Yorks.): (1) Koenigswusterhausen, (2) cannot trace, no details in programmes, (3) Madrid (Union Radio).  
-Oxon: Moscow (RDW).  
-G. W. K. (Eastleigh): Cannot trace, presumably U.S.A. station.  
-TT6759: cannot trace on 465 m, but operatic Solos at Rome on 425 m. at that time.  
-Kone (Derby): (1) Brno (Czecho-Slovakia), (2) Hilversum.  
-Guglielmi (Coventry): San Sebastian.  
-St. H. 11a: (1) W.L. apparently wrong, would tally with Leipzig; (2) Church service, presumably Bournemouth; foreign station might be Hamburg.  
-Gas Pipe: Cannot trace.  
-Geocophone: Apparently Brno (Czecho-Slovakia).  
-Ubique: Prague.  
-Mikie: San Sebastian.  
-Lory-Lory: Radio Toulouse.  
-Trams (Halifax): Prague.  
-Luddenden: Hamburg.  
-P. H. Neutrodyne: Moscow.  
-Y. K. (Norwich): No W.L. given, but Hilversum.  
-Tamara: Since the Republic came into being.  
-Tamara: Presumably Hamburg (Precosa).  
-S.Y.Z.: (1) Was this not Berlin opera? (2) Hamburg; (3) too vague, perhaps San Sebastian.  
-R. M. K. (Edinburgh): No W.E. given, cannot trace.  
-Coil Pusher: (10.45) presumably new Spanish station, Madrid (EAJ15), (11.0) Bilbao (EAJ11), (10.35) Seville (EAJ5).  
-One Valve (Cardiff): Not Marseilles, cannot trace.  
-Kip-Kat: (1) Koenigs-wusterhausen (Press), (2) apparently Karlsborg, (3) details too vague, cannot trace.  
-Wavefinder (Fulham): Cardiff.  
-Chat: Probably Seville (EAJ5).  
-Man of Kent: (1) Hanover relaying Hamburg; (2) not in programmes, probably relay of Stockholm.  
-E. M.: Yes, Stockholm.  
-Siamese Twin: (a) Nürnberg, (b) Munich.  
-Gillott No. 1: W.L. too vague, probably Madrid (EAJ6).  
-Bull Dog: Hamburg.  
-Tags: Much too vague.  
-Locarno W. K.: Madrid (EAJ7).  
-A. R. (Hinckley): Waterloo (Cleethorpes): Hamburg.  
-Detector: Moscow (RDW).  
-Coil Pusher: Lyon-la-Doua.  
-Two Valver: 1 kw.  
-Interested: If German, Vienna gge opera (Siegfried), but Hamburg and Leipzig plays of Spain.  
-Mac (Derby): San Sebastian.  
-Peace Disturber: Hanover relaying Hamburg.  
-Simple Hunter (Lincoln): Madrid (EAJ7).  
-Hereward 7: Frankfort-on-Main.  
-Hereward 8: Prague.  
-S. G. W. 2V (Finchley): Relay of Stockholm.  
-Grimstock: Apparently Stettin relay of Berlin.  
-Curser (Highbury): W.I. apparently wrong; Hamburg.  
-A. B. C. (Lanarkshire): Prague.  
-Moonraker: (1) Item not in programmes, but presumably relay of Stockholm, (2) Berlin.  
-Voltage (Darwen): Item not in programmes, but presumably relay of Stockholm.  
-Goo-Goo (Midhurst): San Sebastian.  
-Straight Three: Hamburg.  
-E. W. G. (Phyl): Moscow (RDW), 8 strokes on gong for time signal 6 G.M.T.  
-Ripple (Campden): (1) Oslo, (2) cannot trace on this W.L. was this not a harmonic ?, (3) Koenigs-wusterhausen, (4) special relay by Koenigs-wusterhausen, not detailed in programme.  
-Arrell Park (Spool): Presumably Bournemouth.  
-A. R. P. S. (Newcastle-on-Tyne): Cardiff (Welsh service).  
-Waveling Willie: Hilversum.  
-One Valve S.G.A.: Late transmission, Barcelona (EAJ13).  
-Cotswold: Presumably amateur, cannot trace.  
-3HTL: No detailed coupon enclosed.  
-M (Kings Lynn): Amateur (Hounslow).  
-W. J. Gillett: Cardiff (French).  
-Check (Bolton): presumably San Sebastián, cannot trace, amateur, cannot trace.  
-Stockholm.  
-Siamese Twin: (a) Nuremberg, (b) Munich.  
-W. J. Gillett No. 1: W.L. too vague, probably Madrid (EAJ6).  
-Bull Dog: Hamburg.  
-Tags: Much too vague.  
-Locarno W. K.: Madrid (EAJ7).  
-A. R. (Hinckley): Waterloo (Cleethorpes): Hamburg.  
-Detector: Moscow (RDW).  
-Coil Pusher: Lyon-la-Doua.  
-Two-Valver 1½ kw.  
-Interested: If German, Vienna gave opera (Siegfried), but Hamburg and Leipzig plays of Spain.  
-Mac (Derby): San Sebastian.  
-Peace Disturber: Hanover relaying Hamburg.  
-Simple Three (Litherland): Madrid (EAJ7).  
-Hereward 7: Frankfort-on-Main.  
-Hereward 8: Prague.  
-S. G. W. 2V (Finchley): Relay of Stockholm.  
-Grimstock: Apparently Stettin relay of Berlin.  
-Curser (Highbury): W.L. apparently wrong; Hamburg.  
-A. B. C. (Lanarkshire): Prague.  
-Moonraker: (1) Item not in programmes, but presumably relay of Stockholm, (2) Berlin.  
-Voltage (Darwen): Item not in programmes, but presumably relay of Stockholm.  
-Goo-Goo (Midhurst): San Sebastian.  
-Straight Three: Hamburg.  
-E. W. G. (Phyl): Moscow (RDW), 8 strokes on gong for time signal 6 G.M.T.  
-Ripple (Cambridge): (1) (8.30) cannot trace though W.L. was this by Koenigsusterhausen, not detailed in programme.  
-Arrell Park (Spool): Presumably Bournemouth.  
-A. R. P. S. (Newcastle-on-Tyne): Cardiff (Welsh service).  
-Wavelength Willie: Hilversum.  
-One Valve S.C.A.: Late transmission, Barcelona (EAJ13).  
-Cotswold: Presumably amateur, cannot trace.  
-3HTL: No detailed coupon enclosed.  
-M. (Kings Lynn): Amateur (Hounslow).  
-W. J. Gillett: (2) Amateur, cannot trace, (3) amateur, cannot trace.  
-Check (Bolton): presumably Spanish station, either Bilbao (EAJ9), or Barcelona (EAJ1).  
-Daimler: Cannot trace.  
-L. 42914: (17.35) item not given in programme, presumably Malmö, relay of Stockholm, (20.40) cannot trace, was this not Hamburg?  
-Merci: Sorry, you should be more definite.  
-Laughing Mask: (7.0) no indication of W.L., dance music and thistle would tally with San Sebastian, (6.10) no W.L. given, cannot trace.  
-Howells (Llanelly): No W.L. indicated.  
-H. H. W. S. (Birmingham): Egroeg; Bags: Presumably Rugby testing.  
-Herr Bewyf: Rugby station testing.  
-Coegnant: Stettin relaying Berlin.  
-Wiff: Bournemouth.  
-Flip (Liverpool): not in programmes, presumably Barcelona (EAJ13).  
-Marcel Hullot (France): Radio Iberica (Madrid), indicated EAJ6.  
-Italian: Prague (Radio Praha), see our Station Identification Panel No. 6.  
-Dol (Limerick): yes Prague.  
-Family 4: sorry, cannot trace, not German ; was this not a B.B.C. station?  
-Amplidyn (Purley): (a) surely Berlin, but why weak phones? (b) insufficient detail, cannot trace.  
-Tango (Leicester): Madrid (EAJ6).  
-A. N. L. (Kent): Radio Paris.  
-Burr: Koenigsburg, Static: (a) yes, WGY (Schenectady). (b) probably Barcelona (EAJ1) testing.  
-Four Valver (Paddington): Koenigs wusterhausen (Press).  
-Senez: more likely Seville (EAJ5).  
-Home Made: Madrid (EAJ7).  
-Buzzer: Barcelona (EAJ13).  
-Jacko (Tun. Wells): Ryvang.  
-Ether Rider: (a) if W.L. correct, would tally with Bilbao (EAJ9) unless extended transmission from Milan. (b) cannot trace, presumably a test.  
-Chippy (Chichester): seeing reference to children's corner, at 9.20 p.m., presumably U.S.A. station.  
-M. J. Newton (Oldham): estimate W.L. must be given, see article in Radio Supplement No. 30 (5/2/1926).  
-J. R. (Leeds): Newcastle-on-Tyne.  
-Tamar: no W.L. mentioned, but Berlin (old Austrian National Anthem heard).  
-Ellivas: (a) Breslau; (b) Gothenburg.  
-C. Cressy (Dartford): Prague, 368 m. main evening concert from 7 p.m.  
-Sinbad: San Sebastian.  
-Mystery: Hilversum.  
-Four Valve (Bristol): not in programmes, cannot trace.  
-Optimist (Tynemouth): cannot trace.  
-Newo: Hamburg.  
-Oadwood (London): details vague, probably Stettin.  
-H. Q. E. V.: Prague.  
-Squibbo (Rochester): Hamburg.  
-Little Nelly Kelly: (1) yes (The Master Singers of Nuremberg); (2) cannot trace.  
-Advert (Canterbury): Seville (EAJ5).  
-J. R. V. (Manor Park): Brunn (Czecho-Slovakia).  
-T. Hassell: Ryvang (Children's dance).  
-K. W. H. V.: (1) Cardiff (Welsh service); (2) on that W.L. no German concert, only Stockholm (428 m.) at that time.  
-Crane (Eaton): Hamburg. (This station has previously been picked up on crystal sets by readers.)  
-Gec (Redditch): Frankfort-on-Main.  
-Nevada: details are too vague to point to any particular station.  
-Clixie: presumably an amateur.  
-W. T. W. (Devon): cannot trace, probably an amateur.  
-Iberica: cannot say, but certainly sounds like a Hilversum test.  
-Old Man: Brunn (Czecho-Slovakia).  
-Racehorse, Rita: B.B.C. experimental station.  
-C. H. W.: (1) Vienna testing on new W.L.; (2) yes, Budapest testing.  
-Radio Guineas: (?): what is this?  
-Twin Valve: Iberica: cannot say, but certainly sounds like a Hilversum test.  
-Old Man: Brunn (Czecho-Slovakia).  
-Racehorse, Rita: B.B.C. experimental station.  
-G. H. W.: (1) Vienna testing on new W.L.; (2) yes, Buda-Pesth testing.  
-Radio Guignes (?): Vienna testing.  
-Twin Valve (Bexhill): Vienna testing.  
-R. T. E. (Fulham): Madrid (EAJ6).  
-Ammemeter (Lincoln): presumably Radio-Anjou relaying Petit Parisien.  
-Esses-Emma (Swansea): Too vague.  
-Scarborian: PTT (Paris) relayed by Lyon-la-Doua.  
-Knighton Fields (Leicester): (a) Zurich testing; (b) Berlin testing.  
-Agricola (Brighton): Bruenn (521 m.).  
-Glenycone: (a) Vienna testing on experimental W.L.; (b) Helsingfors; (c) Bruenn.  
-Tubby (Wisbech): (415 m.) Radio Toulouse; 950 and 1,150 m.; Danish relays of Daventry.  
-Merry and Bright (Northampton): Regret that in both instances your indications of W.L. are too vague.  
-Mandolin (Bramhall): Bruenn.  
-Too Too (Holywell): Vienna testing.  
-Stanhay, Rose, L. A. G. (Kidderminster), Leighthie, Louvain (Bedford), R. J. Kaye, Noh (Little Ilford): Cardiff.  
-Pall Mall: cannot trace on that W.L.  
-Hoola (Barrow-in-Furness): Copenhagen.  
-Via: Surely, Hamburg (Boccaccio).  
-E. A. A.: Prague.  
-Tranham: Hilversum.  
-Woodscat (High Wycombe): Not an Austrian station, but Berlin or a relay.  
-Jinwi: presumably Lyon-la-Doua; cannot trace to any other station.  
-H. B. (Earl Shilton): Muenster relay of Elberfeld.  
-Ala (London): Buda-Pesth (from Opera House).  
-H. B. (Finchley): Amateur (London, N.W. 8).  
-F. A. M. (Wilmslow): No, but although not in printed programme presumably Hilversum.  
-Dan (Pontardulais): Muenster.  
-Keystone (Nos. 1 and 2): German relay stations testing on experimental W.L.  
-Nos Da: Not advertised in programme but probably Madrid EAJ6.  
-Au Secours (Exeter): Kiel relaying Hamburg.  
-W. T. 6 (Homerton): too vague, no estimated W.L. indicated.  
-Neutro-Straight: Vienna.  
-G. H. D. L. (Ux.): B.B.C. experimental station testing.  
-Hasingfield: (a) Bruenn; (b) no estimated W.L. given, too vague.  
-Reflex (Aston): a.m. or p.m.?  
-Fry (Walthamstow): B.B.C experimental station testing.  
+Schol (Dunelm): (1) Madrid (EAJ6), (2) San Sebastian.
+Knob Turner (Crook): Muenster.
+A. J. H. (Gloucester): Cannot trace.
+C. T. S. (South Shields): Yes, probably WGY, as nearest Spanish station had closed down.
+A. L. S. (Coventry): Muenster (410 m.).
+Espagne: San Sebastian.
+Super-One (Dundee): Cannot say, details too vague, either Barcelona (EAJ13) or WJZ (Boundbrook), U.S.A.
+Sparks (Sheffield): If W.L. correct, Barcelona (EAJ1).
+M. J. M. (Oldham): Dortmund (283 m.).
+Enigma: Prague (see Identification panel last week).
+Radio Scatty: Can trace no other station, probably harmonic.
+Blogg: Cannot say, this has been frequently done.
+Goldcrest (Swainby): Hamburg (opera "Martha").
+Searcher: (1) Bremen, (2) Cassel-relaying Frankfort-on-Main; (3) Elberfeld relaying Muenster.
+Festus (Cardiff): (1) Barcelona (EAJ1), (2) programme tallies with Barcelona (EAJ1).
+Voltometer (Leicester): Hamburg.
+Pick-it-Up (Hugby): Cannot trace from details given.
+Pharm: Hamburg (392 m.).
+Reactron: Cannot trace.
+G. W. Q.: Presumably Madrid (EAJ7).
+Short Wave H. S.: Made for 42-Page (Scarborough): Experimental amateur.
+Harmony (London): Swedish relay of English station.
+Curious (Appleby): (1) Koenigsberg, (2) Oslo (English lesson), (3) Rome.
+E.K.W. (Yorks.): (1) Koenigswusterhausen, (2) cannot trace, no details in programmes, (3) Madrid (Union Radio).
+Oxon: Moscow (RDW).
+G. W. K. (Eastleigh): Cannot trace, presumably U.S.A. station.
+TT6759: cannot trace on 465 m, but operatic Solos at Rome on 425 m. at that time.
+Kone (Derby): (1) Brno (Czecho-Slovakia), (2) Hilversum.
+Guglielmi (Coventry): San Sebastian.
+St. H. 11a: (1) W.L. apparently wrong, would tally with Leipzig; (2) Church service, presumably Bournemouth; foreign station might be Hamburg.
+Gas Pipe: Cannot trace.
+Geocophone: Apparently Brno (Czecho-Slovakia).
+Ubique: Prague.
+Mikie: San Sebastian.
+Lory-Lory: Radio Toulouse.
+Trams (Halifax): Prague.
+Luddenden: Hamburg.
+P. H. Neutrodyne: Moscow.
+Y. K. (Norwich): No W.L. given, but Hilversum.
+Tamara: Since the Republic came into being.
+Tamara: Presumably Hamburg (Precosa).
+S.Y.Z.: (1) Was this not Berlin opera? (2) Hamburg; (3) too vague, perhaps San Sebastian.
+R. M. K. (Edinburgh): No W.E. given, cannot trace.
+Coil Pusher: (10.45) presumably new Spanish station, Madrid (EAJ15), (11.0) Bilbao (EAJ11), (10.35) Seville (EAJ5).
+One Valve (Cardiff): Not Marseilles, cannot trace.
+Kip-Kat: (1) Koenigs-wusterhausen (Press), (2) apparently Karlsborg, (3) details too vague, cannot trace.
+Wavefinder (Fulham): Cardiff.
+Chat: Probably Seville (EAJ5).
+Man of Kent: (1) Hanover relaying Hamburg; (2) not in programmes, probably relay of Stockholm.
+E. M.: Yes, Stockholm.
+Siamese Twin: (a) Nürnberg, (b) Munich.
+Gillott No. 1: W.L. too vague, probably Madrid (EAJ6).
+Bull Dog: Hamburg.
+Tags: Much too vague.
+Locarno W. K.: Madrid (EAJ7).
+A. R. (Hinckley): Waterloo (Cleethorpes): Hamburg.
+Detector: Moscow (RDW).
+Coil Pusher: Lyon-la-Doua.
+Two-Valver 1½ kw.
+Interested: If German, Vienna gave opera (Siegfried), but Hamburg and Leipzig plays of Spain.
+Mac (Derby): San Sebastian.
+Peace Disturber: Hanover relaying Hamburg.
+Simple Hunter (Lincoln): Madrid (EAJ7).
+Hereward 7: Frankfort-on-Main.
+Hereward 8: Prague.
+S. G. W. 2V (Finchley): Relay of Stockholm.
+Grimstock: Apparently Stettin relay of Berlin.
+Curser (Highbury): W.I. apparently wrong; Hamburg.
+A. B. C. (Lanarkshire): Prague.
+Moonraker: (1) Item not in programmes, but presumably relay of Stockholm, (2) Berlin.
+Voltage (Darwen): Item not in programmes, but presumably relay of Stockholm.
+Goo-Goo (Midhurst): San Sebastian.
+Straight Three: Hamburg.
+E. W. G. (Phyl): Moscow (RDW), 8 strokes on gong for time signal 6 G.M.T.
+Ripple (Campden): (1) Oslo, (2) cannot trace on this W.L. was this not a harmonic ?, (3) Koenigs-wusterhausen, (4) special relay by Koenigs-wusterhausen, not detailed in programme.
+Arrell Park (Spool): Presumably Bournemouth.
+A. R. P. S. (Newcastle-on-Tyne): Cardiff (Welsh service).
+Waveling Willie: Hilversum.
+One Valve S.G.A.: Late transmission, Barcelona (EAJ13).
+Cotswold: Presumably amateur, cannot trace.
+3HTL: No detailed coupon enclosed.
+M (Kings Lynn): Amateur (Hounslow).
+W. J. Gillett: Cardiff (French).
+Check (Bolton): presumably San Sebastián, cannot trace, amateur, cannot trace. Stockholm.
+Siamese Twin: (a) Nuremberg, (b) Munich.
+W. J. Gillett No. 1: W.L. too vague, probably Madrid (EAJ6).
+Bull Dog: Hamburg.
+Tags: Much too vague.
+Locarno W. K.: Madrid (EAJ7).
+A. R. (Hinckley): Waterloo (Cleethorpes): Hamburg.
+Detector: Moscow (RDW).
+Coil Pusher: Lyon-la-Doua. Two-Valver 1½ kw.
+Interested: If German, Vienna gave opera (Siegfried), but Hamburg and Leipzig plays of Spain.
+Mac (Derby): San Sebastian.
+Peace Disturber: Hanover relaying Hamburg.
+Simple Three (Litherland): Madrid (EAJ7).
+Hereward 7: Frankfort-on-Main.
+Hereward 8: Prague.
+S. G. W. 2V (Finchley): Relay of Stockholm.
+Grimstock: Apparently Stettin relay of Berlin.
+Curser (Highbury): W.L. apparently wrong; Hamburg.
+A. B. C. (Lanarkshire): Prague.
+Moonraker: (1) Item not in programmes, but presumably relay of Stockholm, (2) Berlin.
+Voltage (Darwen): Item not in programmes, but presumably relay of Stockholm.
+Goo-Goo (Midhurst): San Sebastian.
+Straight Three: Hamburg.
+E. W. G. (Phyl): Moscow (RDW), 8 strokes on gong for time signal 6 G.M.T.
+Ripple (Cambridge): (1) (8.30) cannot trace though W.L. was this by Koenigsusterhausen, not detailed in programme.
+Arrell Park (Spool): Presumably Bournemouth.
+A. R. P. S. (Newcastle-on-Tyne): Cardiff (Welsh service).
+Wavelength Willie: Hilversum.
+One Valve S.C.A.: Late transmission, Barcelona (EAJ13).
+Cotswold: Presumably amateur, cannot trace.
+3HTL: No detailed coupon enclosed.
+M. (Kings Lynn): Amateur (Hounslow).
+W. J. Gillett: (2) Amateur, cannot trace, (3) amateur, cannot trace.
+Check (Bolton): presumably Spanish station, either Bilbao (EAJ9), or Barcelona (EAJ1).
+Daimler: Cannot trace.
+L. 42914: (17.35) item not given in programme, presumably Malmö, relay of Stockholm, (20.40) cannot trace, was this not Hamburg?
+Merci: Sorry, you should be more definite.
+Laughing Mask: (7.0) no indication of W.L., dance music and thistle would tally with San Sebastian, (6.10) no W.L. given, cannot trace.
+Howells (Llanelly): No W.L. indicated.
+H. H. W. S. (Birmingham): Egroeg.
+Bags: Presumably Rugby testing.
+Herr Bewyf: Rugby station testing.
+Coegnant: Stettin relaying Berlin.
+Wiff: Bournemouth.
+Flip (Liverpool): not in programmes, presumably Barcelona (EAJ13).
+Marcel Hullot (France): Radio Iberica (Madrid), indicated EAJ6.
+Italian: Prague (Radio Praha), see our Station Identification Panel No. 6.
+Dol (Limerick): yes Prague.
+Family 4: sorry, cannot trace, not German ; was this not a B.B.C. station?
+Amplidyn (Purley): (a) surely Berlin, but why weak phones? (b) insufficient detail, cannot trace.
+Tango (Leicester): Madrid (EAJ6).
+A. N. L. (Kent): Radio Paris.
+Burr: Koenigsburg.
+Static: (a) yes, WGY (Schenectady). (b) probably Barcelona (EAJ1) testing.
+Four Valver (Paddington): Koenigs wusterhausen (Press).
+Senez: more likely Seville (EAJ5).
+Home Made: Madrid (EAJ7).
+Buzzer: Barcelona (EAJ13).
+Jacko (Tun. Wells): Ryvang.
+Ether Rider: (a) if W.L. correct, would tally with Bilbao (EAJ9) unless extended transmission from Milan. (b) cannot trace, presumably a test.
+Chippy (Chichester): seeing reference to children's corner, at 9.20 p.m., presumably U.S.A. station.
+M. J. Newton (Oldham): estimate W.L. must be given, see article in Radio Supplement No. 30 (5/2/1926).
+J. R. (Leeds): Newcastle-on-Tyne.
+Tamar: no W.L. mentioned, but Berlin (old Austrian National Anthem heard).
+Ellivas: (a) Breslau; (b) Gothenburg.
+C. Cressy (Dartford): Prague, 368 m. main evening concert from 7 p.m.
+Sinbad: San Sebastian.
+Mystery: Hilversum.
+Four Valve (Bristol): not in programmes, cannot trace.
+Optimist (Tynemouth): cannot trace.
+Newo: Hamburg.
+Oadwood (London): details vague, probably Stettin.
+H. Q. E. V.: Prague.
+Squibbo (Rochester): Hamburg.
+Little Nelly Kelly: (1) yes (The Master Singers of Nuremberg); (2) cannot trace.
+Advert (Canterbury): Seville (EAJ5).
+J. R. V. (Manor Park): Brunn (Czecho-Slovakia).
+T. Hassell: Ryvang (Children's dance).
+K. W. H. V.: (1) Cardiff (Welsh service); (2) on that W.L. no German concert, only Stockholm (428 m.) at that time.
+Crane (Eaton): Hamburg. (This station has previously been picked up on crystal sets by readers.)
+Gec (Redditch): Frankfort-on-Main.
+Nevada: details are too vague to point to any particular station.
+Clixie: presumably an amateur.
+W. T. W. (Devon): cannot trace, probably an amateur.
+Iberica: cannot say, but certainly sounds like a Hilversum test.
+Old Man: Brunn (Czecho-Slovakia).
+Racehorse, Rita: B.B.C. experimental station.
+C. H. W.: (1) Vienna testing on new W.L.; (2) yes, Budapest testing.
+Radio Guineas: (?): what is this?
+Twin Valve (Bexhill): Vienna testing.
+R. T. E. (Fulham): Madrid (EAJ6).
+Ammemeter (Lincoln): presumably Radio-Anjou relaying Petit Parisien.
+Esses-Emma (Swansea): Too vague.
+Scarborian: PTT (Paris) relayed by Lyon-la-Doua.
+Knighton Fields (Leicester): (a) Zurich testing; (b) Berlin testing.
+Agricola (Brighton): Bruenn (521 m.).
+Glenycone: (a) Vienna testing on experimental W.L.; (b) Helsingfors; (c) Bruenn.
+Tubby (Wisbech): (415 m.) Radio Toulouse; 950 and 1,150 m.; Danish relays of Daventry.
+Merry and Bright (Northampton): Regret that in both instances your indications of W.L. are too vague.
+Mandolin (Bramhall): Bruenn.
+Too Too (Holywell): Vienna testing.
+Stanhay, Rose, L. A. G. (Kidderminster), Leighthie, Louvain (Bedford), R. J. Kaye, Noh (Little Ilford): Cardiff.
+Pall Mall: cannot trace on that W.L.
+Hoola (Barrow-in-Furness): Copenhagen.
+Via: Surely, Hamburg (Boccaccio).
+E. A. A.: Prague.
+Tranham: Hilversum.
+Woodscat (High Wycombe): Not an Austrian station, but Berlin or a relay.
+Jinwi: presumably Lyon-la-Doua; cannot trace to any other station.
+H. B. (Earl Shilton): Muenster relay of Elberfeld.
+Ala (London): Buda-Pesth (from Opera House).
+H. B. (Finchley): Amateur (London, N.W. 8).
+F. A. M. (Wilmslow): No, but although not in printed programme presumably Hilversum.
+Dan (Pontardulais): Muenster.
+Keystone (Nos. 1 and 2): German relay stations testing on experimental W.L.
+Nos Da: Not advertised in programme but probably Madrid EAJ6.
+Au Secours (Exeter): Kiel relaying Hamburg.
+W. T. 6 (Homerton): too vague, no estimated W.L. indicated.
+Neutro-Straight: Vienna.
+G. H. D. L. (Ux.): B.B.C. experimental station testing.
+Hasingfield: (a) Bruenn; (b) no estimated W.L. given, too vague.
+Reflex (Aston): a.m. or p.m.?
+Fry (Walthamstow): B.B.C experimental station testing.
 J. S. S. (Carlisle): B.B.C experimental station testing.

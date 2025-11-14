@@ -1,0 +1,48 @@
+Combine Report for 1928-04-13
+============================================================
+
+Merge 1: IMG_3347.txt + IMG_3348.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Signal Box (Eastbourne): Moscow Popoff (675 m.) advertised a relay of opera.
+File B matching line: Signal Box (Eastbourne): Moscow Popoff (675 m.) advertised a relay of the opera Mignon (Thomas); it is quite possible that this was changed, and taken by Moscow Comintern (RDW).
+
+Merge 2: merged_1 + IMG_3349.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: S. G. E. W. (Glasgow): (1) 5NW amateur.
+File B matching line: S. G. E. W. (Glasgow): (1) 5NW amateur transmitter at Dundee; (2) yes, if W.L. correct, Breslau testing, but no, we cannot confirm; (3) yes, Posen (a lady announcer) giving light concert until 1 a.m. G.M.T.
+
+Merge 3: merged_2 + IMG_3350.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Wamphray: Motala (working later than advertised in programme) relaying 5GB.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 19, similarity: 0.298 (reporter_and_content)
+     Reporter similarity: 0.231
+     Content similarity: 0.400
+     Line: 3 Valve (Chatham): PTT Lyons, relaying concert from the Theatre Mogador at Paris.
+  2. Index 22, similarity: 0.298 (reporter_and_content)
+     Reporter similarity: 0.364
+     Content similarity: 0.200
+     Line: F. A. B. (Peruvian): Porsgrund, relaying Oslo.
+  3. Index 6, similarity: 0.260 (reporter_and_content)
+     Reporter similarity: 0.300
+     Content similarity: 0.200
+     Line: Amorphous Q: Would appear to be an official station, but regret, cannot trace.
+
+Merge 4: merged_3 + IMG_3351.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

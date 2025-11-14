@@ -1,109 +1,136 @@
-Minerva: Prague.  
-Boston Kid (Portsmouth): Berne.  
-Secker: Dortmund (283 m.).  
-R. G. (Ellesmere Port): San Sebastian.  
-J. (Radford): (1) Vienna, (2) Stuttgart, (3) Madrid (EAJ7).  
-Ether (Gillingham): (1) cannot trace on that WL., (2) Sorö, relaying Copenhagen.  
-Electron (Eastbourne): yes, Leningrad.  
-3CF/13SP (Wandsworth): Hamburg.  
-Humility (N.W. 6): WL. much too vague, cannot trace.  
-T. M. (Waterford): possibly Naples testing.  
-N. M. W. S. (N. London): Budapest.  
-Devonian: Bilbao (EAJ11) relaying foreign stations.  
-L. C. E. (Molesey): (1) amateur, cannot trace, (2) 5XN, amateur—(Eltham).  
-R. H. J. (Bickley): Prague.  
-J. H. F. (Crayford): possibly Cadiz (experimental concert).  
-DXX (Elveden): Berne.  
-Wireless Willy: cannot trace, WL. too vague.  
-Reveal (Chiswick): Moscow (RDW).  
-Holly (Cheshire): item not advertised, possibly Madrid (EAJ7).  
-S. O. B. (Lincoln): Buda-Pesth.  
-Amico: (1) Stuttgart, (2) Leipzig, Torbay too vague, cannot trace.  
-Bm/Baav: Frankfort-on-Main, relaying Berlin.  
-A. W. Eeanvle (Bristol): Malmö (270 m.) relaying Stockholm.  
-Votum (Brighton): Breslau, relaying Berlin.  
-Searcher (Manchester): Hamburg, relaying Hanover.  
-Condenser (Derry): yes, Stuttgart (446 m.).  
-Reflex Two: Newcastle.  
-Tona-Three (Blackpool): Rome.  
-Devo: possibly Moscow (RDW).  
-Britannic (Bradford): (19) Prague and Brünn, (20) possibly Madrid (EAJ6).  
-Williams (Mile End): (1) Hamburg, (2) Berlin.  
-O-V-1 (N. 12): either Muenster or Stuttgart; both gave variety programmes.  
-Griff Tredegar (S.W.): yes, Rome.  
-X, Y. Z. (St. Leonards): not on 850 m.; Koenigswusterhausen on 1,300 m. at that time.  
-13 D.D.: if p.m. Hamburg relaying Hanover.  
-Esprit de Corps (Pontefract): cannot trace morse stations.  
-Amplion (W. 10): if not Eiffel Tower, cannot trace.  
-Embrayage: item not in programmes, but believe PTT, Paris.  
-Lichfieldian (Staffs): yes, Barcelona (EAJ13).  
-Twin (Forest Gate): (4) Hamburg, relaying Hanover, (6) Hamburg, relaying Hanover.  
-Anxious: too vague, cannot trace.  
-Gorton: (1) Sorö, relay of Copenhagen, (2) possibly Klagenfurt testing (relaying Vienna), (3) must be Gothenberg, (4) Barcelona (EAJ1) 332 m.  
-WHV: (36) yes, Stettin, relaying Berlin, (37) no, Barcelona (EAJ13) ?Name( Cheltenham).  
-R. E. G. (Balham): Sale (3).  
-Torbay: too vague, cannot trace.  
-?Name (Cheltenham): R. E. G. (Bahama); Sale (3): Karlsborg, relay of Stockholm (altered programme).  
-Slow Motion (N.W.2): L. G. K. (E.6); Gorton (5): a relay of Stockholm (altered programme).  
-Icelandic: Reykjavik (Iceland); Brussels.  
-P.O./0685: there is no transmitter at Greenwich Observatory.  
-Harkatem (Oxford): (1) San Sebastian, (2) Prague, or Brunn.  
-B.D.T. (Edinburgh): Cannot trace any French station on that WL.  
-Secrecy: A relay of Stockholm, apparently Karlstadt on new WL.  
-Pepper (Leicester): Zurich.  
-Vodka: Too vague, cannot trace.  
-Salcombe: Surely Daventry.  
-Brenda: PTT, Lyons.  
-E. Wiggall (Cheltenham): Madrid (EAJ7).  
-E.D.E.S.; E.T. (Longton): Cockle (Bournemouth); Miller: Cranleigh: A relay of Stockholm (Altered programme).  
-Poorie: Sorö, relaying Copenhagen.  
-Bonzo: Cardiff (The Silent Fellowship).  
-T.O.P. (Milford Haven): Karlsborg, relaying Stockholm.  
-Rosedale (Lancashire): Hanover (Café Continental).  
-Blaue Valley: (1) Buda-Pesth, (2) Oslo.  
-Coli Pusher (?): Berlin.  
-Twin Enthusiast: Brussels.  
-Three Valves (Cantab): Warsaw.  
-E.A.C.: Dublin.  
-Grid 25: Frankfort-on-Main (gramophone records).  
-H.A.C.B. (Manchester): Cannot trace, but possibly Hamburg via Bremen (The Stolen Microphone).  
-N.L.R. (Putney): Apparently U.S.A. station.  
-Super-Sonic Heterodyne: Madrid (EAJ7).  
-Valve Dropper (Rochdale): Cannot trace from coils used.  
-A.J.S.: More likely KDKA (East Pittsburg).  
-Greedy (Norwich): Moscow (RDW).  
-X.X. Low Loss: Koenigswusterhausen, relaying Hamburg.  
-Lissenola (99): (a) Muenster, (2) Madrid (EAJ7).  
-E.G.S.: A relay of Stockholm.  
-Tiger Tim: (1) Oslo, (2) Buda-Pesth.  
-Moseley: which was relaying from a theatre.  
-H.H.W.S. (Mosely): Stuttgart.  
-X Word (Ramsbottom): Probably Rugby testing.  
-3 Undyne (Stepringley): (16) Muenster relaying Dortmund (17) Cadiz (EAJ7).  
-2 Valver (Hackney): Bilbao (EAJ11) relay of foreign stations.  
-Metre: Both Vienna.  
-Ocewo: Cannot trace.  
-El-Kay: Apparently Stettin relaying Berlin.  
-F.C. Bare: Bremen relaying English lesson from Hamburg.  
-Etherhawk (Hengrave): General Electric Co. (Schenectady).  
-Hypo (Renge): Malmӧ relaying Stockholm.  
-Hypo (Rengedd): high-power transmitter.  
-S.B.P. (Bradford): Hamburg.  
-J.W.K. (Chek): (1) Prague; (2) Brussels.  
-J.W.K. (Chekfield): Possibly Bergen.  
-CoiI Pusher (Burton-on-Trent): Prague.  
-BM/BABH: Moscow (RDW).  
-BM/BDO: Cadiz (experimental concert).  
-P.H. (Sittingbourne): Hamburg.  
-Pontoonite (Grimsby): Hilversum.  
-F.Y. (Southport): Cannot trace WIOB but WIOD (Miami, Florida), 247.8 m. 1 kilowatts.  
-Fiver (Leeds): Leipzig relaying from New Theatre in that city.  
-J.E.M. (Weymouth): Berlin (1,300 m).  
-J.A. RAY (London): Madrid (EAJ7) relaying programme from Barcelona (EAJ1).  
-R.E.F. (Hove): (1) WL wrong; Hamburg; (2) Prague ("Hullo, Praha "); (3) Munich (not xylophone, but piano).  
-G.A.B.: Impossible to trace a station from coil numbers.  
-R.H.J. (Bickley): Muenster relaying Elberfeld.  
-G1obe-Trotter (Bradford): Barcelona (EAJ13).  
-Dorn (Glasgow): (6) Not in programmes; possibly Prague.  
-X.X.X. (Oxinpope): Frimton; G.L.S.: Relay of last hour of Six Days Cycle Race from Sports Palace, Berlin. Possibly relayed to other German stations, although only advertised to be broadcast from Berlin.  
+Minerva: Prague.
+Boston Kid (Portsmouth): Berne.
+Secker: Dortmund (283 m.).
+R. G. (Ellesmere Port): San Sebastian.
+J. (Radford): (1) Vienna, (2) Stuttgart, (3) Madrid (EAJ7).
+Ether (Gillingham): (1) cannot trace on that WL., (2) Sorö, relaying Copenhagen.
+Electron (Eastbourne): yes, Leningrad.
+3CF/13SP (Wandsworth): Hamburg.
+Humility (N.W. 6): WL. much too vague, cannot trace.
+T. M. (Waterford): possibly Naples testing.
+N. M. W. S. (N. London): Budapest.
+Devonian: Bilbao (EAJ11) relaying foreign stations.
+L. C. E. (Molesey): (1) amateur, cannot trace, (2) 5XN, amateur—(Eltham).
+R. H. J. (Bickley): Prague.
+J. H. F. (Crayford): possibly Cadiz (experimental concert).
+DXX (Elveden): Berne.
+Wireless Willy: cannot trace, WL. too vague.
+Reveal (Chiswick): Moscow (RDW).
+Holly (Cheshire): item not advertised, possibly Madrid (EAJ7).
+S. O. B. (Lincoln): Buda-Pesth.
+Amico: (1) Stuttgart, (2) Leipzig, Torbay too vague, cannot trace.
+Bm/Baav: Frankfort-on-Main, relaying Berlin.
+A. W. Eeanvle (Bristol): Malmö (270 m.) relaying Stockholm.
+Votum (Brighton): Breslau, relaying Berlin.
+Searcher (Manchester): Hamburg, relaying Hanover.
+Condenser (Derry): yes, Stuttgart (446 m.).
+Reflex Two: Newcastle.
+Tona-Three (Blackpool): Rome.
+Devo: possibly Moscow (RDW).
+Britannic (Bradford): (19) Prague and Brünn, (20) possibly Madrid (EAJ6).
+Williams (Mile End): (1) Hamburg, (2) Berlin.
+O-V-1 (N. 12): either Muenster or Stuttgart; both gave variety programmes.
+Griff Tredegar (S.W.): yes, Rome.
+X, Y. Z. (St. Leonards): not on 850 m.; Koenigswusterhausen on 1,300 m. at that time.
+13 D.D.: if p.m. Hamburg relaying Hanover.
+Esprit de Corps (Pontefract): cannot trace morse stations.
+Amplion (W. 10): if not Eiffel Tower, cannot trace.
+Embrayage: item not in programmes, but believe PTT, Paris.
+Lichfieldian (Staffs): yes, Barcelona (EAJ13).
+Twin (Forest Gate): (4) Hamburg, relaying Hanover, (6) Hamburg, relaying Hanover.
+Anxious: too vague, cannot trace.
+Gorton: (1) Sorö, relay of Copenhagen, (2) possibly Klagenfurt testing (relaying Vienna), (3) must be Gothenberg, (4) Barcelona (EAJ1) 332 m.
+WHV: (36) yes, Stettin, relaying Berlin, (37) no, Barcelona (EAJ13) ?Name (Cheltenham).
+R. E. G. (Balham): Sale (3).
+Karlsborg, relay of Wireless Willy: cannot trace, WL too vague.
+Reveal (Chiswick): Moscow (RDW).
+Holly (Cheshire): item not advertised, possibly Madrid (EAJ7).
+2 O.B.F. (Lincoln): Buda-Pesth.
+Amico: (1) Stuttgart, (2) Leipzig.
+Torbay: too vague, cannot trace.
+Bm/Baav: Frankfort-on-Main, relaying Berlin.
+A. W. Eenvalve (Bristol): Malmö (270 m.) relaying Stockholm.
+Von (Brighton): Breslau, relaying Berlin.
+Searcher (Manchester): Hamburg, relaying Hanover.
+Condenser (Derry): yes, Stuttgart (446 m.).
+Reflex Two: Newcastle.
+Tona-Three (Blackpool): Rome.
+Devo: possibly Moscow (RDW).
+Britannic (Bradford): (19) Prague and Brünn, (20) possibly Madrid (EAJ6).
+Williams (Mile End): (1) Hamburg, (2) Berlin.
+O-V-1 (N. 12): either Muenster or Stuttgart, both gave variety programmes.
+Griff Tredegar (S.W.): yes, Rome.
+X. Y. Z. (St. Leonards): not on 850 m.; Koenigswusterhausen on 1,300 m. at that time.
+13 D.D.: if p.m. Hamburg relaying Hanover.
+Esprit de Corps (Pontrefact): cannot trace morse stations.
+Amplion (W. 10): if not Eiffel Tower, cannot trace.
+Embrayage: item not in programmes, but believe PTT, Paris. Iichfieldian outfits Barcelona (EAJ13), Vienna relaying Hanover.
+Anxious: too vague, cannot trace.
+Gorton: (1) Sorö, relay of Copenhagen, (2) possibly Klagenfurt testing (relaying Vienna), (3) must be Gothenberg, (4) Barcelona (EAJ1) 332 m.
+2 VHV: (36) yes, Stettin, relaying Berlin, (37) no, Barcelona (EAJ13).
+?Name (Cheltenham): R. E. G. (Bahama);
+Sale (3): Karlsborg, relay of Stockholm (altered programme).
+Slow Motion (N.W.2): L. G. K. (E.6);
+Gorton (5): a relay of Stockholm (altered programme).
+Icelandic: Reykjavik (Iceland); Brussels.
+P.O./0685: there is no transmitter at Greenwich Observatory.
+Harkatem (Oxford): (1) San Sebastian, (2) Prague, or Brunn.
+B.D.T. (Edinburgh): Cannot trace any French station on that WL.
+Secrecy: A relay of Stockholm, apparently Karlstadt on new WL.
+Pepper (Leicester): Zurich.
+Vodka: Too vague, cannot trace.
+Salcombe: Surely Daventry.
+Brenda: PTT, Lyons.
+E. Wiggall (Cheltenham): Madrid (EAJ7).
+E.D.E.S.; E.T. (Longton): Cockle (Bournemouth); Miller: Cranleigh: A relay of Stockholm (Altered programme).
+Poorie: Sorö, relaying Copenhagen.
+Bonzo: Cardiff (The Silent Fellowship).
+T.O.P. (Milford Haven): Karlsborg, relaying Stockholm.
+Rosedale (Lancashire): Hanover (Café Continental).
+Blaue Valley: (1) Buda-Pesth, (2) Oslo.
+Coli Pusher (?): Berlin.
+Twin Enthusiast: Brussels.
+Three Valves (Cantab): Warsaw.
+E.A.C.: Dublin.
+Grid 25: Frankfort-on-Main (gramophone records).
+H.A.C.B. (Manchester): Cannot trace, but possibly Hamburg via Bremen (The Stolen Microphone).
+N.L.R. (Putney): Apparently U.S.A. station.
+Super-Sonic Heterodyne: Madrid (EAJ7).
+Valve Dropper (Rochdale): Cannot trace from coils used.
+A.J.S.: More likely KDKA (East Pittsburg).
+Greedy (Norwich): Moscow (RDW).
+X.X. Low Loss: Koenigswusterhausen, relaying Hamburg.
+Lissenola (99): (a) Muenster, (2) Madrid (EAJ7).
+E.G.S.: A relay of Stockholm.
+Tiger Tim: (1) Oslo, (2) Buda-Pesth.
+Moseley: which was relaying from a theatre.
+H.H.W.S. (Mosely): Stuttgart.
+X Word (Ramsbottom): Probably Rugby testing.
+3 Undyne (Stepringley): (16) Muenster relaying Dortmund (17) Cadiz (EAJ7).
+2 Valver (Hackney): Bilbao (EAJ11) relay of foreign stations.
+Metre: Both Vienna.
+Ocewo: Cannot trace.
+El-Kay: Apparently Stettin relaying Berlin.
+F.C. Bare: Bremen relaying English lesson from Hamburg.
+Etherhawk (Hengrave): General Electric Co. (Schenectady).
+Hypo (Rengedd): high-power transmitter.
+Hypo (Renge): Malmӧ relaying Stockholm.
+S.B.P. (Bradford): Hamburg.
+J.W.K. (Chek): (1) Prague; (2) Brussels.
+J.W.K. (Chekfield): Possibly Bergen.
+CoiI Pusher (Burton-on-Trent): Prague.
+BM/BABH: Moscow (RDW).
+BM/BDO: Cadiz (experimental concert).
+P.H. (Sittingbourne): Hamburg.
+Pontoonite (Grimsby): Hilversum.
+F.Y. (Southport): Cannot trace WIOB but WIOD (Miami, Florida), 247.8 m. 1 kilowatts.
+Fiver (Leeds): Leipzig relaying from New Theatre in that city.
+J.E.M. (Weymouth): Berlin (1,300 m).
+J.A. RAY (London): Madrid (EAJ7) relaying programme from Barcelona (EAJ1).
+R.E.F. (Hove): (1) WL wrong; Hamburg; (2) Prague ("Hullo, Praha "); (3) Munich (not xylophone, but piano).
+G.A.B.: Impossible to trace a station from coil numbers.
+R.H.J. (Bickley): Muenster relaying Elberfeld.
+G1obe-Trotter (Bradford): Barcelona (EAJ13).
+Dorn (Glasgow): (6) Not in programmes; possibly Prague.
+X.X.X. (Oxinpope): Frimton; G.L.S.: Relay of last hour of Six Days Cycle Race from Sports Palace, Berlin. Possibly relayed to other German stations, although only advertised to be broadcast from Berlin.
 Sharp (Lincoln): Many thanks for letter. No doubt whatever of your reception of this aeroplane transmission, of which details were given in German press. You received it through Koenigswusterhausen.

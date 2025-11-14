@@ -1,0 +1,27 @@
+Combine Report for 1926-05-21
+============================================================
+
+Merge 1: IMG_1912.txt + IMG_1913.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: F.G.L. (Nottingham): possibly Frankfort-on-Main, no detailed programme available.
+File B matching line: F.G.L. (Nottingham): possibly Frankfort-on-Main, no detailed programmes available.
+
+Merge 2: merged_1 + IMG_1914.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_1915.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 20
+Match strength: 0.702
+
+File A last line: G and R (Ilford): Sure (422 m) Breslau, dance music.
+File B matching line: A. G. S. (Ilford): Surely Berlin.
+

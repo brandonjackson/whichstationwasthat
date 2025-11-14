@@ -1,0 +1,21 @@
+Combine Report for 1927-06-03
+============================================================
+
+Merge 1: IMG_3017.txt + IMG_3018.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 0.967
+
+File A last line: Mondrial Three (Derby): Programme tallies with Marseilles relaying PTT Paris (dance music).
+File B matching line: Mondial Three (Derby): Programme tallies with Marseilles relaying PTT Paris (dance music from the Coliseum, Paris).
+
+Merge 2: merged_1 + IMG_3019.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 11
+Match strength: 0.900
+
+File A last line: Him (W.12): (1) Motala relaying Church service from Stock.
+File B matching line: Tim (W. 12): (1) Motala relaying Church service from Stockholm; (2) Stuttgart.
+

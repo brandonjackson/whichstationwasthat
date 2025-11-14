@@ -1,0 +1,28 @@
+Combine Report for 1926-08-13
+============================================================
+
+Merge 1: IMG_2458.txt + IMG_2459.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_2460.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: F. F. (Camberley): Cadiz.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 23, similarity: 0.467 (reporter_and_content)
+     Reporter similarity: 0.111
+     Content similarity: 1.000
+     Line: Harmony Four (Preston): Cadiz.
+  2. Index 24, similarity: 0.333 (first_8_chars)
+     Line: H. F. W. (Leeds): (A) Frankfort-on-Main, relay of opera Lohengrin from Zoppot (Danzig); (B) same station relaying dance music from Berlin.
+  3. Index 26, similarity: 0.311 (reporter_and_content)
+     Reporter similarity: 0.118
+     Content similarity: 0.600
+     Line: No Name (Aug. 1, 16-1700 m. : Radio-Paris; 452 m. : Leipzig, relay of Lohengrin from Zoppot.
+

@@ -1,0 +1,42 @@
+Combine Report for 1927-04-08
+============================================================
+
+Merge 1: IMG_2968.txt + IMG_2969.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: C. S. P. (Edinburgh): (1)
+File B matching line: C.S.P. (Edinburgh): Stettin (new transmitter on about 237 m.) relaying Berlin.
+
+Merge 2: merged_1 + IMG_2970.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Four Leaf Clover (Solihull):
+Best similarity found: 0.571
+
+Closest matches (top 3):
+  1. Index 18, similarity: 0.571 (first_8_chars)
+     Line: Four-Valver (Solihull): Oslo. 2VH? (60) Breslau, relaying Berlin, (61) Langenberg (The Flying Dutchman), (62) yes, Frankfort-on-Main, relaying dance music from Berlin.
+  2. Index 18, similarity: 0.400 (first_12_chars)
+     Line: Four-Valver (Solihull): Oslo. 2VH? (60) Breslau, relaying Berlin, (61) Langenberg (The Flying Dutchman), (62) yes, Frankfort-on-Main, relaying dance music from Berlin.
+  3. Index 14, similarity: 0.300 (first_12_chars)
+     Line: F. G. N. (Reading): Milan (relay from Fiaschetteria Toscana).
+
+Merge 3: merged_2 + IMG_2971.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: E. T. C/W.11: Prague, relaying concert from the House of Representatives.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 16, similarity: 0.333 (first_8_chars)
+     Line: G. E. C. 4: PTT Lyons (own programme).
+  2. Index 26, similarity: 0.333 (first_8_chars)
+     Line: F. E. C. 4: Your coupons were apparently lost; (1) Very vague; possibly Breslau; (2) Possibly Juan les Pins (230 m.); (3) WL, must be wrong, cannot trace; (4) Yes, Boden, relaying Stockholm; (5) Sorö, relaying Copenhagen; (6) Cannot trace; (7 & 8) We do not trace Morse stations.
+  3. Index 34, similarity: 0.333 (first_8_chars)
+     Line: D. P. C. (Leeds): Bordeaux-Lafayette (France).
+

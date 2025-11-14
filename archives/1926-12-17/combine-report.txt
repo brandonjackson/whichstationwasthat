@@ -1,0 +1,68 @@
+Combine Report for 1926-12-17
+============================================================
+
+Merge 1: IMG_2644.txt + IMG_2645.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 1.000
+
+File A last line: Radio Fan (Pompey): (1) Prague, (2) Hanover, (3) Moscow (RDW).
+File B matching line: Radio Fan (Popey): (a) Prague, (b) Hanover relaying Hamburg, (c) Muenster, (d) Breslau, (e) Oslo.
+
+Merge 2: merged_1 + IMG_2646.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Mrs. Dog (Weybridge):
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.182 (first_12_chars)
+     Line: Chronicle Two Valver (Stalybridge): WGY (Schenectady). M. J. A.: Moscow (RDW). D. F. W. (Levenshulme): WGY (Schenectady) relaying from Hotel Van Curler, probably received through WB-ZEE (Springfield), 333 m. Hereward: (3) yes, Breslau (children’s hour), (4) no coupon.
+  2. Index 6, similarity: 0.143 (first_8_chars)
+     Line: Ratspew (Cardiff): (1) Presumably CNRV (Vancouver) 291 m., (2) probably Kovno. A. D. (Mentone): Copenhagen. Uno M (Boston): Stuttgart. Nosey: WNAC (Boston). Eppel: Frankfort and Cassel. Neutro (M.C.): (1) presumably Kovno (Lithuania). See this week’s Via Ether, (2) yes, Moscow (RDW), (3) Karlsborg, relaying from Stockholm Concert Hall.
+  3. Index 10, similarity: 0.143 (first_8_chars)
+     Line: would tally with Brünn, (5) yes, Radio Toulouse (Opera La Poupée). J. R. Selkirk (Glasgow): Berlin. W. B. E. S. (Exeter): Berlin (1,300 m.). Fraoch: Moscow (RDW). Govibepa (Shep. Bush): (1) PTT, Paris worked until past midnight, (2) cannot understand W.T., but this was a relay of Basle. Reflex (Croydon): Rome. Mrs. Dog (Weybridge): (3) Naples, (4) Brünn (comedy). The Broken Glass, (5) Zurich.
+
+Merge 3: merged_2 + IMG_2647.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Goobay Vienna (Opera Rheingold). Scatter Brain (Bristol): Wollong (1) Oslo, (2) amateur transmission, (3) Barcelona (EAJ13), (4) no coupon. Jaylee: Gleiwitz or Stettin relaying Berlin. G.G. (Wandsworth): below broadcasting band; cannot trace. Foyal: Moscow (RDW). F. G. Pipe (Bournemouth): Sorö, relaying Copenhagen, Moscow (RDW). Greenburn: Hamburg, relaying flute concert from Hanover. G.H. (Wellington): Sorö, relaying Copenhagen, Slow Motion (N.W. 2): yes, Breslau. Iberica: WJZ (Boundbrook) 454 m. K. H. 1391 (Hull): Hilversum (Staff concert). Topical Budget: Breslau relaying dance music from Berlin. J. (Bradford-Coventry): Moscow (RDW). Granville (Exley): no W.L. indicated, but such a transmission was made by Moscow (RDW). Neutrodyne: Hanover (news); gave new W.T., of British stations. W. A. (Dublin): yes, Moscow (RDW) as Karlsborg broadcast The Magic Flute. The instrument was probably an accordion, largely used in Russia. S. T. 100'W' (1) Sorö, relaying Copenhagen. Ars Longa: tallies with Elberfeld. 3 V. S. (Stone House): HU, cannot trace, 2 WU amateur (Chepstow). Galway Bay: Karls-
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 24, similarity: 0.375 (first_8_chars)
+     Line: Ignoramus (Rostrover): If between Berlin and Daventry, Moscow (RDW), but believe in this instance it was Radio Paris.
+  2. Index 13, similarity: 0.293 (reporter_and_content)
+     Reporter similarity: 0.222
+     Content similarity: 0.400
+     Line: Johnson (Lancaster): (Worcester): Breslau, relaying Berlin.
+  3. Index 4, similarity: 0.286 (first_8_chars)
+     Line: Von (Brighton): (1) Clock struck 8; Soro, relaying Copenhagen.
+
+Merge 4: merged_3 + IMG_2648.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Parallel (Thorpe): WGY
+File B matching line: Parallel (Thorpe): WGY (Schenectady) on 32.79 m., relaying KDKA (East Pittsburgh).
+
+Merge 5: merged_4 + IMG_2649.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Too vague, cannot trace.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 4, similarity: 0.200 (first_12_chars)
+     Line: Coil Pusher: (15) Regret cannot trace, no time given; (16) Stuttgart. Hamilton (S.W. 17): Budapest, relay of Opera House.
+  2. Index 10, similarity: 0.200 (first_12_chars)
+     Line: Invigatera (Newport): Very vague, possibly KDKA (East Pittsburg). E. R. (Dewsbury): Cadiz (EAJ3), now on 344.8 m., relaying Madrid (EAJ7).
+  3. Index 1, similarity: 0.143 (first_8_chars)
+     Line: 13/Raid (Dublin): Berlin. Lidiard (N.W. 10): Berlin. Let-em-sleep (Norwich): No WL given — possibly EAJ5 (Eh, ah, hota, thinko) Seville.
+

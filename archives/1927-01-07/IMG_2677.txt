@@ -1,3 +1,35 @@
-```
-(222.2 m.). Tinker (Leeds): possibly KDKA (E. Pittsburgh service from 309.1 m. Curious (Cradley Heath): Berne relaying sacred service from St. Mary’s Church, Basle. Coil-Pusher: Cadiz (EAJ13) on 344.8 m. Gone (Derby): Elberfeld. Hopeful Bolshie (Birmingham): Bergen. 4 Valve (Grimsby): Moscow (RDW). Nippon (Golders Green): You will find that this was Dresden relaying Leipzig. Erna (Bognor): Of what did the short English announcement consist? No Dutch station on this WL; possibly Madrid (375 m.) giving an English lesson, followed by news. Gee-Wat (NW3): Barcelona (EAJ1). R. P. Reynolds (Croydon): Without estimated WL. cannot trace transmissions. Your aerial coil forms part of aerial circuit, and consequently length of aerial must be taken into consideration. Tables given showing range of WL. covered by a coil are usually based on the standard P.M.G. aerial when shunted by 0.0005 condenser. What you term natural W.L. of coil would depend on length of aerial. Guess-Guy: Eiffel Tower relaying PTT, Paris. Oliver One-Valve: Breslau. Indigrah (West Bridgford): Cannot trace; evidently an amateur transmission. O-V-1 (E. 6): Elberfeld (468.8 m.). Igranic Seven: Certainly Spanish by call-sign (hota), Madrid EAJ1. J. H. M. O. (County Waterford): (2) Uppsalka is a very small station, but if WL. is correct, can only say that programme tallies as to time and dance music: (1) surely Barcelona (EAJ1). Ernest E. S. Williams (Wokingham): 2GG, amateur (Newbury); 4 O.K. is not a call sign. F. Parker (Berwick-on-Tweed): From other listeners, this transmission was confirmed as given out by Leningrad on 1,165 m. We cannot confirm whether it was the person in question. George (Eastbourne): Coupons not enclosed. H. G. P. (Portsmouth): Bordeaux (Lafayette) supposed to be on 396 m. Drahtlos (Glasgow): Stettin relaying Berlin. Tuned Anode 3 (Hull): Bradford (Clifford Essex Dance Band). H. F. 42: Leningrad (1,165 m.). Teddy Bear (Castleford): Possibly WLW (Cincinnati-Ohio) 5 kw. (422.3 m.). W. G. L. (N. 10): (1) Although not advertised in programme, apparently Zurich relaying Berne on 492 m. (Berne relayed a service from the French Church in that city) : (2) Berlin from studio. H. A. H. (Devonport): Details of transmission are not given in programme, but this appears to tally with Petit Parisien, Paris. M.Sc. (Leeds): (2) Karlsborg relaying Stockholm) (Band of the Vaxholm Grenadiers); (3) EAJ3, Cadiz (344.8). Super 8 (Sth. Croydon): Cannot trace unless estimated wave-length of transmission is given.
-```
+ces), Barcelona (EAJ1).
+
+R. P. Reynolds (Croydon): Without estimated WL, cannot trace transmissions. Your aerial coil forms part of aerial circuit, and consequently length of aerial must be taken into consideration. Tables given showing range of WL, covered by a coil are usually based on the standard P.M.G. aerial when shunted by 0.0005 condenser. What you term natural WL, of coil would depend on length of aerial. Guess-Guy: Eiffel Tower relaying PTT, Paris.
+
+Oliver One-Valve-Indigraph (West Bridgford): Cannot trace; evidently an amateur transmission.
+
+O-V-1 (E 6): Elberfeld (468.8 m.).
+
+Igranic Seven: Certainly Spanish by call-sign (hota); Madrid EAJ4.
+
+J. H. M. C. (County Waterford): (2) Uppsala is a very small station, but WL is correct, can only say that the programme tallies as to time and dance music. (1) surely Barcelona (EAJ1).
+
+Ernest E. S. Williams (Wokingham): 2GG, amateur (Newbury); 4 O.K. is not a call sign.
+
+F. Parker (Berwick-on-Tweed): From other listeners, this transmission was confirmed as given out by Leningrad on 1,165 m. We cannot confirm whether it was the person in question.
+
+George (Eastbourne): Coupons not enclosed.
+
+H. C. P. (Portsmouth): Bordeaux (Lafayette) supposed to be on 396 m.
+
+Drahtlos (Glasgow): Stettin relaying Berlin.
+
+Tuned Anode 3 (Hull): Bradford (Clifford Essex Dance Band).
+
+H. F. 42: Leningrad (1,165 m.).
+
+Teddy Bear (Castleford): Possibly WLW (Cincinnati-Ohio) 5 kw. (422.3 m.).
+
+W. G. L. (N. 10): (1) Although not advertised in programme, apparently Zurich relaying Berne on 492 m. (Berne relayed a service from the French Church in that city). (2) Berlin from studio.
+
+H. A. H. (Devonport): Details of transmission are not given in programme, but this appears to tally with Petit Parisien, Paris.
+
+M.Sc. (Leeds): (2) Karlsborg relaying Stockholm (Band of the Vaxholm Grenadiers). (3) EAJ3, Cadiz (344.8).
+
+Super 8 (Sth. Croydon): Cannot trace unless estimated wave-length of transmission is given.

@@ -1,162 +1,186 @@
-H. Irwin (Cardiff): Yes, WBZ (Springfield 383 m.), frequently received on this side.  
-W. Rodwell (Aylesbury): Leipzig (365.8 m.).  
-M. E. W. (Cambridge): (1) Petit Parisien relaying KDKA (East. Pittsburg); (2) Klagenfurt testing; (3) Innsbruck testing.  
-F. P. Dunstan (S.E. 6): (1) Muenster; (2) no coupon.  
-A. Whitelock (Dewsbury): Petit Parisien relay of KDKA (E. Pittsburg).  
-Rex Max (Dublin): Leningrad on 1,100 m.; Moscow (RDW) on 1,450 m., do not know of a Russian transmission on 1,535 m.  
-4 D.E.'s (Portsmouth): Frankfort-on-Main relaying Cassel (Evangelist Church, Lutheran Service).  
-Master Valve (Hounslow): Stuttgart.  
-Electroscope (S.W. 18): KDKA (E. Pittsburg).  
-S.T. Twin (Hull): Elberfeld relaying Muenster.  
-F. L. B. C. (Chatham): Yes, probably Langenberg testing.  
-Volts (St. Albans): Paris PTT relayed by Eiffel Tower.  
-2-Valver (N. 12): (A) W.L. wrong, Prague on 348.9 m.; (B) Frankfort-on-Main (428 m.).  
-L. N. T. C. (Sandown): WBZ, Springfield, U.S.A.  
-Sparkels (S.W. 11): (1) Berlin; (2) Elberfeld relaying Humperdinck’s Haensel and Gretel from Municipal Theatre, Dortmund; (3) obviously Berlin again; (4) probably Moscow, 450 m.; (5) yes, Frankfort from the Church of the Three Kings; (6) Berne; (7) Hamburg (Schumann’s Overture to Julius Caesar); (8) Stuttgart (Vartzerkonz from string concert).  
-K. A. B. (Dorking): Radio-Paris.  
-O. F. (Newton Abbot): (B) WGY (Schenectady) on 379 m.; (A) Frankfort-on-Main, via Cassel.  
-Dinks (Mutley): Barcelona (EAJ1), possibly received through Seville or other Union-Radio station.  
-Gadget (Birmingham): Radio L.L. (Paris).  
-Coil-Pusher: (19) Seville (EAJ17) relaying Madrid (EAJ7); (20) cannot confirm, possibly Bilbao (EAJ9).  
-J. J. (Midhurst): Yes, DX reception is possible on one valve with reaction, but date too vague to identify transmitter.  
-Alpha (Llanelly): Cannot trace from your condenser readings; (B) no coupon, but apparently U.S.A. station.  
-Marconi (Preston): Falun relaying Stockholm (Puccini’s La Bohème).  
-MCM (Beckenham): a Swedish relay of Stockholm, probably Malmø.  
-Reflex Teddy (Nottingham): (1) Madrid (EAJ7), Children’s Hour; (2) no coupon.  
-Reinartz (Harrogate): W.L. too indefinite; cannot trace.  
-Home-made (I.O.W.): (1) Berlin; (2) Stuttgart (379.7 m.); (3) cannot understand condenser settings, as this was Rome (422.6 m.).  
-K.D. 2 Valves (Norwich): Your details are too vague as regards time, if 12.0 a.m. when station closed down, Madrid (EAJ7).  
-B. T. H. V. (Chorlton): Cannot confirm but probably Nijni Novgorod.  
-Four-Valver (Skewen): Karlsborg relaying Stockholm (English lesson).  
-Flactophone Four (Bradford): Prague.  
-Retta (Syston): San Sebastian.  
-Harry Butler Watkins (Nelson): Opera advertised by Vienna was Die Frau in Hermelin (The Lady of the Rose); probably a substituted programme.  
-J. W. (Scunthorpe): Prague.  
-W. D. B. (Watford): (1) Either Swansea or Dundee (gramophone records); (2) Leipzig; (3) Elberfeld relaying Dortmund; (4) Gothenburg relaying Stockholm (The Gipsy Baron); (5) Too vague.  
-Chas. G. Smith (Abbey Town): Langenberg testing.  
-Nob (Little Ilford): WGY (Schenectady).  
-Folkestone: San Sebastian.  
-A. E. (Bacup): Leningrad (1,100 m.).  
-W. O. H. (Dovercourt): Moscow (RDW).  
-Crofton (S.E. 4): Leipzig.  
-Platen (Bristol): Frankfort-on-Main (Song to lute accompaniment).  
-Please-tell-me (Kent): Petit Parisien, Paris.  
-D. E. G. (Margate): Karlsborg relaying Malmö (Cabaret).  
-F. C. G. H. (Moseley): Elberfeld relaying Dortmund (opera Haensel and Gretel).  
-Cork-Tip: Eiffel Tower relaying PTT, Paris.  
-Stroud: Much too vague, cannot trace.  
-Allah Wallah (Batley): Madrid (EAJ7).  
-BM/WSPA: Yes, Geneva (from Victoria Hall).  
-Paton (Upminster): Radio-Toulouse (389 m).  
-Q. R. A. (Southsea): Yes, Zurich.  
-Yelper (Wales): Elberfeld relaying Dortmund (Opera: Haensel and Gretel).  
-Houghton (Goodmayes): Prague (from National Theatre).  
-W. G. A. P. (St. Albans): Regret cannot trace; details too vague.  
-Nemo (W. 8): A relay of Stockholm.  
-Four Valve (Herts): (1) Yes, Prague (from National Theatre); (2) Frankfort-on-Main relaying from the church of the Three Kings; (3) Also Frankfort; (4) Estimated W.L. too vague.  
-Currants (East Ham): Gothenburg relaying Stockholm.  
-BM/BRBM: (1) No WL. given; cannot possibly trace; Opera was I Pagliacci.; (2) No W.L. given; obviously a German station, possibly Hamburg; hymn was "Deutschland ueber Alles."  
-Roamer (Southampton): (1) WBZ (Springfield); (2) Petit Parisien, Paris relaying KDKA, E. Pittsburg, U.S.A.  
-Neutrodyne (Dorking): (1) WBZ (Springfield) direct; (2) Yes, possibly Naples.  
-Gracias: Marseilles (PTT).  
-W. H. S. 103 (Birmingham): Yes, WGY, Schenectady.  
-WGH (Reading): (1) Leipzig (365.8 m.); (2) Probably Bilbao (EAJ9).  
-Straight-Line (Bristol): (1) Bergen gave an English lesson at 9.15 p.m. on Dec. 17; (2) Langenburg testing; (3) Paris (PTT), relayed by Eiffel Tower on 2,650 m.  
-Vander (Brussels): Rome, most probably an outside broadcast of a special event; not in programmes.  
-F. Lowater (Nottingham): Leipzig.  
-Wireless Willie (1): Seville (EAJ17); (2) KDKA, East Pittsburg.  
-Elmer (Lincoln): Berlin (1,300 m.).  
-Ajax (E.8): San Sebastian (EAJ8) or Cadiz (EAJ3).  
-H. W. Norman (Weymouth): No time given.  
-Tappet (Sheerness): Elberfeld relaying Dortmund.  
-C. L. A. M. (Bristol): WBZ (Springfield).  
-A. G. Hanwell (W.7): Karlsborg relaying Stockholm.  
-13 D.D (Glasgow S.1): Naples.  
-M. A. W. (Bermondsey): Leipzig.  
-E. J. Stone: Apparently Rugby testing.  
-Hopeful: No, more probably Luxembourg.  
-Erin (Slough): San Sebastian (EAJ8).  
-J. L. (Gorebridge): Prague (often Granada and San Sebastian).  
-G. Hawell (Warlingham): Graz.  
-Tiddleywinks (Staines): (1) No date, but Berne; (2) PTT, Toulouse.  
-C. R. V. (Dulwich): Impossible to trace if you do not give estimated wave-length.  
-F. W. P. (Luton): Regret cannot trace; item cannot be found in any prog.  
-Molar (Southport): (a) Possibly WTAM (Cleveland) on 389.4 m.; (b) No coupon sent.  
-Maudie (Coventry): Gothenburg relaying Stockholm (Opera: Puccini’s Boheme).  
-Marconi 4: (1) Berlin; (2) Barcelona (EAJ1).  
-Wellington: Berlin, The Beautiful Helena (Offenbach).  
-F. S. G. (Eastbourne): Probably Madrid (EAJ4 or EAJ7), as no other European transmission was advertised for that time.  
-Super-Het (Dublin): Cannot credit Lima, but time would tally with Madrid (EAJ7), probably slightly off its wl.  
-C. B. Alison (Aldershot): Tallies with Milan.  
-Ulster: Elberfeld relaying Humperdinck's opera Haensel and Gretel from Dortmund. This was also relayed to Muenster.  
-B. B. B. (W.8): Hanover (297 m.) from Café Continental.  
-Abbetyonian (Cumberland): Possibly WJAZ (Mount Prospect, Ill., on 322.4 m.).  
-3Valve (Saltburn): Vienna; (call, phonetically, ‘Rah-dee-o Yeen’).  
-J. L. (Swansea): San Sebastian.  
-F. H. (Margate): This was a 2LO transmission (relayed to all B.B.C. stations). An imitation of an entertainment in U.S.A. style.  
-S. T. (Cowley): Radio-Paris. After news transmission at 10.30 a.m., this station gives a short concert, lasting about 15 minutes, daily.  
-D. X. X. (Elveden): Possibly Oslo testing on 370 m.  
-Novice (Norwich): (4) Kiel relaying Hamburg; (5) Cadiz (EAJ3); (6) Again Kiel relaying Hamburg.  
-H. A. P. (Bridlington): Frankfort-on-Main relaying comic opera La Dame Blanche from the State Theatre, Cassel.  
-Pleated Dia (Aintree): Bilbao (EAJ9).  
-Devonian: (8a) Leningrad. Yes, we will accept your coupons.  
-Mustard Club (Hailsham): (1) Dortmund; (2) Cassel.  
-W. H. E. (Milford Haven): Karlsborg relaying Stockholm.  
-Mix (Finchley): Your good wishes are reciprocated. (1) Probably Karlsborg relaying Stockholm; earlier in evening Daventry broadcast a Vaughan-Williams concert; (3-4-5-6) No coupons sent.  
-Grohman: (1) Brussels; (2) Bilbao (EAJ11).  
-Molly: (1) Naples; (2) Leipzig.  
-Ingledew (Middlesbrough): Brussels.  
-J. S. S. (Dull): Berlin, regret cannot give the title of any one particular item, as do not know which portion of the programme you heard at the time.  
-T. Walver (Calver): Not Rome, but probably Seville (EAJ5).  
-H. M. S. (Chester): (1) Possibly Helsingfors, but cannot confirm; (2) Freiburg relaying Stuttgart; (3) Zurich on 492 m. on 430 w.  
-E. M. (Brixham): (1) Can you confirm my reception on 43 w?  
-E. H. Wake (Gargrave): Vienna (517 m).  
-R. F. M. (Thornton Heath): Elberfeld relaying Dortmund (Opera: Haensel and Gretel).  
-Coil Pusher: (14) Copenhagen; (21) Elberfeld Talk: "Nations and their Music," illustrated by gramophone records.  
-Morton (St. Austell): Elberfeld.  
-George (New Malden): No, Oslo.  
-Roy (Hornsey): (1) Bremen relaying Hamburg; (2) Bilbao (EAJ9); (3) No coupon sent.  
-Jones (Goole): No coupons sent. In any case, cannot trace by condenser settings.  
-A. E. (Ealing): Madrid (EAJ7).  
-SF-11a (Edinburgh): PTT, Paris.  
-Snowstorm (Murtle): (1) Petit Parisien (Paris); (2) Brussels.  
-Listener (Birmingham): Impossible to trace if W.L. not estimated.  
-Super-Het 8 (Portland): Cannot trace this transmission. Was not this an amateur?  
-Narran (Grimsby): (A) PTT, Paris, relayed by Eiffel Tower; (B) Item not advertised, possibly Leipzig.  
-Barrovain (Cleethorpes): Zurich.  
-A. B. C. (Leamington): Elberfeld relaying Dortmund (Opera: Haensel and Gretel).  
-Walsingham (Cromer): (1) Vienna-Rosenhuegel, the high-power station. Graz relays the same programmes, but on occasions Vienna relays entertainments from Graz to both transmitters. (2) We refer you to World-Radio, December 24, page 704, Short-wave Broadcasting.  
-Methlick (Aberdeenshire): (1) Much too vague. Cannot possibly trace transmission without estimated wave.  
-Proteus: (1) Karlsborg relaying Stockholm; (2) Basle relaying Berne; (3) too vague, cannot trace; (4) Aberdeen taking London’s relay of Hilversum.  
-2VH7 38: Milan; (39) Yes, Paris, PTT, on 458 m.; (40) Brussels, relaying an operetta, Les Saltimbanques, from Scala Theatre; (41) probably KGO (Oaklands, Cal.); (42) possibly KGW (Portland, Ore.); (44) WJZ (Boundbrook); (45) WGY (Schenectady); (46) Madrid (EAJ4 or 7); (43) cannot trace; (no number) Leipzig.  
-Bonzo (Wallasey): Too vague, possibly Langenberg testing.  
-Dee Owe (Jersey): Vienna.  
-Dex (Grimsby): If mid-day, Hamburg.  
-J. K. D. (Muswell Hill): Cannot trace, as it is seldom these special relays are mentioned in programmes; but from description given would say this was a Spanish station.  
-Froth-Blower (Hunstanton): Yes, a WJZ (Boundbrook) transmission possibly relayed by another U.S.A. station, but estimated W.L. is too vague to allow of identification.  
-Straight-Three (Wisbech): Radio-Toulouse.  
-Baby: Too vague; cannot trace.  
-Low Waves: Possibly WBCD (Zion, Ill.), on 344.6 m. (5 kw.), but cannot confirm.  
-R. C. H. (Edinburgh): (1) Kiel relaying Hanover (Cafe Continental); (2) Swedish relay of Stockholm, either Malmo or Norrkoping; most probably the former station.  
-Howman (Norwich): Letter received, but no enquiries enclosed.  
-C. R. B. (Worcester): (1) Moscow (RDW); (2) same station; (3) Elberfeld.  
-J. W. L. P. Z.: Zurich.  
-Curious (St. Ives): Cannot trace transmission from your condenser settings.  
-Yarn (Halifax): (1) somewhat vague, but probably Basle relaying Berne; (2) Lausanne; (3) Stettin relaying Berlin; (4) Basle; (5) Sorö relaying Copenhagen; (6) Leipzig; (7) Lausanne.  
-Reflex (Norwich): Madrid (EAJ4) on 375 m. or EAJ7 in 373 m.  
-If You Please: (1) Elberfeld (Children’s Hour); (2-3) no coupons sent.  
-T. D. (Loughboro'): No, Madrid (EAJ7) relaying opera from Barcelona (EAJ1) (Teatro del Liceo).  
-Skewenite: Hamburg (gramophone records).  
-F.C.S. 3 (Nailsworth): Prague relaying from the National Theatre.  
-C. H. D. (W 6): Leipzig.  
-William 1 Valve: (1) Union - Radio stations - EAJ1, 4, 3, 5, and 7. EAJ4 is also testing on 350 m.; (2) Barcelona (EAJ1); (3) Cadiz (EAJ3) on 344.8 sometimes relays EAJ1; (3) possibly Numberg relaying Munich.  
-115 (Glasgow): No coupons sent.  
-One-Valve (Offenham): Your estimation of W.L. is wrong; dance music, in this instance, was from Koenigswusterhausen (1,300 m.).  
-Puzzled (Bolton): Cannot identify transmissions unless you give some indication of W.L., but from the’ details stated should say it was a German relay station.  
-Naturwissenschaft (Leicester): No. call was “Radio Sevillano” (Seville EAJ17) on 300 m.  
-Avelaneda (Southport): Yes, this was a transmission by Rome, but probably relayed by some foreign station.  
-Chin-Chin-Chow (Treorchy): Apparently two amateur experimenters.  
-Poyser (Derby): You must give some estimation of WL. to assist in identification of transmission. In this case, however, we can definitely state that you heard Leipzig.  
-Longueville (Mallow, Co. Cork): Prague relaying Boheme from National Theatre.  
-P. M. (Golders Green): (1) Prague (relay from National Theatre); (2, 3, 4) no coupons sent.  
-MacGregor (York): Prague relaying opera, La Boheme,
+H. Irwin (Cardiff): Yes, WBZ (Springfield 383 m.), frequently received on this side.
+W. Rodwell (Aylesbury): Leipzig (365.8 m.).
+M. E. W. (Cambridge): (1) Petit Parisien relaying KDKA (East. Pittsburg); (2) Klagenfurt testing; (3) Innsbruck testing.
+F. P. Dunstan (S.E. 6): (1) Muenster; (2) no coupon.
+A. Whitelock (Dewsbury): Petit Parisien relay of KDKA (E. Pittsburg).
+Rex Max (Dublin): Leningrad on 1,100 m.; Moscow (RDW) on 1,450 m., do not know of a Russian transmission on 1,535 m.
+4 D.E.'s (Portsmouth): Frankfort-on-Main relaying Cassel (Evangelist Church, Lutheran Service).
+Master Valve (Hounslow): Stuttgart.
+Electroscope (S.W. 18): KDKA (E. Pittsburg).
+S.T. Twin (Hull): Elberfeld relaying Muenster.
+F. L. B. C. (Chatham): Yes, probably Langenberg testing.
+Volts (St. Albans): Paris PTT relayed by Eiffel Tower.
+2-Valver (N. 12): (A) W.L. wrong , Prague on 348.9 m.; (B) Frankfort-on-Main (428 m.).
+L. N. T. C. (Sandown): WBZ, Springfield, U.S.A.
+Sparkels (S.W. 11): (1) Berlin; (2) Elberfeld relaying Humperdinck’s Haensel and Gretel from Municipal Theatre, Dortmund; (3) obviously Berlin again; (4) probably Moscow, 450 m.; (5) yes, Frankfort from the Church of the Three Kings; (6) Berne; (7) Hamburg (Schumann’s Overture to Julius Caesar); (8) Stuttgart (Vartzerkonz from string concert).
+K. A. B. (Dorking): Radio-Paris.
+O. F. (Newton Abbot): (B) WGY (Schenectady) on 379 m.; (A) Frankfort-on-Main, via Cassel.
+Dinks (Mutley): Barcelona (EAJ1), possibly received through Seville or other Union-Radio station.
+Gadget (Birmingham): Radio L.L. (Paris).
+Coil-Pusher: (19) Seville (EAJ17) relaying Madrid (EAJ7); (20) cannot confirm, possibly Bilbao (EAJ9).
+J. J. (Midhurst): Yes, DX reception is possible on one valve with reaction, but date too vague to identify transmitter.
+Alpha (Llanelly): Cannot trace from your condenser readings; (B) no coupon, but apparently U.S.A. station.
+Marconi (Preston): Falun relaying Stockholm (Puccini’s La Bohème).
+MCM (Beckenham): a Swedish relay of Stockholm, probably Malmø.
+Reflex Teddy (Nottingham): (1) Madrid (EAJ7), Children’s Hour; (2) no coupon.
+Reinartz (Harrogate): W.L. too indefinite; cannot trace.
+Home-made (I.O.W.): (1) Berlin; (2) Stuttgart (379.7 m.); (3) cannot understand condenser settings, as this was Rome (422.6 m.).
+K.D. 2 Valves (Norwich): Your details are too vague as regards time, if 12.0 a.m. when station closed down, Madrid (EAJ7).
+B. T. H. V. (Chorlton): Cannot confirm but probably Nijn Novgorod.
+Four-Valver (Skewen): Karlsborg relaying Stockholm (English lesson).
+Flactophone Four (Bradford): Prague ("Allo! Praha").
+Retta (Syston): San Sebastian.
+Harry Butler Watkins (Nelson): Opera advertised by Vienna was Die Frau in Hermelin (The Lady of the Rose); probably a substituted programme.
+J. W. (Scunthorpe): Prague.
+W. D. B. (Watford): (1) Either Swansea or Dundee (gramophone records); (2) Leipzig; (3) Elberfeld relaying Dortmund; (4) Gothenburg relaying Stockholm (The Gipsy Baron); (5) Too vague.
+Chas. G. Smith (Abbey Town): Langenberg testing.
+Nob (Little Ilford): WGY (Schenectady).
+Folkestone: San Sebastian.
+A. E. (Bacup): Leningrad (1,100 m.).
+W. O. H. (Dovercourt): Moscow (RDW).
+Crofton (S.E. 4): Leipzig.
+Platen (Bristol): Frankfort-on-Main (Song to lute accompaniment).
+Please-tell-me (Kent): Petit Parisien, Paris.
+D. E. G. (Margate): Karlsborg relaying Malmö (Cabaret).
+F. C. G. H. (Moseley): Elberfeld relaying Dortmund (opera Haensel and Gretel).
+Cork-Tip: Eiffel Tower relaying PTT, Paris.
+Stroud: Much too vague, cannot trace.
+Allah Wallah (Batley): Madrid (EAJ7).
+BM/WSPA: Yes, Geneva (from Victoria Hall).
+Paton (Upminster): Radio-Toulouse (389 m).
+Q. R. A. (Southsea): Yes, Zurich.
+Yelper (Wales): Elberfeld relaying Dortmund (Opera: Haensel and Gretel).
+Houghton (Goodmayes): Prague (from National Theatre).
+W. G. A. P. (St. Albans): Regret cannot trace; details too vague.
+Nemo (W. 8): A relay of Stockholm.
+Four Valve (Herts): (1) Yes, Prague (from National Theatre); (2) Frankfort-on-Main relaying from the church of the Three Kings; (3) Also Frankfort; (4) Estimated W.L. too vague.
+Currants (East Ham): Gothenburg relaying Stockholm.
+BM/BRBM: (1) No WL. given; cannot possibly trace; Opera was I Pagliacci.; (2) No W.L. given; obviously a German station, possibly Hamburg; hymn was "Deutschland ueber Alles."
+Roamer (Southampton): (1) WBZ (Springfield); (2) Petit Parisien, Paris relaying KDKA, E. Pittsburg, U.S.A.
+Neutrodyne (Dorking): (1) WBZ (Springfield) direct.; (2) Yes, possibly Naples.
+Gracias: Marseilles (PTT).
+W. H. S. 103 (Birmingham): Yes, WGY, Schenectady.
+WGH (Reading): (1) Leipzig (365.8 m.); (2) Probably Bilbao (EAJ9).
+Straight-Line (Bristol): (1) Bergen gave an English lesson at 9.15 p.m. on Dec. 17; (2) Langenburg testing.
+J: Paris (FPTT), relayed by Eiffel Tower on 2,650 m.
+Vander (Brussels): Yes, but presumably an outside broadcast of a special event not in programmes.
+F. Lowater (Nottingham): Leipzig.
+Wireless Willie: (1) Seville (EAJ17). (2) KDKA, East Pittsburg.
+Elmer (Lincoln): Berlin (1,300 m.).
+Ajax (E.8): San Sebastian (EAJ8) or Cadiz (EAJ3).
+H. W. Norman (Weymouth): No time given.
+Tappet (Sheerness): Elberfeld relaying Dortmund.
+C. L. A. M. (Bristol): WBZ (Springfield).
+A. G. Hanwell (W.7): Karlsborg relaying Stockholm.
+13 D.D (Glasgow S.1): Naples.
+M. A. W. (Bermondsey): Leipzig.
+E. J. Stone: Apparently Rugby testing.
+Hopeful: No, more probably Luxembourg.
+Erin (Slough): San Sebastian (EAJ8).
+J. L. (Gorebridge): Prague (often Granada and San Sebastian).
+G. Hawell (Warlingham): Graz.
+Tiddleywinks (Staines): (1) No date, but Berne; (2) PTT, Toulouse.
+C. R. V. (Dulwich): Impossible to trace if you do not give estimated wave-length.
+F. W. P. (Luton): Regret cannot trace; item cannot be found in any prog.
+Molar (Southport): (a) Possibly WTAM (Cleveland) on 389.4 m. (b) No coupon sent.
+Maudie (Coventry): Gothenburg relaying Stockholm (Opera: Puccini’s Boheme).
+Marconi 4: (1) Berlin; (2) Barcelona (EAJ1).
+Wellington: Berlin, The Beautiful Helena (Offenbach).
+F. S. G. (Eastbourne): Probably Madrid (EAJ4 or EAJ7), as no other European transmission was advertised for that time.
+Super-Het (Dublin): Cannot credit Lima, but time would tally with Madrid (EAJ7), probably slightly off its wl.
+C. B. Alison (Aldershot): Tallies with Milan.
+Ulster: Elberfeld relaying Humperdinck's opera Haensel and Gretel from Dortmund. This was also relayed to Muenster.
+B. B. B. (W.8): Hanover (297 m.) from Café Continental.
+Abbetyonian (Cumberland): Possibly WJAZ (Mount Prospect, Ill., on 322.4 m.).
+3Valve (Saltburn): Vienna; (call, phonetically, ‘Rah-dee-o Yeen’).
+J. L. (Swansea): San Sebastian.
+F. H. (Margate): This was a 2LO transmission (relayed to all B.B.C. stations). An imitation of an entertainment in U.S.A. style.
+S. T. (Cowley): Radio-Paris. After news transmission at 10.30 a.m., this station gives a short concert, lasting about 15 minutes, daily.
+D. X. X. (Elveden): Possibly Oslo testing on 370 m.
+Novice (Norwich): (4) Kiel relaying Hamburg; (5) Cadiz (EAJ3); (6) Again Kiel relaying Hamburg.
+H. A. P. (Bridlington): Frankfort-on-Main relaying comic opera La Dame Blanche from the State Theatre, Cassel.
+Pleated Dia (Aintree): Bilbao (EAJ9).
+Devonian: (8a) Leningrad. Yes, we will accept your coupons.
+Mustard Club (Hailsham): (1) Dortmund; (2) Cassel.
+W. H. E. (Milford Haven): Karlsborg relaying Stockholm.
+Mix (Finchley): Your good wishes are reciprocated. (1) Probably Karlsborg relaying Stockholm; earlier in evening Daventry broadcast a Vaughan-Williams concert; (3-4-5-6) No coupons sent.
+Grohman: (1) Brussels; (2) Bilbao (EAJ11).
+Molly: (1) Naples; (2) Leipzig.
+Ingledew (Middlesbrough): Brussels.
+J. S. S. (Dull): Berlin, regret cannot give the title of any one particular item, as do not know which portion of the programme you heard at the time.
+T. Walver (Calver): Not Rome, but probably Seville (EAJ5).
+H. M. S. (Chester): (1) Possibly Helsingfors, but cannot confirm; (2) Freiburg relaying Stuttgart; (3) Zurich on 492 m. on 430 w.
+E. M. (Brixham): (1) Can you confirm my reception on 43 w?
+E. H. Wake (Gargrave): Vienna (517 m).
+R. F. M. (Thornton Heath): Elberfeld relaying Dortmund (Opera: Haensel and Gretel).
+Coil Pusher: (14) Copenhagen; (21) Elberfeld Talk: "Nations and their Music," illustrated by gramophone records.
+Morton (St. Austell): Elberfeld.
+George (New Malden): No, Oslo.
+Roy (Hornsey): (1) Bremen relaying Hamburg; (2) Bilbao (EAJ9); (3) No coupon sent.
+Jones (Goole): No coupons sent. In any case, cannot trace by condenser settings.
+A. E. (Ealing): Madrid (EAJ7).
+SF-11a (Edinburgh): PTT, Paris.
+Snowstorm (Murtle): (1) Petit Parisien (Paris); (2) Brussels.
+Listener (Birmingham): Impossible to trace if W.L. not estimated.
+Super-Het 8 (Portland): Cannot trace this transmission. Was not this an amateur?
+Narran (Grimsby): (A) PTT, Paris, relayed by Eiffel Tower; (B) Item not advertised, possibly Leipzig.
+Barrovain (Cleethorpes): Zurich.
+A. B. C. (Leamington): Elberfeld relaying Dortmund (Opera: Haensel and Gretel).
+Walsingham (Cromer): (1) Vienna-Rosenhuegel, the high-power station. Graz relays the same programmes, but on occasions Vienna relays entertainments from Graz to both transmitters. (2) We refer you to World-Radio, December 24, page 704, Short-wave Broadcasting.
+Methlick (Aberdeenshire): (1) Much too vague. Cannot possibly trace transmission without estimated wave.
+Methlick (Aberdeenshire): No coupon sent. Same observation applies, but to Ealing.
+Methlick (Aberdeenshire): (1) Mitch too vague. Cannot possibly trace transmission without estimated W.L.; (2) no coupon sent. Same observation applies, but it was a German station.
+Proteus: (1) Karlsborg relaying Stockholm; (2) Basle relaying Berne; (3) too vague, cannot trace; (4) Aberdeen taking London’s relay of Hilversum.
+2VH7 38: Milan; (39) Yes, Paris, PTT, on 458 m.; (40) Brussels, relaying an operetta, Les Saltimbanques, from Scala Theatre; (41) probably KGO (Oaklands, Cal.); (42) possibly KGW (Portland, Ore.); (44) WJZ (Boundbrook); (45) WGY (Schenectady); (46) Madrid (EAJ4 or 7); (43) cannot trace; (no number) Leipzig.
+Bonzo (Wallasey): Too vague, possibly Langenberg testing.
+Dee Owe (Jersey): Vienna.
+Dex (Grimsby): If mid-day, Hamburg.
+J. K. D. (Muswell Hill): Cannot trace, as it is seldom these special relays are mentioned in programmes; but from description given would say this was a Spanish station.
+Froth-Blower (Hunstanton): Yes, a WJZ (Boundbrook) transmission possibly relayed by another U.S.A. station, but estimated W.L. is too good to allow of identification.
+Straight-Three (Wisbech): Radio-Toulouse.
+Baby: Too vague; cannot trace.
+Low Waves: Possibly WBCD (Zion, Ill.), on 344.6 m. (5 kw.), but cannot confirm.
+R. C. H. (Edinburgh): (1) Kiel relaying Hanover (Cafe Continental); (2) Swedish relay of Stockholm, either Malmo or Norrkoping; most probably the former station.
+C. R. B. (Norwich): Letter received, but no enquiries enclosed.
+C. R. B. (Worcester): (1) Moscow (RDW); (2), same station; (3) Elberfeld.
+J. W. L. P. Z.: Zurich.
+Curious (St. Ives): Cannot trace transmission from your condenser settings.
+Yarn (Halifax): (1) somewhat vague, but probably Basle relaying Berne; (2) Lausanne; (3) Stettin relaying Berlin; (4) Basle; (5) Sorö relaying Copenhagen; (6) Leipzig; (7) Lausanne.
+Reflex (Norwich): Madrid (EAJ4) on 375 m. or EAJ7 in 373 m.
+If You Please: (1) Elberfeld (Children’s Hour); (2-3) no coupons sent.
+T. D. (Loughboro'): No, Madrid (EAJ7) relaying opera from Barcelona (EAJ1) (Teatro del Liceo).
+Skewenite: Hamburg (gramophone records).
+F.C.S. 3 (Nailsworth): Prague relaying from the National Theatre.
+C. H. D. (W 6): Leipzig.
+William 1 Valve: (1) Union - Radio stations - EAJ1, 4, 3, 5, and 7. EAJ4 is also testing on 350 m.; (2) Barcelona (EAJ1); (3) Cadiz (EAJ3) on 344.8 sometimes relays EAJ1; (3) possibly Numberg relaying Munich.
+115 (Glasgow): No coupons sent.
+One-Valve (Offenham): Your estimation of W.L. is wrong; dance music, in this instance, was from Koenigswusterhausen (1,300 m.).
+Puzzled (Bolton): Cannot identify transmissions unless you give some indication of W.L., but from the’ details stated should say it was a German relay station.
+Natwurinessaith (Leicester): Cannot tell as Leipzig transmission continues. Cannot trace, as it is seldom these special relays are mentioned in programmes; but from description given would say this was a Spanish station.
+Froth-Blower (Hunstanton): Yes, a WJZ (Boundbrook) transmission possibly relayed by another U.S.A. station, but estimated WL. is too vague to allow of identification.
+Straight-Three (Wisbech): Radio-Toulouse.
+Baby: Too vague; cannot trace.
+Low Waves: Possibly WBCD (Zion, Ill.) on 344.6 m. (5 kw.), but cannot confirm.
+R. C. H. (Edinburgh): (1) Kiel relaying Hanover (Café Continental); (2) Swedish relay of Stockholm, either Malmö or Norrköping - most probably the former station.
+Howman (Norwich): Letter received, but no enquiries enclosed.
+C. R. B. (Worcester): (1) Moscow (RDW); (2) same station; (3) Elberfeld.
+J. W. L. P. Z.: Zurich.
+Curious (St. Ives): Cannot trace transmission from your condenser settings.
+Yarn (Halifax): (1) somewhat vague, but probably Basle relaying Berne; (2) Lausanne; (3) Stettin relaying Berlin; (4) Basle; (5) Sorö relaying Copenhagen; (6) Leipzig; (7) Lausanne.
+Reflex (Norwich): Madrid (EAJ4) on 375 m. or EAJ7 in 373 m.
+If You Please: (1) Elberfeld (Children’s Hour); (2-3-4) no coupons sent.
+D. D. (Loughboro): No, Madrid (EAJ7) relaying opera from Barcelona (EAJ1) (Teatro del Liceo).
+Skewenite: Hamburg (gramophone records).
+F. C. S. 3 (Nailsworth): Prague relaying from the National Theatre.
+C. H. D. W. (6): Leipzig.
+William 1 Valve: (1) Union - Radio Straasburg relaying Prague Boheme from National Theatre. (A. J.): Monte Carlo; (2) several Madrid stations, EAJ1, 4, 5, 6, and 7. EAJ4 is also testing on 350 m.; (2) Barcelona (EAJ1). Cadiz (EAJ3) on 344.8 sometimes relays EAJ1; (3) possibly Nuremberg relaying Munich.
+115 (Glasgow): No coupons sent.
+One-Valve (Offenham): Your estimation of WL. is wrong; dance music, in this instance, was from Koenigswusterhausen (1,300 m.).
+Puzzled (Bolton): Cannot identify transmissions unless you give some estimation of WL., but from other details stated should say that this was Leipzig.
+Naturwissenschaft (Leicester): No. call was “Radio Sevillano” (Seville EAJ17) on 300 m.
+Avelaneda (Southport): Yes, this was a transmission by Rome, but probably relayed by some foreign station.
+Chin-Chin-Chow (Treorchy): Apparently two amateur experimenters.
+Poyser (Derby): You must give some estimation of WL. to assist in identification of transmission. In this case, however, we can definitely state that you heard Leipzig.
+Longueville (Mallow, Co. Cork): Prague relaying Boheme from National Theatre.
+P. M. (Golders Green): (1) Prague (relay from National Theatre); (2, 3, 4) no coupons sent.
+MacGregor (York): Prague relaying opera, La Boheme, from National Theatre. Please estimate WL.; condenser dial readings do not assist us.

@@ -1,0 +1,40 @@
+Combine Report for 1926-09-24
+============================================================
+
+Merge 1: IMG_2510.txt + IMG_2511.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 26
+Match strength: 1.000
+
+File A last line: Apple (Liverpool): ```
+File B matching line: Apple (Liverpool): Milan (relayed from Fiaschetteria Toscana).
+
+Merge 2: merged_1 + IMG_2512.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Draper; Incog (Gatford): A relay.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 36, similarity: 0.467 (reporter_and_content)
+     Reporter similarity: 0.111
+     Content similarity: 1.000
+     Line: Twin Enthusiast: A relay of Stockholm (relay of foreign stations).
+  2. Index 24, similarity: 0.327 (reporter_and_content)
+     Reporter similarity: 0.278
+     Content similarity: 0.400
+     Line: Denton 7: Barcelona (EAJ13).
+  3. Index 38, similarity: 0.300 (first_12_chars)
+     Line: A.C.S. (Ilford): How far over 400 m.; Possibly Rome.
+
+Merge 3: merged_2 + IMG_2513.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 33
+Match strength: 1.000
+
+File A last line: Dingwall (Croydon): Zurich.
+File B matching line: Dingwall (Croydon): Leipzig.
+

@@ -13,11 +13,11 @@ Monsieur Beaucair: WL wrong; Prague (348.9 m.).
 2 Valve (Abertillery): No estimated WL given, and no date; cannot trace - possibly U.S.A. station.
 Mercy (York): Berne.
 D. W. S.: PTT Lyons.
-Fellows 2 Valve (Tenby): (1) Dresden (294 m.) relaying Leipzig; (2) Hanover, relaying Hamburg; (3) Zurich; (4) Munich. (See notice in last week’s “M.W.”)
+Fellows 2 Valve (Tenby) (1) Dresden (294 m.) relaying Leipzig; (2) Hanover, relaying Hamburg; (3) Zurich (4) Munich. (See notice in last week’s “M.W.”)
 McC. (Belfast): PTT Lyons (476 m.).
 Cage Aerial (Sheffield): PTT Lyons.
 6 Volt (Norwich): Cannot confirm, but thinks may tally with Kiel, relaying via Hamburg performance of “The Enchanted Men.”
-M. E. W. (Cambridge): (1) WJAR (Providence, Rhode Island), 305 m.; (2) KDKA (East Pittsburgh); (3) Yes, Lyons, relaying PTT Paris.
+M. E. W. (Cambridge): (1) WJAR (Providence, Rhode Island), 305 m. (2) KDKA (East Pittsburgh); (3) Yes, Lyons, relaying PTT Paris.
 Marconi 472 Four: (a) Apparently test, but do not know of a station at Belgrade on this WL; (b) Bergen (370 m.).
 Mac (Porto): A reply is given to all queries sent in with coupons, according to rules.
 Sartorius (Roubaix): Merci beaucoup.
@@ -29,8 +29,7 @@ Neutrodyne (Eastbourne): Koenigswusterhausen (1,250 m.) relaying Berlin.
 Glenesk (Wallasey): (1) Warsaw; (2) Sorö, relaying Copenhagen.
 Tim (W. 12): Bournemouth (491 m.). Service relayed from Christchurch Priory.
 2 V 2 (Halle): It was PTT Paris, which is now operating on about 463 m.
-J. W. P. (Holbeck): (1) Possibly Dublin, items not in programmes; (2) Austrian German National Anthem.
-Magnette 4 (Alderston): Moscow Radio Paris testing.
+J. W. P. (Holbeck): (1) Possibly Dublin, items not in programmes; (2) Austria German National Anthem.
 Magnetic 4 (Aldershot): Possibly Radio Paris testing, cannot trace any other transmitter.
 Night Owl: Presumably 12.10 a.m., but too vague to identify transmitter.
 E. E. P.: Does not tally with programmes of WGY (Schenectady); more likely Madrid (EAJ7) relaying Barcelona (EAJ1).
@@ -43,7 +42,7 @@ M. B. Land (Uttoxeter): PTT Paris (dance music from Coliseum, Paris).
 W. A. W. (Carlisle): Sorö, relaying Copenhagen.
 Starfisher: Radio España, Madrid (EAJ2).
 Ajax: (1) Yes, Malmö, relaying Stockholm; (2) Possibly Stettin on 237 m. (new transmitter).
-Jacko (Smethwick): No coupon, no estimated WL given; cannot trace.
+Jacko (Smethwick): No coupon, no estimated W. given; cannot trace.
 Oswestry (North Bank): U.S.A. station; possibly WJZ (Boundbrook) 454 m.
 H. C. R. (Honicknowle): Yes, Eiffel Tower, relaying PTT Paris.
 Nobby Clark (Midlands): (1) Yes, Boundbrook, 350 m.; (4) Kovno (Lithuania) 2,000 m.; (5) Koenigswusterhausen, relaying Berlin Siegfried (Wagner); (7) Moscow (RDW).
@@ -54,7 +53,7 @@ C. G. Ling (Chingford): Cádiz (experimental concert).
 Colin Stern (Edinburgh): (1) Yes, Madrid (EAJ7) relaying Barcelona (EAJ1); (2) Stettin, relaying Berlin (new transmitter, possibly on 237 m.).
 Addington Grammar: San Sebastian.
 H. Rundall (Christchurch): Hanover, relaying Hamburg (first news bulletin followed by gramophone records).
-Daym (Waterloo): Cannot trace on that WL., but item tallies with Berne at that time.
+Daym (Waterloo): Cannot trace on that W.L., but item tallies with Berne at that time.
 Drifting and Dreaming: Sorö, relaying Copenhagen.
 J. H. Foster (Claxton): (1) Frankfort-on-Main; (2) Cannot trace.
 Tigguaebouac: Yes, Munich (535.7 m.).
@@ -65,10 +64,42 @@ Radio Johnnie (Hastings): A relay of Stockholm, relaying Falun.
 A. Kaye Parratt (Bridlington): Karlsborg, or possibly Signal, relaying Stockholm.
 G. E. Orton (Leicester): Time from Nauen (Germany) presented accurate reading.
 J. B. J. (Norwich): Probably Madrid, testing on 1340 m.
-Ultra (Seaham Harbour): A relay of Stockholm, possibly Falun.
+Drifting and Dreaming: Sorø, relaying Copenhagen.
+J. H. Foster (Claxton): (1) Frankfort-on-Main; (2) Cannot trace.
+Tigguacobauc: Yes, Munich (537.5 m.).
+B. R. (Scarborough): Vienna (577 m.).
+H. Guest (Sheffield): Amateur transmission.
+A. Bagnall (Glasgow): Rather vague; but possibly Stettin (new transmitter on about 237 m.) relaying Berlin.
+Radio Johnie (Hastings): A relay of Stockholm; possibly Falun.
+A. Kaye Parratt (Bridlington): Karlsborg, or possibly Motala, relaying Stockholm.
+G. E. Orton (Leicester): Time Signal from Nauen (Germany); probably harmonic.
+Remo (Norwich): Probably Motala testing on 1340 m.
+B. J. 54: No, Hamburg (394 m.).
+Francisco: (a) Possibly Fredrikstad, relaying Oslo; (b) Yes, Bruinn; (c) Yes, Rome (about 452 m.); (d) Barcelona (EAJ13) Radio Catalana; (e) Yes, PTT Paris (about 464 m.).
+Arthur Wilshire: No estimated WL given; details too vague; can find nothing in programmes to tally with these items.
+Arthur Kaye: Frankfort-on-Main (gramophone records).
+Albert Greaves: Frankfort-on-Main (choral concert, followed by gramophone records).
+2 Valve (Tenby): Cannot trace; possibly a calibration signal from some transmitter.
+C. H. R. (Chiswick): WL too vague; possibly Frankfort-on-Main.
+3 Valve (Belfast): (1) Lyons, relaying PTT Paris; (2) Yes, Soro, relaying Copenhagen; (3) Very vague; possibly Leningrad (940 m.).
+Rufus (Edinburgh): WL wrong, Motala (1304 m.).
+Valver (Sheffield): Motala (1304 m.) relaying Stockholm.
+Soloynde 4: Motala (1304 m.) gramophone records.
+Manxman: Motala (1304 m.).
+K. O. (Newcastle-on-Tyne): Stettin, (new transmitter on about 237 m.) relaying Berlin.
+XYZ (Smethwick): Tallies with Berlin (483 m.).
+"Continental Relay": Hamburg giving Beethoven Violin Concerto in D Major. Conductor, Horst Platin. Soloist, Heinrich Bandler.
+Radio Fan (Portsmouth): (1) PTT Paris (on about 464/465 m.); (2) Gothenburg (416 m.); (3) Yes, PTT Lyons, relaying PTT Paris (relay from Coliseum, Paris); (4) Bilbao (EAJ11); (5) Forsgrund (504 m.) relaying Oslo, (6) can trace no Spanish station on that WL. possibly Seville (EAJ5) 357 m.
+Distance Getter (Lichfield): (a) Frankfort-on-Main, relaying Berlin (b) Gleiwitz, (c) yes, Bordeaux, Radio Sud Ouest (238 m.).
+R. Smith (Lancaster): Possibly WJZ (Bournemouth) 454 m.
+QRA? (Cambridge): Moscow (1,150 m.).
+Chobe-Coil (Swansea): Hamburg (394.7 m.).
+Ajax (E.8.): (3) PTT Paris (about 464/465 m.) relaying dance music from Coliseum, Paris.
+C. H. R. (Edinburgh): Yes.
 Jonnie and Ronnie (Redhill): Bilbao (EAJ9) 436 m.
 Printer (Coventry): Oslo (Norway) 461.5 m.
 Incognito (Tottenham): WL. too vague; you cover more than twenty stations; cannot trace.
+Ultra (Seaham Harbour): A relay of Stockholm, possibly Falun.
 McLoughlin (Dublin): No, Radio Madrileña (Madrid).
 Parkinson (Ramsey, I.O.M.): (1) Rather vague; would tally with Malmö relaying Stockholm, (2) Prague (call: "Radio Praha"); (3) not in Brussels advertised programme; possibly Porsgrund relaying Oslo; (4) an amateur transmission.
 Arabian Nights: (24) This tallies with the Stuttgart programme; (25) apparently new Stettin transmitter on about 235 m, relaying from Berlin; (26) Gothenburg relaying Divine Service from Jönköping; (27) Brunn.

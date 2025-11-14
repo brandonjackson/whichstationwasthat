@@ -1,0 +1,39 @@
+Combine Report for 1927-04-01
+============================================================
+
+Merge 1: IMG_2961.txt + IMG_2962.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: J. W. P. (Holbeck): (1) Possibly Dublin, items not in programmes; (2) Austrian German National Anthem. Magnette 4 (Alderston): Moscow Radio Paris testing.
+File B matching line: J. W. P. (Holbeck): (1) Possibly Dublin, items not in programmes; (2) Austria German National Anthem.
+
+Merge 2: merged_1 + IMG_2963.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_2964.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: C. H. R. (Edinburgh): Yes.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 9, similarity: 0.526 (reporter_and_content)
+     Reporter similarity: 0.211
+     Content similarity: 1.000
+     Line: Condenser (Gloucester): Yes, Marseilles; "L’Ecole des Vieillards."
+  2. Index 22, similarity: 0.500 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 1.000
+     Line: Yeldir (W.13): Yes, Berlin (Voxhaus) broadcasting Wagner's opera Siegfried from Studio.
+  3. Index 18, similarity: 0.450 (reporter_and_content)
+     Reporter similarity: 0.083
+     Content similarity: 1.000
+     Line: B.M./B.D.30: Yes, Berlin on 483.9 m.
+

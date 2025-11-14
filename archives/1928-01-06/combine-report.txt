@@ -1,0 +1,49 @@
+Combine Report for 1928-01-06
+============================================================
+
+Merge 1: IMG_3207.txt + IMG_3208.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: M.U.W. (Leeds): (1) It spans.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 15, similarity: 0.475 (reporter_and_content)
+     Reporter similarity: 0.125
+     Content similarity: 1.000
+     Line: H. N. Oldham: (1) If Spanish, Madrid (EAJ6); (2) Hanover relaying dance music from Hamburg; (3) Regret, cannot trace.
+  2. Index 4, similarity: 0.400 (first_12_chars)
+     Line: Mullard (Nelson): Langenberg.
+  3. Index 7, similarity: 0.304 (reporter_and_content)
+     Reporter similarity: 0.174
+     Content similarity: 0.500
+     Line: Blackbird (Tunbridge Wells): (1) This was Copenhagen taking dance music from the Restaurant Nimb; (2) Yes, Madrid (EAJ7).
+
+Merge 2: merged_1 + IMG_3209.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_3210.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 4: merged_3 + IMG_3211.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Taddy (Hull):
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 1, similarity: 0.200 (first_12_chars)
+     Line: Burton (Bellingham): An amateur transmission (H. W. Everett; 30, Greenock Road, S.E. 9).
+  2. Index 0, similarity: 0.182 (first_12_chars)
+     Line: Your details are too vague; we cannot trace.
+  3. Index 3, similarity: 0.167 (first_8_chars)
+     Line: Vallis (Oxford): You give no estimate of wavelength. This item was not advertised in the Stockholm programme, but it is quite possible that it was included.
+

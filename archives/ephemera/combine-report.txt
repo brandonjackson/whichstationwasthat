@@ -1,0 +1,802 @@
+Combine Report for ephemera
+============================================================
+
+Merge 1: IMG_2919.txt + IMG_2930.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: WORLD-RADIO Station Identification Panel BILBAO (Spain), EAJ 9. No. 57. Wavelength: 436 m. (434·8 m.). Power: 1 kw. Approximate distance from London: 570 miles. Call: “Atención! Esta es la Estación Union Radio de Vizcaya, Emisora Radio Carlton.” No interval signal, but abbreviated call repeated between items. On some evenings relays transmissions from Madrid (EAJ7). Closes down with: “Buenas noches a todos” (“Good-night, everybody”), followed by a few bars of the Spanish National Anthem.
+File B matching line: WORLD-RADIO Station Identification Panel
+
+Merge 2: merged_1 + IMG_2931.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Copyright.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.200 (first_12_chars)
+     Line: On the first Monday of every month Berne station is broadcasting a special evening concert commencing at 10.30 p.m. (G.M.T.). This is an excellent tidy-up programme for listeners who are not sure they pick up Radio Berne while their local station is operating.
+  2. Index 0, similarity: 0.125 (first_8_chars)
+     Line: Berne.
+  3. Index 2, similarity: 0.125 (first_8_chars)
+     Line: On the first Monday of every month Berne station is broadcasting a special evening concert commencing at 10.30 p.m. (G.M.T.). This is an excellent tidy-up programme for listeners who are not sure they pick up Radio Berne while their local station is operating.
+
+Merge 3: merged_2 + IMG_2942.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: On the first Monday of every month Berne station is broadcasting a special evening concert commencing at 10.30 p.m. (G.M.T.). This is an excellent tidy-up programme for listeners who are not sure they pick up Radio Berne while their local station is operating.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.286 (first_8_chars)
+     Line: HANOVER (Germany).
+  2. Index 30, similarity: 0.286 (first_8_chars)
+     Line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+  3. Index 20, similarity: 0.273 (first_12_chars)
+     Line: Intervals indicated by stroke on gong to denote minutes.
+
+Merge 4: merged_3 + IMG_2951.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.182 (first_12_chars)
+     Line: WORLD-RADIO Station Identification Panel (No. 60).
+  2. Index 16, similarity: 0.182 (first_12_chars)
+     Line: Closes down with National Anthem, Dabrowski Mazurka.
+  3. Index 18, similarity: 0.182 (first_12_chars)
+     Line: Apart from own transmissions, relays Warsaw programmes.
+
+Merge 5: merged_4 + IMG_2959.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 23
+Match strength: 1.000
+
+File A last line: (Copyright.)
+File B matching line: (Copyright.)
+
+Merge 6: merged_5 + IMG_2965.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (Copyright.)
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.300 (first_12_chars)
+     Line: (The Lighter Side) All Fools’ Station.
+  2. Index 0, similarity: 0.286 (first_8_chars)
+     Line: (The Lighter Side) All Fools’ Station.
+  3. Index 4, similarity: 0.200 (first_12_chars)
+     Line: WORLD-RADIO Station Identification Panel (No. 62.)
+
+Merge 7: merged_6 + IMG_2966.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.286 (first_8_chars)
+     Line: In the following article Capt. Eckersley discusses the subject of “distant listening.” He shows how his definition last week of the service area is not inconsistent with the policy of World-Radio—that, namely, of same “reaching out” to stations beyond the listener’s service area.
+  2. Index 4, similarity: 0.286 (first_8_chars)
+     Line: IN the last article I gave the definition of a service area as “that area within which the field strength of that station is sufficiently great to insure that the average listener can receive a programme or programmes without interruption by any extraneous electrical interferences (except oscillation).”
+  3. Index 22, similarity: 0.286 (first_8_chars)
+     Line: Of course, one of the most potent factors militating against the perfect reception of the ever so powerful distant station is “fading”; that is, the signal which for some time is strong, becomes in a few minutes weak (fades away, that is), and then builds up to great strength once more.
+
+Merge 8: merged_7 + IMG_2972.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Those who want good results in the summer should concentrate more upon the high power and long wave stations.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.429 (first_8_chars)
+     Line: The star stations at the present time are many. Not to mention the German giants, which may be regarded as “fixed stars,” Brussels, Oslo, and Rome have been coming through particularly well. I have had good reception from Gothenburg and have logged both Porsgrund and Falun. Toulouse has suffered more than once from heterodyne interference, but two other French stations, Paris PTT and Petit Parisien, have been at the top of their form. Prague, too, is extraordinarily strong just now, and I have had good reception from Milan, Bruenn, and Munich.
+  2. Index 2, similarity: 0.400 (first_12_chars)
+     Line: The star stations at the present time are many. Not to mention the German giants, which may be regarded as “fixed stars,” Brussels, Oslo, and Rome have been coming through particularly well. I have had good reception from Gothenburg and have logged both Porsgrund and Falun. Toulouse has suffered more than once from heterodyne interference, but two other French stations, Paris PTT and Petit Parisien, have been at the top of their form. Prague, too, is extraordinarily strong just now, and I have had good reception from Milan, Bruenn, and Munich.
+  3. Index 0, similarity: 0.100 (first_12_chars)
+     Line: DX Work Through the Summer. Fading apart, signal strength has been generally very good indeed. I can see as yet no signs whatever of any marked waning, and I believe that the improved receiving sets of to-day, in conjunction with the higher power of many Continental stations, will enable DX work to be carried on uninterruptedly right through the summer. My own experience last summer was that I was able to log practically the same number of stations as during the darker months, but that in most cases signal strength was less. To my mind summer long-distance work is particularly interesting for, though during the winter it is easy enough for almost anyone to bring in a considerable number of stations, summer conditions are the real test of the efficiency of the apparatus and of the skill of the operator.
+
+Merge 9: merged_8 + IMG_2973.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: The star stations at the present time are many. Not to mention the German giants, which may be regarded as “fixed stars,” Brussels, Oslo, and Rome have been coming through particularly well. I have had good reception from Gothenburg and have logged both Porsgrund and Falun. Toulouse has suffered more than once from heterodyne interference, but two other French stations, Paris PTT and Petit Parisien, have been at the top of their form. Prague, too, is extraordinarily strong just now, and I have had good reception from Milan, Bruenn, and Munich.
+Best similarity found: 0.571
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.571 (first_8_chars)
+     Line: The Situation in South Africa.
+  2. Index 2, similarity: 0.455 (first_12_chars)
+     Line: The Situation in South Africa.
+  3. Index 28, similarity: 0.300 (first_12_chars)
+     Line: Relays:
+
+Merge 10: merged_9 + IMG_2979.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: RATES OF SUBSCRIPTION to “World-Radio” (including postage): Twelve Months (Inland and Foreign), 13s. Address Subscriptions Dept., “World-Radio,” 8-11, Southampton Street, Strand, London, W.C.2.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 5, similarity: 0.286 (first_8_chars)
+     Line: Station Identification Panel
+  2. Index 8, similarity: 0.250 (first_8_chars)
+     Line: MARSEILLES (France).
+  3. Index 10, similarity: 0.250 (first_8_chars)
+     Line: Wavelength: 300 m. Power: 500 watts.
+
+Merge 11: merged_10 + IMG_2983.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (Copyright.)
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.182 (first_12_chars)
+     Line: Volumes should NOT be reserved continuously for long periods.
+  2. Index 6, similarity: 0.143 (first_8_chars)
+     Line: Up to FIVE volumes may be reserved for THREE days.
+  3. Index 8, similarity: 0.143 (first_8_chars)
+     Line: Volumes in excess of five will be removed.
+
+Merge 12: merged_11 + IMG_2984.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Volumes should NOT be reserved continuously for long periods.
+Best similarity found: 0.273
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.273 (first_12_chars)
+     Line: CORK (Irish Free State). Wavelength: 400 m. Power: 1·5 kw. Approximate distance from London: 363 miles.
+  2. Index 0, similarity: 0.182 (first_12_chars)
+     Line: WORLD-RADIO Station Identification Panel (No. 65.)
+  3. Index 4, similarity: 0.182 (first_12_chars)
+     Line: Call Sign: 6 C K.
+
+Merge 13: merged_12 + IMG_2985.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (Copyright.)
+Best similarity found: 0.111
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.111 (first_12_chars)
+     Line: I wonder if any reader picked up a strong transmission working on approximately 510 m. at 11.30 p.m. on April 21. The announcer was speaking German, but though I listened for some time no indication was given which enabled the station to be identified. Lyons Doua is now an excellent signal, but Paris PTT seems to have found a thoroughly bad spot. All that could be heard of him on several evenings was a weird jumbled noise, which suggested that somebody else was transmitting upon exactly the same wave. Bruenn has been coming in well in some places, though with me he has not been very strong. Fredriksstad has been good at times, as have both Bordeaux Lafayette and Bilbao (EAJ11), provided that only one of them was working at the time. Langenberg seems to vary his power considerably. At times he is a good signal and at others quite poor. Stuttgart is perhaps the strongest transmission on the medium waves just now, though he is run fairly close by Prague, San Sebastian, and Petit Parisien.
+  2. Index 0, similarity: 0.091 (first_12_chars)
+     Line: An Unidentified Transmission.
+  3. Index 0, similarity: 0.000 (first_8_chars)
+     Line: An Unidentified Transmission.
+
+Merge 14: merged_13 + IMG_2989.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: I have heard a great number of the Spaniards, including both the Barcelona stations, Bilbao, Radio España, Madrid Union Radio, Seville, Radio Castilla, and Radio Madrileña. The Italians also have been very good, Rome being an exceptionally strong signal, whilst Milan is coming in very well at times, and I have heard something of Naples, despite the heterodynes and spark interference.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.333 (first_8_chars)
+     Line: “The Searcher’s” Long Distance Set—II.
+  2. Index 0, similarity: 0.300 (first_12_chars)
+     Line: “The Searcher’s” Long Distance Set—II.
+  3. Index 8, similarity: 0.300 (first_12_chars)
+     Line: Wavelength: 1,000 m. Power: 10 kw.
+
+Merge 15: merged_14 + IMG_2990.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: RATES OF SUBSCRIPTION to “World-Radio” (including postage): Twelve Months (Inland and Foreign) 13s. Address Subscriptions Dept., “World-Radio,” B.11, Southampton Street, Strand, London, W.C.2.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.429 (first_8_chars)
+     Line: “Many of my friends think I’ve lived in France”
+  2. Index 0, similarity: 0.300 (first_12_chars)
+     Line: “Many of my friends think I’ve lived in France”
+  3. Index 2, similarity: 0.200 (first_12_chars)
+     Line: “Well, you certainly speak French fluently”
+
+Merge 16: merged_15 + IMG_2995.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: “Yes—thanks to these Linguaphone Records”
+Best similarity found: 0.143
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.143 (first_8_chars)
+     Line: WORLD-RADIO Station identification panel
+  2. Index 4, similarity: 0.125 (first_8_chars)
+     Line: Wavelength: 389.6 m. Power: 2 kw.
+  3. Index 10, similarity: 0.125 (first_8_chars)
+     Line: Interval Signal: Ticking of metronome.
+
+Merge 17: merged_16 + IMG_3005.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 19
+Match strength: 0.778
+
+File A last line: (Copyright).
+File B matching line: “Come right inside. What’s the trouble ? ”
+
+Merge 18: merged_17 + IMG_3014.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: an Eton crop. What do you think ? Jay Coone.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.286 (first_8_chars)
+     Line: All extraneous interferences can be classed as interference, but interference is divided into different classes. In the common broad way statement there are those interruptions caused by listeners themselves, and, in the other main class, interferences from other sources of disturbance. In the latter category one may subdivide again as between those causes under human control and the weather bewitched spirits, if one might call such X-Ray tubes, wireless waves, etc.
+  2. Index 8, similarity: 0.273 (first_12_chars)
+     Line: All extraneous interferences can be classed as interference, but interference is divided into different classes. In the common broad way statement there are those interruptions caused by listeners themselves, and, in the other main class, interferences from other sources of disturbance. In the latter category one may subdivide again as between those causes under human control and the weather bewitched spirits, if one might call such X-Ray tubes, wireless waves, etc.
+  3. Index 10, similarity: 0.200 (first_12_chars)
+     Line: Turning to the first class of interference, that made by listeners themselves, it would seem foolish as a twice-told tale to rant against that oscillation spoils wireless. It is a pathetic fact that certain listeners cause interference themselves representing 50 per cent. of the total interferences complained about by listeners. No amount of publicity, appeal, or argument appears to convince people that in making their sets oscillate they not only ruin their own, but thousands of other people’s, pleasure. Lots of it comes about through ignorance, and that’s why we have a pamphlet, free, and it tells people what oscillation is, how to do it, and what not to do not to do it. Some of it comes about maliciously — I might almost say. I heard a distinguished foreign artist denounced one of our concerts, a splendid “die hard I” near me oscillated the whole evening. A curiously narrow and conceited outlook that his disapproval should be made unpleasantly manifest to thousands of others who might not think the same as almighty he. But enough about oscillation. One can only conclude, as always, with the hope that in time people will learn what it means and that some others will learn sense and decency.
+
+Merge 19: merged_18 + IMG_3020.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: There is, as indicated above, but one real cure: brute force and—ignorance!
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.286 (first_8_chars)
+     Line: Foreign Languages Competition.
+  2. Index 4, similarity: 0.286 (first_8_chars)
+     Line: Replies to Queries.
+  3. Index 28, similarity: 0.286 (first_8_chars)
+     Line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+
+Merge 20: merged_19 + IMG_3021.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.000 (first_8_chars)
+     Line: should not be tried by the inexperienced fingers, as it is unwatchable in the extreme.
+  2. Index 0, similarity: 0.000 (first_12_chars)
+     Line: should not be tried by the inexperienced fingers, as it is unwatchable in the extreme.
+
+Merge 21: merged_20 + IMG_3030.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: should not be tried by the inexperienced fingers, as it is unwatchable in the extreme.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 16, similarity: 0.300 (first_12_chars)
+     Line: Wavelength: 468·8 m.
+  2. Index 6, similarity: 0.286 (first_8_chars)
+     Line: (Photographs.)
+  3. Index 8, similarity: 0.286 (first_8_chars)
+     Line: WORLD-RADIO
+
+Merge 22: merged_21 + IMG_3042.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.286 (first_8_chars)
+     Line: THE first relay ever attempted by the B.B.C. was in December, 1923, when a relay of the programme given by KDKA on 29 metres was arranged with that firm for the purpose of a joint concert with KDKA.
+  2. Index 26, similarity: 0.286 (first_8_chars)
+     Line: These results were obtained at Keston (Kent), used always with a special aerial, 250ft. long and 12ft. high, and due south. The retrieving apparatus, of which a description was given some time, is used. Circuit variations were noted throughout the tests during these six months, it being found that good results were obtainable only when there was darkness at both transmitter and receiving ends; on another relay this will have to be a factor at the end.
+  3. Index 28, similarity: 0.286 (first_8_chars)
+     Line: At the transmitting end the determination of the best time for relay was based upon transmitter conditions and the strength of the transmitting signals, much in the same manner as that which would normally be used at the receiving end of the relay scheme. Usually at the relay end the variations in strength due given, but changes at some other time, after about 8 p.m. G.M.T., were soon beginning to affect it and the relay reception, when suddenly interrupted during one of the tests, was less in comparison, and consequently the ratio is higher. Further, in this case they are extremely interesting, and are shown on 32, 29.
+
+Merge 23: merged_22 + IMG_3043.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: It is now well known that relay tests of this kind were carried out by WGY Schenectady, and the results obtained will be shown during the tests in London. These will include the tests on various wavelengths between 25 and 32 metres, and in the second 32.79 and 29.72 and 29.76. The reception results obtained at Keston are compared to short-wave enthusiasts for the purpose of short-wave and broadcast work.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.286 (first_8_chars)
+     Line: Mention has been made in our issue of July 1 (page 9) of the transmission from the Vienna Station of heart beats in connection with a lecture by Dr. Ferdinand Scheminzky. Above is a picture taken during the experiment. On July 21 another interesting demonstration will be given, this time of the functions of the muscles.
+  2. Index 0, similarity: 0.200 (first_12_chars)
+     Line: Mention has been made in our issue of July 1 (page 9) of the transmission from the Vienna Station of heart beats in connection with a lecture by Dr. Ferdinand Scheminzky. Above is a picture taken during the experiment. On July 21 another interesting demonstration will be given, this time of the functions of the muscles.
+
+Merge 24: merged_23 + IMG_3059.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Mention has been made in our issue of July 1 (page 9) of the transmission from the Vienna Station of heart beats in connection with a lecture by Dr. Ferdinand Scheminzky. Above is a picture taken during the experiment. On July 21 another interesting demonstration will be given, this time of the functions of the muscles.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 26, similarity: 0.429 (first_8_chars)
+     Line: (Continued on page 171.)
+  2. Index 12, similarity: 0.364 (first_12_chars)
+     Line: Twenty years ago, accustomed to raids on caravans of horses or speed camels, mounted on horseback with a shield made of o[?] deer hide, a sharpened sabre, and a large dagger attached to the wrist, they used to attack the trans-Saharan caravans as they were on their way north or south, sometimes within sight of Saharan villages, hidden under the shadow of the palm trees, received a nocturnal visit from parties of camel riders. The unfortunate inhabitants, in fear of their unwelcome guests, had no other course but that of paying the raiders heavy tributes. Such were the Tuaregs, the true lords of the desert.
+  3. Index 26, similarity: 0.300 (first_12_chars)
+     Line: (Continued on page 171.)
+
+Merge 25: merged_24 + IMG_3067.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (Continued on page 171.)
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.286 (first_8_chars)
+     Line: Foreign Language Competition.
+  2. Index 14, similarity: 0.286 (first_8_chars)
+     Line: Station Identification Panel
+  3. Index 24, similarity: 0.286 (first_8_chars)
+     Line: Opening Call: “This is WGY of the General Electric Company, Schenectady.”
+
+Merge 26: merged_25 + IMG_3077.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 15, similarity: 0.286 (first_8_chars)
+     Line: No interval signal, but “KDKA, East Pittsburgh,” repeated between items.
+  2. Index 2, similarity: 0.182 (first_12_chars)
+     Line: WORLD-RADIO
+  3. Index 7, similarity: 0.182 (first_12_chars)
+     Line: KDKA (East Pittsburgh, Pa.), U.S.A.
+
+Merge 27: merged_26 + IMG_3078.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (Copyright.)
+Best similarity found: 0.273
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.273 (first_12_chars)
+     Line: FOLLOWING my last article the reader will see in the attached curves what may be received by the receiver and loud speaker. Thus in Fig. 1 is shown the curve of the best loud speaker known, and the curve of an average loud speaker. These two curves are in Fig. II., superimposed on what is received by the perfect receiver (from the imperfect transmitter) and what is received by the average receiver. The “ average ” is not good. One sympathises with the loud-speaker designer, one girds at the receiver designer because the latter's problem is simple, the former's difficult. One is appalled at the result of the average set, and one wonders, as the result of both theory and practice, how the listener stands for the imperfection. The loud-speaker problem is, however, acute. The designer must get something cheap and workmanlike with a fair efficiency and no resonance.
+  2. Index 6, similarity: 0.250 (first_8_chars)
+     Line: FOLLOWING my last article the reader will see in the attached curves what may be received by the receiver and loud speaker. Thus in Fig. 1 is shown the curve of the best loud speaker known, and the curve of an average loud speaker. These two curves are in Fig. II., superimposed on what is received by the perfect receiver (from the imperfect transmitter) and what is received by the average receiver. The “ average ” is not good. One sympathises with the loud-speaker designer, one girds at the receiver designer because the latter's problem is simple, the former's difficult. One is appalled at the result of the average set, and one wonders, as the result of both theory and practice, how the listener stands for the imperfection. The loud-speaker problem is, however, acute. The designer must get something cheap and workmanlike with a fair efficiency and no resonance.
+  3. Index 12, similarity: 0.182 (first_12_chars)
+     Line: This article concludes, for a month or so at least, the series, as I have to leave the country for America. I hope that the general discussion of technical considerations has helped my readers, amateur and professional. At least it cannot be said that we never publish quantitative data. The curves given in the last series of articles should be invaluable to those who have the knowledge to read them.
+
+Merge 28: merged_27 + IMG_3097.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: This article concludes, for a month or so at least, the series, as I have to leave the country for America. I hope that the general discussion of technical considerations has helped my readers, amateur and professional. At least it cannot be said that we never publish quantitative data. The curves given in the last series of articles should be invaluable to those who have the knowledge to read them.
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.182 (first_12_chars)
+     Line: ROME (Italy), 1 RO.
+  2. Index 20, similarity: 0.182 (first_12_chars)
+     Line: (Copyright.)
+  3. Index 0, similarity: 0.143 (first_8_chars)
+     Line: WORLD-RADIO
+
+Merge 29: merged_28 + IMG_3098.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: RATES OF SUBSCRIPTION to “World-Radio” (including postage): Twelve Months (inland and Foreign) 13s. Address Subscriptions Dept., “World-Radio,” 8-11, Southampton Street, Strand, London, W.C.2.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.286 (first_8_chars)
+     Line: Jazz to the Rescue!
+  2. Index 0, similarity: 0.200 (first_12_chars)
+     Line: Jazz to the Rescue!
+
+Merge 30: merged_29 + IMG_3104.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Jazz to the Rescue!
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 4, similarity: 0.300 (first_12_chars)
+     Line: It was rather a neat method simple as it was. I describe it by saying that I took a plan where I knew B's last night superlative with long-distance results with a particular earth. I went to A/ declining weather, of the conduct of every listener:—at night with the aerial, in this case very plainly a distant station "B" was quite unmistakably showing its two or three stations emissions of which we had heard no trace (except in the slightest way previously).
+  2. Index 1, similarity: 0.273 (first_12_chars)
+     Line: Many listeners who at present consider certain stations, which produce for them only feeble results or work sometimes and either with really excellent earth, place them again on their list. They will find that the bad work described, which was first tried, and then was found to be per- which was known to be capable of giving first-rate results. In expressing an opinion about any un- heard of station, it is no use first of all having a poor and bad receiving conditions with poor receiving and being almost hopeless for long-distance work. A piece of wire, fixed to the nearest water-pipe, which has been using a natural earth via the armoured lead water-
+  3. Index 12, similarity: 0.222 (first_12_chars)
+     Line: I have not room to mention all the various arrangements to be tried, but in all of them the object is the same: to make the path of the incoming signals the easiest given and to confine the leakage path within reasonable limits. To this most little more than a mysterious affair, I must say that any one who goes into it carefully will some surprised to see the difference of its voice more grow- ing.
+
+Merge 31: merged_30 + IMG_3111.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: R. W. H.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 12, similarity: 0.250 (first_8_chars)
+     Line: Throughout day at various times from 6.55 a.m. G.M.T. When news is given the bulletin is usually preceded by the call: “Hier Persbureau Vaz Dias te Amsterdam” (the name of the agency responsible for the transmission).
+  2. Index 14, similarity: 0.222 (first_12_chars)
+     Line: (Copyright.)
+  3. Index 12, similarity: 0.182 (first_12_chars)
+     Line: Throughout day at various times from 6.55 a.m. G.M.T. When news is given the bulletin is usually preceded by the call: “Hier Persbureau Vaz Dias te Amsterdam” (the name of the agency responsible for the transmission).
+
+Merge 32: merged_31 + IMG_3119.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: (Copyright.)
+Best similarity found: 0.091
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.091 (first_12_chars)
+     Line: 100 Stations Identified. Sir,—Just lately in the course of a few nights’ run over the stations between 187.5 and 2,650 metres, I have succeeded in listening to and identifying no less than 100. This seems a good proportion out of the list you give week by week, and as so many stations are on a common wave, and there is hopeless jamming at a number of other places, the total is, perhaps, not bad for a 3-valve set. It would certainly seem that, situated as we are here, about 10 miles from the east coast, we are not unfavourably placed for receiving Continental stations, allowing for the scourge of morse. Apart from 5XX, 5GB, and 2LO, the most satisfactory and dependable loud-speaker stations seem to me to be the Germans, which it is almost always a pleasure to listen to. Other stars of the firmament are, however: Malmo, Milan, Dublin, Prague (when not interfered with), Madrid (EAJ7), Toulouse (Rad. du Midi), Glasgow, Bruenn, Rome, Aberdeen, Brussels, Rosenhügel, Zürich (when it can be heard between the morse), Hilversum, Warsaw, Kalundborg, Motala, Moscow (RAI), Radio Paris, Kosice, and Eiffel Tower. The French stations, considering their generally small power, are often comparatively strong, and the same remark applies to the low-power Swedish relays late at night. The way in which some stations situated on a common wave sort themselves out above the noise is very interesting. If any of our German friends happen to be members of a happy little group of half-a-dozen stations-on the same wave, one may be sure that they, at any rate, will not be the ones to take the wall. Cork, however, is a pushing young person; he sorts himself out from the six other stations on 400 metres, and although fading lamentably is quite of respectable volume at times.—Yours faithfully, E. T. GOLDSMITH, 20, Fair Close Road, Beccles, Suffolk. October 9.
+  2. Index 0, similarity: 0.000 (first_8_chars)
+     Line: 100 Stations Identified. Sir,—Just lately in the course of a few nights’ run over the stations between 187.5 and 2,650 metres, I have succeeded in listening to and identifying no less than 100. This seems a good proportion out of the list you give week by week, and as so many stations are on a common wave, and there is hopeless jamming at a number of other places, the total is, perhaps, not bad for a 3-valve set. It would certainly seem that, situated as we are here, about 10 miles from the east coast, we are not unfavourably placed for receiving Continental stations, allowing for the scourge of morse. Apart from 5XX, 5GB, and 2LO, the most satisfactory and dependable loud-speaker stations seem to me to be the Germans, which it is almost always a pleasure to listen to. Other stars of the firmament are, however: Malmo, Milan, Dublin, Prague (when not interfered with), Madrid (EAJ7), Toulouse (Rad. du Midi), Glasgow, Bruenn, Rome, Aberdeen, Brussels, Rosenhügel, Zürich (when it can be heard between the morse), Hilversum, Warsaw, Kalundborg, Motala, Moscow (RAI), Radio Paris, Kosice, and Eiffel Tower. The French stations, considering their generally small power, are often comparatively strong, and the same remark applies to the low-power Swedish relays late at night. The way in which some stations situated on a common wave sort themselves out above the noise is very interesting. If any of our German friends happen to be members of a happy little group of half-a-dozen stations-on the same wave, one may be sure that they, at any rate, will not be the ones to take the wall. Cork, however, is a pushing young person; he sorts himself out from the six other stations on 400 metres, and although fading lamentably is quite of respectable volume at times.—Yours faithfully, E. T. GOLDSMITH, 20, Fair Close Road, Beccles, Suffolk. October 9.
+
+Merge 33: merged_32 + IMG_3120.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 100 Stations Identified. Sir,—Just lately in the course of a few nights’ run over the stations between 187.5 and 2,650 metres, I have succeeded in listening to and identifying no less than 100. This seems a good proportion out of the list you give week by week, and as so many stations are on a common wave, and there is hopeless jamming at a number of other places, the total is, perhaps, not bad for a 3-valve set. It would certainly seem that, situated as we are here, about 10 miles from the east coast, we are not unfavourably placed for receiving Continental stations, allowing for the scourge of morse. Apart from 5XX, 5GB, and 2LO, the most satisfactory and dependable loud-speaker stations seem to me to be the Germans, which it is almost always a pleasure to listen to. Other stars of the firmament are, however: Malmo, Milan, Dublin, Prague (when not interfered with), Madrid (EAJ7), Toulouse (Rad. du Midi), Glasgow, Bruenn, Rome, Aberdeen, Brussels, Rosenhügel, Zürich (when it can be heard between the morse), Hilversum, Warsaw, Kalundborg, Motala, Moscow (RAI), Radio Paris, Kosice, and Eiffel Tower. The French stations, considering their generally small power, are often comparatively strong, and the same remark applies to the low-power Swedish relays late at night. The way in which some stations situated on a common wave sort themselves out above the noise is very interesting. If any of our German friends happen to be members of a happy little group of half-a-dozen stations-on the same wave, one may be sure that they, at any rate, will not be the ones to take the wall. Cork, however, is a pushing young person; he sorts himself out from the six other stations on 400 metres, and although fading lamentably is quite of respectable volume at times.—Yours faithfully, E. T. GOLDSMITH, 20, Fair Close Road, Beccles, Suffolk. October 9.
+Best similarity found: 0.273
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.273 (first_12_chars)
+     Line: The radio bedtime story is credited in Seattle (U.S.A.) with saving the life of a little listener, and as the story comes from a physician, it carries some weight. It was the doctor’s own five-year-old son whose life was saved when his father’s skill failed. Ever since he was two years old, young George Lawson had flattened his ears under headphones, scorning the loud-speaker. His father, Dr. G. G. Lawson, was a radio “fan” himself, but sometimes grew impatient when George Junior monopolised the ’phones. A few weeks ago George Junior went down with pneumonia. He weakened rapidly and nothing his father could do seemed to help. The child lost all interest in life. Seeking a way to revive his interest—his last chance—Dr. Lawson telephoned broadcasting station KOMO and told them the circumstances. Then, early in the evening, he slipped the headphones on the unconscious boy’s ears and waited. Down at KOMO a special programme for the dying youngster was broadcast. Up at the sick room no result was apparent until the boys in the studio broke into the child’s favourite song. Then he revived a little. Finally, they promised him a big surprise for the next evening. That did the trick. George Junior was so anxious to hear that “surprise” that he forgot to die; his interest in life came back. Each night, for a week, the broadcasters, ignoring everything else, worked to keep the spark of life alive in the boy’s breast. They won. George is back on his feet to-day—and his father says that the radio, not medical skill, saved his life.
+  2. Index 0, similarity: 0.091 (first_12_chars)
+     Line: Dying Child’s Life Saved by Radio.
+  3. Index 0, similarity: 0.000 (first_8_chars)
+     Line: Dying Child’s Life Saved by Radio.
+
+Merge 34: merged_33 + IMG_3121.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: The radio bedtime story is credited in Seattle (U.S.A.) with saving the life of a little listener, and as the story comes from a physician, it carries some weight. It was the doctor’s own five-year-old son whose life was saved when his father’s skill failed. Ever since he was two years old, young George Lawson had flattened his ears under headphones, scorning the loud-speaker. His father, Dr. G. G. Lawson, was a radio “fan” himself, but sometimes grew impatient when George Junior monopolised the ’phones. A few weeks ago George Junior went down with pneumonia. He weakened rapidly and nothing his father could do seemed to help. The child lost all interest in life. Seeking a way to revive his interest—his last chance—Dr. Lawson telephoned broadcasting station KOMO and told them the circumstances. Then, early in the evening, he slipped the headphones on the unconscious boy’s ears and waited. Down at KOMO a special programme for the dying youngster was broadcast. Up at the sick room no result was apparent until the boys in the studio broke into the child’s favourite song. Then he revived a little. Finally, they promised him a big surprise for the next evening. That did the trick. George Junior was so anxious to hear that “surprise” that he forgot to die; his interest in life came back. Each night, for a week, the broadcasters, ignoring everything else, worked to keep the spark of life alive in the boy’s breast. They won. George is back on his feet to-day—and his father says that the radio, not medical skill, saved his life.
+Best similarity found: 0.125
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.125 (first_8_chars)
+     Line: Distance—with the convenience of simplified control
+  2. Index 0, similarity: 0.091 (first_12_chars)
+     Line: Distance—with the convenience of simplified control
+
+Merge 35: merged_34 + IMG_3122.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Distance—with the convenience of simplified control
+Best similarity found: 0.273
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.273 (first_12_chars)
+     Line: Radio Barcelona, EAJ1.
+  2. Index 2, similarity: 0.273 (first_12_chars)
+     Line: 1. The aerial, 150ft. high, stands on the top of Mount Tibidabo, itself 1730ft. above sea level. Its height makes the Barcelona transmitting station one of the foremost in Europe in point of situation.
+  3. Index 4, similarity: 0.182 (first_12_chars)
+     Line: 2. The Main Studio.
+
+Merge 36: merged_35 + IMG_3123.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 6. A general view of the surrounding country from the top of Mount Tibidabo, showing the aerial masts in the middle distance.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.286 (first_8_chars)
+     Line: A rather curious phenomenon was observed a few nights ago when listening to KDKA on 62.5 metres. The night was fine, though overcast, when I first tuned him in and there was no atmospheric interference. Quite suddenly faint cracklings began to make themselves heard and soon parasitic noises had become distinctly bad. At the same time I heard rain pattering down on the veranda
+  2. Index 2, similarity: 0.200 (first_12_chars)
+     Line: A rather curious phenomenon was observed a few nights ago when listening to KDKA on 62.5 metres. The night was fine, though overcast, when I first tuned him in and there was no atmospheric interference. Quite suddenly faint cracklings began to make themselves heard and soon parasitic noises had become distinctly bad. At the same time I heard rain pattering down on the veranda
+  3. Index 0, similarity: 0.143 (first_8_chars)
+     Line: Rain Causes Parasitic Noises.
+
+Merge 37: merged_36 + IMG_3124.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: A rather curious phenomenon was observed a few nights ago when listening to KDKA on 62.5 metres. The night was fine, though overcast, when I first tuned him in and there was no atmospheric interference. Quite suddenly faint cracklings began to make themselves heard and soon parasitic noises had become distinctly bad. At the same time I heard rain pattering down on the veranda
+Best similarity found: 0.143
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.143 (first_8_chars)
+     Line: New hours for week-end transmissions were announced recently by both WGY and KDKA.
+  2. Index 4, similarity: 0.143 (first_8_chars)
+     Line: 2XAD is now at work from 6.30 p.m. to 9.30 p.m. Greenwich Time on Saturday evenings, whilst 2XAF comes on at 11.25 p.m. KDKA is transmitting on 62.5 and 26 metres from 11. p.m. onwards on Sundays. I tuned in 2XAD at 7.30 p.m. last Saturday and found him coming through wonderfully well. Those who like to hear American stations need no longer complain that they must sit up until the small hours !
+  3. Index 2, similarity: 0.100 (first_12_chars)
+     Line: New hours for week-end transmissions were announced recently by both WGY and KDKA.
+
+Merge 38: merged_37 + IMG_3126.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 2XAD is now at work from 6.30 p.m. to 9.30 p.m. Greenwich Time on Saturday evenings, whilst 2XAF comes on at 11.25 p.m. KDKA is transmitting on 62.5 and 26 metres from 11. p.m. onwards on Sundays. I tuned in 2XAD at 7.30 p.m. last Saturday and found him coming through wonderfully well. Those who like to hear American stations need no longer complain that they must sit up until the small hours !
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 4, similarity: 0.333 (first_8_chars)
+     Line: AS an instance that reception of foreign stations varies very considerably at points no very great distance apart, in this column a fortnight ago very short-wave stations were reported as coming over well, whereas in North-Eastern England the direct opposite was the case—in fact, several of the high-speed morse transmissions were much below normal strength. Fortunately, this bad period now seems to have passed, as will be seen from my remarks below.
+  2. Index 4, similarity: 0.300 (first_12_chars)
+     Line: AS an instance that reception of foreign stations varies very considerably at points no very great distance apart, in this column a fortnight ago very short-wave stations were reported as coming over well, whereas in North-Eastern England the direct opposite was the case—in fact, several of the high-speed morse transmissions were much below normal strength. Fortunately, this bad period now seems to have passed, as will be seen from my remarks below.
+  3. Index 6, similarity: 0.182 (first_12_chars)
+     Line: Commencing with the long-wave stations, Huizen, the new Dutch transmitter, promises another reliable Continental programme, judging by the strength and quality of the test items. I am afraid that Radio-Paris, which seems a very lively station and 5XX will become more difficult to receive entirely clear of interruption from one or other of these stations. Motala seems to have fallen in strength of late, but is still a very strong signal. Königs wusterhausen has shown much fluctuation during the week, and though always within reach, is not so strong at any time as Motala. It is usual on the Continent to refer to these last two, with 5XX and Radio-Paris, as the “Big Four,” but I consider that this description requires modification, for the new Danish transmitter at Kalundborg is an excellent signal, and is always as strongly received as Hilversum, and without any fading whatever, either in daylight or darkness. I suppose that all listeners who “reach out” are fully aware that, for daylight programmes, the long-wave stations are always preferable to others on the 300-500 metre waveband, since signals are stronger and fading is scarcely noticeable. In this part of the country we are well placed for reception of the Continental programmes from the northern part of Europe, the North Sea being very little hindrance as compared with intervening land areas. Warsaw I have found to be rather variable of late, but Hilversum has been fairly reliable, though, as “The Searcher” last week reported, there has been some interference on the new long wave, and on 1,000 metres only fairly well, together
+
+Merge 39: merged_38 + IMG_3127.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Commencing with the long-wave stations, Huizen, the new Dutch transmitter, promises another reliable Continental programme, judging by the strength and quality of the test items. I am afraid that Radio-Paris, which seems a very lively station and 5XX will become more difficult to receive entirely clear of interruption from one or other of these stations. Motala seems to have fallen in strength of late, but is still a very strong signal. Königs wusterhausen has shown much fluctuation during the week, and though always within reach, is not so strong at any time as Motala. It is usual on the Continent to refer to these last two, with 5XX and Radio-Paris, as the “Big Four,” but I consider that this description requires modification, for the new Danish transmitter at Kalundborg is an excellent signal, and is always as strongly received as Hilversum, and without any fading whatever, either in daylight or darkness. I suppose that all listeners who “reach out” are fully aware that, for daylight programmes, the long-wave stations are always preferable to others on the 300-500 metre waveband, since signals are stronger and fading is scarcely noticeable. In this part of the country we are well placed for reception of the Continental programmes from the northern part of Europe, the North Sea being very little hindrance as compared with intervening land areas. Warsaw I have found to be rather variable of late, but Hilversum has been fairly reliable, though, as “The Searcher” last week reported, there has been some interference on the new long wave, and on 1,000 metres only fairly well, together
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.182 (first_12_chars)
+     Line: For some time now much the most reliable station has been Frankfurt, with signals always strong, and with the minimum of fading.
+  2. Index 0, similarity: 0.125 (first_8_chars)
+     Line: For some time now much the most reliable station has been Frankfurt, with signals always strong, and with the minimum of fading.
+
+Merge 40: merged_39 + IMG_3160.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: For some time now much the most reliable station has been Frankfurt, with signals always strong, and with the minimum of fading.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 4, similarity: 0.200 (first_12_chars)
+     Line: The special underground cable connecting the relay Nürnberg to the main s’ation in Munich contains a second line used for broadcasting by “wired wireless” the performances from the Munich Opera House. Any subscriber to the ordinary telephone service can, for a small extra charge, listen regularly by means of his telephone to the excellent operas, which during ten months in the year delight the ears of the Munich audiences. This service encompasses, for the moment, the three towns owning broadcast transmitters, viz., Munich, Augsburg, and Nürnberg.
+  2. Index 0, similarity: 0.182 (first_12_chars)
+     Line: Mysterious Musical Intervals at Nürnberg.
+  3. Index 4, similarity: 0.143 (first_8_chars)
+     Line: The special underground cable connecting the relay Nürnberg to the main s’ation in Munich contains a second line used for broadcasting by “wired wireless” the performances from the Munich Opera House. Any subscriber to the ordinary telephone service can, for a small extra charge, listen regularly by means of his telephone to the excellent operas, which during ten months in the year delight the ears of the Munich audiences. This service encompasses, for the moment, the three towns owning broadcast transmitters, viz., Munich, Augsburg, and Nürnberg.
+
+Merge 41: merged_40 + IMG_3161.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Induction effects are therefore the cause of this mysterious music, which can be heard faintly during even the slightest pause in the broadcast performance.
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.000 (first_8_chars)
+     Line: A Simple Broadcast Wavemeter.—II.
+  2. Index 0, similarity: 0.000 (first_12_chars)
+     Line: A Simple Broadcast Wavemeter.—II.
+
+Merge 42: merged_41 + IMG_3171.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: A Simple Broadcast Wavemeter.—II.
+Best similarity found: 0.364
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.364 (first_12_chars)
+     Line: Radio Malabar has been hard at work, and its transmission seems to be improving considerably in quality, though fading of a rather rapid type is still to be noticed. I have had very good reception from the Australian station 2FC, signal strength being good and the quality such that every word was clearly audible.
+  2. Index 0, similarity: 0.143 (first_8_chars)
+     Line: 2FC Received.
+  3. Index 2, similarity: 0.143 (first_8_chars)
+     Line: Radio Malabar has been hard at work, and its transmission seems to be improving considerably in quality, though fading of a rather rapid type is still to be noticed. I have had very good reception from the Australian station 2FC, signal strength being good and the quality such that every word was clearly audible.
+
+Merge 43: merged_42 + IMG_3172.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: (Continued at foot of column 2.)
+File B matching line: (Continued from page 615.)
+
+Merge 44: merged_43 + IMG_3173.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: To give the transmission times and wave of these stations would already exceed our space, so that must be omitted from this article ; but should a great deal of work on this be done it may be reserved for a future article.
+Best similarity found: 0.444
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.444 (first_12_chars)
+     Line: (I think the most disappointing experience has been the effect of very considerable fading on the long-wave transmissions, in this country and on the Continent and America.) I have noticed this trouble on all the stations operating between, say, 1,000 and 2,000 metres, not excluding 5 XX, but I can say that, apart from that, R.5XX has had no fading as far as I can see, since it opened full time on Hurlingham, even though the “shelf” would suffer in the same way shortly afterwards, from conversational work transmitted thereon. I have even known the Hurlingham transmissions fade while 5XX was not so badly affected, so that the local fault, if it existed, was not to blame, and I can only conclude that this was due to the same causes, which had that temporary adverse effect.
+  2. Index 6, similarity: 0.300 (first_12_chars)
+     Line: Two or three readers have taken me a little bit too seriously when I mentioned that I was adopting the Fri-Mon method of counting the listening week. The fact is that I do put in a little log work as a rule on Thursday nights and very occasionally on Sundays. The fact is that I have sometimes found Sunday not worth while logging, because of the amount of local interference experienced in some places, and, certainly the Saturday S.O.S. for stations is a thing of the past. It must also be remembered that, whereas London newspapers used to find a place for Saturday night wireless programmes, they are now cold on the subject and do not give the programmes, salary cuts having resulted in the wholesale sacking of wireless correspondents and the extent of detail in wireless programmes having been cut.
+  3. Index 10, similarity: 0.300 (first_12_chars)
+     Line: I am indebted to a Welsh correspondent for his information about XRG on 628 metres. He states that he would be sending out notes of local events on this wave then, whenever rebroadcasting to the chain, but I have no confirmation of the precise nature of the programme at other times on this wavelength, beyond what I could make out at this end, and I know station music is moderately good.
+
+Merge 45: merged_44 + IMG_3174.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: On 384 metres, the convenient short wave of the Italian National Concert works out at just about one wave and the next. In this way I have found it fairly easy to hear them over several nights, and entirely clear of Frankfurt.
+Best similarity found: 0.125
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.125 (first_8_chars)
+     Line: ENLARGING THE LOG.
+  2. Index 0, similarity: 0.100 (first_12_chars)
+     Line: The Week’s Searching Hint.
+  3. Index 6, similarity: 0.100 (first_12_chars)
+     Line: When the set is not calibrated, a similar process can be used. Suppose, for example, that you have never heard Göteborg, but do receive Frankfurt and Berne, you know that the Swedish station is to be found by careful searching between the settings needed for the other two. Note well that “careful searching” does NOT mean allowing the set to oscillate. No station received by this process can be regarded as fairly logged.
+
+Merge 46: merged_45 + IMG_3184.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: R. W. H.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 381, similarity: 0.333 (first_8_chars)
+     Line: on with the programme. I went downstairs and sat in
+  2. Index 88, similarity: 0.300 (first_12_chars)
+     Line: about her while she was alive, attended
+  3. Index 128, similarity: 0.300 (first_12_chars)
+     Line: work with very little response. He was a
+
+Merge 47: merged_46 + IMG_3197.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: he begins to operate.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.286 (first_8_chars)
+     Line: Where a grid-leak-and-condenser rectifier is used the selectivity may be increased by the use of a potentiometer. This component is wired directly across the low-tension leads and the grid-leak return, instead of being connected to low-tension positive, is taken to its slider. It will often be found that signal strength does not suffer, whilst selec- tivity shows a marked increase if the slider of the potentiometer is moved some little distance away from the positive end of its travel.
+  2. Index 8, similarity: 0.200 (first_12_chars)
+     Line: Where a grid-leak-and-condenser rectifier is used the selectivity may be increased by the use of a potentiometer. This component is wired directly across the low-tension leads and the grid-leak return, instead of being connected to low-tension positive, is taken to its slider. It will often be found that signal strength does not suffer, whilst selec- tivity shows a marked increase if the slider of the potentiometer is moved some little distance away from the positive end of its travel.
+  3. Index 2, similarity: 0.182 (first_12_chars)
+     Line: Increasing Selectivity.
+
+Merge 48: merged_47 + IMG_3204.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: R. W. H.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 17, similarity: 0.200 (first_8_chars)
+     Line: Three
+  2. Index 17, similarity: 0.200 (first_12_chars)
+     Line: Three
+  3. Index 4, similarity: 0.167 (first_8_chars)
+     Line: In one hour using only a small screw-driver you can build the Mullard Master Three—the finest three valve receiver yet designed.
+
+Merge 49: merged_48 + IMG_3205.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Advert. MULLARD WIRELESS SERVICE CO., LTD., MULLARD HOUSE, DENMARK STREET, LONDON, W.C.2.
+Best similarity found: 0.143
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.143 (first_8_chars)
+     Line: SHORT-WAVE TUNING.
+  2. Index 0, similarity: 0.125 (first_8_chars)
+     Line: Practical Searching Hints.
+  3. Index 2, similarity: 0.100 (first_12_chars)
+     Line: SHORT-WAVE TUNING.
+
+Merge 50: merged_49 + IMG_3261.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: It had innumerable harmonics of a very loud and penetrating kind. After it had been carefully erected in its nice new house, it behaved no better.
+Best similarity found: 0.143
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.143 (first_8_chars)
+     Line: World-Radio Station Identification Panel (No. 90) Melbourne, Australia (3LO, Short Wave): Wavelength: 32 m. (as announced); Frequency: 9,375 kc.; Power: 5 kw.; Approximate distance from London: 10,000 miles; Times of transmission: Sundays, 6.30 p.m. to 8.30 p.m. (G.M.T.), concert of gramophone records; at 8 p.m. a time signal (striking clock) from Malvern Observatory, Melbourne, followed by weather report.
+  2. Index 0, similarity: 0.100 (first_12_chars)
+     Line: World-Radio Station Identification Panel (No. 90) Melbourne, Australia (3LO, Short Wave): Wavelength: 32 m. (as announced); Frequency: 9,375 kc.; Power: 5 kw.; Approximate distance from London: 10,000 miles; Times of transmission: Sundays, 6.30 p.m. to 8.30 p.m. (G.M.T.), concert of gramophone records; at 8 p.m. a time signal (striking clock) from Malvern Observatory, Melbourne, followed by weather report.
+
+Merge 51: merged_50 + IMG_3262.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: World-Radio Station Identification Panel (No. 90) Melbourne, Australia (3LO, Short Wave): Wavelength: 32 m. (as announced); Frequency: 9,375 kc.; Power: 5 kw.; Approximate distance from London: 10,000 miles; Times of transmission: Sundays, 6.30 p.m. to 8.30 p.m. (G.M.T.), concert of gramophone records; at 8 p.m. a time signal (striking clock) from Malvern Observatory, Melbourne, followed by weather report.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.375 (first_8_chars)
+     Line: Northerner: CONTINUING from the point at which I finished my last report, I have received telegraphic information from Australia which would indicate that the times of transmission on short waves from Sydney do not appear to be at all regular, and are made only when conditions are good.
+  2. Index 2, similarity: 0.375 (first_8_chars)
+     Line: Northerner: This is not very clear, nor is the intimation that such broadcasts are not quite interna­ tional but might be addressed, one must assume, to only any Sydney friends asking that he might listen in, although one can only presume he is only too late to be included in my previous logs.
+  3. Index 4, similarity: 0.375 (first_8_chars)
+     Line: Northerner: At 3.0, I have heard the varying strengths of 3L0, I believe, which never varied very much in volume or signal strength or interference.
+
+Merge 52: merged_51 + IMG_3279.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Northerner: I have heard 2FC and 2BL on direct transmission, and I have heard other Australian stations very weakly, without any echoes.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.250 (first_8_chars)
+     Line: The Geneva Station
+  2. Index 0, similarity: 0.200 (first_12_chars)
+     Line: The Geneva Station
+
+Merge 53: merged_52 + IMG_3280.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 12
+Match strength: 0.714
+
+File A last line: The Geneva Station
+File B matching line: there seems to be no reason why there should not
+
+Merge 54: merged_53 + IMG_3291.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: name of the station!
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.000 (first_8_chars)
+     Line: WORLD-RADIO Station Identification Panel (No. 91) CARTHAGE (Tunis) Wavelength : 1850 m. Frequency : 154 kc. Power : 2 kw. Approximate Distance from London : 1,130 miles. Call : “ Ici Poste de Radiodiffusion de Tunis.” Opening Signal : Carillon of bells. Interval Call : “ Ici Radio Carthage.” Male Announcer. No Interval Signal. Times of Transmission : Broadcasts from 6 p.m. daily; Main Evening Concert at 8.30 p.m. Dance Transmissions : Sundays, Wednesdays, and Saturdays to 11 p.m. G.M.T. Closes down with “ La Marseillaise ” and usual French formula. (Copyright) A booklet containing a large number of these panels can be obtained of B.B.C. Publications, Savoy Hill, W.C. Price 1/-.
+  2. Index 0, similarity: 0.000 (first_12_chars)
+     Line: WORLD-RADIO Station Identification Panel (No. 91) CARTHAGE (Tunis) Wavelength : 1850 m. Frequency : 154 kc. Power : 2 kw. Approximate Distance from London : 1,130 miles. Call : “ Ici Poste de Radiodiffusion de Tunis.” Opening Signal : Carillon of bells. Interval Call : “ Ici Radio Carthage.” Male Announcer. No Interval Signal. Times of Transmission : Broadcasts from 6 p.m. daily; Main Evening Concert at 8.30 p.m. Dance Transmissions : Sundays, Wednesdays, and Saturdays to 11 p.m. G.M.T. Closes down with “ La Marseillaise ” and usual French formula. (Copyright) A booklet containing a large number of these panels can be obtained of B.B.C. Publications, Savoy Hill, W.C. Price 1/-.
+
+Merge 55: merged_54 + IMG_3352.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: WORLD-RADIO Station Identification Panel (No. 91) CARTHAGE (Tunis) Wavelength : 1850 m. Frequency : 154 kc. Power : 2 kw. Approximate Distance from London : 1,130 miles. Call : “ Ici Poste de Radiodiffusion de Tunis.” Opening Signal : Carillon of bells. Interval Call : “ Ici Radio Carthage.” Male Announcer. No Interval Signal. Times of Transmission : Broadcasts from 6 p.m. daily; Main Evening Concert at 8.30 p.m. Dance Transmissions : Sundays, Wednesdays, and Saturdays to 11 p.m. G.M.T. Closes down with “ La Marseillaise ” and usual French formula. (Copyright) A booklet containing a large number of these panels can be obtained of B.B.C. Publications, Savoy Hill, W.C. Price 1/-.
+Best similarity found: 0.364
+
+Closest matches (top 3):
+  1. Index 44, similarity: 0.364 (first_12_chars)
+     Line: Four stations in Austria, at the beginning of the period under review, and Poland were struggling for listener attention. By the end of 1927 the number of listeners in relation to population had changed considerably. In Austria there were 347,107 listeners; and in Poland the number was 247,613.
+  2. Index 36, similarity: 0.300 (first_12_chars)
+     Line: In relation to the position in Australia, it must be realised that broadcasting itself only began there in the latter months of 1923. Certain factors which have tended to check the progress have been the great distances, the relatively small population, and the delay in the standardisation of receivers and other instruments.
+  3. Index 44, similarity: 0.286 (first_8_chars)
+     Line: Four stations in Austria, at the beginning of the period under review, and Poland were struggling for listener attention. By the end of 1927 the number of listeners in relation to population had changed considerably. In Austria there were 347,107 listeners; and in Poland the number was 247,613.
+
+Merge 56: merged_55 + IMG_3353.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: In Italy 11 stations are in service and they had 285,000 listeners at the end of 1927. This represents 1•05 per 1,000; and it must be said that Italy in the year 1927 increased more modestly than in other directions.
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.000 (first_8_chars)
+     Line: Per 1,000 inhabitants.
+  2. Index 0, similarity: 0.000 (first_12_chars)
+     Line: Per 1,000 inhabitants.
+
+Merge 57: merged_56 + IMG_3354.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Per 1,000 inhabitants.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.333 (first_8_chars)
+     Line: 8.10 „  Brussels.—Selections from “Tosca.”
+  2. Index 122, similarity: 0.333 (first_8_chars)
+     Line: 10.40 „  (Continued at foot of next column.)
+  3. Index 122, similarity: 0.333 (first_12_chars)
+     Line: 10.40 „  (Continued at foot of next column.)
+

@@ -1,0 +1,18 @@
+Combine Report for 1925-11-27
+============================================================
+
+Merge 1: 1925-11-27-a.txt + 1925-11-27-b.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: R.L.B. (Liverpool)
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 7, similarity: 0.333 (first_8_chars)
+     Line: Reflex: (a) Nov. 14, probably Madrid (404 m.) or Bilbao (415 m.); (b) Nov. 12, Radio-Toulouse.
+  2. Index 15, similarity: 0.333 (first_8_chars)
+     Line: Irwin: B.B.C. Experimental Station, Chelmsford.
+  3. Index 6, similarity: 0.286 (first_8_chars)
+     Line: Quarry Bank: Hamburg.
+

@@ -1,0 +1,157 @@
+Combine Report for 1928-03-16
+============================================================
+
+Merge 1: IMG_3303.txt + IMG_3304.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: Searcher (Hillsbro):
+File B matching line: Searcher (Hillsbro): (1) Kattowitz (Poland), (2) Warsaw (Call: ‘‘Radio Warschava’’).
+
+Merge 2: merged_1 + IMG_3305.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Trebla (Hornsey): (2) Bremen or Hanover relaying Hamburg.
+File B matching line: Trebla (Hornsey): (2) Bremen or Hanover relaying Hamburg; on March 3, Gilbert’s operetta The Woman in Grey.
+
+Merge 3: merged_2 + IMG_3306.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: R. G. M. Lloyd (Wrexham): (1) Huizen (Holland), lunchtime music, followed by Children’s Hour. Coupon must
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 7, similarity: 0.360 (reporter_and_content)
+     Reporter similarity: 0.267
+     Content similarity: 0.500
+     Line: Melody (Redditch): (1, 4, 5, and 6) Either amateur relays, or harmonics, (2) Cologne, Pelleas and Melisande (Debussy), (3) Naples (request programme).
+  2. Index 16, similarity: 0.360 (reporter_and_content)
+     Reporter similarity: 0.267
+     Content similarity: 0.500
+     Line: Kettle (Fulham): (1) Dublin, relaying Cork, (2) Madrid (EAJ7 operetta - Marina Arrieta), (3) Posen and Kattowitz, broadcasting election results (gramophone records in the intervals).
+  3. Index 11, similarity: 0.333 (first_8_chars)
+     Line: J. M. M. (Benview): Cologne (chimes from the studio).
+
+Merge 4: merged_3 + IMG_3307.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 0.667
+
+File A last line: X. (Darlington): 2XQ, Rocky Point, Long Island, New York, testing on various WL. from 16–40 m.
+File B matching line: Ultra (Darlington): 2XG, Rocky Point, Long Island, New York, testing on various WL from 16—40 m.
+
+Merge 5: merged_4 + IMG_3308.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Amorphous Q: (1) PTT Rennes relaying orchestra concert from the Theatre Mogador at Paris, (2) possibly PTT Lyons (40.20 m.).
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 5, similarity: 0.433 (reporter_and_content)
+     Reporter similarity: 0.056
+     Content similarity: 1.000
+     Line: Getemall (Seven Kings): (1) Possibly KDKA (East Pittsburgh), (2) yes, details would tally with Madrid (EAJ7), (3) yes, WEAF (New York), (4) possibly Barcelona (EAJ13) at that time, but cannot confirm as no programmes are available.
+  2. Index 7, similarity: 0.375 (first_8_chars)
+     Line: RTN/O.U.2-W. F. (Crome): PTT Lyons (40.20 m.) relaying PT Paris. Symphony Concert from the Théâtre Mogador.
+  3. Index 20, similarity: 0.309 (reporter_and_content)
+     Reporter similarity: 0.182
+     Content similarity: 0.500
+     Line: Marine Parade (Folkestone): (1) WGY (Schenectady), (2) Kattowitz, broadcasting election results.
+
+Merge 6: merged_5 + IMG_3309.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Marine Parade (Folkestone): (1) WGY (Schenectady), (2) Kattowitz, broadcasting election results.
+Best similarity found: 0.364
+
+Closest matches (top 3):
+  1. Index 9, similarity: 0.509 (reporter_and_content)
+     Reporter similarity: 0.182
+     Content similarity: 1.000
+     Line: Far East (Northumberland): (1) Warsaw, relaying symphony concert from the Philharmonic Hall, (2) details too vague, regret, cannot trace, (3) yes, this was San Sebastian.
+  2. Index 18, similarity: 0.364 (first_12_chars)
+     Line: Queen’s Park (Glasgow): Katowittc broadcast the results with gramophone records in the intervals; Polish stations working late.
+  3. Index 6, similarity: 0.336 (reporter_and_content)
+     Reporter similarity: 0.227
+     Content similarity: 0.500
+     Line: Knocker (Falmouth): (1) Yes, Huizen, (2) Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen until 11.30 p.m. G.M.T. Coupon must be sent with each enquiry.
+
+Merge 7: merged_6 + IMG_3310.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Tryst (Dalmenny): Yes, Stuttgart, gramophone records in the interval of a relay from theatre.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.500 (first_12_chars)
+     Line: R.O.W. (Dalmeny): (1) Kalundborg, relaying Copenhagen; a relay of foreign stations including 5GBE: (2) Warsaw, broadcasting election results (gramophone records in the intervals).
+  2. Index 3, similarity: 0.369 (reporter_and_content)
+     Reporter similarity: 0.615
+     Content similarity: 0.000
+     Line: R.O.W. (Dalmeny): (1) Kalundborg, relaying Copenhagen; a relay of foreign stations including 5GBE: (2) Warsaw, broadcasting election results (gramophone records in the intervals).
+  3. Index 10, similarity: 0.286 (first_8_chars)
+     Line: Trewint (S.W. 18): WGY (Schenectady) received direct.
+
+Merge 8: merged_7 + IMG_3311.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 9: merged_8 + IMG_3312.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: sometimes carried out by Berlin, Stuttgart and Munich.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 9, similarity: 0.375 (first_8_chars)
+     Line: Komc (Manchester); Ajax (Sheffield): All Polish stations were broadcasting election results at that time, with gramophone records in the intervals.
+  2. Index 11, similarity: 0.364 (first_12_chars)
+     Line: Gobblins (Hale): Quite possibly WPG (Atlantic City), U.S.A.
+  3. Index 9, similarity: 0.273 (first_12_chars)
+     Line: Komc (Manchester); Ajax (Sheffield): All Polish stations were broadcasting election results at that time, with gramophone records in the intervals.
+
+Merge 10: merged_9 + IMG_3313.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Hibernia (Loughrea): (1) Yes, WGY (Schenectady); (2) WJZ (Boundbrook?); (3) Yes,
+Best similarity found: 0.125
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.474 (reporter_and_content)
+     Reporter similarity: 0.123
+     Content similarity: 1.000
+     Line: WGY (Schenectady); (2) WJZ (Boundbrook); (3) Yes, WCCO (Minneapolis). Disclose (Wandsworth): (1) Yes, WGY (Schenectady) direct ; (2) PTT Lille. J. W. P. (Leeds): Your estimate of WL. is apparently wrong; the transmission was by Stuttgart from the Liederhalle (soloist Erica Morini, violinist) ; this was also taken by Frankfurt-on-Main, Cassel, and Freiburg ; probably you heard this through Frankfurt-on-Main. West Hove: Kaiserslautern (204.1 m.) relaying Munich. Alpha (Llanelly): Hamburg advertised dance music at that time; we are asking the station to give us the name of the baritone. Stage (Gloucester): We cannot confirm, but possibly Stockholm which advertised a relay of foreign stations at that time. Crucible (S.W.3): (1) Kattowitz, election results (gramophone records in the intervals) ; (2) possibly WTAM (Cleveland), U.S.A., which is often received in Great Britain. Naylor (Peacehaven): Münster, relaying concert from "Hotel Zur Post " (Elberfeld). St. Jacut (Kent): Barcelona (EAJ1). Doc (Belfast): Oslo. Moonshine (Melrose): Cannot trace without some estimation of WL. Wagge (Cowley): Berlin. Königswausterhausen, German National Anthem "Deutschland ueber alles," music by Haydn. H.F. 42; (a) PTT Lyons on 40.20 m. (b) We do not know the call, but apparently a short wave transmitter of the Cie Générale; (c) Private transmitter, Berlin; (d) We have not traced the Spanish short wave station. Twin Reflex (Hammersmith): WGY (Schenectady) received direct. G. L. W. (Bucks.): Although you give many details we cannot make any search as you give no idea of WL. Smugger (Shalford): (1) PTT Remes; (2) only English lesson given at that time was by the Ecole Supérieure, Paris; possibly received through Malmo. Muff: No, this does not tally with the Juan-les-Pins programme; more probably Bordeaux, Radio-Sud-Ouest, of which detailed programmes are not published. D. Brand (Rosebury Terrace): A Polish station giving election results (gramophone records in the intervals) ; you do not state WL., so cannot trace actual transmitter. Radio (Lympne): Cannot confirm, but possibly relayed by Moscow. New Comet (Eastbourne): We cannot trace these items in programmes, but the WL. would seem to Huizen, which at that time was transmitting on 1.950 m. (Children's Hour). Reinartz (Sunderland): Stockholm.
+  2. Index 0, similarity: 0.125 (first_8_chars)
+     Line: Sure, here is the transcription:
+  3. Index 0, similarity: 0.100 (first_12_chars)
+     Line: Sure, here is the transcription:
+
+Merge 11: merged_10 + IMG_3314.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: WGY (Schenectady); (2) WJZ (Boundbrook); (3) Yes, WCCO (Minneapolis). Disclose (Wandsworth): (1) Yes, WGY (Schenectady) direct ; (2) PTT Lille. J. W. P. (Leeds): Your estimate of WL. is apparently wrong; the transmission was by Stuttgart from the Liederhalle (soloist Erica Morini, violinist) ; this was also taken by Frankfurt-on-Main, Cassel, and Freiburg ; probably you heard this through Frankfurt-on-Main. West Hove: Kaiserslautern (204.1 m.) relaying Munich. Alpha (Llanelly): Hamburg advertised dance music at that time; we are asking the station to give us the name of the baritone. Stage (Gloucester): We cannot confirm, but possibly Stockholm which advertised a relay of foreign stations at that time. Crucible (S.W.3): (1) Kattowitz, election results (gramophone records in the intervals) ; (2) possibly WTAM (Cleveland), U.S.A., which is often received in Great Britain. Naylor (Peacehaven): Münster, relaying concert from "Hotel Zur Post " (Elberfeld). St. Jacut (Kent): Barcelona (EAJ1). Doc (Belfast): Oslo. Moonshine (Melrose): Cannot trace without some estimation of WL. Wagge (Cowley): Berlin. Königswausterhausen, German National Anthem "Deutschland ueber alles," music by Haydn. H.F. 42; (a) PTT Lyons on 40.20 m. (b) We do not know the call, but apparently a short wave transmitter of the Cie Générale; (c) Private transmitter, Berlin; (d) We have not traced the Spanish short wave station. Twin Reflex (Hammersmith): WGY (Schenectady) received direct. G. L. W. (Bucks.): Although you give many details we cannot make any search as you give no idea of WL. Smugger (Shalford): (1) PTT Remes; (2) only English lesson given at that time was by the Ecole Supérieure, Paris; possibly received through Malmo. Muff: No, this does not tally with the Juan-les-Pins programme; more probably Bordeaux, Radio-Sud-Ouest, of which detailed programmes are not published. D. Brand (Rosebury Terrace): A Polish station giving election results (gramophone records in the intervals) ; you do not state WL., so cannot trace actual transmitter. Radio (Lympne): Cannot confirm, but possibly relayed by Moscow. New Comet (Eastbourne): We cannot trace these items in programmes, but the WL. would seem to Huizen, which at that time was transmitting on 1.950 m. (Children's Hour). Reinartz (Sunderland): Stockholm.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 17, similarity: 0.400 (first_12_chars)
+     Line: G. T. C. (Heald Green): WGY (Schenectady) received direct.
+  2. Index 17, similarity: 0.333 (first_8_chars)
+     Line: G. T. C. (Heald Green): WGY (Schenectady) received direct.
+  3. Index 5, similarity: 0.300 (first_12_chars)
+     Line: Moonshine (Melrose): Berlin.
+

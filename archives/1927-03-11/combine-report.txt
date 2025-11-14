@@ -1,0 +1,78 @@
+Combine Report for 1927-03-11
+============================================================
+
+Merge 1: IMG_2933.txt + IMG_2934.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: J. H. Jones (Tonbridge): Both do appear to be either Madrid (EAJ7) or Cadiz (EAJ3).
+File B matching line: J. H. Jones (Tonbridge): Details too vague, either Madrid (EAJ7) or Cadiz (EAJ3); both on the air at that time.
+
+Merge 2: merged_1 + IMG_2935.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 9
+Match strength: 1.000
+
+File A last line: J. E. S. (Motherwell): relay only.
+File B matching line: J. E. S. (Motherwell): Langenberg, relay from Dortmund studio and Café Korso in that city.
+
+Merge 3: merged_2 + IMG_2936.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: J. E. H. (Rhondda): (1) KDKA (East Pittsburgh) 309 m., (2) possibly WCCO (Minneapolis), 416 m.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 21, similarity: 0.500 (first_8_chars)
+     Line: J. R. Evans (Cardiganshire): (1) You do not give estimated WL., but Langenberg, (2) Cannot trace without WL. as many stations gave dance music.
+  2. Index 1, similarity: 0.333 (first_8_chars)
+     Line: J. L. (Swansea): Yes, Leipzig, but this station is below Stuttgart, on 365 m.
+  3. Index 5, similarity: 0.333 (first_8_chars)
+     Line: J. Bennett (Bradford): Cadiz (experimental concert).
+
+Merge 4: merged_3 + IMG_2937.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: A. L. Royer (Highgate): KDKA (East Pittsburgh) on 309 m.
+File B matching line: A. L. Royer (Highgate): KDKA (East Pittsburgh) on 309 m.
+
+Merge 5: merged_4 + IMG_2938.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 12
+Match strength: 0.760
+
+File A last line: 2VHWF: (56) Cadix opera,
+File B matching line: 2VHV: (56) Cadiz (experimental concert), (57) Possibly WJY (New York), (58) Madrid (EAJ7), (59) cannot trace.
+
+Merge 6: merged_5 + IMG_2939.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Craigo: Obviously Langen-
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 34, similarity: 0.429 (first_8_chars)
+     Line: Crosier (York): Yes, Kovno (Lithuania).
+  2. Index 10, similarity: 0.375 (first_8_chars)
+     Line: Clearton (Edmonton): Milan.
+  3. Index 38, similarity: 0.333 (first_8_chars)
+     Line: Spain (Kent): Koenigsberg (329 m.) relaying Danzig.
+
+Merge 7: merged_6 + IMG_2941.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 0.909
+
+File A last line: Polkyth Two (St. Austel):
+File B matching line: Polkynth Two (St. Austell): Radio-Catalana (Barcelona EAJ13).
+

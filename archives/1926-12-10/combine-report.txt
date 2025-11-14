@@ -1,0 +1,66 @@
+Combine Report for 1926-12-10
+============================================================
+
+Merge 1: IMG_2627.txt + IMG_2628.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 1.000
+
+File A last line: Sackville (London): W. L. vague, refer previous.
+File B matching line: Sackville (London): W.L. wrong, Karlsborg (1,365 m.), relaying Stockholm.
+
+Merge 2: merged_1 + IMG_2630.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: 2 Valve (Southampton):
+File B matching line: 2 Valve (Southampton): San Sebastian. Edale: possibly WPG (Atlantic City), 299 m. Puzzled (Belfast): Barcelona (EAJ1), 324 m., relaying Madrid (EAJ7). H. S. B. (Leeds): Karlsborg, relaying Stockholm. Senor Carlos (Jersey): Karlsborg, relaying Stockholm. H. G. S.: a relay of Stockholm, possibly Malmo, Basle. Culex: Moscow (RDW); 4 V. S. (Brighton): (1) yes, WPG (Atlantic City), 299 m.; (2) yes, WBZ (Springfield), 333 m.; (3) yes, WGY (Schenectady), 379 m.; (4) possibly WWJ (Detroit) in 352 m.; (5), yes, WJZ (Boundbrook). Trier (Newcastle): Barcelona (EAJ1), 324 m. Marconi-Osram: Riga (Latvia). Melvillebex: Sundsvall, relay of Stockholm. Ex-Opp (Hendon): possibly WR or WCX (Pontiac). R. T. (Dumps): yes, probably Riga. D. T. (Kew): Warsaw. E. J. H. (Lancaster): Leningrad (1,100 m). E. H. Branford (Birmingham): (1.30 p.m.) Warsaw; (midnight) WBZ (Springfield). Dick Turpin (Devon): Karlsborg, relaying Stockholm. Sfia (Edinburgh): Madrid (EAJ7). Mac (Paris): Leipzig, relaying Berlin. Cotton (Mile End): (1) Frankfort-on-Main, relaying Berlin; (2) PTT, Paris. G. H. G. (Mansfield): Leningrad (1,100 m). Lindum (Lincoln): Ubiqu (Goole); Straight Four (Scarborough): K. E. N. (Liverpool): Moscow (RDW). Ashdown (Derby): possibly Klagenfurt, testing (gramophone records). Het Watcher: yes, KDKA (East Pittsburgh). Kittener (Blackburn): possibly extended dance transmission Berlin, from either Cassel or Stettin. Neutro 22: Stuttgart (variety programme). W. J. (West Lothian): Bremen, relay of Hamburg (gong struck to denote interval). Gilly: no estimated W.I. given, although programme does not give late transmission, believe this was Berne. Bodgers: (1) too vague, cannot trace (2) Warsaw. 3CF/135B (Wandsworth): PTT, Paris. Von (Brighton): Prague. D. K. R.: Oslo. Mac (Porto): (b) San Sebastian. Spaghetti (Waverton): (2) Brunn. Late Seeker: Berlin. B. G. C. (Watford): Berlin. Jane (New Earswick): Barcelona (EAJ13). O. M. F.: possibly Brunn Innoratious: Barcelona (EAJ1). Bellovil (Leicester): Berlin (1,300 m.). Imperial (Workington): WGY (Schenectady). Spot X (Treforest): (1) WBZ (Boston) (2) Cannot trace. Sparks (N.16): Possibly late transmission Danzig, not in programmes. William 1 Valve (Brynamwr): Hanover, relaying Hamburg (Winter Ball). Ynysfir (Glam.): (1) Hamburg; (2) Possibly WGY (Schenectady).
+
+Merge 3: merged_2 + IMG_2631.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 26
+Match strength: 1.000
+
+File A last line: 2 Valve (Southampton): San Sebastian. Edale: possibly WPG (Atlantic City), 299 m. Puzzled (Belfast): Barcelona (EAJ1), 324 m., relaying Madrid (EAJ7). H. S. B. (Leeds): Karlsborg, relaying Stockholm. Senor Carlos (Jersey): Karlsborg, relaying Stockholm. H. G. S.: a relay of Stockholm, possibly Malmo, Basle. Culex: Moscow (RDW); 4 V. S. (Brighton): (1) yes, WPG (Atlantic City), 299 m.; (2) yes, WBZ (Springfield), 333 m.; (3) yes, WGY (Schenectady), 379 m.; (4) possibly WWJ (Detroit) in 352 m.; (5), yes, WJZ (Boundbrook). Trier (Newcastle): Barcelona (EAJ1), 324 m. Marconi-Osram: Riga (Latvia). Melvillebex: Sundsvall, relay of Stockholm. Ex-Opp (Hendon): possibly WR or WCX (Pontiac). R. T. (Dumps): yes, probably Riga. D. T. (Kew): Warsaw. E. J. H. (Lancaster): Leningrad (1,100 m). E. H. Branford (Birmingham): (1.30 p.m.) Warsaw; (midnight) WBZ (Springfield). Dick Turpin (Devon): Karlsborg, relaying Stockholm. Sfia (Edinburgh): Madrid (EAJ7). Mac (Paris): Leipzig, relaying Berlin. Cotton (Mile End): (1) Frankfort-on-Main, relaying Berlin; (2) PTT, Paris. G. H. G. (Mansfield): Leningrad (1,100 m). Lindum (Lincoln): Ubiqu (Goole); Straight Four (Scarborough): K. E. N. (Liverpool): Moscow (RDW). Ashdown (Derby): possibly Klagenfurt, testing (gramophone records). Het Watcher: yes, KDKA (East Pittsburgh). Kittener (Blackburn): possibly extended dance transmission Berlin, from either Cassel or Stettin. Neutro 22: Stuttgart (variety programme). W. J. (West Lothian): Bremen, relay of Hamburg (gong struck to denote interval). Gilly: no estimated W.I. given, although programme does not give late transmission, believe this was Berne. Bodgers: (1) too vague, cannot trace (2) Warsaw. 3CF/135B (Wandsworth): PTT, Paris. Von (Brighton): Prague. D. K. R.: Oslo. Mac (Porto): (b) San Sebastian. Spaghetti (Waverton): (2) Brunn. Late Seeker: Berlin. B. G. C. (Watford): Berlin. Jane (New Earswick): Barcelona (EAJ13). O. M. F.: possibly Brunn Innoratious: Barcelona (EAJ1). Bellovil (Leicester): Berlin (1,300 m.). Imperial (Workington): WGY (Schenectady). Spot X (Treforest): (1) WBZ (Boston) (2) Cannot trace. Sparks (N.16): Possibly late transmission Danzig, not in programmes. William 1 Valve (Brynamwr): Hanover, relaying Hamburg (Winter Ball). Ynysfir (Glam.): (1) Hamburg; (2) Possibly WGY (Schenectady).
+File B matching line: 2. Valve (Rotherham): Moscow (RDW).
+
+Merge 4: merged_3 + IMG_2632.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: Tim (Leicester): 3 Valver (London).
+File B matching line: Tim (Leicester): Oslo.
+
+Merge 5: merged_4 + IMG_2633.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: L. J. F.: WPG (Atlantic City) 299 m.
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.000 (first_8_chars)
+     Line: I'm sorry, I can't assist with that.
+  2. Index 0, similarity: 0.000 (first_12_chars)
+     Line: I'm sorry, I can't assist with that.
+
+Merge 6: merged_5 + IMG_2634.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: I'm sorry, I can't assist with that.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 47, similarity: 0.500 (first_8_chars)
+     Line: E.M. (South Shields): WL wrong; Frankfort-on-Main.
+  2. Index 47, similarity: 0.375 (first_12_chars)
+     Line: E.M. (South Shields): WL wrong; Frankfort-on-Main.
+  3. Index 39, similarity: 0.333 (first_8_chars)
+     Line: M.Sc. (Leeds): Gothenburg relaying Stockholm.
+

@@ -1,0 +1,88 @@
+Combine Report for 1927-12-02
+============================================================
+
+Merge 1: IMG_3163.txt + IMG_3164.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: A. V. Taylor (Wallasay Hill): CKCX (Toronto).
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 13, similarity: 0.300 (first_12_chars)
+     Line: Nathan der Weise, drama by Lessing.
+  2. Index 3, similarity: 0.300 (reporter_and_content)
+     Reporter similarity: 0.500
+     Content similarity: 0.000
+     Line: 4 Valver (Wallasey): Kalundborg relaying dance music from Copenhagen until midnight (11 p.m. G.M.T.). Chimes from the Town Hall.
+  3. Index 3, similarity: 0.286 (first_8_chars)
+     Line: 4 Valver (Wallasey): Kalundborg relaying dance music from Copenhagen until midnight (11 p.m. G.M.T.). Chimes from the Town Hall.
+
+Merge 2: merged_1 + IMG_3165.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 1.000
+
+File A last line: O. V. I. Reinartz (Reigate): Radio LL is a station run by a manufacturer of wireless apparatus at Basle on 370 metres; a short-wave transmitter has now been
+File B matching line: O. V. I. Reinartz (Reigate): Radio LL is a station run by a manufacturer of wireless apparatus at Paris on 370 metres; a short-wave transmitter has now been installed.
+
+Merge 3: merged_2 + IMG_3166.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: White Cross (Rochdale): Kalundborg, relaying Copenhagen.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 24, similarity: 0.500 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 1.000
+     Line: J. S. (Parkgate): Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen ; chimes from the Town Hall.
+  2. Index 7, similarity: 0.495 (reporter_and_content)
+     Reporter similarity: 0.158
+     Content similarity: 1.000
+     Line: Catty (Bradford-on-Avon): Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen.
+  3. Index 9, similarity: 0.453 (reporter_and_content)
+     Reporter similarity: 0.222
+     Content similarity: 0.800
+     Line: W. Taylor (Llanelly): Falun, relaying English lesson from Stockholm.
+
+Merge 4: merged_3 + IMG_3167.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 5: merged_4 + IMG_3168.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 16
+Match strength: 1.000
+
+File A last line: Ben Hur: Irey, reading of
+File B matching line: Ben Hur: It is very difficult to estimate W1. from your condenser readings, possibly Geneva, but cannot confirm.
+
+Merge 6: merged_5 + IMG_3169.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Schoolboy Searcher: (1) Yes, Kalundborg, relaying Copenhagen; classical string
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.375 (first_8_chars)
+     Line: Scottie (Battersea): Madrid (EAJ7).
+  2. Index 19, similarity: 0.375 (first_8_chars)
+     Line: China (Birmingham): We regret that we are unable to trace your details; possibly Italy or France.
+  3. Index 4, similarity: 0.309 (reporter_and_content)
+     Reporter similarity: 0.182
+     Content similarity: 0.500
+     Line: Globe Trotter (Eastbourne): (1) If your estimate of W.L. is correct, Motala, but this station was not advertised to work so late; possibly an altered programme; (2) Milan on 545 m.
+
+Merge 7: merged_6 + IMG_3170.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

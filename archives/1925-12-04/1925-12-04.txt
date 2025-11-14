@@ -2,8 +2,8 @@ Filey 7: Probably Karlsborg relaying Stockholm.
 Four-Valver: No date given.
 Trier: Muenster.
 X.Y.Z (Leigh): Oslo.
-Curious (Maidenhead): Undyne: Radio Berne.
-E.H. Ball (Crown Hill): 
+Curious (Maidenhead): E.H. Ball in Crown Hills.
+Undyne: Radio Berne.
 Grid Leak (Bristol): (o) Barcelona (Catalana).
 G.C.W.: Cannot trace.
 Radio Taxpayer: Madrid (Union Radio).
@@ -16,7 +16,7 @@ Knob Turner: Barcelona (325 m.).
 Anode: Barcelona (Catalana).
 Four Valve: Madrid (Union Radio).
 Vic Pip: San Sebastian.
-Eavesdropper: Cadiz EAJ3, further coupon missing.
+Eavesdropper: (1) Cadiz EAJ3, further coupon missing.
 Chippy: San Sebastian.
 Tonyphone: (a) 2RN Dublin (390 m.), (b) Barcelona (EAJ13).
 Filament: Cadiz (EAJ3).
@@ -118,7 +118,7 @@ Four Valves: Insufficient detail.
 Mascalling: Cardiff.
 Reflex (Appleby): Probably San Sebastian.
 Safety: San Sebastian.
-Two-Valver (Bournemouth).
+Two-Valver (Bournemouth):
 Colvester: Nuremberg.
 P.A.T. Artie: Zurich.
 Tiff: Probably amateur.
@@ -134,7 +134,7 @@ Bridgedite: Barcelona (EAJ13).
 Maniac, Dacanam, Tadger: S.S., Hobby, Wern: Probably Madrid (Radio Iberica).
 C.R.B. (Wallington): Time not stated.
 Bryonia, F.C.S.: Dortmund.
-Senimore: Radio Toulouse.
+Senimore: RadioToulouse.
 Squarelaw: Probably Cardiff.
 Omo: Presumably Hanover.
 Supersonic: Cardiff.

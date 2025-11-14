@@ -1,0 +1,11 @@
+PRACTICAL SEARCHING HINTS.
+
+Increasing Selectivity.
+
+In the majority of receiving sets containing one or more stages of high-frequency amplifica- tion the valves that precede the rectifier are of the medium impedance type, with an A.C. re- sistance of the order of 20,000 ohms. When such valves are worked with their grids at nominal zero potential by taking the grid returns direct to low- tension negative there is often a small flow of grid current which introduces damping, and therefore broadens the tuning. The filament resistances of high-frequency valves should always be placed in the negative filament leg, for in this way the grid is given a slight negative bias. Matters can often be improved by going a step further and giving the high-frequency valves a greater negative grid bias. This can be done by inserting a single dry cell between low tension negative and the grid return. The positive of this cell must of course be connected to L.T., and its negative to the grid return.
+
+Another method of obtaining increased selectivity is to use valves of higher impedance, such as those designed for resistance capacity amplification. Such valves, however, do not suit every set and in certain cases they may be found not too easy to neutralise. A simple practical test will very quickly show whether such valves are likely to be satisfactory or not.
+
+Where a grid-leak-and-condenser rectifier is used the selectivity may be increased by the use of a potentiometer. This component is wired directly across the low-tension leads and the grid-leak return, instead of being connected to low-tension positive, is taken to its slider. It will often be found that signal strength does not suffer, whilst selec- tivity shows a marked increase if the slider of the potentiometer is moved some little distance away from the positive end of its travel.
+
+R. W. H.

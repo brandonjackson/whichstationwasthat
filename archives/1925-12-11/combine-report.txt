@@ -1,0 +1,52 @@
+Combine Report for 1925-12-11
+============================================================
+
+Merge 1: IMG_1776.txt + IMG_1778.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Malvern: Hamburg.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 22, similarity: 0.475 (reporter_and_content)
+     Reporter similarity: 0.125
+     Content similarity: 1.000
+     Line: Victoria: Hamburg.
+  2. Index 29, similarity: 0.455 (reporter_and_content)
+     Reporter similarity: 0.091
+     Content similarity: 1.000
+     Line: Mississippi: Hamburg.
+  3. Index 7, similarity: 0.429 (first_8_chars)
+     Line: Minter (Dartmouth): Hanover.
+
+Merge 2: merged_1 + IMG_1779.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Belfast: Hanover.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 67, similarity: 0.571 (reporter_and_content)
+     Reporter similarity: 0.286
+     Content similarity: 1.000
+     Line: Eady: Hanover (269 m.).
+  2. Index 61, similarity: 0.486 (reporter_and_content)
+     Reporter similarity: 0.143
+     Content similarity: 1.000
+     Line: Caliban: Hanover.
+  3. Index 49, similarity: 0.475 (reporter_and_content)
+     Reporter similarity: 0.125
+     Content similarity: 1.000
+     Line: J.C. (Bolton): Hanover.
+
+Merge 3: merged_2 + IMG_1780.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 20
+Match strength: 0.833
+
+File A last line: Excel: W.L. and call-sign wrong.
+File B matching line: Excel: Cannot trace.
+

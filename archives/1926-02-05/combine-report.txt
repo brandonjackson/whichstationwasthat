@@ -1,0 +1,36 @@
+Combine Report for 1926-02-05
+============================================================
+
+Merge 1: IMG_1826.txt + IMG_1827.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 1.000
+
+File A last line: Memo: Prague—Strasbourg.
+File B matching line: Memo: Prague-Strasnice. L.42914: Hamburg. Coil Pusher: Moscow (RDW).
+
+Merge 2: merged_1 + IMG_1828.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Transformer: Koenigswusterhausen. Powerful Three: (a) San.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 36, similarity: 0.375 (first_8_chars)
+     Line: A.F.R., Barbers Pole: Cadiz (EAJ3).
+  2. Index 84, similarity: 0.375 (first_8_chars)
+     Line: No Answer: Hilversum.
+  3. Index 84, similarity: 0.364 (first_12_chars)
+     Line: No Answer: Hilversum.
+
+Merge 3: merged_2 + IMG_1829.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 22
+Match strength: 1.000
+
+File A last line: Burn Valvefou, Soro (Dennington): Berlin testing.
+File B matching line: Burn Valve (Soro, Denmark): 2,400 m.
+

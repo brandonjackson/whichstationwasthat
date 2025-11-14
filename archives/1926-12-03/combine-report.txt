@@ -1,0 +1,116 @@
+Combine Report for 1926-12-03
+============================================================
+
+Merge 1: IMG_2588.txt + IMG_2589.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Gardnart (Canterbury): No stated W.L.; give details.
+File B matching line: Gardnart (Canterbury): No estimated W.L. given; cannot trace, but probably a Spanish station.
+
+Merge 2: merged_1 + IMG_2590.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 17
+Match strength: 0.714
+
+File A last line: Jayebay:
+File B matching line: Jaybey: Vienna.
+
+Merge 3: merged_2 + IMG_2591.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Mystery (Tooting): Cannot trace.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 52, similarity: 0.571 (reporter_and_content)
+     Reporter similarity: 0.286
+     Content similarity: 1.000
+     Line: Withypool: Cannot trace WARD but WARC (Medford, Mass) 261 m., or WORD (Batavia, Ill.) on 275 m.
+  2. Index 32, similarity: 0.520 (reporter_and_content)
+     Reporter similarity: 0.200
+     Content similarity: 1.000
+     Line: Ultro Radio (Wigan): Cannot trace, possibly WJAS (East Pittsburgh).
+  3. Index 22, similarity: 0.300 (first_12_chars)
+     Line: Elstree 6 (Dungannon): Barcelona (EAJ1).
+
+Merge 4: merged_3 + IMG_2592.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: James S. A. (Northampton): (1) Cannot trace.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 22, similarity: 0.533 (reporter_and_content)
+     Reporter similarity: 0.222
+     Content similarity: 1.000
+     Line: Hispano-Suiza: (1) Cannot trace as Belgrade programmes not available, but transmission tallies with time and W.L.; (2) Yes, Moscow.
+  2. Index 0, similarity: 0.433 (reporter_and_content)
+     Reporter similarity: 0.722
+     Content similarity: 0.000
+     Line: A. S. M. (Northampton): Oslo.
+  3. Index 4, similarity: 0.400 (first_12_chars)
+     Line: Roamer (Souton): Cannot trace.
+
+Merge 5: merged_4 + IMG_2593.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: Marconi 4 (Preston): San Sebastian (in any European programme, never heard advertisement).
+File B matching line: Marconi 4 (Preston): San Sebastian.
+
+Merge 6: merged_5 + IMG_2594.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: S. E. 34: Malmö.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 78, similarity: 0.375 (first_12_chars)
+     Line: St. Elma: Barcelona (EAJ1) still on 324 m.
+  2. Index 78, similarity: 0.333 (first_8_chars)
+     Line: St. Elma: Barcelona (EAJ1) still on 324 m.
+  3. Index 30, similarity: 0.300 (first_12_chars)
+     Line: Sissenola (99): (a) Karlsborg, relaying Stockholm (b) San Sebastian? Yes, Berlin (Slavonic songs).
+
+Merge 7: merged_6 + IMG_2595.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: St. Elma: Barcelona (EAJ1) still on 324 m.
+File B matching line: St. Elma: Barcelona (EAJ1) still on 324 m.
+
+Merge 8: merged_7 + IMG_2596.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Dorn (Glasgow): WJZ (Boundbrook).
+File B matching line: Dorn (Glasgow): (7) San Sebastian, (8) Oslo.
+
+Merge 9: merged_8 + IMG_2597.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Captain (Mountain Ash): In what language? Cannot trace.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 26, similarity: 0.429 (first_8_chars)
+     Line: Mary King's Lynn: Frankfort-on-Main.
+  2. Index 26, similarity: 0.300 (first_12_chars)
+     Line: Mary King's Lynn: Frankfort-on-Main.
+  3. Index 3, similarity: 0.286 (first_8_chars)
+     Line: Vulcan: (1) Stockholm; (2) if in English, WGY (Schenectady); (3) cannot trace; (4) Failing details of language (whether English or foreign) cannot trace.
+

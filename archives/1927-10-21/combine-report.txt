@@ -1,0 +1,50 @@
+Combine Report for 1927-10-21
+============================================================
+
+Merge 1: IMG_3114.txt + IMG_3115.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: I'm sorry, I can't assist with that.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.200 (first_12_chars)
+     Line: Searchor (Rusholme): concert from Cassel (lady announcer).
+  2. Index 15, similarity: 0.200 (first_12_chars)
+     Line: Drummer (Maltby): (1) Possibly Malmö, which was relaying a legal talk from Göteborg at that time; (2) Bordeaux Lafayette; (3) yes, Koenigs Wusterhausen; (4) Barcelona (EAJ1). Gramophone records of Beethoven’s 5th Symphony from the London 2LO Stand-by transmitter on the same wavelength as 2LO; (5) yes, Stuttgart announcer.
+  3. Index 1, similarity: 0.167 (first_8_chars)
+     Line: (1) Warsaw; (2) if WL correct, Prague; (3) possibly Madrid (EAJ7) relaying Barcelona (EAJ1); (4) Bordeaux-Lafayette; (5) if WL correct, Madrid (EAJ7). Variety concert; (6) Barcelona (EAJ1) relaying Madrid (EAJ7), regret, cannot trace.
+
+Merge 2: merged_1 + IMG_3116.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Drummer (Maltby): (1) Possibly Malmö, which was relaying a legal talk from Göteborg at that time; (2) Bordeaux Lafayette; (3) yes, Koenigs Wusterhausen; (4) Barcelona (EAJ1). Gramophone records of Beethoven’s 5th Symphony from the London 2LO Stand-by transmitter on the same wavelength as 2LO; (5) yes, Stuttgart announcer.
+File B matching line: Drummer (Malthy): (1) Possibly Malmö, which was relaying a legal talk from Göteborg at that time; (2) Bordeaux Lafayette; (3) yes, Koenigsberg; (4) Barcelona (EAJ1). Gramophone records of Beethoven's 5th Symphony (5) yes, the London Stand-by transmitter works on the same W.L. as 2LO; (6) yes, Koenigswusterhausen (Press) on 2,525 and 2,900 m.; (7) Warsaw (a lady announcer).
+
+Merge 3: merged_2 + IMG_3117.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Leather (Wandsworth): (1) We do not know of any Spanish or Italian station on that W.L.; would tally with either Warsaw or Motala, as these stations do not always close down to adver-
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 5, similarity: 0.286 (first_8_chars)
+     Line: Wander Plug: Stuttgart (interval signal: 3 notes, C, D, G, produced by oscillating valves); at 7 p.m., a relay of an English programme from Frankfurt-on-Main (interval signal: ticking of metronome).
+  2. Index 8, similarity: 0.286 (first_8_chars)
+     Line: 5 Valves: This would tally with Warsaw, which was relaying a concert for orchestra and piano from the Philharmonic Hall in that city, at that time; call (phonetic): “Rhalo! Rhalo! Polskie Radio Varschava.”
+  3. Index 4, similarity: 0.267 (reporter_and_content)
+     Reporter similarity: 0.111
+     Content similarity: 0.500
+     Line: Straight 2 (Shawlands): (1) If W.L. correct, apparently Warsaw (a lady announcer). Weather and news, and, possibly, gramophone records; (2) Koenigswusterhausen On 13/10/27 “Half an hour for the Housewife”; (3) you do not say at what time you heard this transmission, but details would tally with Moscow Comintern (RDW), which broadcasts special bulletins for the benefit of men’s clubs and rest houses; they are read slowly in order to allow transcription to be made of the news.
+
+Merge 4: merged_3 + IMG_3118.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

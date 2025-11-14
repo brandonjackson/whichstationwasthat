@@ -1,0 +1,109 @@
+Combine Report for 1928-03-23
+============================================================
+
+Merge 1: IMG_3316.txt + IMG_3317.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 0.833
+
+File A last line: BM/EVB: Hanover, Bremen or Kiel, relaying Hamburg.
+File B matching line: B/M/EBVB (W.6): Hanover, Bremen or Kiel, relaying Hamburg (a relay of foreign stations); see programme for the latter station in World-Radio.
+
+Merge 2: merged_1 + IMG_3318.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 0.960
+
+File A last line: W.F.G. (Loughborough): (1) Yes, Hilversum and Kootwijk (Holland).
+File B matching line: W. F. C. (Loughborough): (1) Yes, Huizen (Holland) which transmits on 1,950 m. all day on Sundays, (2) Scheveningen-Haven, (3) Motala, relaying church service from Stockholm, (4) cannot trace; coupon must be sent with each enquiry.
+
+Merge 3: merged_2 + IMG_3319.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: RAJB (Cosham): (1) K.H.J. (Los Angeles) on 405.2 m. ; (2) WKBG (Birmingham) 218 m. ; (3) WSOE (Milwaukee, Wisconsin) on 270.1 m. ; (4) CNRW (Winnipeg) 384.4 m. ; (5) (a) cannot trace (b) WABC (Rich-
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.200 (first_12_chars)
+     Line: Rolls (Hazeldean Lodge): Apparently a British amateur in India, but do not know name and address. Max (Oxford): Kattowitz, election results with gramophone records in the intervals. Sailor: We feel sure you were mistaken, as this was Union Radio, Madrid (two musical plays). C. Hunt (Luton): Regret, but we cannot recognise this melody in connection with any German transmitter. Anita (Crook): All German stations use the melody known as "Austria" (music by Haydn) which is the National Anthem of that country. Retlaw (Woodford Green): (1) Motala, relaying Children's Hour from Stockholm. Muggins (Clapham): Kattowitz, broadcasting election results with gramophone records in the intervals. Bunny (Whitstable): Yes, Leningrad. Earlyriser (Thorpe Bay): Frankfurt-on-Main (Nelson Revue). Domino (Waterford): Cannot trace as you give no estimate of WL.; condenser readings do not help. Hugo (Wimbledon Park): Moscow Comintern (RDW). Walton (Burton-on-Trent): An amateur transmitter, but cannot trace call sign. Knob Twister (Lincs.): Koenigsusterhausen (Press). Ultra-Audion (Birmingham): (1) Koenigsberg and Danzig; (2) PTT Lille; (3) Cork relaying Dublin; (4) Rome (a lady announcer). Kene: Posen (Poland) gramophone records and election results. Night Hawk (Lincoln): Belfast, relaying from the Carlton Ball Room ; (2) details are too vague, regret, cannot trace. L. G. K. (E. 6.): Apparently Langenberg; tests were made with a view to future U.S.A. relays. Jig Saw (Southampton): (1) Frankfurt-on-Main (The Nelson Revue); (2) and 3) coupon must be sent with each enquiry. Myra Gray (Pontefract): Stuttgart (variety programme). Dinas (Gornwall): (1) WL. apparently wrong; details tally with Frankfurt-on-Main (the Nelson Revue); (2) Motala, relaying church service from Stockholm. D. W. L. (Barrosa Barracks, Aldershot): You give no estimate of WL.; regret cannot trace; so many Continental stations gave dance music at that time. Delta (Paignton): It is almost impossible to trace transmitter from your condenser readings, but we suggest that the station you heard was the same as for "Daily Mail Continental" music and that this was probably Langenberg, not Cologne. Many Continental stations gave dance music at that time.
+  2. Index 3, similarity: 0.167 (first_8_chars)
+     Line: Rolls (Hazeldean Lodge): Apparently a British amateur in India, but do not know name and address. Max (Oxford): Kattowitz, election results with gramophone records in the intervals. Sailor: We feel sure you were mistaken, as this was Union Radio, Madrid (two musical plays). C. Hunt (Luton): Regret, but we cannot recognise this melody in connection with any German transmitter. Anita (Crook): All German stations use the melody known as "Austria" (music by Haydn) which is the National Anthem of that country. Retlaw (Woodford Green): (1) Motala, relaying Children's Hour from Stockholm. Muggins (Clapham): Kattowitz, broadcasting election results with gramophone records in the intervals. Bunny (Whitstable): Yes, Leningrad. Earlyriser (Thorpe Bay): Frankfurt-on-Main (Nelson Revue). Domino (Waterford): Cannot trace as you give no estimate of WL.; condenser readings do not help. Hugo (Wimbledon Park): Moscow Comintern (RDW). Walton (Burton-on-Trent): An amateur transmitter, but cannot trace call sign. Knob Twister (Lincs.): Koenigsusterhausen (Press). Ultra-Audion (Birmingham): (1) Koenigsberg and Danzig; (2) PTT Lille; (3) Cork relaying Dublin; (4) Rome (a lady announcer). Kene: Posen (Poland) gramophone records and election results. Night Hawk (Lincoln): Belfast, relaying from the Carlton Ball Room ; (2) details are too vague, regret, cannot trace. L. G. K. (E. 6.): Apparently Langenberg; tests were made with a view to future U.S.A. relays. Jig Saw (Southampton): (1) Frankfurt-on-Main (The Nelson Revue); (2) and 3) coupon must be sent with each enquiry. Myra Gray (Pontefract): Stuttgart (variety programme). Dinas (Gornwall): (1) WL. apparently wrong; details tally with Frankfurt-on-Main (the Nelson Revue); (2) Motala, relaying church service from Stockholm. D. W. L. (Barrosa Barracks, Aldershot): You give no estimate of WL.; regret cannot trace; so many Continental stations gave dance music at that time. Delta (Paignton): It is almost impossible to trace transmitter from your condenser readings, but we suggest that the station you heard was the same as for "Daily Mail Continental" music and that this was probably Langenberg, not Cologne. Many Continental stations gave dance music at that time.
+  3. Index 2, similarity: 0.100 (first_12_chars)
+     Line: (6) 4QG Brisbane (385 m.); (7) possibly Radio-sud-Ouest, Bordeaux; (8) regret, cannot trace. Pigs Pay (Wandsworth): Regret, but cannot possibly identify transmission from condenser readings ; some estimate of WL. must be given.
+
+Merge 4: merged_3 + IMG_3320.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 5: merged_4 + IMG_3321.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 0.714
+
+File A last line: Spoon (Norfolk): Anserdam PTT Lille, but not always.
+File B matching line: Spooner (Norfolk): Apparently PTT Lille, but not advertised in programmes.
+
+Merge 6: merged_5 + IMG_3322.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: H.F. 42: (a) AFK (Doebberitz) on 37.65 m.; (b) this was 2FC testing through
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 30, similarity: 0.400 (reporter_and_content)
+     Reporter similarity: 0.000
+     Content similarity: 1.000
+     Line: ALS (Coventry): (a) A.GJ is stated to be on 56.7 m.; (b) AFK (37.65 m., comma secha s); do not know of any other on that W.L.; (c) PTT Lyons.
+  2. Index 16, similarity: 0.250 (first_12_chars)
+     Line: E. Hayward (Dorchester): Langenberg, relaying variety programme from Cologne.
+  3. Index 58, similarity: 0.250 (first_8_chars)
+     Line: H.G.
+
+Merge 7: merged_6 + IMG_3323.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: A.H.M. (Old Kent Road): Your W.L. must be wrong; regret, cannot.
+File B matching line: A. H. M. (Old Kent Road): Your WL. must be wrong ; regret, cannot trace.
+
+Merge 8: merged_7 + IMG_3324.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Townite (Birkby): (1) Frankfurt-on-Main, the early morning broadcast of physical exercises (gramophone records in the intervals) (2) Hamburg, the early morning broadcasts of weather and measurement must be sent with each enquiry.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 4, similarity: 0.677 (reporter_and_content)
+     Reporter similarity: 0.462
+     Content similarity: 1.000
+     Line: Birkby: (1) Frankfurt-on-Main, the early morning broadcast (gramophone records in the intervals); (2) Hamburg, the early morning broadcast of weather and news. Coupon must be sent with each enquiry.
+  2. Index 1, similarity: 0.300 (first_12_chars)
+     Line: Wowksi (Kirkby Stephen): Fog beacons (1000 m.).
+  3. Index 1, similarity: 0.286 (first_8_chars)
+     Line: Wowksi (Kirkby Stephen): Fog beacons (1000 m.).
+
+Merge 9: merged_8 + IMG_3325.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Festing (Southsea): Regret, cannot trace.
+Best similarity found: 0.625
+
+Closest matches (top 3):
+  1. Index 72, similarity: 0.625 (first_8_chars)
+     Line: Sheeting (Blackheath).
+  2. Index 0, similarity: 0.429 (first_8_chars)
+     Line: (Birmingham): Redbreast (York).
+  3. Index 64, similarity: 0.429 (first_8_chars)
+     Line: Wash (Inverness).
+

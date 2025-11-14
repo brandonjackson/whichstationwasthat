@@ -1,0 +1,43 @@
+Combine Report for 1926-03-05
+============================================================
+
+Merge 1: IMG_1853.txt + IMG_1854.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_1855.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_1856.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Flip (Liverpool): not in programmes, presumably Barcelona.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 23, similarity: 0.625 (reporter_and_content)
+     Reporter similarity: 0.375
+     Content similarity: 1.000
+     Line: Four Valve (Bristol): not in programmes, cannot trace.
+  2. Index 19, similarity: 0.400 (first_12_chars)
+     Line: Ellivas: (a) Breslau; (b) Gothenburg.
+  3. Index 9, similarity: 0.340 (reporter_and_content)
+     Reporter similarity: 0.300
+     Content similarity: 0.400
+     Line: Four Valver (Paddington): Koenigs wusterhausen (Press).
+
+Merge 4: merged_3 + IMG_1857.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: Twin Valve
+File B matching line: Twin Valve (Bexhill): Vienna testing.
+

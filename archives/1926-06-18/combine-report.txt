@@ -1,0 +1,18 @@
+Combine Report for 1926-06-18
+============================================================
+
+Merge 1: IMG_2415.txt + IMG_2416.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Frankfort
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.250 (first_8_chars)
+     Line: Grammonian: Hanover.
+  2. Index 5, similarity: 0.250 (first_8_chars)
+     Line: Renown Super-Two (Uttoxeter): Madrid (EAJ6).
+  3. Index 9, similarity: 0.250 (first_8_chars)
+     Line: Jonnie Ronnie (Redhill): Madrid (EAJ6).
+

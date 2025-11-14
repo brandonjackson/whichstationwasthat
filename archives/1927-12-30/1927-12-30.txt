@@ -25,12 +25,33 @@ S. Fussell (Rode): Eiffel Tower (weather report).
 G. H. C. (Dover): PTT Lyons relaying PTT Paris. A relay of the Victor Hugo Festival from the Trocadero Theatre.
 A. E. (Bacup): Kallundborg, relaying Copenhagen (afternoon concert).
 Pen (Bexhill): The selection from Il Trovatore (Verdi) was from Berlin, through Koenigs wusterhausen.
+QSL (Wilmslow): (18) Yes, this was Oslo. English lesson, followed at 7 p.m. G.M.T. by time signal and relay of orchestral concert from Bergen.
+Etherite (Holt): Leningrad.
+Safety (Bexhill): 337 metres. No, this was Kalundborg relaying Copenhagen.
+Fairy (Hucknall): Motala testing (gramophone records).
+Tes (3042): (1) Radio Toulouse; (2) Rome (phone records).
+H. A. B. (Ilford): Kattowitz (Poland) apparently relaying Warsaw.
+Gossor Kelly (Birmingham): Motala.
+Night Hawk (Barry): (1) Yes, WJZ (Boundbrook); (2) Yes, WGY (Schenectady).
+J. Thompson (Barrow-in-Furness): Kattowitz (Poland) apparently relaying Warsaw.
+W. Green (Walworth): Yes, WJZ (Boundbrook).
+Tom of Birr: Dortmund relaying Langenberg (festival concert).
+Charmain (Clovelly): (1) Porsgrund relaying English lesson from Oslo; (2) Intruder relaying from the Reichsadler Hotel at Munich; (3) Details of programme were not published.
+V. S. Besso (Manchester): Kattowitz (Poland), relaying Warsaw.
+N. S. W. (Glasgow): Yes, WPG (Atlantic City).
+Brum: We regret, but we cannot possibly trace station heard without some estimate of WL.
+Busy Bee (Jersey): No, this was Kattowitz (Poland), relaying Warsaw.
+Charlie (Co. Durham): Your details are very vague, but might tally with Hamburg, which was giving dance music at that time.
+Solodyn (Paisley): Breslau (Rober Koppel Evening), songs and dances.
+S. Fussell (Rode): Eiffel Tower (weather report).
+G. H. C. (Dover): PTT Lyons relaying PTT Paris. A relay of the Victor Hugo Festival from the Trocadero Theatre.
+A. E. (Bacup): Kalundborg, relaying Copenhagen (afternoon concert).
+Pen (Bexhill): The selection from Il Trovatore (Verdi) was from Berlin, through Koenigs wusterhausen.
 QSL (Wilmslow): (18) Yes, this was Oslo. English lesson, followed at 7 p.m. G.M.T. by time signal and relay of orchestral concert from Bergen, (19) yes, Bruenn, English lesson followed at 7 p.m. by a popular orchestral concert, (20) yes, your details absolutely tally with the Rome programme, (21) yes, without doubt, Vienna (Rosenhuegel), this station gave a variety concert on that evening, and not the opera advertised.
 Spartan (Ben Rhydding): Koenigswusterhausen relaying Berlin. A dancing lesson, followed by dance music.
 School Boy (Alderley Edge): (1) Madrid (EAJ7), (2) possibly Barcelona (EAJ1).
 Chestnut: Kalundborg, relaying Copenhagen.
-Programme: 11 p.m. G.M.T. chimes from the Town Hall.
-11–11.30 p.m. G.M.T. dance music relayed from Berlin.
+Programme: 11 p.m. G.M.T. chimes from the Town Hall. 11–11.30 p.m. G.M.T. dance music relayed from Berlin.
 11.30–12 p.m. G.M.T. relay of London, and time signal from Big Ben, followed by a relay of dance music from the Restaurant Nimb at Copenhagen.
 Bibliophile (Enfield): PTT Paris. Victor Hugo Festival relayed from the Trocadero Theatre.
 Nomad (Peterborough): Huizen (Holland).
@@ -51,23 +72,6 @@ Harold W. Hicks (Norfolk): Yes, Moscow Comintern (RDW).
 Era (Tunbridge Wells): (1) Yes, Posen, (2) yes, Kattowitz.
 E. C. T. (Oldcorn): Cannot trace transmission on 30 m.; apparently amateur (gramophone records). 2NM, amateur, call sign (Surrey) on 32 m.
 N. J. G. (Portsmouth): Possibly Kharkov (Narkompotchetel).
-F. B. P. (Hove): (1) Possibly Antwerp.
-W. B. (Malta): (1) British amateur, Caterham (Surrey); call: 2NM, (2) yes, 5SW (Chelmsford), (3) cannot trace; apparently either French or Italian.
-Wyncroft (Winchmore Hill): (1) Items do not tally with any French programme, but quite possibly Radio-Sud-Ouest, Bordeaux, (2) a harmonic of Koenigsusterhausen (Press) on 2,525 m, (3) cannot trace Morse transmissions, but this would appear to be a direction-finding station.
-Victor (Hull): WL. surely wrong, details tally with PTT Paris. Victor Hugo Festival relayed from the Trocadero Theatre.
-A. L. Rogers (Stratford): Apparently an English station, but the only one giving gramophone records at that time was Sheffield; your wave-lengths are apparently wrong; regret, cannot trace first station.
-Tambour (Walthamstow): Huizen (Holland). Lunch time music.
-DSB.M.L. (Morley): Your estimate of WL. is much too vague, regret, cannot trace.
-A. J. T. (Ilford): You do not say if below or above Koenigsusterhausen, but this was apparently either Motala (Sweden) or Kalundborg (Denmark) testing.
-E. Ward (Failsworth): E Frankfurt-am-Main. The early morning broadcast of physical exercises. Gramophone records in the intervals.
-Marconiphone (Clapham Junction): (1) Yes, Madrid (EAJ7), (2) San Sebastian (EAJ8) and Seville (EAJ5), (3) Yes, Stuttgart.
-White Hayes: L.W. The short-wave transmitter of Radio LL, Paris, on 61 metres.
-Straight L (Bradford): Leningrad (News).
-Harold W. Hicks (Norfolk): Yes, Moscow Comintern (RDW).
-Era (Tunbridge Wells): (1) Yes, Posen, (2) yes, Kattowitz.
-E. C. T. (Oldcorn): Cannot trace transmission on 30 m, apparently amateur (gramophone records).
-2NM, amateur, Caterham (Surrey) on 32 m.
-N.G.G. (Portsmouth): Possibly Kharkov (Narkompotchtel).
 F. B. P. (Hove): (1) Possibly Barcelona (EAJ13), (2) Nürnberg relaying Munich. A concert of gramophone records.
 2 Valve Special (Coventry): 2YX amateur, Captain F. E. B. Jones, "Hill Crest," Wylde Green, Birmingham, 21X amateur, S. G. Taylor, Fressingfield, Littleover, Derby.
 36 Northcote Street (Northampton): Yes, Norddeich (Germany). Weather report.

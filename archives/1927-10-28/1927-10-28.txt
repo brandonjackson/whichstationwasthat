@@ -1,15 +1,14 @@
 DX Three Valver (Yorks.): Vienna (Rosenhuegel), The Doll’s House, a play by Ibsen.  
-Sir Toby (Morley): (1) Yes, Huizen (Holland) testing on 1,840 and 1,950 m., (2) Prague (Czecho-Slovakia).  
+Sir Toby (Morley): (1) yes, Huizen (Holland) testing on 1,840 and 1,950 m., (2) Prague (Czecho-Slovakia).  
 R.H.B. (Low Gables): 2KB, amateur, Mapperley, Nottingham.  
-All Concert 3: Your estimate of W.L. is surely wrong; details would tally with Kalundborg, which was relaying an orchestral concert from the Restaurant Wivel at Copenhagen from 11.0 a.m. to 1 p.m. G.M.T.  
+All Concert 3: your estimate of W.L. is surely wrong; details would tally with Kalundborg, which was relaying an orchestral concert from the Restaurant Wivel at Copenhagen from 11.0 a.m. to 1 p.m. G.M.T.  
 C. R. H. (Leacombe): Stuttgart. Interval signal: three notes, C, D, G, produced by oscillating valves.  
 Valve (Cheadle): Frankfurt-on-Main. Sports news, followed by dance music until 11.30 p.m. G.M.T.  
 XER (Filey): Aerodrome communicating with aircraft; latter asking for position.  
 L. Berry (Wakefield): Kalundborg relaying orchestral concert from the Restaurant Wivel at Copenhagen.  
 Gossor (Jacksdale): Vienna (Rosenhuegel), modern music, followed at 7.5 p.m. by The Doll’s House, a play by Ibsen.  
 Oscillating (Moseley): Budapest, interval signal produced by oscillating valves.  
-RTZ/1.V.3/J.W.F.: Lausanne, relaying church service from the Temple de Garonge at Geneva.  
-Yes, Croydon (909 m.).  
+RTZ/1.V.3/J.W.F.: Lausanne, relaying church service from the Temple de Garonge at Geneva. Yes, Croydon (909 m.).  
 Ebor (York): Kalundborg, relaying Copenhagen. On 7/10/24, relaying dance music from the Restaurant Nimb. Chimes from the Town Hall at midnight (11 p.m. G.M.T.).  
 D. Butters (Bury St Edmunds): Apparently an amateur transmitter, but as you give no call, regret, cannot trace.  
 H. T. W. (Wokingham): Yes, Scheveningen-Haven (Holland). Transmits news, stock exchange quotations, &c., only.  
@@ -40,7 +39,7 @@ Tishy: Do you mean in the English language? If so, apparently an amateur transmi
 Playful (Ealing): Boden, relaying Stockholm.  
 Pro-Plus (Camberwell): From reports received from other listeners, we believe this to have been Bratislava, giving out election results.  
 Carlton (Sheffield): Would tally with Dortmund, relaying from Café Corso in that city.  
-Tadcarwen: According to your condenser readings, we should doubt that No. 2 was Frankfurt; more possibly Berne, but No. 3 actually tallies with Frankfurt relaying recitations from Cassel.  
+Tadcarwen: according to your condenser readings, we should doubt that No. 2 was Frankfurt; more possibly Berne, but No. 3 actually tallies with Frankfurt relaying recitations from Cassel.  
 Neutrodyne (Dorking): We regret that we are unable to give the WL of private transmitters, we believe that 2XY is the call sign of a Leeds experimenter.  
 Q. H. L. (Leeds): (1) Yes, Kovno; (2) yes, Bratislava, but this station is advertised to work on 300 m.  
 Victor (Hull): Yes, apparently Bratislava (Czecho-Slovakia), election results.  
@@ -48,7 +47,7 @@ Wonder (Sleaford): Possibly Milan.
 Mystery Three (Glasgow): Moscow Comintern (RDW).  
 D. C. T. (Newbury): (1) Tallies with Copenhagen; (2) PTT Lyons, relaying PTT Marseilles.  
 XYZ (Windsor): Yes, Madrid (EAJ7); this station does not always close down at advertised time.  
-Searcher (Rusholme): (8) Possibly Kovno; (9) Yes, Koenigswusterhausen (2,525 m.) Press; (10) Scheveningen-Haven (Holland). News only; (11) Yes, Milan; (12) Possibly Leipzig; (13) Cannot trace any play on that WL; (14) Kalundborg, relaying children's hour from Copenhagen; (15) Possibly Graz, relaying Vienna; (16) Nürnberg (Open Air Choral Concert).  
+Searcher (Rusholme): (8) Possibly Kovno; (9) yes, Koenigswusterhausen (2,525 m.) Press; (10) Scheveningen-Haven (Holland). News only; (11) yes, Milan; (12) possibly Leipzig; (13) cannot trace any play on that WL; (14) Kalundborg, relaying children's hour from Copenhagen; (15) possibly Graz, relaying Vienna; (16) Nürnberg (Open Air Concert).  
 Finn: We can trace no station on about 380 m. giving the opera Faust at that time. Although not advertised in programmes, as regards the time it might tally with a transmission from Madrid (EAJ7), Saturday 15, October 15; your condenser readings would appear to tally with Warsaw.  
 Variometer: Nürnberg, a relay of open-air choral concert.  
 S. Bell (Grimsby): Huizen (Holland) setting on 1,840 and 1,950 m. (gramophone records).  

@@ -1,0 +1,36 @@
+Combine Report for 1927-04-15
+============================================================
+
+Merge 1: IMG_2975.txt + IMG_2976.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 0.960
+
+File A last line: A.B. (King's Langley): (1) Kiel, exactly; (2) Hamburg (from Café Walholf).
+File B matching line: A.L.B. (King's Langley): (1) Kiel, relaying Hamburg (from Cafe Wallhof); (2) a relay of Stockholm, possibly Malmö (260 m.).
+
+Merge 2: merged_1 + IMG_2977.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
+
+File A last line: Valve Trap (Dublin): (1) Not Madrid's own programmes, but believe this to be Radio Toulouse, which frequently relays foreign transmissions; in this case possibly taken from Radio España, Madrid (EAJ2).
+File B matching line: Valve Trap (Dublin): (1) Not advertised in programmes, but believe this to be Radio Toulouse, which frequently relays foreign transmissions; in this case possibly taken from Radio Espana, Madrid (EAJ2); (2) Amateur transmission.
+
+Merge 3: merged_2 + IMG_2978.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Rosie (Malton): Soro relaying Divine Service from St. Saviour's Church at Copenhagen.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 7, similarity: 0.333 (first_8_chars)
+     Line: Reflex (Croydon): If on Thursday, probably Leipzig, but item was not advertised in programmes.
+  2. Index 12, similarity: 0.333 (first_8_chars)
+     Line: Horsey (Newark): Possibly Salamanca (EAJ22); programmes not available.
+  3. Index 15, similarity: 0.300 (first_12_chars)
+     Line: V. 3 (Alton, Hants.): (1) Langenberg, relaying concert from Düsseldorf; (2) The power of this station is 25 kw.; (3) cannot say definitely; possibly Zürich, at the time.
+

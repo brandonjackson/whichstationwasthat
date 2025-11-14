@@ -1,0 +1,51 @@
+Combine Report for 1926-10-22
+============================================================
+
+Merge 1: IMG_2544.txt + IMG_2545.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Flicker (Sheffield): Madrid (EAJ7).
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 29, similarity: 0.512 (reporter_and_content)
+     Reporter similarity: 0.188
+     Content similarity: 1.000
+     Line: L. G. R. (Roempton): Madrid (EAJ7).
+  2. Index 33, similarity: 0.475 (reporter_and_content)
+     Reporter similarity: 0.125
+     Content similarity: 1.000
+     Line: G.P.W. (Kent): Madrid (EAJ7).
+  3. Index 17, similarity: 0.438 (reporter_and_content)
+     Reporter similarity: 0.062
+     Content similarity: 1.000
+     Line: S.T.H.: Madrid (EAJ7).
+
+Merge 2: merged_1 + IMG_2546.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 1st Cameronians: Barcelona.
+Best similarity found: 0.364
+
+Closest matches (top 3):
+  1. Index 27, similarity: 0.520 (reporter_and_content)
+     Reporter similarity: 0.200
+     Content similarity: 1.000
+     Line: Triotron (Brixton): Barcelona (EAJ13).
+  2. Index 14, similarity: 0.417 (reporter_and_content)
+     Reporter similarity: 0.429
+     Content similarity: 0.400
+     Line: Cumbrian: Cassel. Reflex (Croydon): No German programs advertised this item, possibly Buda-Pesth.
+  3. Index 18, similarity: 0.369 (reporter_and_content)
+     Reporter similarity: 0.214
+     Content similarity: 0.600
+     Line: Rustle-field: Bergen (The Shipwreck of the Dundonald, 1908).
+
+Merge 3: merged_2 + IMG_2547.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

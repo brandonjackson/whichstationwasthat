@@ -1,0 +1,48 @@
+Combine Report for 1926-03-26
+============================================================
+
+Merge 1: IMG_1875.txt + IMG_1876.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 13
+Match strength: 1.000
+
+File A last line: Powerful 3 (Wood Green): (a) W.L. apparently wrong, either Prague or Madrid (EAJ6).
+File B matching line: Powerful 3 (Wood Green): (a) WL. apparently wrong, either Prague or Madrid (EAJ6).
+
+Merge 2: merged_1 + IMG_1877.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Marconi Straight Eight: cannot trace.
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 7, similarity: 0.250 (reporter_and_content)
+     Reporter similarity: 0.150
+     Content similarity: 0.400
+     Line: Powerfull Two: San Sebastian. N342348 Vernier: cannot trace, probably Liege. W.J. Gillott (B'ham): (1) cannot trace 6CY, but 6CY amateur (Dollar N.B.). Jet: Yes, San Sebastian. Curious (Appleby): Prague. Valves Four: not German, Madrid (EAJ6). Robin: presumably Breslau testing. Afterm (Swindon): Rome testing. Dash (London): (a) yes, smaller Swedish relays; (b) if French, Radio Anjou, either Seville or Marseilles. W.J.F.W.E. & C.S.: no transmission advertised, cannot trace. Ray (Surrey): San Sebastian. Boward: possibly PTT (Paris). Taff: Hamburg English lesson (translation of previous lecture on wireless in India). Fishing: trace nothing advertised on N.W.T.E.: Toulouse PTT, relay of Paris. Ray (Heanor): Moscow (RDW). (19.05 p.m.) Bohème was advertised for Vienna at 17.00, and also from Hamburg and relays at 17.00, possibly given later. B-R.B.ool: Votre réglage comparatif ne donne aucune indication de longueur d’onde. Un poste Américain, sans aucun doute. Super Het (Bristol): Lyons PTT, relaying Berlitz English lesson, Paris. J. Scott: vague, believe Madrid (EAJ7). J.K.M. (Ayr): not in programmes, presumably Barcelona (EAJ13). Mahserg: Leipzig. T.G.S.B. (Guildford): Lyons, PTT relay of Paris, English lesson. T.T. (Aberdeen): (8.45) Moscow (RDW), (9.45) Ryvang, relay of foreign stations. Sparks: (1) W.L. wrong, Stockholm; (2) Prague. Mog. letts: Rome. Vidler (Dulwich): Rome testing. S.W.S. (Watford): Rome testing. P.P.V.: Prague. G.L.C. (Chiswick): cannot trace item, possibly Elderfield relaying Dortmund. Old Man (Eastbourne): Milan. Radiofront: (1) Berlin, (2) Aircraft (Lympne and Croydon). (3) cannot trace, (4) W.T. station (V?’s-call). DX3: Bremen relaying Hamburg. Diosup: not Reirkhstag, probably Reykjavik (Iceland) testing. 3HTL (Leeds): Barcelona (EAJ1). Two-Valver (Belfast): Cardiff relay of League of Nations Con.
+  2. Index 3, similarity: 0.190 (reporter_and_content)
+     Reporter similarity: 0.050
+     Content similarity: 0.400
+     Line: E.U.: Hanover, relay of Hamburg. Muggins: Prague.
+  3. Index 1, similarity: 0.182 (first_12_chars)
+     Line: Trentham: W.L. apparently wrong, cannot trace.
+
+Merge 3: merged_2 + IMG_1878.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Powerfull Two: San Sebastian. N342348 Vernier: cannot trace, probably Liege. W.J. Gillott (B'ham): (1) cannot trace 6CY, but 6CY amateur (Dollar N.B.). Jet: Yes, San Sebastian. Curious (Appleby): Prague. Valves Four: not German, Madrid (EAJ6). Robin: presumably Breslau testing. Afterm (Swindon): Rome testing. Dash (London): (a) yes, smaller Swedish relays; (b) if French, Radio Anjou, either Seville or Marseilles. W.J.F.W.E. & C.S.: no transmission advertised, cannot trace. Ray (Surrey): San Sebastian. Boward: possibly PTT (Paris). Taff: Hamburg English lesson (translation of previous lecture on wireless in India). Fishing: trace nothing advertised on N.W.T.E.: Toulouse PTT, relay of Paris. Ray (Heanor): Moscow (RDW). (19.05 p.m.) Bohème was advertised for Vienna at 17.00, and also from Hamburg and relays at 17.00, possibly given later. B-R.B.ool: Votre réglage comparatif ne donne aucune indication de longueur d’onde. Un poste Américain, sans aucun doute. Super Het (Bristol): Lyons PTT, relaying Berlitz English lesson, Paris. J. Scott: vague, believe Madrid (EAJ7). J.K.M. (Ayr): not in programmes, presumably Barcelona (EAJ13). Mahserg: Leipzig. T.G.S.B. (Guildford): Lyons, PTT relay of Paris, English lesson. T.T. (Aberdeen): (8.45) Moscow (RDW), (9.45) Ryvang, relay of foreign stations. Sparks: (1) W.L. wrong, Stockholm; (2) Prague. Mog. letts: Rome. Vidler (Dulwich): Rome testing. S.W.S. (Watford): Rome testing. P.P.V.: Prague. G.L.C. (Chiswick): cannot trace item, possibly Elderfield relaying Dortmund. Old Man (Eastbourne): Milan. Radiofront: (1) Berlin, (2) Aircraft (Lympne and Croydon). (3) cannot trace, (4) W.T. station (V?’s-call). DX3: Bremen relaying Hamburg. Diosup: not Reirkhstag, probably Reykjavik (Iceland) testing. 3HTL (Leeds): Barcelona (EAJ1). Two-Valver (Belfast): Cardiff relay of League of Nations Con.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 1, similarity: 0.375 (first_8_chars)
+     Line: Boward: possibly PTT (Paris).
+  2. Index 16, similarity: 0.364 (first_12_chars)
+     Line: Vidler (Dulwich): Rome testing.
+  3. Index 37, similarity: 0.300 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 0.500
+     Line: N.O.R. (Norbury): (a) San Sebastian, (b) Amateur, London, S.E.1.
+

@@ -1,0 +1,41 @@
+Combine Report for 1925-12-18
+============================================================
+
+Merge 1: IMG_1782.txt + IMG_1783.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_1784.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Flat Twin: (1) W1AZ,
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 17, similarity: 0.400 (first_12_chars)
+     Line: Flewelling: cannot trace, not in programme.
+  2. Index 17, similarity: 0.375 (first_8_chars)
+     Line: Flewelling: cannot trace, not in programme.
+  3. Index 60, similarity: 0.375 (first_8_chars)
+     Line: Heathfield: 2LO heterodyne by foreign station on higher WL.
+
+Merge 3: merged_2 + IMG_1785.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Rycroft (Cinderford): Stuttgart.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 64, similarity: 0.435 (reporter_and_content)
+     Reporter similarity: 0.059
+     Content similarity: 1.000
+     Line: Allemagne (Falkirk): Stuttgart.
+  2. Index 114, similarity: 0.429 (first_8_chars)
+     Line: Wycomb: insufficient detail, probably Spanish station.
+  3. Index 60, similarity: 0.300 (first_12_chars)
+     Line: R.A.I. (Colchester): probably Moscow Central.
+

@@ -1,0 +1,42 @@
+Combine Report for 1926-03-12
+============================================================
+
+Merge 1: IMG_1862.txt + IMG_1863.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 1.000
+
+File A last line: I.W.R.: If this is all one can only say th
+File B matching line: I.W.R.: If certain of call, can only say that Cadiz is nearest station to Trafalgar, W.L. 357 m.
+
+Merge 2: merged_1 + IMG_1864.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Fepey R.H.A.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 12, similarity: 0.300 (first_12_chars)
+     Line: Morley (Prestatyn): (Midnight) Bilbao (EAJ11); (11 p.m.) Madrid (EAJ6).
+  2. Index 0, similarity: 0.286 (first_8_chars)
+     Line: (Shipley): Moscow (RDW).
+  3. Index 24, similarity: 0.286 (first_8_chars)
+     Line: Live Wire (Brixton): Yes, Moscow (RDW), well calibrated.
+
+Merge 3: merged_2 + IMG_1865.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: J.L.H.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 44, similarity: 0.429 (first_12_chars)
+     Line: J.B.L. (Harrowgate): Cannot trace transmission; probably an amateur.
+  2. Index 44, similarity: 0.333 (first_8_chars)
+     Line: J.B.L. (Harrowgate): Cannot trace transmission; probably an amateur.
+  3. Index 56, similarity: 0.333 (first_8_chars)
+     Line: Valve (Hull): Belgrade testing.
+

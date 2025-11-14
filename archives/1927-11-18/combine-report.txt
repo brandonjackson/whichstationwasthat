@@ -1,0 +1,64 @@
+Combine Report for 1927-11-18
+============================================================
+
+Merge 1: IMG_3147.txt + IMG_3148.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: Timothy Titus Taggs (Hudd.): (3) No, this was Berlin on 322 m., cannot trace, cannot trace.
+File B matching line: Timothy Titus Taggs (Hudd.): (3) No, this was Breslau on 322 m. Coming (Southwold): (1) Cannot trace. No, we understand that on that date the exchange relays were not broadcast; (2) we believe this to be Almeria (Spain). S. F. 11a: Langenberg, relaying English lesson from Muenster. Waver (Midlothian): Regret, cannot trace any service in English at that time on or near that WL. 1. 2. No. (Birmingham): Cannot confirm, but believe this to be the new station at Almeria (Spain). Eastbourne (Hull): Petit Parisien, Paris. Glebe (Wallasey): Without some estimation of WL it is impossible to trace transmitter. Dublin on November 6 was relaying from the North Cathedral at Cork. You may have heard this transmission from either Cork or Dublin. A. E. S. (Southampton): (1) Frankfurt-on-Main, relaying concert from Heilbronn via Stuttgart; (2) Langenberg, Czechoslovakian evening; (3 and 4) too vague, regret, cannot trace. B. S. A. Both Frankfurt-on-Main. Figger (Leicester): (1) We believe this to be the Berlin short wave transmitter which is stated to be on 54-56 m.; (2) yes, this is the KDKA wavelength; (3) Posen (Poland), with which programme your details tally. V. B. Goatcher (Littlehampton): Frankfurt-on-Main. F. D. H. (Stockport): (1) Naples, relaying from theatre; (2) Madrid (EAJ7); (3) apparently Milan, but not advertised in programmes to work so late. S. S. (Bournemouth): Huizen (Holland), 1,840 m. O. S. A. Valve (Sofihull): (1) Possibly KPO (San Francisco) on 299.8 m; (2) too vague, cannot trace, possibly WBBR (Staten Island, N.Y.); (4) possibly WENQ (Michigan). We cannot confirm as no programmes are available. Kone (Derby): Yes, KDKA (East Pittsburgh) transmitting on 45-46 m. G. H. W. (Sittingbourne): (1) Madrid (EAJ7); (2) yes, Leipzig, relaying dance music from Berlin until 11.30 p.m. G.M.T.; (3) either Scheveningen Haven (Holland) Stock Exchange, market prices, etc., or Norddeich (Germany) Weather report. Unknown (J. P.): (1) Motala, relaying from the Cathedral at Uppsala; (2) too vague, regret cannot trace. Novice (Earl's Court): Rome (a lady announcer). Time signal, weather and news, followed by a relay from Theatre. Newflex Four (Worcestershire): Naples, relaying from Theatre (interval signal: metronome). S51867 (Marple): (1) Kovno (Lithuania), (2) Huizen (Holland), 1,840 m. HF42 (Regent’s Park): Cannot trace, but station in background was Hamburg. L. R. A. (Staffs): We believe this to be the new station at Almeria (Spain), relaying Madrid (EAJ7). E. H. (Walthamstow): WL wrong, this was Cassel relaying Frankfurt-on-Main, early morning physical exercises. Roslyn (Cornwall): Cannot trace into evening programme on or near that WL. If your estimation of WL is incorrect,
+
+Merge 2: merged_1 + IMG_3149.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Timothy Titus Taggs (Hudd.): (3) No, this was Breslau on 322 m. Coming (Southwold): (1) Cannot trace. No, we understand that on that date the exchange relays were not broadcast; (2) we believe this to be Almeria (Spain). S. F. 11a: Langenberg, relaying English lesson from Muenster. Waver (Midlothian): Regret, cannot trace any service in English at that time on or near that WL. 1. 2. No. (Birmingham): Cannot confirm, but believe this to be the new station at Almeria (Spain). Eastbourne (Hull): Petit Parisien, Paris. Glebe (Wallasey): Without some estimation of WL it is impossible to trace transmitter. Dublin on November 6 was relaying from the North Cathedral at Cork. You may have heard this transmission from either Cork or Dublin. A. E. S. (Southampton): (1) Frankfurt-on-Main, relaying concert from Heilbronn via Stuttgart; (2) Langenberg, Czechoslovakian evening; (3 and 4) too vague, regret, cannot trace. B. S. A. Both Frankfurt-on-Main. Figger (Leicester): (1) We believe this to be the Berlin short wave transmitter which is stated to be on 54-56 m.; (2) yes, this is the KDKA wavelength; (3) Posen (Poland), with which programme your details tally. V. B. Goatcher (Littlehampton): Frankfurt-on-Main. F. D. H. (Stockport): (1) Naples, relaying from theatre; (2) Madrid (EAJ7); (3) apparently Milan, but not advertised in programmes to work so late. S. S. (Bournemouth): Huizen (Holland), 1,840 m. O. S. A. Valve (Sofihull): (1) Possibly KPO (San Francisco) on 299.8 m; (2) too vague, cannot trace, possibly WBBR (Staten Island, N.Y.); (4) possibly WENQ (Michigan). We cannot confirm as no programmes are available. Kone (Derby): Yes, KDKA (East Pittsburgh) transmitting on 45-46 m. G. H. W. (Sittingbourne): (1) Madrid (EAJ7); (2) yes, Leipzig, relaying dance music from Berlin until 11.30 p.m. G.M.T.; (3) either Scheveningen Haven (Holland) Stock Exchange, market prices, etc., or Norddeich (Germany) Weather report. Unknown (J. P.): (1) Motala, relaying from the Cathedral at Uppsala; (2) too vague, regret cannot trace. Novice (Earl's Court): Rome (a lady announcer). Time signal, weather and news, followed by a relay from Theatre. Newflex Four (Worcestershire): Naples, relaying from Theatre (interval signal: metronome). S51867 (Marple): (1) Kovno (Lithuania), (2) Huizen (Holland), 1,840 m. HF42 (Regent’s Park): Cannot trace, but station in background was Hamburg. L. R. A. (Staffs): We believe this to be the new station at Almeria (Spain), relaying Madrid (EAJ7). E. H. (Walthamstow): WL wrong, this was Cassel relaying Frankfurt-on-Main, early morning physical exercises. Roslyn (Cornwall): Cannot trace into evening programme on or near that WL. If your estimation of WL is incorrect,
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 10, similarity: 0.429 (first_8_chars)
+     Line: Night Hawk (Newton Abbot): Breslau, relaying from the Centenary Sports and final laps of the 50-kilometer cycle races.
+  2. Index 14, similarity: 0.278 (reporter_and_content)
+     Reporter similarity: 0.130
+     Content similarity: 0.500
+     Line: The Company Sergeant Major: (1) Norddeich (Germany) weather report, (2) Huizen (Holland), 1,950 m., (3) Kovno (Lithuania) Allo! Radio-Kaunas, (4) Huizen (Holland), 1,950 m.
+  3. Index 10, similarity: 0.273 (first_12_chars)
+     Line: Night Hawk (Newton Abbot): Breslau, relaying from the Centenary Sports and final laps of the 50-kilometer cycle races.
+
+Merge 3: merged_2 + IMG_3150.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Bonzo (Lowestoft): (1) Kalundborg relaying Copenhagen. Sonatas for violin and piano. (2) possibly Radio LL, Paris, (3) apparently a Spanish station, but details.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 13, similarity: 0.333 (first_8_chars)
+     Line: Dorn (Glasgow): Moscow Comintern (RDW) relaying festival in celebration of the 10th anniversary of the Soviet Union from the Academic Theatre.
+  2. Index 17, similarity: 0.286 (first_8_chars)
+     Line: Mount Park: Yes, Belfast relaying service from St. Cuthbert’s Parish Church at Edinburgh.
+  3. Index 25, similarity: 0.275 (reporter_and_content)
+     Reporter similarity: 0.125
+     Content similarity: 0.500
+     Line: Combine 5 (Aberdeen): (1) Your details would tally with Stockholm. Possibly recorded in full through Göteborg. (2) This was Posen.
+
+Merge 4: merged_3 + IMG_3151.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: Combine 5 (Aberdeen): (1) Your details would tally with Stockholm. Possibly recorded in full through Göteborg. (2) This was Posen.
+File B matching line: Combine 5 (Aberdeen): (1) Your details would tally with Stockholm. Possibly you received this through Göteborg. (2) This was Posen (Poland) from 7.30—9.0 p.m. organ concert. Possibly on 344.8 m.
+
+Merge 5: merged_4 + IMG_3152.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 0.857
+
+File A last line: A. D. (Derby): Saga Road of South.
+File B matching line: A. P. (Derby), Saga Road (Southport): Kalundborg, relaying dance music from the Restaurant Nimb at Copenhagen.
+

@@ -35,7 +35,7 @@ Old Bill: Vienna. English lesson.
 G. Kearn (Southsea): We do not understand your question. Were you using short-wave dials?
 Errant Three (Croydon): Muenster tallies with your dial reading, but was advertised relay-Hamburg.
 Log Book (Hockley): WPG (Atlantic City).
-Straight Three (Godalming): Leningrad.
+Straight Three (Godalming):——
 Nobby (Llandudno): Transmission not advertised.
 Wynne (Belfast): Motala relaying Stockholm.
 J. W. B. (Malta): Kootwijk in communication with station which we cannot trace.
@@ -73,8 +73,8 @@ Tony (Swindon): Hilversum playing "Zampa" at 5.15 p.m.
 Learning (Cornwall): We think your wavelength is wrongly estimated.
 Gong: (1) Motala; (2) Copenhagen; (3) Nürnberg relaying Munich; (4) Motala; (5) are you sure of your wavelength?
 Short Wave (Teignmouth): Cannot trace on this wavelength. Call was probably "Radiophonio."
-A.E. (Liverpool): We doubt your wavelength.
-Swensey: Wavelength estimate too vague. Hilversum playing "Zampa" ? Moscow.
+A. E. (Liverpool): We doubt your wavelength. Can you name a known station near the unknown ?
+J. F. S. (Tidworth): San Sebastian.
 Links (Edinburgh): (1) Oslo; (2) Points to Madrid (EAJ7) with altered programme; (3) Cannot trace such a transmission.
 A. R. M. (Ilford): Kalundborg.
 Candida Case (Carlisle): We have no information on this point and cannot trace in programmes.
@@ -100,12 +100,12 @@ A. J. S. (Small Heath): Berlin.
 Filadyne Three (Norbury): Copenhagen.
 B. A. (Stourbridge): Direct.
 G. S. C. (West-gate): Radio Beziers.
-Dalton (Airdrie): Frankfurt.
+Dalton (Airdrie): Frankfurt. (France): (1) and (2) Kalundborg.
 Etherman (Glossop): (1) Saeffle, relaying Stockholm (Lecture on forthcoming opera); (2) Breslau; (3) Almeria; (4) If transmission consistent with the Marriage of Figaro then Koenigsberg.
 Wharfedale (Leeds): WEAF (N.Y.).
 Dials (Edinburgh): (1) Dundee and Cupar-Fife amateurs; (2) Notodden, relaying Oslo; (3) Almeria.
 BM/CNMR: Time and wavelength inconsistent with the items.
-N. A. (Wigan): Kalundborg relaying Copenhagen.
+N. A. (Wigan): Kalundborg relaying Copen-
 Verb Sap (Oxford): WEAF (N.Y.) unless wavelength quite certain.
 Quizzing (Chipping): (1) Radio Paris (wavelength wrongly estimated); (2) Koenigsusterhausen (wavelength 1,250 m.).
 Peter (N. Devon): Yes, Toulouse, and many German stations as well as other stations.
@@ -113,17 +113,17 @@ Megohm (Manchester): (4) Leningrad; (5) EAJ 13 and Cadiz (EAJ 8); (6) Radio beac
 Nobby Clark (Maidenhead): (1) WEAF (New-York); (2) WBZ (Springfield, Mass.).
 J. G. S. (N.I.): 3LO Melbourne.
 Night Hawk (Barry): (1) Warsaw; (2) Kovno.
-Neutrodyne (Leeds): (1) Amateur station playing gramophone records; (2) WGY (Schenectady).
+Neutrodyne (Leeds): (1) Amateur station playinggramophone records; (2) WGY (Schenectady).
 Pen Bryn (Neasden): WPG (Atlantic City).
 Ixion (Bayswater): Frankfurt.
 Transformer (Waddon): (1) Leipzig relaying Frankfurt; (2) Breslau relaying Frankfurt; (3) Brussels.
 WHP29 (Pudsey): Leningrad.
 D. F. (Killie): Leningrad.
-Tinkle (Tottington): (1) Moscow; (2) Motala.
+Tinkle (Tottington): Moscow; (2) Motala.
 S. S. M. (Liverpool): Leningrad.
 R. N. V. R. (Leicester): Moscow.
 O. V. I. (Birmingham): (1) Vienna; (2) Moscow.
-Bonzo (Sidcup): (1) Leningrad; (2) Cologne, dance music; (3) Nurnberg relaying Munich.
+Bonzo (Sidcup): (1) Leningrad (2) Cologne, dance music; (3) Nurnberg relaying Munich.
 Hopeful (Finchley): Leningrad.
 A. T. C. (Dalston): Dresden, relaying Berlin (if wavelength approximately accurate).
 Solodyne 5 (Wood Green): San Sebastian relaying Madrid (EAJ7).
@@ -151,7 +151,7 @@ Leatherhead SNY: Radio Toulouse.
 Clarence (Tottenham): Leningrad.
 Barber (Wick): Impossible to estimate accurately by your dial readings, but Barcelona (EAJ1) and San Sebastian both relay EAJ7.
 Battery (Poplar): Wavelength surely wrong. Can you confirm?
-Winckley (Preston): (1) A wireless beacon; (2) no coupon.
+Winckley (Preston): (1). A wireless beacon; (2) no coupon.
 W. H. S. (Dalston): Dial readings alone are no indication of wavelength.
 E. F. S. (King’s Lynn): WPG.
 W. T. T. (Bristol): Cork relaying Dublin.

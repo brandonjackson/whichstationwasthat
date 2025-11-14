@@ -1,0 +1,18 @@
+Combine Report for 1927-05-06
+============================================================
+
+Merge 1: IMG_2992.txt + IMG_2993.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: Black Eagle: Scheveningen-Haven (Holland) News only.
+File B matching line: Black Eagle: (a) Scheveningen-Haven (Holland) News only; (b) Yes, Moscow Comintern (1,450 m.); (c) Vienna; General Election results.
+
+Merge 2: merged_1 + IMG_2994.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

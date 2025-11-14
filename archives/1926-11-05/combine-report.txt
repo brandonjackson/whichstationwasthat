@@ -1,0 +1,36 @@
+Combine Report for 1926-11-05
+============================================================
+
+Merge 1: IMG_2557.txt + IMG_2558.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 19
+Match strength: 1.000
+
+File A last line: Florist: estimated.
+File B matching line: Florist: estimated WL would be given if indication of coils used is useless.
+
+Merge 2: merged_1 + IMG_2559.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: R. G. (Ellesmere Port):
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.375 (first_12_chars)
+     Line: W. J. Gillott: (1) Koenigs Wusterhausen, relaying Berlin, (2) Madrid (EAJ7), (3) 6CY and 6FR, amateurs (Birmingham).
+  2. Index 1, similarity: 0.333 (first_8_chars)
+     Line: J. G. R.: Dortmund.
+  3. Index 9, similarity: 0.333 (first_8_chars)
+     Line: Raingo: Cannot trace, possibly Pittsburg (461 m.), Los Angeles (468 m.), or Washington (469 m.), or amateur (gramophone records).
+
+Merge 3: merged_2 + IMG_2560.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 76
+Match strength: 1.000
+
+File A last line: Old World Two (Newquay).
+File B matching line: Old World Two (Newquay): You do not state time, but this was Malmo relaying English lesson from Stockholm.
+

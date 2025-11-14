@@ -1,0 +1,90 @@
+Combine Report for 1928-02-17
+============================================================
+
+Merge 1: IMG_3264.txt + IMG_3265.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3266.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_3267.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Pearl (Acton):
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.375 (first_8_chars)
+     Line: Probably Leningrad.
+  2. Index 0, similarity: 0.273 (first_12_chars)
+     Line: Probably Leningrad.
+  3. Index 1, similarity: 0.200 (first_12_chars)
+     Line: Well I’m—! (Cambridge): We cannot give names and addresses of amateurs.
+
+Merge 4: merged_3 + IMG_3268.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: G. H. (Sussex): You do not state wave-
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.333 (first_8_chars)
+     Line: F. H. (Blackburn): B.B.C. station, Cardiff.
+  2. Index 0, similarity: 0.200 (first_12_chars)
+     Line: fragment: length. Probably Air Ministry station, Mitcham, testing.
+  3. Index 3, similarity: 0.200 (first_12_chars)
+     Line: Beesknees (Ramsgate): Probably Air Ministry Station, Mitcham. See our article in last issue.
+
+Merge 5: merged_4 + IMG_3269.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: fragment: W. L. (Warling-
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 30, similarity: 0.375 (first_8_chars)
+     Line: Trento (Notts.): Leningrad.
+  2. Index 36, similarity: 0.375 (first_8_chars)
+     Line: F.E.N. (Kingston): Hamburg relaying from Café Wallhof.
+  3. Index 19, similarity: 0.333 (first_12_chars)
+     Line: F.W.R. (Greenwich): Norddeich.
+
+Merge 6: merged_5 + IMG_3270.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Hillyer: Probably.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.520 (reporter_and_content)
+     Reporter similarity: 0.200
+     Content similarity: 1.000
+     Line: Stage (Gloucester): Probably direct. Glenbuck (Surbiton): Cannot trace such a transmission on that wavelength. Volti Subito (Denbigh): Probably Hilversum. Does not accord with Leningrad’s programme. W. J. (Joppa): Probably an American station, but dial reading alone is insufficient guide. Solodyne (Lasswade): Coupon must be sent for each enquiry.
+  2. Index 6, similarity: 0.432 (reporter_and_content)
+     Reporter similarity: 0.053
+     Content similarity: 1.000
+     Line: Anode Bird (Buckingham): Probably Moscow, and programmes agree, but languages suggested are somewhat doubtful.
+  3. Index 3, similarity: 0.340 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 0.600
+     Line: Nurik (Belfast): Programme of first part tallies with Dublin; second part cannot be traced on estimated wavelength.
+
+Merge 7: merged_6 + IMG_3271.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
+
+File A last line: Toreador (Cardiff), Hoy (Haylake), Victor (Hull), Grid Bias (Keighley), Learner (S. Norwood), Helvetia (N. 10), Inquisitive (Derby), Bobbin (Salford), Oak Beams (Ickenham), Super Het (Sheffield), Bussie (Kilburn), BM/VRE6, J. L. (Peterborough), Auto (Edinburgh), Minka (Sheffield), Novice (Keighley), Radio (Liverpool), G. F. (Hendon), Abbo (Derby), Goldstream (Colnbrook), G. S. F. (Bristol), Beginner (Shepherd’s Bush), Screened Grid (Leeds), Clari (Birmingham), J. E. B. S. (Bradford), Cornubian (Cornwall), K. W. 19 (Ipswich), No Luck (Palmers Green), Gronbinum (Guildford), Tinker (Essex), M. T. (Chiswick), Shemell (Brighton), J. H. K. (Blackpool), E. R. V. (Felixstowe), Torero.
+File B matching line: Toreador (Middleton): Amateur (Leeds).
+

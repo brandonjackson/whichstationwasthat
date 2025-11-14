@@ -1,0 +1,39 @@
+Combine Report for 1926-12-24
+============================================================
+
+Merge 1: IMG_2654.txt + IMG_2655.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Ark (Sheerness): Cannot trace this item in any European programme, but obviously a Swedish relay. Believe Stockholm altered its programme on that date and had advertised scenes from Romeo and Juliet for Christmas.
+File B matching line: Ark (Sheerness): Cannot trace the item in any European programme, but obviously a Swedish relay. Believe Stockholm altered its programme on that date; had advertised scenes from Romeo and Juliet for Christmas Day.
+
+Merge 2: merged_1 + IMG_2656.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: D. P. B. (Warling
+File B matching line: D. P. B. (Warrington): (a) Leipzig (365.8 m.), (b) Yes, Madrid (EAJ7).
+
+Merge 3: merged_2 + IMG_2657.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: Searcher (I-of-W.): Possibly Bilbao (EAJ11).
+File B matching line: Searcher (Teignmouth): 2LO (old station) testing.
+
+Merge 4: merged_3 + IMG_2658.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 20
+Match strength: 1.000
+
+File A last line: H.J. (Walthamstow): Stuttgart relaying
+File B matching line: H. J. (Walthamstow): Stuttgart relaying Munich.
+

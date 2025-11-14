@@ -1,4 +1,3 @@
-```plaintext
 Ray (Surrey): (a) Kiel, relay of Hamburg, (b) Bordeaux, relay of PTT, Paris.
 F. J. E. (Herne Hill): Oslo.
 Llewyas: Koenigs Wusterhausen.
@@ -16,4 +15,3 @@ H. V. Bordeaux: Sorø, relay of Copenhagen (Strauss evening).
 3 D. E. V. (Burnley): Breslau; relay of Berlin.
 Cheriton: Oslo (Hotel Bristol).
 J. A. C. (Fakenham): Dortmund, relay of Muenster.
-```

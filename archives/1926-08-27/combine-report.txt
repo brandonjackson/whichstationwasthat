@@ -1,0 +1,27 @@
+Combine Report for 1926-08-27
+============================================================
+
+Merge 1: IMG_2473.txt + IMG_2474.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 82
+Match strength: 1.000
+
+File A last line: J.P.M. (Acton): W., Moscow.
+File B matching line: J.P.M. (Acton, W.): probably Moscow (RDW).
+
+Merge 2: merged_1 + IMG_2475.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Berks:.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 29, similarity: 0.429 (first_8_chars)
+     Line: Iberica (Guildford): Sorö, relay of Copenhagen.
+  2. Index 1, similarity: 0.375 (first_8_chars)
+     Line: Amberley: Hilversum.
+  3. Index 38, similarity: 0.333 (first_8_chars)
+     Line: Bell (Newton Abbot): Madrid (EAJ7).
+

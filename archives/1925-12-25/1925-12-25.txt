@@ -45,7 +45,8 @@ H. L. (Kensington): Koenigswusterhausen (Press news).
 Kittentor (Blackburn): Union Radio (Madrid).
 The Fiddler: cannot trace, probably British.
 Raw: Cadiz (EAJ3?).
-M.V.2 (Muenster): Dunedin. Unless Rome, cannot trace.
+M.V.2 (Muenster): Dunedin.
+Unless Rome, cannot trace.
 S.W. (Scartho): Berne.
 Tropadyne: Malmö.
 H. C. (Ramsgate): San Sebastian.
@@ -56,7 +57,24 @@ MacCroy: Keston testing relay.
 3 Valves (Leeds): San Sebastian.
 Ilkley: cannot trace.
 Wireless Villain: Union Radio (Madrid).
-4A17: presumably Barcelona EAJ13.
+4A17: presumably Barcelona EAJ13. Koenigs wusterhausen.
+Live Wire, Tenk: Hamburg.
+Amon, Ediswan (Strood): Radio Iberica (Madrid).
+H. L. (Kensington): Koenigs wusterhausen (Press news).
+Kittener (Blackburn): Union Radio (Madrid).
+The Fiddler: cannot trace, probably British.
+Raw: Cadiz (EAJ3).
+M.V.2, Muenster: Dunedin. Unless Rome, cannot trace.
+S.W. (Scartho): Berne.
+Tropadyne: Malmö.
+Hi C. (Ramsgate): San Sebastian.
+One Valver (Bath): Union Radio, Madrid (EAJ6).
+Lorendon: (1st to 4th) San Sebastian, (12th) Stuttgart (446 m).
+Day, D.B.Y.: Lyon PTT relaying Paris.
+MacCroy: Keston testing relay.
+3 Valves (Leeds): San Sebastian.
+Ilkley: cannot trace.
+Wireless Villain: Union Radio (Madrid EAJ7).
 5.N.O. (Seaham): Stettin (relay testing).
 Dash: Hamburg.
 Acht: Berne.
@@ -65,24 +83,24 @@ Achten: New Stettin station testing.
 Power Valve: San Sebastian.
 Filbert (Leicester): Union Radio (Madrid EAJ7).
 F. R. F. (Sheffield): Berlin.
-Jazzy (Northampton): Koenigswusterhausen.
-Binks: Yes. Koenigswusterhausen.
+Jazzy (Northampton): Koenigs wusterhausen.
+Binks: Yes. Koenigs wusterhausen.
 Lancaster: Berlin.
 C. L. O. (Sheerness): (1) Vienna, (2) W.L. wrong, probably Eiffel Tower.
 Three Valves: Hanover (296 m).
 Stamford (Bolton): Moscow.
-Waverer: Koenigswusterhausen.
+Waverer: Koenigs wusterhausen.
 Shelton: probably Gleiwitz.
 Sex: Radio Berne.
 Hill: (a) Budapest (546 m), (b) Stockholm.
 Power (Edinburgh): can only be Malmo.
-S.T. 100: Koenigswusterhausen (1300 m), relaying Berlin.
+S.T. 100: Koenigs wusterhausen (1300 m), relaying Berlin.
 E.V.G. (Bolton): San Sebastian.
 Leather: Union Radio (Madrid EAJ7).
 Big Ben: Berlin.
 H.E.B. (Enfield): Stettin (relay testing).
 Interested: Frankfort-on-Main.
-Seaton (Nottingham): probably Koenigswusterhausen (late concert).
+Seaton (Nottingham): probably Koenigs wusterhausen (late concert).
 W.W.W. (I): Copenhagen, (2): Barcelona (EAJ1).
 Pong: Madrid (Radio Iberica).
 Fish (Leeds): Berne.
@@ -103,11 +121,11 @@ Dulwich Dick: Berne.
 E.D.T. (Dartford): details too vague.
 Questor (Swansea): Hanover.
 Top Notch: Berne (302 m), 1½ kw.
-Four Valve Oscillator. Moscow.
+Four Valve Oscillator: Moscow.
 G.A.W.: not stated in programme, probably Madrid (R.I.).
 Binding Post: Stettin (relay) testing.
 Leopoldina: WL. rather vague, probably Berne.
-Secrecy harmonic 5XX.
+Secrecy harmonic: 5XX.
 H.B. (Chiswick): Stettin testing.
 W.R.P. (Newport): Berlin.
 Megohm: San Sebastian (EAJ8).
@@ -155,11 +173,12 @@ H.D.W. (Blackpool): not advertised, probably Hjörring, relaying Copenhagen.
 A.A. Brom: (a) Cadiz (EAJ3), b) and c) no coupons.
 Bonzo II: Barcelona (EAJ1).
 J. P. Sadler: cannot trace.
-WGY (no name).
+WGY (no name):
 Hasbex, Ginger Hester (Hackney): B.B.C. (Keston) testing relay.
 L. Ether, Irma, H.P.M., Exeter, V.N'ON, Merry and Bright, R.S.V.P., W.P. (Hitchin): Wondering, Newo, Chene (Willesboro').
 Viking (Ashford): Ultra Audion: Hamburg (English Lesson).
-Medico: very vague, probably Madrid (Union Radio).
+Medico: very probably, probably Madrid (Union Radio).
+Double P: Berlin.
 Porto: No programme advertised, but presumably Cadiz (EAJ2) testing after midnight.
 Ferrous: Petit Parisien.
 Novice: San Sebastian.
@@ -195,7 +214,7 @@ Mendip II: Dortmund.
 Iwannaknow: Berlin.
 Wavy: (1) cannot trace, (2) Vienna (Cavalleria Rusticana), (3) not-definitely fixed, about 390 m.
 One Valver (Chester): Stettin testing.
-Louisiana: (1) Milan, (2) Hamburg, (3) Nuremberg.
+&uisiana: (1) Milan, (2) Hamburg, (3) Nuremberg.
 Zodel K: (365 m.) cannot trace, (326 m.) probably Barcelona (EAJ1).
 Éther Hog: Hanover.
 W. W. L.: Petit Parisien.

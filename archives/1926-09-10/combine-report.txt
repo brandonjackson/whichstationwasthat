@@ -1,0 +1,40 @@
+Combine Report for 1926-09-10
+============================================================
+
+Merge 1: IMG_2492.txt + IMG_2493.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 26
+Match strength: 1.000
+
+File A last line: Zoraida (1) Cassel, relay of Frankfort-on-Main, (2) Frankfort-on-Main.
+File B matching line: Zoraida (1) Cassel, relay of Frankfort-on-Main, (2) Frankfort-on-Main (English hymn heard was the present German National Anthem), (3) Leipzig.
+
+Merge 2: merged_1 + IMG_2495.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: XXX (Bournemouth): Marseilles, relay of.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 40, similarity: 0.360 (reporter_and_content)
+     Reporter similarity: 0.333
+     Content similarity: 0.400
+     Line: Searchwave (Sidmouth): San Sebastian.
+  2. Index 14, similarity: 0.300 (first_12_chars)
+     Line: Web (Bury): Dortmund, relay of Muenster.
+  3. Index 36, similarity: 0.280 (reporter_and_content)
+     Reporter similarity: 0.333
+     Content similarity: 0.200
+     Line: Noisy Parker (Portsmouth): Hamburg.
+
+Merge 3: merged_2 + IMG_2496.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 28
+Match strength: 1.000
+
+File A last line: Wave Catcher (Putney): (1) Breslau (Hotel Pension); (2) Leipzig (Variety programme).
+File B matching line: Wave Catcher (Putney): (1) Breslau (Hotel Residenz), (2) Leipzig (Variety programme), (3) Hull (gramophone records).
+

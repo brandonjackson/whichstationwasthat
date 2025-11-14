@@ -1,138 +1,129 @@
-H. Tucker: Cadiz (experimental concert).  
-Scotia: Radio Paris (Special Exhibition transmission).  
-E. Branford (B'ham): Madrid (EAJ7).  
-G. C. F. (Lincoln): possibly Cadiz (experimental concert).  
-Amico: (1) Karlsborg relay of Stockholm, (2) Koenigsusterhausen, relaying Berlin.  
-Cymro: no doubt a U.S.A. station, but cannot trace call sign.  
-2 Valve (Battersea): yes, Madrid (EAJ7).  
-Garcon: yes, Radio Paris (Special Exhibition transmission).  
-Aetherhawk (Hengrave): (1) 6PY, amateur (Barnsley), (2) amateur, cannot trace.  
-Mer: yes, Karlsborg, relaying Stockholm.  
-S.S. Brenda: Lyons, relay of PTT, Paris.  
-R. S. 16: Radio Lyons.  
-Jet (Liverpool): A. D. Dalston; Tuner (Manor Park): BM/BAVZ the opera was not advertised, possibly Madrid (EAJ7).  
-Mac (Paris): if a.m. WJZ (Boundbrook), if p.m. cannot trace.  
-Track: Radio Paris (Special Exhibition transmission).  
-E. C. G. (Edinburgh): probably a Dutch coastal station.  
-Y. C. W. (Dorking): surely Koenigsusterhausen Press, 2,525 m.  
-P. B. 8 (Leeds): (1) Breslau, relaying Berlin, (2) Hamburg, relaying Hanover, (3) Bilbao (EAJ11).  
-Exchange: (1) Hamburg, relaying Hanover (Café Continental), (2) amateur, cannot trace, (3) Rome.  
-3 Valver (Hull): (1 and 2) possibly WGY (Schenectady).  
-A. B. (Paris): possibly Barcelona (EAJ18), or Seville (EAJ7), but no programmes available.  
-Collaborators: Hilversum.  
-Strange (Leicester): Prague.  
-V2: possibly Muenster (relaying foreign stations at that time).  
-G. B. S.: (23/10) Yes, Bilbao (EAJ11), (28/10) Hilversum (Programme for Hospitals).  
-J. W. L. P. Z.: Vienna (582 m.).  
-Stand-By: WGY (Schenectady).  
-W. M. B. (Weston-super-Mare): Warsaw.  
-L. E. F. (Molesey): (1) 256 m. Gleiwitz (251 m.); 290 m. Dresden (294 m.), both relaying Berlin.  
-215 m. cannot trace.  
-Printer: Hanover.  
-Edmonton: cannot trace, possibly amateur.  
-Tenbury: Oslo.  
-Electra (London): Moscow (RDW).  
-D. T. (Edinburgh): possibly WGY (Schenectady).  
-B. D. T. (Twin Flex): vague, possibly Nuremberg relaying Munich.  
-B. D. T. G. B.: PTT, Paris.  
-F. C. L. B. D.: Nuremberg relaying Munich.  
-B. D. T. 6 Valve: too vague, cannot trace.  
-Civic E. Port: (1) Gothenberg, relay of Stockholm, (2) Hilversum, (3) Hanover (Café Continental).  
-Eric (London): if any re-WGY (Schenectady).  
-L. G. E. (Molesey): (1) 250 m. Gleiwitz (251 m.), 290 m. Dresden (294 m.), both relaying Berlin. 215 m. cannot trace.  
-Printer: Hanover.  
-Edmonton: cannot trace, possibly amateur.  
-Tenbury: Oslo.  
-Electra (London): Moscow (RDW).  
-B. D. T. (Edinburgh): possibly WGY (Schenectady).  
-B. D. T. (Twin Flex): vague, possibly Nuremberg relaying Munich.  
-B. D. T. G. B.: PTT, Paris.  
-F. C. L. B. D.: Nuremberg, relaying Munich.  
-B. D. T. 6 Valve: too vague, cannot trace.  
-Civic E. Port: (1) Gothenberg, relay of Stockholm, (2) Hilversum, (3) Hanover (Café Continental).  
-Eric (London): if a.m., Koenigsusterhausen.  
-F. E. R. (Eastbourne): Radio Paris.  
-Elstree Six (Kirkcaldy): cannot confirm, but believe extended transmission, Madrid (EAJ7).  
-Tommy: not in programmes, probably Luxembourg.  
-A. J. S. (Worthing): (2) PTT, Toulouse, (1) probably Bremen, relaying Hanover.  
-8 Valve Super Het: cannot trace.  
-3CF/13SP (Wandsworth): (3) Koenigsusterhausen, (4) Barcelona (EAJ1).  
-Q. E. D.: Zurich (relayed from Waedenswil, Hotel Engle).  
-Old Bill (Leicester): cannot trace.  
-Ormsby Four (Battersea): Radio Paris (Special Exhibition transmission).  
-Tanzmusik (Edgware): no date given but probably Berlin.  
-M. J. N. Oldham: Radio Paris (Special Exhibition transmission).  
-Inverleith: Frankfort-on-Main.  
-Willie (Wealdstone): Radio Paris (Special Exhibition transmission).  
-No Name: (1) Briinn, (2) Madrid (EAJ7).  
-1 Valver New Brim: Prague.  
-Joey (Brighton): Dortmund, relaying Muenster.  
-Wanderer (Malta): if on that WL., San Sebastian.  
-O. K. (Rochdale): insufficient detail, cannot trace.  
-EA1 (Wells): probably KDKA (East Pittsburg), EA2 (Wells); Sorö, relaying Copenhagen.  
-W. H. T. (Exeter): cannot trace.  
-W. D. B.: Briinn (confirmed).  
-Unidyne: Madrid (EAJ7).  
-Swift: Sorö, relaying Copenhagen.  
-Arabian Nights: (1) Elberfeld, relaying Muenster (flute solos), (2) amateur transmission.  
-Tropadyne (Ellesmere): surely p.m. Buda-Pesth.  
-Super-Het (Hull): Moscow (RDW).  
-Peeping Tom: much too vague, unable to trace.  
-Martin III: a relay of Stockholm (from Uppsala University).  
-Winstone: (1) Dresden, (2) Hanover.  
-Eight Valve (Eastbourne): Frankfort-on-Main.  
-Edina 7: Madrid (EAJ7).  
-H. F. 2 Valve: rather vague, but probably San Sebastian.  
-Joint: no WL. estimated; too vague, cannot trace.  
-Interested (Scorrier): (a) too vague, cannot trace, (b) no coupon.  
-King Radio: (1) Koenigswusterhausen, relaying Berlin, (2) Karlsborg relaying Stockholm, (3) Stettin relaying Berlin.  
-Lampes: yes, probably lightships.  
-Three Valver (Port Talbot): amateur transmission.  
-Mars 14: cannot trace.  
-E. G. (Brancaster): Berlin.  
-Long Distance: (1) W.L. too correct, Breslau relaying Berlin.  
-Grid Leak (Scorrier): Radio Paris, Handel 1 Valve: (1) Breslau, (2) Madrid (EAJ7).  
-S. F. 11.a Maniac: amateur transmission.  
-Swiller: Madrid (EAJ7).  
-Mūsičūs: Graz.  
-L. B. W.: Rome.  
-A. W. Solovalve (Winterbourne): possibly Hamburg (gramophone records).  
-Naedan (Gateshead): Hamburg, relaying Bremen.  
-Smugger: (5) Zurich, (6) Zurich, (7) Hilversum, (8) Berlin (speeches from Reichstag).  
-Bronzo: W.L. too indefinite, cannot trace.  
-Widerik-Phone (Denmark): 4 a.m., cannot trace, probably U.S.A. station.  
-Midnight Wanderer: (1) cannot trace, (2) Dortmund (Martha), (3) Cadiz (EAJ3), (4) Warsaw.  
-H. J. (Walthamstow): (1) Koenigsberg, (2) Rome, (3) Karlsborg, relaying Stockholm.  
-Reinartz (Cardiff): (1) Hamburg, relaying Hanover, (2) Madrid (EAJ7).  
-Rondalyn (Manchester): Leningrad.  
-S. T. 100 (Sale):  
-G. H. T. W. (Barnetby-le-Wold): Bantam (Aberdeen).  
-E. L. G. H. (Epsom):  
-M. O. V. 2 (Southampton): This was a relay by Koenigswusterhausen from the Auditorium of the German Reichstag, in which Gerhardt Hauptmann gave some readings from his own works.  
-Railway (Leisten): (1) Koenigswusterhausen (as above); (2) Basle relaying Berne (Don Juan).  
-G. A. B. (Tottenham): Not advertised, cannot trace. Do not believe this was from a broadcasting station.  
-Heverites (Maidstone): 300 m. Possibly Barcelona (EAJ1) with English lesson given at a later time than advertised in programme; 520 m. It is almost impossible to state what Continental station relayed a British transmitter on that date as so many of them are experimenting at odd times.  
-4 D. E.'s (Portsmouth): Stuttgart.  
-N. A. D.: (1) San Sebastian; (2) Oslo.  
-Aerial (Buxton): W. G. Y. (Schenectady).  
-Grid-Leak (Wimbledon): Berlin.  
-Aurum (Perth): Bratislava.  
-Dorn (Glasgow): (4) a Swedish relay of Stockholm, Prague. (Programmes are frequently altered to take operatic relays).  
-Bodkin (Altrincham): Karlsborg relaying Stockholm.  
-Wireless Billie (Oldham): Not advertised, cannot trace.  
-Wonn (Broughty Ferry): Apparently some foreign relay of the Hanover Concert taken via Hamburg.  
-Hibernia (Loughrea): Bilbao relaying a Berlin transmission.  
-Inner Hebrides (Isle of Eigg): This item does not appear in any published programme - possibly Bergen.  
-E. Hand (Vale of Belvoir): Yes, Dublin.  
-Bubbly Howl: Cannot trace. Low Waves: The call proves it to be Cadiz, but probably the station was testing on another wave-length.  
-Betting Tax (Weeden): Hamburg.  
-1 Valve (Seaton): (1) Brussels; (2) Stuttgart.  
-Single Valve (Rochester): Radio-Paris.  
-Coil-Pusher (14): No doubt EAJ7 on or about its new wave-length.  
-A. B. C.: Koenigswusterhausen.  
-Popoff (Derby): (1) Radio Toulouse. (2) Are you sure of the WL 2. Time tallies with Oslo.  
-L. & N. P. (Paris): This was a Copenhagen relay of Stockholm.  
-Knobby: Bergen.  
-Winstone: (3) Zurich, (4) Berlin.  
-Cockaday (Wakefield): Karlsborg relaying Stockholm.  
+H. Tucker: Cadiz (experimental concert).
+Scotia: Radio Paris (Special Exhibition transmission).
+E. Branford (B'ham): Madrid (EAJ7).
+G. C. F. (Lincoln): possibly Cadiz (experimental concert).
+Amico: (1) Karlsborg relay of Stockholm, (2) Koenigsusterhausen, relaying Berlin.
+Cymro: no doubt a U.S.A. station, but cannot trace call sign.
+2 Valve (Battersea): yes, Madrid (EAJ7).
+Garcon: yes, Radio Paris (Special Exhibition transmission).
+Aetherhawk (Hengrave): (1) 6PY, amateur (Barnsley), (2) amateur, cannot trace.
+Mer: yes, Karlsborg, relaying Stockholm.
+S.S. Brenda: Lyons, relay of PTT, Paris.
+R. S. 16: Radio Lyons.
+Jet (Liverpool): A. D. Dalston.
+Tuner (Manor Park): BM/BAVZ the opera was not advertised, possibly Madrid (EAJ7).
+Mac (Paris): if a.m. WJZ (Boundbrook), if p.m. cannot trace.
+Track: Radio Paris (Special Exhibition transmission).
+E. C. G. (Edinburgh): probably a Dutch coastal station.
+Y. C. W. (Dorking): surely Koenigsusterhausen Press, 2,525 m.
+P. B. 8 (Leeds): (1) Breslau, relaying Berlin, (2) Hamburg, relaying Hanover, (3) Bilbao (EAJ11).
+Exchange: (1) Hamburg, relaying Hanover (Café Continental), (2) amateur, cannot trace, (3) Rome.
+3 Valver (Hull): (1 and 2) possibly WGY (Schenectady).
+A. B. (Paris): possibly Barcelona (EAJ18), or Seville (EAJ7), but no programmes available.
+Collaborators: Hilversum.
+Strange (Leicester): Prague.
+V2: possibly Muenster (relaying foreign stations at that time).
+G. B. S.: (23/10) Yes, Bilbao (EAJ11), (28/10) Hilversum (Programme for Hospitals).
+J. W. L. P. Z.: Vienna (582 m.).
+Stand-By: WGY (Schenectady).
+W. M. B. (Weston-super-Mare): Warsaw.
+L. E. F. (Molesey): (1) 256 m. Gleiwitz (251 m.); 290 m. Dresden (294 m.), both relaying Berlin. 215 m. cannot trace.
+Printer: Hanover.
+Edmonton: cannot trace, possibly amateur.
+Tenbury: Oslo.
+Electra (London): Moscow (RDW).
+D. T. (Edinburgh): possibly WGY (Schenectady).
+B. D. T. (Twin Flex): vague, possibly Nuremberg relaying Munich.
+B. D. T. G. B.: PTT, Paris.
+F. C. L. B. D.: Nuremberg relaying Munich.
+B. D. T. 6 Valve: too vague, cannot trace.
+Civic E. Port: (1) Gothenberg, relay of Stockholm, (2) Hilversum, (3) Hanover (Café Continental).
+Eric (London): if a.m., Koenigsusterhausen.
+F. E. R. (Eastbourne): Radio Paris.
+Elstree Six (Kirkcaldy): cannot confirm, but believe extended transmission, Madrid (EAJ7).
+Tommy: not in programmes, probably Luxembourg.
+A. J. S. (Worthing): (2) PTT, Toulouse, (1) probably Bremen, relaying Hanover.
+8 Valve Super Het: cannot trace.
+3CF/13SP (Wandsworth): (3) Koenigsusterhausen, (4) Barcelona (EAJ1).
+Q. E. D.: Zurich (relayed from Waedenswil, Hotel Engle).
+Old Bill (Leicester): cannot trace.
+Ormsby Four (Battersea): Radio Paris (Special Exhibition transmission).
+Tanzmusik (Edgware): no date given but probably Berlin.
+M. J. N. Oldham: Radio Paris (Special Exhibition transmission).
+Inverleith: Frankfort-on-Main.
+Willie (Wealdstone): Radio Paris (Special Exhibition transmission).
+No Name: (1) Briinn, (2) Madrid (EAJ7).
+1 Valver New Brim: Prague.
+Joey (Brighton): Dortmund, relaying Muenster.
+Wanderer (Malta): if on that WL., San Sebastian.
+O. K. (Rochdale): insufficient detail, cannot trace.
+EA1 (Wells): probably KDKA (East Pittsburg).
+EA2 (Wells): Sorö, relaying Copenhagen.
+W. H. T. (Exeter): cannot trace.
+W. D. B.: Briinn (confirmed).
+Unidyne: Madrid (EAJ7).
+Swift: Sorö, relaying Copenhagen.
+Arabian Nights: (1) Elberfeld, relaying Muenster (flute solos), (2) amateur transmission.
+Tropadyne (Ellesmere): surely p.m. Buda-Pesth.
+Super-Het (Hull): Moscow (RDW).
+Peeping Tom: much too vague, unable to trace.
+Martin III: a relay of Stockholm (from Uppsala University).
+Winstone: (1) Dresden, (2) Hanover.
+Eight Valve (Eastbourne): Frankfort-on-Main.
+Edina 7: Madrid (EAJ7).
+H. F. 2 Valve: rather vague, but probably San Sebastian.
+Joint: no WL. estimated; too vague, cannot trace.
+Interested (Scorrier): (a) too vague, cannot trace, (b) no coupon.
+King Radio: (1) Koenigswusterhausen, relaying Berlin, (2) Karlsborg relaying Stockholm, (3) Stettin relaying Berlin.
+Lampes: yes, probably lightships.
+Three Valver (Port Talbot): amateur transmission.
+Mars 14: cannot trace.
+E. G. (Brancaster): Berlin.
+Long Distance: (1) W.L. too correct, Breslau relaying Berlin.
+Grid Leak (Scorrier): Radio Paris, Handel.
+1 Valve: (1) Breslau, (2) Madrid (EAJ7).
+S. F. 11.a Maniac: amateur transmission.
+Swiller: Madrid (EAJ7).
+Mūsičūs: Graz.
+L. B. W.: Rome.
+A. W. Solovalve (Winterbourne): possibly Hamburg (gramophone records).
+Naedan (Gateshead): Hamburg, relaying Bremen.
+Smugger: (5) Zurich, (6) Zurich, (7) Hilversum (8) Berlin (speeches from Reichstag).
+Bronzo: W.L. too indefinite, cannot trace.
+Widerik-Phone (Denmark): 4 a.m., cannot trace, probably U.S.A. station.
+Midnight Wanderer: (1) cannot trace, (2) Dortmund (Martha), (3) Cadiz (EAJ3), (4) Warsaw.
+H. J. (Walthamstow): (1) Koenigsberg, (2) Rome, (3) Karlsborg, relaying Stockholm.
+Reinartz 1 (Cardiff): (1) Hamburg, relaying Hanover, (2) Madrid (EAJ7).
+Rondalyn (Manchester) (3): T 100 (Sale).
+H. W. B. (Barnetby-le-Wold):
+Bantar (Aberdeen): E. L. G. H. (Epsom).
+M. O. V. 2 (Southampton): This was a relay by Koenigswusterhausen from the Auditorium of the German Reichstag, in which Gerhardt Hauptmann gave some readings from his own works.
+Railway (Leisten): (1) Koenigswusterhausen (as above); (2) Basle relaying Berne (Don Juan).
+G. A. B. (Tottenham): Not advertised, cannot trace. Do not believe this was from a broadcasting station.
+Heverites (Maidstone): Possibly Barcelona (EAJ1) with English lesson given at a later time than advertised in programme; 520 m. It is almost impossible to state what Continental station relayed a British transmitter on that date as so many of them are experimenting at odd times.
+4 D. E.'s (Portsmouth): Stuttgart.
+N. A. D.: (1) San Sebastian; (2) Oslo.
+Aerial (Buxton): W. G. Y. (Schenectady).
+Grid-Leak (Wimbledon): Berlin.
+Aurum (Perth): Bratislavia.
+Dorn (Glasgow): (4) a Swedish relay of Stockholm.
+Reflex (Norwich): Prague. (Programmes are frequently altered to take over attic relays).
+Bodkin (Altrincham): Karlsborg relaying Stockholm.
+Wireless Billio (Oldham): Not advertised, cannot trace.
+Wonn (Broughty Ferry): Apparently some foreign relay of the Hanover Concert taken via Hamburg.
+Hibernia (Loughrea): Bilbao relaying a Berlin transmission.
+Inner Hebrides (Isle of Eigg): This item does not appear in any published programme - possibly Bergen.
+E. Hand (Vale of Belvoir): Yes, Dublin.
+Bubbly Howl: Cannot trace.
+Low Waves: The call proves it to be Cadiz, but probably the station was testing on another wave-length.
+Betting Tax (Weeden): Hamburg.
+1 Valve (Seaton): (1) Brussels; (2) Stuttgart.
+Single Valve (Rochester): Radio-Paris.
+Coil-Pusher (14): No doubt EAJ7 on or about its new wave-length.
+A. B. C.: Koenigswusterhausen.
+Popoff (Derby): (1) Radio Toulouse. (2) Are you sure of the WL 2. Time tallies with Oslo.
+L. & N. P. (Paris): This was a Copenhagen relay of Stockholm.
+Knobby: Bergen.
+Winstone (3): Zurich, (4) Berlin.
+Cockaday (Wakefield): Karlsborg relaying Stockholm.
 Wavelength Willie (Manchester): (A) Naples; (B) Radio Agen, France; (C) Berne; (D) Stuttgart; (E) Malmö relaying Stockholm.

@@ -1,0 +1,42 @@
+Combine Report for 1925-12-25
+============================================================
+
+Merge 1: IMG_1787.txt + IMG_1788.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: 4A17: presumably Barcelona EAJ13.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 56, similarity: 0.333 (first_8_chars)
+     Line: Noca: Prague-Strasnice.
+  2. Index 56, similarity: 0.300 (first_12_chars)
+     Line: Noca: Prague-Strasnice.
+  3. Index 33, similarity: 0.286 (first_8_chars)
+     Line: Waverer: Koenigs wusterhausen.
+
+Merge 2: merged_1 + IMG_1789.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Four Valve Oscillator.
+Best similarity found: 0.600
+
+Closest matches (top 3):
+  1. Index 32, similarity: 0.600 (first_12_chars)
+     Line: One Valver: Radio Toulouse.
+  2. Index 20, similarity: 0.455 (first_12_chars)
+     Line: Seven Valves: too vague.
+  3. Index 32, similarity: 0.429 (first_8_chars)
+     Line: One Valver: Radio Toulouse.
+
+Merge 3: merged_2 + IMG_1790.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 9
+Match strength: 1.000
+
+File A last line: Porto: No programme.
+File B matching line: Porto: No programme advertised, but presumably Cadiz (EAJ2) testing after midnight.
+

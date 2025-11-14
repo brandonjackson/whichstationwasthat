@@ -1,0 +1,33 @@
+Combine Report for 1926-10-01
+============================================================
+
+Merge 1: IMG_2517.txt + IMG_2518.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_2519.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: G.W.X.Y.Z. (Dublin): (7.20 p.m.) Elberfeld?
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 24, similarity: 0.286 (first_12_chars)
+     Line: W.W.N. (Eynsham): Yes, Buda-Pesth. Station gives dance music on Sundays from 10 p.m. Other settings tally with Vienna stations. Possibly one was testing on new Geneva wl.
+  2. Index 22, similarity: 0.250 (first_8_chars)
+     Line: S.W. (Liverpool): 5. Stockholm (Changing of Guard at Royal Palace).
+  3. Index 24, similarity: 0.250 (first_8_chars)
+     Line: W.W.N. (Eynsham): Yes, Buda-Pesth. Station gives dance music on Sundays from 10 p.m. Other settings tally with Vienna stations. Possibly one was testing on new Geneva wl.
+
+Merge 3: merged_2 + IMG_2520.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 19
+Match strength: 1.000
+
+File A last line: Jerry (Bodeman): Possibly extended transmission Munich.
+File B matching line: Jerry (Bodenham): (1) Very vague; possibly Leipzig relaying Dresden programme.
+

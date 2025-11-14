@@ -10,7 +10,7 @@ Boward: Madrid (EAJ7).
 Barber’s Pole: (1) Madrid (EAJ6), (2) Madrid (EAJ7).  
 Stellenbosch: Too vague, cannot trace.  
 Minnow: Madrid (EAJ6).  
-C.G.N. (Langport): More likely Hjortring (1250 m. 31/1).  
+C.G.N. (Langport): more likely Hjortring (1250 m. 31/1). Moscow (RDW).  
 D.G.T. (Newbury): Stuttgart (446 m.).  
 Merry: Madrid (EAJ4).  
 O.B.E. (Lincoln): Too vague.  
@@ -22,7 +22,7 @@ Redded (Mkt. Rasen): Prague.
 Kingston (Hull): WL too vague.  
 BM/RBW: (a) Probably Barcelona (EAJ1), (b) Gothenburg.  
 Sun Dial: Hamburg (English lesson).  
-De Bosco (Dorset): No WL given.   
+De Bosco (Dorset): No WL given.  
 B. P. (Portsmouth): Moscow (RDW).  
 Bathonian: Hamburg.  
 E.V.B. (Portsmooth): (1) Tallies with Radio-Toulouse, (2) Rome.  
@@ -47,8 +47,7 @@ Quorn: WL too vague, cannot recognise call sign.
 B.C.A.: Hanover, (7.10) Bremen.  
 X.L.: Madrid (EAJ4).  
 Leander (Felixstowe): Moscow (RDW).  
-Special Five: Cannot trace any French station on that WL, could it not be harmonique of PTT?  
-(2) Details somewhat vague, presumably Reval.  
+Special Five: Cannot trace any French station on that WL, could it not be harmonique of PTT? (2) Details somewhat vague, presumably Reval.  
 Lungam (Newcastle): (a) Apparently Hjorring and Ryvang relaying extended transmission of Copenhagen.  
 Campton: Hanover.  
 Dorothy: Moscow (RDW).  
@@ -56,8 +55,7 @@ Jackal: Moscow (RDW).
 Clovelly: Buda-Pest.  
 R.J. 3 (Dunfermline): Do not understand query, give further details.  
 BM/BRCG: Sundsvall (Weather report).  
-(10.30) Cannot trace.  
-Alex (Hampstead): Oslo.  
+Ibsen (Alex) (Hampstead): Oslo.  
 Inkwell (Sutton): Hamburg.  
 S. F. B. (Leicester): Too vague.  
 A. M. Z. (Kings Lynn): Hanover.  
@@ -103,8 +101,7 @@ Jack Nemo (Brussels): Radio-Toulouse, or Lyon la Doua, but not in programmes.
 Tatters: Moscow (RDW).  
 Tom Hunt: Norddeich (1800 m.).  
 Derf: Killie (Forfar).  
-Blue Vinny: Moscow.  
-D.X. 4: Madrid (EAJ6).  
+Blue Vinny: Moscow (RDW). D.X. 4: Madrid (EAJ6).  
 New Aerial G.S.F.: Madrid (EAJ7).  
 Gecophone: Zurich.  
 Clapton: Madrid (EAJ7).  
@@ -158,11 +155,11 @@ Holmrook: 2RC amateur (Birmingham).
 Neutrodyne (Windsor): Cadiz (EAJ3).  
 Tinker (Crewe): Hamburg.  
 Ticker (Cheltenham): (6.25) Cannot trace item in programmes, (11.15) Bilbao (EAJ11).  
-Pen Galloway (Manchester): (a) Item very vague, would tally with Kiel, (b) items too vague.  
+Manchester: (a) Item very vague, (b) item too vague.  
 Devonian: Prague.  
 Racehorse: Koenigswusterhausen (lecture).  
-Radio Bug: (1) Probably Toulouse as mentioned in programme, (2) Breslau.  
-W. S.: Cannot trace.  
+Radio Bug: (1) Probably Toulouse, item could not in programme, (2) Breslau.  
+W.A.S.: Cannot trace.  
 Oval (Gloster): (Letter) relays of Stockholm (coupon) San Sebastian.  
 Nunthorpe: Madrid (EAJ6).  
 Nun (Nuneaton): Berlin.  

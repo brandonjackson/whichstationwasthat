@@ -1,0 +1,70 @@
+Combine Report for 1927-02-25
+============================================================
+
+Merge 1: IMG_2912.txt + IMG_2913.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_2914.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 26
+Match strength: 1.000
+
+File A last line: North Turn (Shirebrook): Frankfort-on-Main and Cassel gave “physical jerks”.
+File B matching line: North Turn (Shirebrook): Frankfort-on-Main and Cassel gave “physical jerks” at that time!
+
+Merge 3: merged_2 + IMG_2915.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: E. F. (Bradford): (1) yes. Berne (Mandoline
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 22, similarity: 0.400 (reporter_and_content)
+     Reporter similarity: 0.000
+     Content similarity: 1.000
+     Line: H.P. (Rochdale): (1) Yes, Berne; (2) Cannot trace item on or around this WL.
+  2. Index 17, similarity: 0.350 (reporter_and_content)
+     Reporter similarity: 0.250
+     Content similarity: 0.500
+     Line: H.F.H. (Hoddesdon): (a) Yes, Rome; (b) Radio Castilla (Madrid); (c) Moscow (RDW).
+  3. Index 17, similarity: 0.333 (first_8_chars)
+     Line: H.F.H. (Hoddesdon): (a) Yes, Rome; (b) Radio Castilla (Madrid); (c) Moscow (RDW).
+
+Merge 4: merged_3 + IMG_2916.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 0.867
+
+File A last line: H.H. (Dorking): Graz relays a concert from Vienna at that time.
+File B matching line: Dorking: Graz relays a concert from Vienna at that time; Breslau also transmits gramophone records.
+
+Merge 5: merged_4 + IMG_2917.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 10
+Match strength: 1.000
+
+File A last line: Cayenne (Bradford):
+File B matching line: Cayenne (Bradford): (a) Oslo (461.5 m.), (b) cannot trace, would appear to be an amateur transmission.
+
+Merge 6: merged_5 + IMG_2918.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: The Whelk.
+Best similarity found: 0.222
+
+Closest matches (top 3):
+  1. Index 11, similarity: 0.222 (first_12_chars)
+     Line: (1) Suedwestdeitscher Rundfunkdienst A.G. 50, Elbestrasse, Frankfort-on-Main, (2) Westdeutscher Rundfunk A.G. 38, Dagobertstrasse, Cologne on Rhine, (3) Sueddeutscher Rundfunk A.G. Charlottenplatz, 1, Stuttgart, (4) Radiobarcelona, Barcelona, Spain, (5) Oesterreichische Radio-Verkehrs, A.G. Johannesgasse 4 a, Vienna 1, Austria, (6) Radiofonica di Roma, Via Maria Christina 13, Rome.
+  2. Index 15, similarity: 0.200 (first_12_chars)
+     Line: Condenser (N. 12): Bruenn (Radio Journal), news at 9 p.m. G.M.T.
+  3. Index 10, similarity: 0.182 (first_12_chars)
+     Line: Hymers College (Preston): Bergen frequently relays 5XX.
+

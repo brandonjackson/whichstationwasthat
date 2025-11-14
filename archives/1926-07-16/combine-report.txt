@@ -1,0 +1,18 @@
+Combine Report for 1926-07-16
+============================================================
+
+Merge 1: IMG_2438.txt + IMG_2439.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: B.A.L. (Addiscombe).
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.500 (first_8_chars)
+     Line: T.D. (Alnwick): Hamburg relaying Hanover.
+  2. Index 10, similarity: 0.286 (first_12_chars)
+     Line: Ajax (E.8): Cannot trace, probably Bilbao.
+  3. Index 1, similarity: 0.250 (first_12_chars)
+     Line: Plain Det. (Hull): If 440 m., could not have been same reading as Aberdeen; probably new Munich station testing.
+

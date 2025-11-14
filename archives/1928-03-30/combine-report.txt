@@ -1,0 +1,108 @@
+Combine Report for 1928-03-30
+============================================================
+
+Merge 1: IMG_3327.txt + IMG_3328.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3329.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Lewis: Leipzig.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 8, similarity: 0.564 (reporter_and_content)
+     Reporter similarity: 0.273
+     Content similarity: 1.000
+     Line: Novice (Lowes): Leipzig, relaying dance music from the Central Hotel at Berlin until 11.30 p.m. G.M.T.
+  2. Index 0, similarity: 0.250 (first_8_chars)
+     Line: Interested (Blackpool): Langenberg, relaying Cologne (chimes from the studio); the German National Anthem is played to the melody of the old Austrian hymn (music by Haydn).
+  3. Index 7, similarity: 0.250 (first_8_chars)
+     Line: Gowibepashepush: Cologne (concert of classical and dance music); French station slightly below, possibly PTT Lille.
+
+Merge 3: merged_2 + IMG_3330.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Engzilt (Beccles): No, not Helsingfors; possibly.
+Best similarity found: 0.300
+
+Closest matches (top 3):
+  1. Index 34, similarity: 0.310 (reporter_and_content)
+     Reporter similarity: 0.071
+     Content similarity: 0.667
+     Line: Wot Worzit: No, this was an amateur transmission, but cannot trace as you give no call sign.
+  2. Index 2, similarity: 0.300 (first_12_chars)
+     Line: Novice (S.E.20): Apparently one of the Polish stations giving election results (gramophone records in the intervals), but cannot say which as you give no estimate of WL.
+  3. Index 36, similarity: 0.300 (first_12_chars)
+     Line: Bussett: Bergen, outside relay of dance music; items are frequently announced and sung in English.
+
+Merge 4: merged_3 + IMG_3331.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Monotone (Humberstone): This was the broadcast of the reception notice of Colonel Lindbergh at Washington, which was relayed by many U.S.A. stations and rebroadcast by many of the German transmitters.
+File B matching line: Monotone (Humberstone): This was the broadcast of the reception of Colonel Lindbergh at Washington, which was relayed by many U.S.A. stations and rebroadcast by many of the German transmitters. See paragraph with regard to this broadcast in last week’s Via Ether.
+
+Merge 5: merged_4 + IMG_3332.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: V2 (Llwyn): This was the broadcast of the reception of Colonel Lindbergh at Washington, which was relayed by many U.S.A. stations, and also rebroadcast by most of the German stations; possibly
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 28, similarity: 0.286 (first_8_chars)
+     Line: Allwave (Herne Hill): Are you sure of the date? We can trace no station on or about that WL. giving dance music at that time ; Motala advertised drama, R.U.R. (Capek).
+  2. Index 18, similarity: 0.200 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 0.250
+     Line: Scape Goat Hill D.X. Man: (1) Surely you mean Sunday, March 18 ? If so, your details would tally with the Hülzen programme; (2) WL. wrong; this was Posen (Poland).
+  3. Index 28, similarity: 0.200 (first_12_chars)
+     Line: Allwave (Herne Hill): Are you sure of the date? We can trace no station on or about that WL. giving dance music at that time ; Motala advertised drama, R.U.R. (Capek).
+
+Merge 6: merged_5 + IMG_3333.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Wrong (Shrewsbury):
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 14, similarity: 0.400 (first_12_chars)
+     Line: K.R.O. (Norbury): Apparently KDKA (East Pittsburgh) received direct, as we know of no European station which effected relays at that time.
+  2. Index 0, similarity: 0.333 (first_8_chars)
+     Line: L. King (Yorks.): Kattowitz or Wilno, broadcasting election results with gramophone records in the intervals.
+  3. Index 14, similarity: 0.333 (first_8_chars)
+     Line: K.R.O. (Norbury): Apparently KDKA (East Pittsburgh) received direct, as we know of no European station which effected relays at that time.
+
+Merge 7: merged_6 + IMG_3334.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Winnipeg.
+File B matching line: Winnipeg (Doncaster): 5YW advertised as amateur transmitter at Wolverhampton.
+
+Merge 8: merged_7 + IMG_3335.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Orchid, John (Beaconsfield): Interested (Dovercourt): British.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 14, similarity: 0.333 (first_8_chars)
+     Line: W. C. H. (Bristol): (1) Apparently Kattowiz (altered programme) ; (2) PTT Lyons.
+  2. Index 1, similarity: 0.300 (first_12_chars)
+     Line: Chippy C. S. S. (Sheffield): (1) An amateur transmission, but cannot trace call sign. (2) details are too vague, regret cannot trace; (3) 5SW, B.B.C. experimental station at Chelmsford.
+  3. Index 8, similarity: 0.286 (first_8_chars)
+     Line: Roscoe Chadwall: This was Dublin. See detailed programme in World-Radio. Good work; this was an amateur transmission.
+

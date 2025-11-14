@@ -1,0 +1,84 @@
+Combine Report for 1927-01-21
+============================================================
+
+Merge 1: IMG_2695.txt + IMG_2696.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: A.S. (Chester): Eiffel Tower.
+File B matching line: A.S. (Chesterfield): Eiffel Tower.
+
+Merge 2: merged_1 + IMG_2697.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 9
+Match strength: 0.715
+
+File A last line: STM (Brighton): CDG (France).
+File B matching line: Duman (Brighton): CDG interval signal from Stuttgart; you may have heard the Freiburg relay.
+
+Merge 3: merged_2 + IMG_2698.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Whyte.
+Best similarity found: 0.667
+
+Closest matches (top 3):
+  1. Index 44, similarity: 0.667 (first_8_chars)
+     Line: White (Hartlepool): Prague.
+  2. Index 44, similarity: 0.400 (first_12_chars)
+     Line: White (Hartlepool): Prague.
+  3. Index 28, similarity: 0.333 (first_8_chars)
+     Line: Want to know (Sorø): relaying Copenhagen. John N. Selkirk (Glasgow): impossible to trace from condenser-readings; an estimate of W.L. must be given.
+
+Merge 4: merged_3 + IMG_2699.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 6
+Match strength: 0.970
+
+File A last line: Ball-Boola (Sth. Shields): Radio-Madrid relaying Copenhagen.
+File B matching line: Balla-Boola (Sth. Shields): Radio-Madrilen (EAJ12), Madrid.
+
+Merge 5: merged_4 + IMG_2700.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 18
+Match strength: 0.867
+
+File A last line: A. C. (Dublin): If 10.45 p.m., only.
+File B matching line: T. A. G. (Dublin): If 10.45 p.m., Leipzig.
+
+Merge 6: merged_5 + IMG_2701.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Charleston Mad: (1) Amateur.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 23, similarity: 0.500 (first_8_chars)
+     Line: Haler: Hamburg.
+  2. Index 3, similarity: 0.455 (first_12_chars)
+     Line: G. Walton (Liverpool): This would tally with the Hamburg relay of Bremen.
+  3. Index 14, similarity: 0.375 (first_8_chars)
+     Line: 2 Valves (Acocks Green): WL. apparently wrong = Petit Parisien (Paris), broadcast The Waltz Dream (Strauss).
+
+Merge 7: merged_6 + IMG_2702.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Horace Hopscotch (Eire): (2) Cadiz (EAJ8) first news bulletin.
+File B matching line: Horace Hopscotch (Erith): Excellent results.
+
+Merge 8: merged_7 + IMG_2703.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

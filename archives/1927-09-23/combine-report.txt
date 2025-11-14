@@ -1,0 +1,61 @@
+Combine Report for 1927-09-23
+============================================================
+
+Merge 1: IMG_3086.txt + IMG_3087.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: A. L. C. M. (Dundee):
+File B matching line: A. L. C. M. (Dundee): (1) Hamburg, relaying concert from the Café Wallhof; (2) Bremen, relaying concert from Sollner's Gute Stuben, (3) Regret, cannot trace.
+
+Merge 2: merged_1 + IMG_3088.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Shipy (York): (1) Prague. From 9.10 to 10 p.m., variety concert, followed by time signal (six o'clock news and news bulletin). (2) Bratislava, relaying concert from Prague.
+Best similarity found: 0.273
+
+Closest matches (top 3):
+  1. Index 13, similarity: 0.286 (reporter_and_content)
+     Reporter similarity: 0.143
+     Content similarity: 0.500
+     Line: Nobby Clarke (Maidenhead): (1) Rome, relaying from Theatre; (2) Bruenn, relaying orchestral concert from the Café Rosenbreier; (3) can trace no German station giving an English lesson at that time; (4) Koenigsberg; (5) if your estimate of WL. is correct, this was Gothenberg, relaying Stockholm.
+  2. Index 2, similarity: 0.280 (reporter_and_content)
+     Reporter similarity: 0.133
+     Content similarity: 0.500
+     Line: El Buscador (Frome): (1) Yes, Warsaw (a lady announcer). Police news, time, aviation notes, weather and news; (2) yes, Berlin (Witzleben).
+  3. Index 13, similarity: 0.273 (first_12_chars)
+     Line: Nobby Clarke (Maidenhead): (1) Rome, relaying from Theatre; (2) Bruenn, relaying orchestral concert from the Café Rosenbreier; (3) can trace no German station giving an English lesson at that time; (4) Koenigsberg; (5) if your estimate of WL. is correct, this was Gothenberg, relaying Stockholm.
+
+Merge 3: merged_2 + IMG_3089.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Mill Lad (Manchester):
+Best similarity found: 0.273
+
+Closest matches (top 3):
+  1. Index 5, similarity: 0.273 (first_12_chars)
+     Line: Wireless Walter (Cranleigh): We regret that we cannot trace. Your information is too vague.
+  2. Index 5, similarity: 0.250 (first_8_chars)
+     Line: Wireless Walter (Cranleigh): We regret that we cannot trace. Your information is too vague.
+  3. Index 2, similarity: 0.143 (first_8_chars)
+     Line: 1 Valver (Rugeley): Yes, Madrid (EAJ7).
+
+Merge 4: merged_3 + IMG_3090.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: H.G.S. (Dublin): (1) The German station working on a wavelength nearest to your estimation, at about that time, was Hanover, which relayed a concert from the Café Continental. Breslau is now on 322 metres. You may possibly have heard Koenigsberg with which the details given by you would also tally.
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.200 (first_12_chars)
+     Line: Elstree (Leeds)-Stiffy (Liverpool): Milan (altered programme); a relay from a theatre of a performance of Verdi’s opera Aida. Confirmed by many listeners.
+  2. Index 2, similarity: 0.143 (first_8_chars)
+     Line: Elstree (Leeds)-Stiffy (Liverpool): Milan (altered programme); a relay from a theatre of a performance of Verdi’s opera Aida. Confirmed by many listeners.
+  3. Index 1, similarity: 0.125 (first_8_chars)
+     Line: Etherite (Norwich): We can trace no station broadcasting an opera by Wagner at that time. Berlin gave The Vampire (Marschner). If you heard the same programme from Dortmund, it was Orpheus in the Underworld (Offenbach) transmitted by Langenberg.
+

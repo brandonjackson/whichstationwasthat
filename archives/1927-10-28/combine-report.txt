@@ -1,0 +1,27 @@
+Combine Report for 1927-10-28
+============================================================
+
+Merge 1: IMG_3129.txt + IMG_3130.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 0.867
+
+File A last line: Radiator 3: Do you know?
+File B matching line: Radiano 3: Do you mean Sunday, October 16? If so, your details would tally with Nürnberg. (Open Air Choral Concert).
+
+Merge 2: merged_1 + IMG_3131.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Finn: We can trace no station around this WL.
+File B matching line: Finn: We can trace no station on about 380 m. giving the opera Faust at that time. Although not advertised in programmes, as regards the time it might tally with a transmission from Madrid (EAJ7), Saturday 15, October 15; your condenser readings would appear to tally with Warsaw.
+
+Merge 3: merged_2 + IMG_3132.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+

@@ -1,0 +1,46 @@
+Combine Report for 1926-04-02
+============================================================
+
+Merge 1: IMG_1881.txt + IMG_1882.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Howler: Amateuor (Lectricians): Brighton PTM. Paris.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.520 (reporter_and_content)
+     Reporter similarity: 0.200
+     Content similarity: 1.000
+     Line: Speco (Shrewsbury): Amateur testing.
+  2. Index 40, similarity: 0.486 (reporter_and_content)
+     Reporter similarity: 0.143
+     Content similarity: 1.000
+     Line: F. L. (Perth): Amateur (Dundee).
+  3. Index 10, similarity: 0.375 (first_8_chars)
+     Line: Powerful Three (Aldershot): Sorø, relay of Copenhagen.
+
+Merge 2: merged_1 + IMG_1883.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Harmony
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 7, similarity: 0.429 (first_8_chars)
+     Line: Hammer: Radio-Paris.
+  2. Index 15, similarity: 0.375 (first_12_chars)
+     Line: W. Dalion (Horsham): An amateur, cannot trace 22T.
+  3. Index 7, similarity: 0.300 (first_12_chars)
+     Line: Hammer: Radio-Paris.
+
+Merge 3: merged_2 + IMG_1884.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
+
+File A last line: Learner 22: Yes, Madrid (EAJ1), at 10.15 relay of Vienna (D).
+File B matching line: Learner 11: Amateur, cannot trace.
+

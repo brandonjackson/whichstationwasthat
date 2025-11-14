@@ -1,0 +1,12 @@
+Combine Report for 1927-05-20
+============================================================
+
+Merge 1: IMG_3007.txt + IMG_3008.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: Low Tension (Hove):
+File B matching line: Low Tension (Hove): This was the French Football Cup Final relayed from the Colombes Stadium by PTT Paris (468 m.) and the Petit Parisien (340 m.). You received it through the latter station.
+

@@ -1,6 +1,7 @@
 Lorton (Cumberland): Berne.
 Ajax (Canterbury): (a) Madrid (EAJ7); (b) PTT, Paris, or Bordeaux relay; (c) Bremen, relay of Hanover; (d) Hamburg, relay of Hanover.
-RTZ (O.V.): J.W.F. Madrid (EAJ7), R.V.B. (Walsall): Madrid (EAJ6).
+RTZ (O.V.): J.W.F. Madrid (EAJ7).
+R.V.B. (Walsall): Madrid (EAJ6).
 Ross: Berlin does not give dance music from 5 p.m. to 11 p.m., but if you mean 10.55 p.m. you heard Breslau relaying Berlin.
 Y.A.3 (Plumstead): Madrid (EAJ7) was working late.
 A.Z. (London): no programmes available; if WL correct could only be Barcelona (EAJ18) or Seville (EAJ17).
@@ -19,7 +20,8 @@ B.T.H. (3 p.m.): cannot trace this test, (11.20 p.m.) Hanover, relay of Hamburg.
 R.W.9: Madrid (EAJ6) (Opera Bohème).
 Carrier Wave: Barcelona (EAJ13).
 3 Unidyne (Sheppingley): (1) Madrid (EAJ7).
-Twin (Forest Gate): Ether Searcher (Acton): Hamburg, relay of Hanover.
+Twin (Forest Gate):
+Ether Searcher (Acton): Hamburg, relay of Hanover.
 Hillman: Koenigs wusterhausen.
 BM/BXAK: Bremen, relay of Hanover.
 Ashton (1): Hamburg, relay of Hanover, (2) Madrid (EAJ6).
@@ -31,7 +33,8 @@ A.D. Douglas: failing some indication cannot trace.
 Non-Pong: no, cannot trace.
 J.A. (S.W.19): Berne (concert from Kursaal).
 F.C. Pipe (Bournemouth): (1) PTT, Toulouse, (2) Dortmund, relay of Elberfeld.
-G.E. Draper: a.m or p.m. Frankfort-on-Main.
+G.E. Draper: a.m or p.m
+Energy: no details Frankforton-Main.
 Vic (Brighton): Prague.
 Doubtful: yes, Oslo.
 Grammonian: Hanover.

@@ -1,0 +1,33 @@
+Combine Report for 1927-06-24
+============================================================
+
+Merge 1: IMG_3032.txt + IMG_3033.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Grosier (York):
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.200 (first_12_chars)
+     Line: Quatre V (Pontypool): Dortmund (283 m.) relaying dance music from the Fledermaus Cabaret.
+  2. Index 6, similarity: 0.200 (first_12_chars)
+     Line: 2 Up (Harlow): (1) Yes, apparently Dublin testing, (2) yes, Leipzig (365 m.), (3) Nuremberg (303 m.) relaying Munich. (A musical play by Anzengruber.) (4) Glasgow (engineer’s test). Call heard when closing down; Glasgow and Dundee, (5) Yes, Frankfort (gramophone records), but not relaying Hamburg.
+  3. Index 0, similarity: 0.143 (first_8_chars)
+     Line: Details are much too vague, regret cannot trace.
+
+Merge 2: merged_1 + IMG_3034.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: S. T. (1001) (Redfield):
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.286 (first_8_chars)
+     Line: "Mystified" (Chippenham): We regret we cannot answer this from the apparently contradictory readings which you give. Can you furnish any more definite facts?
+  2. Index 3, similarity: 0.222 (first_12_chars)
+     Line: "Mystified" (Chippenham): We regret we cannot answer this from the apparently contradictory readings which you give. Can you furnish any more definite facts?
+  3. Index 2, similarity: 0.143 (first_8_chars)
+     Line: Topsham (Devon): Do not know of any broadcasting station working at that time likely to interfere with 5XX. Radio-Paris was giving a talk, as per programme.
+

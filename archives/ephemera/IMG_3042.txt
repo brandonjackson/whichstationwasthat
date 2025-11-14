@@ -1,0 +1,33 @@
+Relayed Programmes.
+
+THE first relay ever attempted by the B.B.C. was in December, 1923, when a relay of the programme given by KDKA on 29 metres was arranged with that firm for the purpose of a joint concert with KDKA.
+
+The success of this earlier attempt led, in 1924, to a number of Continental relays, including daily relays of three American programmes from WGY Schenectady.
+
+These were not always received under favourable, but more often under disturbed, transmission, arrangements were also made with the KDKA relay.
+
+The earlier phases of this relay work were carried out before much was known of the short wave system, and not entirely satisfactory results were obtained, poor receiving districts experiencing a volume of modulation which was not much better than reception under normal conditions, and stations, attempting tests with KDKA on 32 or 29 metres, while a measure of the relay could be picked up in the distant parts, the majority of whom were unable, or just unable, to obtain useful reception.
+
+Nevertheless, tests gave a very good idea of the possibilities of the system and in point of fact, a glimpse of an important report which was to lead to the modern short wave techniques.
+
+During last winter much interesting relay work was done by the B.B.C. of the Argentine stations XAAF and XAD on 32, 29, 25, and 22 metres in order to determine, if possible, how reception conditions varied , and the best time to work for the programme. In these tests, the signals were at times extremely strong and, indeed, it was difficult to understand how powerful local signals it was to protect us from. Work of this nature is of great value; it reveals results of the tests pointed out that short wave reception exhibits many highly confused results.
+
+On most occasions the most satisfactory degree of modulation was experienced during the first hour of the tests, usually between 11 p.m. and 12.30 a.m., G.M.T. These conditions continued generally from one night to another and were such that the results enabled the relay to be carried out with results which exceeded those on 32 or 29.79 The main difficulties encountered are well known.
+
+Fading due to the Heaviside Layer effect is probably the worst of these, but a multiplicity of causes were traced out by the B.B.C. engineers. On this very matter, fading is present in some of the tests, particularly where the time of operation is unsuitable. After further investigation and the results of these tests, fading has been largely overcome at the transmitter plant by the modification or electrical work, the relay operator still remaining more or less fixed. Again it is found that at certain times short wave reception is very good, but unless the time is chosen for the night transmission, as with a relay, some modification to the time of day, if not to the seasonal period, is found necessary.
+
+At night only when there is darkness at both transmitting and receiving ends, can good short wave results can be expected. This is the fact upon which these Argentine relay tests have been based.
+
+It is not possible to put the relay into full operation at midday since the best results then usually standard are not usually known. It is necessary the programme time to be altered in order that there shall be darkness in both regions for this only, the stations that are to be relayed. For this reason the relay is best maintained at some other time, when, although the strength of the subject relay, the short wave signal is not usually so strong. tests also made it plain that despite all factors the short wave relay is at times subject to sudden variations, but less in comparison, and consequently the ratio is higher. Further, in this case they are extremely interesting, and are shown on 32, 29, below.
+
+The curves show the variation, if any, on any of the waves between the hours of 11 p.m. and 2.30 a.m., with the exception of three days with times between 11 p.m. and 2.30 a.m.
+
+The curves are taken on 32 metres and sold as No. 1. The first two charts, reproduced in diagram, Fig. 1 and Fig. 2, are typical variations, while the bottom represents Fig. 3 and 4 the average results on those evenings when the relay was actually carried out.
+
+These results were obtained at Keston (Kent), used always with a special aerial, 250ft. long and 12ft. high, and due south. The retrieving apparatus, of which a description was given some time, is used. Circuit variations were noted throughout the tests during these six months, it being found that good results were obtainable only when there was darkness at both transmitter and receiving ends; on another relay this will have to be a factor at the end.
+
+At the transmitting end the determination of the best time for relay was based upon transmitter conditions and the strength of the transmitting signals, much in the same manner as that which would normally be used at the receiving end of the relay scheme. Usually at the relay end the variations in strength due given, but changes at some other time, after about 8 p.m. G.M.T., were soon beginning to affect it and the relay reception, when suddenly interrupted during one of the tests, was less in comparison, and consequently the ratio is higher. Further, in this case they are extremely interesting, and are shown on 32, 29.
+
+Two interesting tests, the results of which will be demonstrated publicly at a London theatre, were recently carried out by the General Electric Company and the American Telephone and Telegraph Company of America.
+
+It is now well known that relay tests of this kind were carried out by WGY Schenectady, and the results obtained will be shown during the tests in London. These will include the tests on various wavelengths between 25 and 32 metres, and in the second 32.79 and 29.72 and 29.76. The reception results obtained at Keston are compared to short-wave enthusiasts for the purpose of short-wave and broadcast work.

@@ -1,0 +1,125 @@
+```plaintext
+ST14: Marseilles, relay of PTT. Afternoon Listener: Hamburg.
+Amico: Koenigswusterhausen. 
+3 Unidyne: (1) too vague, (2) Koenigswusterhausen, (3) Lyon-la-Doua, relay of PTT, (4) San Sebastian.
+Optimist: (1) Madrid (EAJ6), (2) 5CY amateur (Ashton-under-Lyne).
+Dura: Malmö, relay of Stockholm.
+Pioneer: Hanover, relay of Hamburg.
+Guglielmo (Coventry): Radio Toulouse (relay of local theatre 500 m.).
+3 V.S. (Colchester): presumably Moscow (1,010 m).
+Special Five (Birmingham): Koenigswusterhausen (Press).
+Mars Calling: (1) PTT Toulouse (2) cannot trace amateur, (3) too vague.
+Two Valve (Balham): Dortmund, relay of Muenster.
+Avelength Willie (Manchester): (a) Kiel, relay of Hanover, (b) Kiel, relay of Hamburg.
+Airman: cannot trace.
+Rubato: presumed Dundee ex Glasgow.
+Donau: Hanover, relay of Hamburg.
+Sabre: Radio Toulouse.
+Bunting (Plymouth): a Spanish station, but cannot trace.
+C. C. F. (Hockley): presumably Oratorio St. Paul (Mendelssohn) from Dublin.
+Headphones (Cheltenham): Dublin.
+Venture (Liverpool): no indication. V. S. (Belfast): given.
+Hove: (a) Barcelona (EAJ1), (b) Barcelona (EAJ5).
+Kells (C. L. M.): (1) cannot trace, not Muenster unless altered programme, (2) San Sebastian, (3) Breslau, (4) Berne, (5) Yes, Berlin.
+N. B. T. (Nottingham): Koenigswusterhausen (1,300 m.).
+F. A. P. (Leicester): (21/3) Moscow (RDW), (28/3) Toulouse.
+H. de K.: Cadiz or Seville.
+Ranzo (Parkstone): (10.30) probably Casci, relay of Frankfort’s relay of Berlin, (11.10) PTT Toulouse.
+BM/BABH: further particulars would be interesting—is this not harmonic of PTT, Paris?
+Portmuthian: (1) too vague, (2) San Sebastian.
+Wanderer of Chingford: cannot trace, no English station gave dance music, probably amateur.
+W. J. Gillott: (4) probably Madrid (EAJ6).
+Harmony Four (Harlesden): (a) Eiffel Tower, relay of PTT, Paris, (b) Hamburg.
+H. Darkin: amateurs, cannot trace.
+SF11a: Hilversum service started at 4.25 p.m.
+2.V.A. (Dundee): Radio Toulouse.
+Sea Breeze: harmonic from Rugby.
+Valves Four: (a) Dortmund, (b) W.L. vague, but relay of Stockholm.
+El-Nido: Barcelona (EAJ13).
+Buster (Durrington): Madrid (EAJ7), L.429144: presumably Moscow.
+4 Valve: (a) Hilversum, (b) W.L. too vague.
+Vacuum (Troober): Radio Toulouse.
+S. T. 100: 2XZ, amateur (S.W.18.), cannot trace W.L.
+```3.V.S. (Colchester): presumably Moscow (1,010 m.).
+Special Five (Birmingham): Koenigs Wusterhausen (Press).
+Mars Calling: (1) PTT Toulouse, (2) cannot trace amateur, (3) too vague.
+Two Valve (Balham): Dortmund, relay of Muenster.
+Wavelength Willie (Manchester): (a) Kiel, relay of Hanover, (b) Kiel, relay of Hamburg.
+Airman: cannot trace.
+Rubato: presumable Dundee ex Glasgow.
+Donau: Hanover, relay of Hamburg.
+Sabre: Radio Toulouse.
+Bunting (Plymouth): a Spanish station, but cannot trace.
+C. F. (Hockley): presumably Oratorio St. Paul (Mendelssohn) from Dublin.
+Headphones (Cheltenham): Dublin.
+Venture (Liverpool): no indication of W.L. given.
+Tio (Hove): (a) Barcelona (EAJ1), Barcelona (EAJ13).
+Kells (Worthing): (1) cannot trace, not Muenster unless altered programme, (2) San Sebastian, (3) Breslau, (4) Berne, (5) Yes, Berlin.
+N. B. T. (Nottingham): Koenigs Wusterhausen (1,300 m.).
+F. H. P. (Leicester): (21/3) Moscow (RDW), (28/3) Toulouse.
+K. Cadiz or Seville.
+Ranzo (Parkstone): (10.30) probably Cassei, relay of Frankfort’s relay of Berlin, (11.10) PTT Toulouse.
+BM/BAB: further particulars would prove interesting in this household.
+Pamela (Chislehurst): (1) too vague, (2) San Sebastian.
+Wanderer of Chingford: cannot trace, no English station gave dance music, probably amateur.
+W. J. Gillott: (4) probably Madrid (EAJ6).
+Harmony Four (Harlesden): (a) Eiffel Tower, relay of PTT, Paris, (b) Hamburg.
+H. Darkin: amateurs, cannot trace.
+SF11a: Hilversum service started at 4.25 p.m.
+2.V.A. (Dundee): Radio Toulouse.
+Sea-Breeze: harmonic from Rugby.
+Valves Four: (a) Dortmund, (b) W.L. vague, but relay of Stockholm.
+El-Nido: Barcelona (EAJ13).
+Buster (Durrington): Madrid (EAJ7).
+L.429141: presumably Moscow.
+4 Valver: (a) Hilversum, (b) W.L. too vague.
+Vacuum (Toober): Radio Toulouse.
+S.T. 100: 2XZ, amateur (S.W. 18), cannot trace 5YJ.
+Aleppo: (1) yes, Belgrade, (2) Moscow.
+Lilie: relay of Hamburg.
+E. A. W. (Earl’s Court): Barcelona (EAJ1).
+Baronscourt: details too vague.
+Bang (Ebbw Vale): not in programmes, presumably Barcelona (EAJ13).
+W. H. (Sheffield): foreign amateur.
+Maud (Stirling): Moscow (RDW).
+Shaftesbury: W.L. apparently wrong, and details vague.possibly Prague.
+S. A. (Bexhill): presumably Berlin (1,300 m.).
+Melville (Fishponds): Hamburg.
+Family Four: Moscow (RDW).
+Marksway: Malmö, relay of Stockholm.
+S. L. B.: Petit Parisien.
+Twiddle Knobs (Bristol): Radio Toulouse.
+2.V. (Deal): Moscow (RDW).
+Trondje (Woking): Moscow (RDW).
+3.V. (Reinartz N.J.): Cardiff & S.L./M.C.: If none of the languages stated, cannot trace.
+Ubique: Hanover, relay of Hamburg.
+3 H.T.L.: (1) Stockholm, (2) probably Falun.
+Luxon (Plymouth): if call correct, Seville (EAJ5), but W.L. points to Barcelona (EAJ13).
+Searcher (Madrid): (EAJ6).
+Esquisse: Koenigs-wusterhausen.
+2HV.9: Elberfeld (request concert, no details).
+33.EG: Yes, Cadiz.
+Two-Valve (Aberaman): Dortmund, relay of Muenster.
+Winslow 643 (Ilford): No indication of W.L.; either Hamburg or Muenster group.
+Powerful 3 (Wood Green): (a) Details vague, probably Seville (EAJ5); (b) Hilversum (a political gathering).
+Coil Pusher: Elberfeld.
+BM/BCW: (1) Presumably gramophone record and amateur transmission; (2) Bilbao (EAJ9).
+5XX closed down at midnight.
+Coils (Salford 4): Cannot trace.
+F.P.M.: Prague.
+Three Valve (Ross): Amateur transmission.
+GEC (Redditch): (11.20) W.L. wrong, Eiffel Tower (weather report); (9.10) cannot trace item.
+3 Unidyne: (a) Prague, (b) Moscow (RDW).
+One-Valve 17 G.G.: Madrid (EAJ7).
+Xylophone (Middlesbrough): Hamburg.
+Murphy: Madrid (EAJ6).
+Ben: Hamburg.
+Dim Dim: (6 p.m.) cannot trace on that W.L.; (7.10) Nuremberg, relay of Munich.
+Inglaterra: Cannot confirm, but believe Prague.
+F.K.B. (Barnet): Possibly WJZ (Boundbrook).
+Neville (Newcastle-on-Tyne): (1) Moscow (RDW); (2) Radio Toulouse.
+Pompey: Cannot trace.
+Wave Catcher: Hamburg.
+G.S.W.: Koenigs-wusterhausen (Press) on 2525 and 2880 m.
+T.W. 3 Wa!ver: (a) Madrid (EAJ7); (b) Hilversum.
+Quercus: Petit Parisien.

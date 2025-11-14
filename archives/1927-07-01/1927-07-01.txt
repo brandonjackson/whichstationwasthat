@@ -1,81 +1,54 @@
 Camisis: Daventry experimental station.
-
 Jay Pip (Dover): (1) Warsaw (1,111 m.); (2) Scheveningen-Haven, Holland (1,950 m.), News only.
-
 J. E. J. (Liverpool): Rome relaying from Theatre.
-
 Brantingham (York): Hilversum, Lunch-time music.
-
 R. Neal (Conway): (1) Yes, Hilversum, (2) Yes, Radio Paris (1,750 m.), Radio Jazz by Mario Cazes and his orchestra.
-
 Radio Llanfairfechan: (1) and (2) Sorö (18th), concert relayed from Copenhagen, (19th) Running commentary on football match played at Stockholm Stadium (Denmark v. Sweden); (3) Moscow (1,450 m.), Press.
-
 Gunner (Thorpe Bay): Marseilles PTT (300 m.), Annual Fête of the Orphanages of P.L.M. Railway (France).
-
 Semloh (Plymouth): Your estimated W.L. is very vague, but should say this was Langenberg, as Munich was giving an outside relay of dance music, and in this case you would have heard applause.
-
 Two Valve (Liverpool): Nuremberg, relaying dance music from the Regina Palace Hotel at Munich.
-
 Devonian: (b) Motala, relaying dance music from Stockholm.
-
 G. A. B. (Surrey): Your estimated W.L. is much too vague, cannot trace item in programmes.
-
 Tim (W. 12): Yes, Warsaw (1,111 m.), relaying dance music from the Restaurant Rydz.
-
 BM/BCXV (N.W. 6): Yes, PTT Marseilles (300 m.).
-
 D. A. Parker (Southsea): Your estimated W.L. is much too vague, regret cannot trace.
-
 We are Seven (Strood): Hamburg, 1st news bulletin, followed by gramophone records.
-
 J. C. Dixey (Barnstaple): Cork relaying Dublin The Chance, a sketch by Elizabeth Young and Company H.F. 42: (a) Radio Lyons, Journal Parlé; (b) Yes, this was Sorö, from 2.10 to 3.45 p.m., relaying running commentary on football match, Denmark v. Sweden, at Stockholm, followed by relay of orchestral concert from the Gardens of Rosenborg; (c) Warsaw; (d) Radio Vitus, Paris; (e) Milan; (f) Details would tally with Posen (270 m.); (g) Berlin (566 m., 530 kc.).
-
 Ardesier: Die Kreuzfahrer, musical drama by Anderson.
-
 Soldoyne: If estimated W.L. correct, Belgrade testing of about 1,650 m.
-
 The Old Roman Bridge (Bellshill): 2BXA, amateur, of Nelson, Lancs; 6WW, amateur, cannot trace; 5OEt, amateur, cannot trace; 2AU, amateur, of West Ham, E. 15; 6LH, amateur, cannot trace; possibly Belgrade testing.
-
 G. G. (Newcastle): Have now traced 2XG (15 m.) as transmission from Rocky Point, New York.
-
 Denton: (37) Munich (535 m.); On 19/6/27, relaying orchestral concert from the Hotel Stadt Wien, and on 20th, concert of the works of Weber; (38) PTT Lyons, relaying selections of Faust from Marseilles PTT (bass: Philip, of the Liége Opera House).
-
 R. G. R. (Bushey Grove): Hilversum (1,070 m.); Last portion of Kurhaus concert, followed by news and cabaret.
-
 J. Tirror (Totland Bay): (1) Possibly the London stand-by transmitter; (2) Rome (450 m.); (3) Leipzig; (4) Barcelona (EAJ13); (5) Cadiz (EAJ3) experimental concert; coupon must be sent with each enquiry.
-
 Rib/O.V.2./1.C.M (Cromer): Rather vague; possibly a test by Bremen on 252 m.
-
 Rags (West Lothian): Motala (1,320 m.) relaying Church service from the Vasterasser Cathedral at Stockholm, Preacher: the Bishop of Tammerton.
-
-Uncertain (N.W. 8): No, not Berlin. This was Langenberg relaying concert from the Café Corso at Dortmund.
-
+Uncertain (N.W. 8): No, not Berlin: This was Langenberg relaying concert from the Café Corso at Dortmund.
 J. A. P. R. (Moreton): Yes, Motala relaying orchestral concert from Stockholm.
-
-Eb-Ro (Exeter): (1) We do not understand the call; it would appear to be some telephony transmission to a steamer, but we cannot trace its origin; (2) It is impossible to identify a test; you do not say what calls you heard; presumably a British station testing.
-
+Eb-Ro (Exeter): (1) We do not understand the call; it would appear to be some telephony transmission to a steamer, but we cannot trace its origin; (2) It is impossible to identify what we do not say what calls you heard; it so; possibly a British station testing.
 Vallyar One (Caterham): If you are sure these announcements were in French, we regret we cannot trace a French transmission on that W.L.; Moscow broadcasts on 1,450 m., but the announcements are not made in French; Stamboul, on 1,180-1,200 m., uses both Turkish and French.
-
 R. F. G. (Bognor): Estimated wavelength should be given; details tally with transmission from Eiffel Tower, Paris on 2,650 m.
-
-Solodyne (Buckhurst Hill): Details tally with Sorö, which was probably relaying the orchestral concert from Copenhagen, although advertised to close earlier than the capital station; (2) Warsaw.
-
+Solodyne (Buckhurst Hill): Details tally with Sorö, which was probably relaying the orchestral concert from Copenhagen although advertised to close earlier than the capital station; (2) Warsaw.
 Wireless Billy (Oldham): Stamboul, Turkey.
-
 W. N. W. (Manchester): Stockholm worked late, although advertised to close down at 12.15 a.m.; this was confirmed by other listeners; The programme was relayed by all the Swedish transmitters; (3) Yes, Falun, on 357 m., taking the same programme.
-
+Ajax (E. 8.): Short-wave transmitter of G.E.C. Schenectady, U.S.A. Transatlantic telephony tests on short waves.
+Four Valve W (Winchelsea): Basle, weather and news.
+Het. Eight (Hertford): Hanover; relay of concert of Café Continental in that city.
+S.W. 64: (1) Nuremberg; relay from Hotel Stadt Wien, Munich; (2) Very vague; possibly Hanover (news from Hamburg); (3) Probably Dortmund relaying dance music from Cologne; Innsbruck closed in early.
+W. W. (NW 10): Could not say it must be Dresden; possibly Falun, but not on a crystal.
+Uncertain (N.W. 8): No, not Berlin. This was Langenberg relaying concert from the Café Corso at Dortmund.
+J.A.P.R. (Moreton): Yes, Motala relaying orchestral concert from Stockholm.
+Eb-Ro (Exeter): (1) We do not understand the call; it would appear to be some telephony transmission to a steamer, but we cannot trace its origin; (2) It is impossible to identify a test; you do not say what calls you heard; presumably a British station testing.
+Valvular One (Caterham): If you are sure these announcements were in French, we regret we cannot trace a French transmission on that W.L.; Moscow broadcasts on 1,450 m., but the announcements are not made in French; Stamboul, on 1,180-1,200 m., uses both Turkish and French.
+R.F.G. (Bognor): Estimated wavelength should be given; details tally with transmission from Eiffel Tower, Paris on 2,650 m.
+Solodyne (Buckhurst Hill): Details tally with Sorö, which was probably relaying the orchestral concert from Copenhagen, although advertised to close earlier than the capital station; (2) Warsaw.
+Wireless Billy (Oldham): Stamboul, Turkey.
+W.N.W. (Manchester): Manchester late, although advertised to close down at 12.15 a.m., this was confirmed by other listeners; the programme was relayed by all the Swedish transmitters; (3) Yes, Falun, on 357 m., taking the same programme.
 Ajax (E. 8.): Shortwave transmitter of G.E.C. Schenectady U.S.A. Transatlantic telephony tests on short waves.
-
 Four Valve W. (Winchelsea): Basle, weather and news.
-
 Het. Eight (Hertford): Hanover, relay of concert of Café Continental in that city.
-
 S.W. 64: (1) Nuremberg; relay from Hotel Stadt Wien, Munich; (2) Very vague; possibly Hanover (news from Hamburg); (3) Probably Dortmund relaying dance music from Cologne; Innsbruck closed down early.
-
-W. W. (N.W. 10): Could not possibly be Dresden; possibly Falun, but not on a crystal receiver; writer has had the same experience on two occasions; interference was traced to induction noises from home.
-
+W.W. (N.W. 10): Could not possibly be Dresden; possibly Falun, but not on a crystal receiver; writer has had the same experience on two occasions; interference was traced to induction noises from home.
 AAA-OOO-AAA (Weston-Super-Mare): own concert; (2) Dublin (The Loraine Dance Band).
-
 Screechy nob (Acomb): Your wavelength is wrong; this transmission tallies with Motala (now on 1,320 m.) relaying dance music from Stockholm.
-
 Keith (Liverpool): (1) Yes, Cork, relaying weather report and news from Dublin; (2) Rome (concert of light music); (3) Would tally with Hanover relaying concert from Café Wallhof, Hamburg; (4) No, probably Stockholm.

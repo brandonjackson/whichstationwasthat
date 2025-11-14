@@ -1,0 +1,79 @@
+Combine Report for 1927-03-18
+============================================================
+
+Merge 1: IMG_2944.txt + IMG_2945.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 0.800
+
+File A last line: Buckroes (Yorks): Cannot identify—there must be some mistake.
+File B matching line: Buckrose (Yorks): Karlsborg, relaying Stockholm.
+
+Merge 2: merged_1 + IMG_2946.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Nemtec Est,
+Best similarity found: 0.571
+
+Closest matches (top 3):
+  1. Index 26, similarity: 0.571 (first_8_chars)
+     Line: Nemo Est, etc. (Putney): (a) No time stated; if WL., correct Leipzig; (b) No time stated, but possibly Langenberg.
+  2. Index 26, similarity: 0.556 (first_12_chars)
+     Line: Nemo Est, etc. (Putney): (a) No time stated; if WL., correct Leipzig; (b) No time stated, but possibly Langenberg.
+  3. Index 62, similarity: 0.364 (first_12_chars)
+     Line: Interested I Valver: No estimated WL. given, cannot trace.
+
+Merge 3: merged_2 + IMG_2947.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: W. Chadwick (Accrington): No estimated WL. given, cannot trace.
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 12, similarity: 0.458 (reporter_and_content)
+     Reporter similarity: 0.263
+     Content similarity: 0.750
+     Line: A. C. (Manchester): No, Scheveningen-Haven (News).
+  2. Index 40, similarity: 0.421 (reporter_and_content)
+     Reporter similarity: 0.368
+     Content similarity: 0.500
+     Line: Viceroy (Faringdon): yes, Riga (526.3 m.).
+  3. Index 12, similarity: 0.333 (first_12_chars)
+     Line: A. C. (Manchester): No, Scheveningen-Haven (News).
+
+Merge 4: merged_3 + IMG_2948.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 1.000
+
+File A last line: Taffy ( ): Hamburg (Swiss band programme of male Yodler Choir and Harmonicas), (2) Uppsala, relaying
+File B matching line: Taffy: (1) Hamburg (Swiss Dialect programme with male Yodler Choir and Harmonicas), (2) Uppsala, relaying Stockholm.
+
+Merge 5: merged_4 + IMG_2949.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 1.000
+
+File A last line: Searcher (Rusholm): (26) You do not say whether play was in English. WGY (Schenectady), broad
+File B matching line: Searcher (Rusholme): (26) You do not say whether play was in English.
+
+Merge 6: merged_5 + IMG_2950.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Cosmos (Longton):
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 9, similarity: 0.333 (first_8_chars)
+     Line: Gordon (Mevagissey): Sorø relaying Copenhagen.
+  2. Index 7, similarity: 0.286 (first_8_chars)
+     Line: Carlow 213258: Karlsborg relaying a revue from Stockholm.
+  3. Index 9, similarity: 0.200 (first_12_chars)
+     Line: Gordon (Mevagissey): Sorø relaying Copenhagen.
+

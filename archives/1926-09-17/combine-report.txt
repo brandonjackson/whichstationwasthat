@@ -1,0 +1,36 @@
+Combine Report for 1926-09-17
+============================================================
+
+Merge 1: IMG_2499.txt + IMG_2500.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 12
+Match strength: 0.875
+
+File A last line: Jaybyjay: Paris.
+File B matching line: Jaybejay: If WL. correct, possibly Dublin.
+
+Merge 2: merged_1 + IMG_2501.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: D. X. Fan:
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 32, similarity: 0.500 (first_8_chars)
+     Line: D. W. Harvey: Frankfort-on-Main.
+  2. Index 16, similarity: 0.286 (first_12_chars)
+     Line: C. 21: San Sebastian.
+  3. Index 22, similarity: 0.250 (first_8_chars)
+     Line: N.W.: Barcelona (EAJ1).
+
+Merge 3: merged_2 + IMG_2502.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 29
+Match strength: 1.000
+
+File A last line: Popski:
+File B matching line: Popski (W. 8): Not Sorö, but Hilversum. Transmission was not advertised.
+

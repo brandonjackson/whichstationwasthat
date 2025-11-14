@@ -1,0 +1,72 @@
+Combine Report for 1927-12-09
+============================================================
+
+Merge 1: IMG_3176.txt + IMG_3177.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3178.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: Night Crow (Worthing): Frankfurt-on-Main, dance music until midnight (11 p.m.)
+File B matching line: Night Crow (Worthing): Frankfurt-on-Main, dance music until midnight (11 p.m. G.M.T.).
+
+Merge 3: merged_2 + IMG_3179.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: DXX (Kelveden): (1) Moscow
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 21, similarity: 0.526 (reporter_and_content)
+     Reporter similarity: 0.211
+     Content similarity: 1.000
+     Line: Liverpudlian (Denbigh): (1) Moscow Comintern (RDW); (2) Possibly Hilversum (gramophone records); (3) No details given, cannot trace.
+  2. Index 10, similarity: 0.315 (reporter_and_content)
+     Reporter similarity: 0.192
+     Content similarity: 0.500
+     Line: Admiral C. E. Anson (Bexhill-on-Sea): (1) Radio Lyons; (2) Huizen (Holland). This station transmits on Sundays until 1.40 p.m. G.M.T. on 1,840 m., after which it works on 1,950 m., and again reverts back to the lower Wt. at 5.40 p.m. G.M.T. On week-days 1,840 m. is used until 5.40 p.m. G.M.T., after which time the station transmits on 1,950 m. This is in order to avoid interference with the Scheveningen-Haven transmissions.
+  3. Index 11, similarity: 0.300 (reporter_and_content)
+     Reporter similarity: 0.167
+     Content similarity: 0.500
+     Line: A. S. 2 (Wakefield): (1) Cadiz (experimental concert); (2) WGY (Schenectady); (3) Cannot trace (4) KDKA (talk).
+
+Merge 4: merged_3 + IMG_3180.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 1.000
+
+File A last line: H. F. 42: (a) Cannot trace. (b) Falun relaying.
+File B matching line: H.F.42 (a) Cannot trace. (b) Falun relaying Stockholm (altered programme). (c) Lille PTT. D. C. (Leeds): Kattowitz (Poland).
+
+Merge 5: merged_4 + IMG_3181.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Bellasis (Goring): (1) Motala relaying from the Stockholm studio for operette Nuremberg Doll (Andaka Lila), but one was working.
+File B matching line: Bellasis (Goring): (1) Motala relaying from the Stockholm studio the operetta The Nuremberg Doll (Adam); (2) WL wrong; Basle, relaying concert from Zurich.
+
+Merge 6: merged_5 + IMG_3182.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Resistance Capacity
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 16, similarity: 0.500 (first_8_chars)
+     Line: Russiac (Luton): The new Copenhagen transmitter testing.
+  2. Index 7, similarity: 0.455 (first_12_chars)
+     Line: Distance Urge (W. 12): (1) Details would tally with Koenigsberg; (2) Moscow Comintern (RDW).
+  3. Index 5, similarity: 0.375 (first_8_chars)
+     Line: Kasha (N. 5): We cannot trace any station on a WL. just below that of Berne giving a drama at that time.
+

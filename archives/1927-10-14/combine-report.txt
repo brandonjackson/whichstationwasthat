@@ -1,0 +1,63 @@
+Combine Report for 1927-10-14
+============================================================
+
+Merge 1: IMG_3106.txt + IMG_3107.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: DX Grayhound: (1) Apparently an amateur transmission; cannot trace; (2) Klangenfurt, relaying orchestral concert from Vienna; (3) PTT Lyons; (4) No, Bremen, relaying concert from the Café Continental at Hanover; (5) Either San Sebastian (EAJ8), or Madrid, Radio Madrilena (EAJ12); (6) Possibly Bilbao (EAJ11); (7) Quite possibly PTT Lyons, working on higher wavelength; (8) Yes, PTT Marseilles; (9) Apparently Tron
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 15, similarity: 0.338 (reporter_and_content)
+     Reporter similarity: 0.231
+     Content similarity: 0.500
+     Line: E. V. B. (Portsmouth): (1) If you are sure of the call, possibly Eskilstuna, relaying Stockholm.
+  2. Index 28, similarity: 0.333 (reporter_and_content)
+     Reporter similarity: 0.222
+     Content similarity: 0.500
+     Line: P. P. Galling (Stratford): (1) Swansea, relaying Cardiff (the Silent Fellowship).
+  3. Index 13, similarity: 0.286 (first_8_chars)
+     Line: (99) Glasgow, relaying service from St. Cuthbert’s Church at Edinburgh.
+
+Merge 2: merged_1 + IMG_3108.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Royal Marine (Gosport): We regret, but it is impossible to trace some of these short.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 9, similarity: 0.286 (first_8_chars)
+     Line: 1 Valve (Seaton): (1) Yes, Nürnberg, relaying orchestral concert from Munich; (2) Prague (variety concert); (3) Motala, relaying Stockholm (cabaret).
+  2. Index 1, similarity: 0.273 (first_12_chars)
+     Line: Dotty (Ringwood): (1) Leipzig, relaying dance music from Berlin until 12:30 a.m., September 26, 1927; (2) Breslau; (3) PTT Lyons, taking the Paris relay of dance music from the Coliseum.
+  3. Index 4, similarity: 0.273 (first_12_chars)
+     Line: 2 Vaiver (Nottingham): (1) If WL correct, Huizen (Holland) testing; (2) Norddeich (Germany) weather report; (3) Moscow Comintern (1,450 m.); (4) Possibly Leningrad (about 1,000 m.).
+
+Merge 3: merged_2 + IMG_3109.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: C.O.D. (Grimsby): this was Falan (356.1 m.).
+File B matching line: C. O. D. (Grimsby): This was Falun (356.1 m.) relaying an English lesson from Stockholm; also taken by Motala.
+
+Merge 4: merged_3 + IMG_3110.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: E.A. (Wells): (1) surely Radio Paris; this station was giving jazz music at
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 9, similarity: 0.292 (reporter_and_content)
+     Reporter similarity: 0.154
+     Content similarity: 0.500
+     Line: M. E. Y. (Chichester): (1) Yes, possibly Warsaw, but item not advertised in programme, (2) No, we cannot trace a German station on that WL, but the items would tally with Frankfurt.
+  2. Index 6, similarity: 0.286 (first_8_chars)
+     Line: Edina 111: Nürnberg, relaying Munich.
+  3. Index 12, similarity: 0.286 (first_12_chars)
+     Line: J. W. Earl (Leicester): Your estimate of WL is apparently wrong, regret, cannot trace, (1) we cannot trace any reading under this title from a German station, (2) if Spanish possibly Barcelona (EAJ1).
+

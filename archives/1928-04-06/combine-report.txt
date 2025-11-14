@@ -1,0 +1,87 @@
+Combine Report for 1928-04-06
+============================================================
+
+Merge 1: IMG_3337.txt + IMG_3338.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: BM/B3PW (Essex): You give no details other than frequency; impossible to trace.
+File B matching line: BM/B3PW (Essex): You give no programme details, too vague, regret, cannot trace.
+
+Merge 2: merged_1 + IMG_3339.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: Schoolboy (Alderley Edge): (1) Milan (Vigentino), a lady announcer, relay of “The Puritans” (Bellini). This station is now working on about 549 m.
+File B matching line: Schoolboy (Alderley Edge): (1) Milan (Vigentino), a lady announcer, relay of opera: The Puritans (Bellini). This station is now working on about 644 m.; (2) Details are very vague, but possibly Augsburg relaying Munich; (3) Details would tally with Vienna (Rosenhügel); (4) Possibly Cracow relaying Wilno; (5) Königswusterhausen, relaying Berlin. News and weather report, followed by dancing lesson and dance music (Interval signal: metronome).
+
+Merge 3: merged_2 + IMG_3340.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 4: merged_3 + IMG_3341.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 5: merged_4 + IMG_3342.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 4
+Match strength: 1.000
+
+File A last line: Dico (St. Ives): 1149 m., Latvian transmission testing on; (1) Bilbao (EAJ9) working on 1149 m.
+File B matching line: Dico (St. Helens): (1) Lahtis (Finland) testing on 1525 m. (2) Quite possibly Bilbao (EAJ9) working on higher WL.; (3) Yes, Almeria (EAJ18).
+
+Merge 6: merged_5 + IMG_3343.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Wymme (Belfast): (1) WL, too vague, regret, cannot trace; apparently an altered.
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 17, similarity: 0.429 (first_8_chars)
+     Line: Drummer (Maltby): (1) Posen (dance music until 1 a.m. G.M.T.); (2) Posen, relaying concert from the Philharmonic Hall at Warsaw; (3) Huizen, relaying from the Concert House at Amsterdam; (4) Eiffel Tower, relaying PTT Paris; (5) Cologne, relaying from Düsseldorf, a talk on the painter Albrecht Dürer; (6) Stuttgart, poetry reading, followed by chamber music; (7) yes, Hamburg; (8) Kattowitz, talk: “Poland, Past and Present,” by Prof. Dyboski; (9) possibly Copenhagen, but cannot confirm, as details are not published in the programme; (10) Münster relaying Cologne (chimes from the studio); (11) yes, this was the opera, Le Chemineau (Xavier Leroux), relayed from the Theatre de la Capitole by Radio Toulouse, apparently relayed by some other station, but cannot trace; (12) Barcelona (EAJ1).
+  2. Index 17, similarity: 0.338 (reporter_and_content)
+     Reporter similarity: 0.231
+     Content similarity: 0.500
+     Line: Drummer (Maltby): (1) Posen (dance music until 1 a.m. G.M.T.); (2) Posen, relaying concert from the Philharmonic Hall at Warsaw; (3) Huizen, relaying from the Concert House at Amsterdam; (4) Eiffel Tower, relaying PTT Paris; (5) Cologne, relaying from Düsseldorf, a talk on the painter Albrecht Dürer; (6) Stuttgart, poetry reading, followed by chamber music; (7) yes, Hamburg; (8) Kattowitz, talk: “Poland, Past and Present,” by Prof. Dyboski; (9) possibly Copenhagen, but cannot confirm, as details are not published in the programme; (10) Münster relaying Cologne (chimes from the studio); (11) yes, this was the opera, Le Chemineau (Xavier Leroux), relayed from the Theatre de la Capitole by Radio Toulouse, apparently relayed by some other station, but cannot trace; (12) Barcelona (EAJ1).
+  3. Index 20, similarity: 0.250 (reporter_and_content)
+     Reporter similarity: 0.083
+     Content similarity: 0.500
+     Line: Semloh (S.W.16): (1) Stettin, relaying dance music from Berlin; (2) Hanover, relaying concert from.
+
+Merge 7: merged_6 + IMG_3344.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 0
+Match strength: 1.000
+
+File A last line: Semloh (S.W.16): (1) Stettin, relaying dance music from Berlin; (2) Hanover, relaying concert from.
+File B matching line: Semloh (S.W.16): (1) Stettin, relaying dance music from Berlin; (2) Hanover, relaying concert from the Georgspalast.
+
+Merge 8: merged_7 + IMG_3345.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Ad 5NW: This was the WGY (Schenectady) programme.
+Best similarity found: 0.455
+
+Closest matches (top 3):
+  1. Index 17, similarity: 0.492 (reporter_and_content)
+     Reporter similarity: 0.154
+     Content similarity: 1.000
+     Line: Ad Astra (Surrey): This was the WGY (Schenectady) programme, apparently relayed by some European station, but cannot trace in programmes.
+  2. Index 4, similarity: 0.455 (first_12_chars)
+     Line: Lady Enthusiast (Rickmansworth): (1) AFK (Döberitz) on 105 m.; (2) Breslau (gramophone records) working later than advertised in programmes.
+  3. Index 4, similarity: 0.429 (first_8_chars)
+     Line: Lady Enthusiast (Rickmansworth): (1) AFK (Döberitz) on 105 m.; (2) Breslau (gramophone records) working later than advertised in programmes.
+

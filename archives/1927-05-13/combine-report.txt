@@ -1,0 +1,33 @@
+Combine Report for 1927-05-13
+============================================================
+
+Merge 1: IMG_2999.txt + IMG_3001.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3003.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: Raid Crystal (Dublin): Regret, cannot trace, as estimated W.L. much too vague. Two Valve Straight (Glasgow): Motala (1,304 m.) too vague.
+File B matching line: Raid Crystal (Dublin): Regret, cannot trace, as estimated WL. much too vague.
+
+Merge 3: merged_2 + IMG_3004.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Bennekiket (Antwerp, Belgium): Apparently, although tuned in to Warsaw, at your distance from Hilversum you receive the latter transmission. The interruption was undoubtedly from Warsaw.
+Best similarity found: 0.125
+
+Closest matches (top 3):
+  1. Index 1, similarity: 0.125 (first_8_chars)
+     Line: Mother of Six (Leicester): (1) If you are sure it was not PTT Paris, we cannot trace any other French transmission on that wavelength, (2) yes, Belgrade testing; it has been reported by several readers.
+  2. Index 1, similarity: 0.100 (first_12_chars)
+     Line: Mother of Six (Leicester): (1) If you are sure it was not PTT Paris, we cannot trace any other French transmission on that wavelength, (2) yes, Belgrade testing; it has been reported by several readers.
+  3. Index 2, similarity: 0.100 (first_12_chars)
+     Line: M. X. (Belfast): Leipzig. Thanks for information.
+

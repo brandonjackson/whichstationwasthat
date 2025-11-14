@@ -1,0 +1,29 @@
+Combine Report for 1926-08-06
+============================================================
+
+Merge 1: IMG_2453.txt + IMG_2454.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 40
+Match strength: 1.000
+
+File A last line: Wrexham 18 (Wrexham): Frankfort-on-Main relaying Ber lin. Radio Paris probably. Strasbourg.
+File B matching line: Wrexham 18 (Wrexham): Frankfort-on-Main relaying Berlin.
+
+Merge 2: merged_1 + IMG_2455.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: G.S.G.: (1) San Sebastian, EAJ 8; (2) Frankfort-on-Main (operetta: Adrienne).
+Best similarity found: 0.333
+
+Closest matches (top 3):
+  1. Index 30, similarity: 0.333 (first_8_chars)
+     Line: G.E.M. (Wimbledon): Leipzig.
+  2. Index 32, similarity: 0.333 (first_8_chars)
+     Line: Goser: Hanover.
+  3. Index 32, similarity: 0.240 (reporter_and_content)
+     Reporter similarity: 0.400
+     Content similarity: 0.000
+     Line: Goser: Hanover.
+

@@ -1,0 +1,12 @@
+Combine Report for 1927-08-19
+============================================================
+
+Merge 1: IMG_3061.txt + IMG_3062.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 0.963
+
+File A last line: Df'ex Two (Southsea): (1) Regret, cannot trace as we know of no German.
+File B matching line: D’flex Two (Southsea): (1) Regret, cannot trace as we know of no German transmission on that WL., (2) Scheveningen-Haven (Holland). News only, (3) Koenigswusterhausen (Press), 2,525 m.
+

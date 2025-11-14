@@ -1,0 +1,35 @@
+Combine Report for 1927-09-16
+============================================================
+
+Merge 1: IMG_3080.txt + IMG_3081.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 2: merged_1 + IMG_3082.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 16
+Match strength: 0.889
+
+File A last line: A WR/WRC (Chingford): Piscator (Nottingham): Jem (Ashford); 2 Valve Neutrodyne (Higham Ferrers): Kalundborg, the new Danish station on 1,153.3 m.
+File B matching line: AWR/NWRC (Chingford), Piscator (Nottingham), Jem (Ashford): 2 Valve Neutrodyne (Higham Ferrers): Kalundborg, the new Danish station which has replaced Sorö on 1,153.3 m. This transmission was heard by many other listeners, and would appear to have been a relay of the International Air Meeting which took place at the Kastrup Aerodrome on that day.
+
+Merge 3: merged_2 + IMG_3084.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Haslehurst (Yorkshire): Kal.
+Best similarity found: 0.250
+
+Closest matches (top 3):
+  1. Index 12, similarity: 0.335 (reporter_and_content)
+     Reporter similarity: 0.158
+     Content similarity: 0.600
+     Line: E. A. L. (Wells): Kalundborg relaying concert from Copenhagen.
+  2. Index 2, similarity: 0.250 (first_8_chars)
+     Line: Spa (Hendon): PTT Paris, now on about 458 m. (technical talk).
+  3. Index 6, similarity: 0.250 (first_8_chars)
+     Line: Malcolm H. Watson: We do not understand your term “short wave”; WFBL (Syracuse, N.Y.) works on 253.5 m. This was probably a relay of WGY (Schenectady) with which programme your details would tally.
+

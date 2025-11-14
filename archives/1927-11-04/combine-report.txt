@@ -1,0 +1,47 @@
+Combine Report for 1927-11-04
+============================================================
+
+Merge 1: IMG_3135.txt + IMG_3136.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 1.000
+
+File A last line: R.F. Bennett (Romford): Between Koenigswusterhausen and Warsaw you would hear Kalundborg, relaying Copenhagen, Stamboul (Turkey), and Boden, relaying Stockholm, but we feel sure that your wavelengths are rather different from these stations on October 23 owing to transmission.
+File B matching line: R. F. Bennett (Romford): Between Koenigswusterhausen and Warsaw you would hear Kalundborg, relaying Copenhagen, Stamboul (Turkey), and Boden, relaying Stockholm, but we feel sure that your wavelengths are wrong, as transmissions from these stations on October 23 do not tally with your details.
+
+Merge 2: merged_1 + IMG_3137.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 3
+Match strength: 1.000
+
+File A last line: B. H. (Chichester): (1) Stuttgart, relaying
+File B matching line: B. H. (Chichester): (1) Stuttgart, relaying pianoforte recital from the Liederhalle. Interval Signal: Three notes, C, D, G, produced by oscillating valves; (2) We regret that we cannot trace, as it is impossible to identify stations without some estimate of WL., your condenser readings do not help us.
+
+Merge 3: merged_2 + IMG_3138.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: J. Dennie (Santander, Spain): Cannot trace. It would appear to be a telegram sent by wireless telephony.
+Best similarity found: 0.286
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.286 (first_8_chars)
+     Line: Jonny Strikes Up (Ernst Krenek) relayed from the Opera House; (3) cannot trace, details too vague. It is very difficult to identify station heard from your condenser readings. Coupon must be sent with each inquiry.
+  2. Index 3, similarity: 0.273 (first_12_chars)
+     Line: Jonny Strikes Up (Ernst Krenek) relayed from the Opera House; (3) cannot trace, details too vague. It is very difficult to identify station heard from your condenser readings. Coupon must be sent with each inquiry.
+  3. Index 13, similarity: 0.246 (reporter_and_content)
+     Reporter similarity: 0.143
+     Content similarity: 0.400
+     Line: Station Hound (Cheshire): Coupon must be sent for each inquiry. (1) It is difficult to say - possibly Kharkov on 1,700 metres; (2) San Sebastian; (3) and (4) held over for coupons.
+
+Merge 4: merged_3 + IMG_3139.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 12
+Match strength: 1.000
+
+File A last line: Miles Short-Wave 2 (Eastbourne): Quite possibly 2ME; it is usually
+File B matching line: Miles Short-Wave 2 (Eastbourne): Quite possibly 2ME; it is usually heard here at that time.
+

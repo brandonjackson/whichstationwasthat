@@ -1,0 +1,44 @@
+Combine Report for 1926-01-22
+============================================================
+
+Merge 1: IMG_1811.txt + IMG_1812.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Maco: (8.30) Helsingsfors, (10.30) Lyon PTT.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 31, similarity: 0.500 (first_8_chars)
+     Line: Mac: Amateur.
+  2. Index 31, similarity: 0.450 (reporter_and_content)
+     Reporter similarity: 0.750
+     Content similarity: 0.000
+     Line: Mac: Amateur.
+  3. Index 54, similarity: 0.400 (first_8_chars)
+     Line: A.C.W.: Cannot trace if not Spanish.
+
+Merge 2: merged_1 + IMG_1813.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Hereward 4:
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 3, similarity: 0.400 (first_12_chars)
+     Line: Iberica: KDKA.
+  2. Index 39, similarity: 0.333 (first_12_chars)
+     Line: E.D.W.: (6.45) San Sebastian; (10.45) Hamburg.
+  3. Index 1, similarity: 0.300 (first_12_chars)
+     Line: Searcher (Grimsby): Hamburg.
+
+Merge 3: merged_2 + IMG_1814.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 54
+Match strength: 1.000
+
+File A last line: Nora: (7.10) Frankfort-on-Main; 7 p.m. Hamburg.
+File B matching line: Nora: (7.10) Frankfort-on-Main (8.25) probably Reval, but no programmes available.
+

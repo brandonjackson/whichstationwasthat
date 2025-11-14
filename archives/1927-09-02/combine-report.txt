@@ -1,0 +1,33 @@
+Combine Report for 1927-09-02
+============================================================
+
+Merge 1: IMG_3069.txt + IMG_3070.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 11
+Match strength: 1.000
+
+File A last line: Sydney (Bath): Your W.L. is surely wrong; Stuttgart, giving orchestral concert from Dortmund.
+File B matching line: Sydney (Bath): Your WL. is surely wrong; this was Langenberg, relaying orchestral concert from Dortmund, until midnight. Berlin (Witzleben) did not work so late on that evening.
+
+Merge 2: merged_1 + IMG_3071.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 3: merged_2 + IMG_3072.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: PTT Paris (at 10.30 p.m. dance music relayed from the Coliseum, Paris); (6) Berlin (Witzleben); (7) Cannot trace items in any European programme, but reports of this transmission have been received from many listeners, and we have reason to believe that this was the new PTT station at Rennes, testing on about 320 m.; (8) Petit Parisien, Paris. A. Neal (Nunthorpe): (1) Hilversum (the newest gramophone records); (2) Koenigswusterhausen, relaying orchestral concert from Berlin; (3) Langenberg; (4) Possibly WJZ, Boundbrook, 454.3 m. Radio Mad: (1) Although not advertised in programmes, details would point to a late transmission from Warsaw. Confirmed by other listeners; (2) Your details too vague; possibly Leipzig. Buckrose (Driffield); 4 Valves (Llanelly): Reports of this transmission have been received from many listeners, and although not advertised in programmes all details would point to Warsaw. Call (phonetic): "Rhalo! Rhalo! Polskie Raadio Warszewa." Shortwave (Scarborough): It is impossible to establish WL. from your dial settings ; quite possibly a foreign station relaying 5GB. Mrs. B. Long (W. Kensington): Regret it is impossible to trace, without some estimation of WL. Coupon must be sent with each inquiry. Powerful 3 (Hull): Your WL. is wrong; was Hilversum (1,060 m.). A concert of the newest gramophone records. Confirmed by other listeners. Sands: Regret, cannot trace, as you do not say from which B.B.C. Station you heard the talk given by Mr. Val Gielgud. 2 Valve Amplifier (Richmond): Berne, relaying orchestral concert from Kursaal. D. H. S. (Glasgow): Yes, Frankfort-on-Main (the newest gramophone records). Fulwood (Cadley); Primrose (Eastbourne); BM/BXAK; D. Scott (Crofton Park): This transmission was not advertised in any European programme, but all details would point to the new PTT station at Rennes testing on a W.L. of about 320 m. B. S. A. (Hastings): Possibly Bilbao, Radio Vizcaya (EAJ11). VHV: (88) Your WL. is surely wrong; can trace no transmission of opera on or about 355 m. Koenigsberg was giving a concert of vocal and instrumental music. Stuart (Guildford): Your details are rather vague, but possibly the new station at Kharkov (Russia), testing on about 1,750 m. E. C. J. (Croydon); Neutro; W. J. M. (Weald): Although not advertised in programmes, details would point to a late transmission from Warsaw. Twiddler (Moye, Silverdale); J. Rogers (Iver Heath);
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 22, similarity: 0.429 (first_8_chars)
+     Line: Stuart (Guildford): Your details are rather vague, but possibly the new station at Kharkov (Russia) testing on about 1,750 m.
+  2. Index 18, similarity: 0.222 (first_12_chars)
+     Line: B. S. A. (Hastings): Possibly Bilbao, Radio Vizcaya (EAJ11).
+  3. Index 34, similarity: 0.222 (first_12_chars)
+     Line: M. B. (Ross-shire): Your term "short wave" is misleading; we cannot trace a transmission from the settings of your condensers.
+

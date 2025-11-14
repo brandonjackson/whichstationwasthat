@@ -1,0 +1,21 @@
+Combine Report for 1927-07-15
+============================================================
+
+Merge 1: IMG_3045.txt + IMG_3046.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 2
+Match strength: 1.000
+
+File A last line: Tocsin (Sheffield): (1) WL surely correct.
+File B matching line: Tocsin (Sheffield): (1) WL. surely wrong; each enquiry. (2) Langenberg relaying concert from the Rheinterrasse, Düsseldorf, until midnight; (3) The École Supérieure des PTT Paris relayed the speeches from the banquet given by the American Chamber of Commerce, Paris, to the U.S.A. aviators (Commander Byrd, etc.). The transmission was taken by all PTT relays, including the Eiffel Tower. You received this from PTT Rennes (320 m.). Coupon must be sent with each enquiry.
+
+Merge 2: merged_1 + IMG_3047.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 0.792
+
+File A last line: The Old Roman Bridge (Bells Hill): (1) Noms-de-plume must be accompanied by sender's name and address. The language was probably French; an aircraft and aerodrome interchange were the subject. With the exception of the first (Air Ministry) these were amateur transmissions.
+File B matching line: <code>Bridge (Bells Hill): (1) Noms-de-plume must be accompanied by senders’ name and address. The language was probably French; an aircraft and aerodrome interchange of messages.</code>
+

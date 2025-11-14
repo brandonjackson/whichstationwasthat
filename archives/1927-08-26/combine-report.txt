@@ -1,0 +1,21 @@
+Combine Report for 1927-08-26
+============================================================
+
+Merge 1: IMG_3064.txt + IMG_3065.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 1.000
+
+File A last line: Roma Davies (Westcliff-on-Sea): Regret, cannot trace, as your details are much too vague, and it is impossible to say which station you heard, without some estimate of W.L. Coupon from World Radio was not sent with each inquiry.
+File B matching line: Roma Davies (Westcliff-on-Sea): Regret, cannot trace, as your details are much too vague, and it is impossible to say which station you heard, without some estimation of WL.
+
+Merge 2: merged_1 + IMG_3066.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 14
+Match strength: 1.000
+
+File A last line: B.L. (Galashiels): Your telegrams.
+File B matching line: B. L. (Galashiels): Your details are too vague; regret, cannot trace items in programmes.
+

@@ -1,0 +1,35 @@
+Combine Report for 1926-07-02
+============================================================
+
+Merge 1: IMG_2424.txt + IMG_2425.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Oxo: most German stations extended constant transmissions.
+Best similarity found: 0.500
+
+Closest matches (top 3):
+  1. Index 62, similarity: 0.500 (first_8_chars)
+     Line: Oxo (Stafford): (a) Muenster, (b) Frankfort-on-Main, (c) Breslau, relay of Berlin.
+  2. Index 48, similarity: 0.333 (first_8_chars)
+     Line: J. O. Oberg: Madrid (EAJ7).
+  3. Index 26, similarity: 0.300 (first_12_chars)
+     Line: Curiosity (Birkdale): Radio Toulouse (Wimbledon) (1), yes, but also tallies with Rome; (2) Leipzig, (3) Hilversum.
+
+Merge 2: merged_1 + IMG_2426.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Trinadyne 2 (Beckenham): WL too.
+Best similarity found: 0.375
+
+Closest matches (top 3):
+  1. Index 15, similarity: 0.375 (first_8_chars)
+     Line: Tannahusa (Folkestone): cannot trace, as this item is not advertised in any programme at that time.
+  2. Index 9, similarity: 0.301 (reporter_and_content)
+     Reporter similarity: 0.368
+     Content similarity: 0.200
+     Line: Ethodyne Seven: cannot trace, but if direction correct—namely, South—data would tally with Radio-Agen, stated to operate on 318 m., on Tuesdays and Fridays. Range Block: Hamburg (392 m.), surely at end of range block.
+  3. Index 2, similarity: 0.300 (first_12_chars)
+     Line: No Name ("Tea for Two"): possibly Barcelona (EAJ13).
+

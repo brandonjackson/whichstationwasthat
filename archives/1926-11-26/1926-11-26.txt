@@ -21,24 +21,24 @@ G. A. K. (Bath): Probably WJZ (pronounced RDW), call "Radio Moskva."
 Night Star (Blackpool): (1) Prague, relayed from Smetana Hall; (2) Nuremberg, relaying Munich; (3) Graz, relaying Vienna (The Last Waltz); (4) Hamburg (La Traviata); (5) Breslau.  
 Eraricus 1.: WL too vague, cannot trace.  
 Malvern: No, this was Cassel, relaying Berlin.  
-F. S. B. (Peterboro'): (a) WGY (Schenectady), (b) apparently WJZ (Boundbrook).  
-Valve (Seaton): Relay of "6 days" Cycle Race, apparently Hamburg.  
+F. S. B. (Peterboro'): (a) WGY (Schenectady), (b) apparently WYI (Roundbrook).  
+Valve (Seaton): Relay of 6 days' Cycle Race, apparently Hamburg.  
 T. P. B. (Gorleston): Berlin.  
 Jason: (1) Breslau, (2) Hanover, relaying Hamburg.  
 Retta (Syston): Frankfurt-on-Main (ticking of metronome).  
-5.W.12 (Liverpool): Evidently a transmitter testing for adjustment of new WL, possibly Prague.  
-Leobee: (13/11) WL presumably wrong, Norddeich (weather report) 1,800 m., (14/11) Berlin (1,300 m).  
+5.W.12 (Liverpool): WL.  
+Leobee: (13/11) WL presumably wrong, Norddeich (weather report, 1,800 m.), (14/11) Berlin (1,300 m.).  
 Narran: Oslo.  
 Terminal (Ewell): Toulouse.  
 Rob Roy: Cadiz (experimental concert).  
-Marow: Possibly Prague (348 m.).  
+Marow: Possibly Prague (348 m.) transmission.  
 Hereward 1: Frankfurt-on-Main, relaying Berlin.  
 Allied Filmite (London): WGY (Schenectady).  
-Cantilever (Forest Hall): (1) Lausanne, (2) Hamburg (392 m). and Hanover (297 m). (3) WGY (Schenectady) through one of the B.B.C. stations, (4) Radio Paris, (5) Hamburg.  
+Cantinever (Forest Hall): (1) Lausanne, (2) Hamburg (392 m). and Hanover (297 m). (3) WGY (Schenectady) through one of the B.B.C. stations, (4) Radio Paris, (5) Hamburg.  
 Govibega: (1) Possibly Hanover, relaying Hamburg, (2) if in English, Hamburg (English lesson).  
-J. G. Mitchell (Brighton): WL wrong, possibly Vienna.  
+J. G. Mitchell (Brighton): W.L. wrong, possibly Vienna.  
 Pontonito 2.: Madrid (EAJ7).  
-Early Riser: U.S.A. station, but as WL is apparently wrong, cannot trace.  
+Early Riser: U.S.A. station, but as W.L. is apparently wrong, cannot trace.  
 Mustard: Too vague, cannot trace.  
 Secrecy: Radio Toulouse.  
 F. C. C. (Hollinside): Hanover (Café Continental).  
@@ -46,15 +46,15 @@ Amplidyne: (a) Yes, Mont de Marsan (capital of Landes, S.W. France, about 60 m. 
 Links (Deal): (1) Yes, Vienna, (2) vague, possibly Madrid (EAJ7), 375 m., (3) cannot trace, no date given.  
 New Zealander (Cheltenham): (1) Yes, Hilversum.  
 Anglo-American (Hemel Hempstead): Hamburg.  
-7 Valve (Newcastle-on-Tyne): No indication of WL given, cannot trace.  
+7 Valve (Newcastle-on-Tyne): No indication of W.L. given, cannot trace.  
 H. Summerhill (Berkhamsted): Madrid (EAJ7).  
-F.C.H. (Edmonton): (1) Koenigswusterhausen, relaying Berlin, (2) No estimated WL given, but possibly Hilversum.  
-What Was It? (N.W.6): WL too vague, possibly Budapest.  
+F.C.H. (Edmonton): (1) Koenigswusterhausen, relaying Berlin, (2) No estimated W.L. given, but possibly Hilversum.  
+What Was It? (N.W.6): W.L. too vague, possibly Budapest.  
 W. J. Gillott: (1) Hamburg (La Traviata), (2) Madrid (EAJ7).  
 Plum Lane: Madrid (EAJ7).  
 L.G.K. (E.6): Frankfurt-on Main.  
 Ether-Searcher (Basingstoke): Amateur.  
-Lucky 13 (Birmingham): (1) Hamburg; (2) Rather vague, but possibly Breslau, relaying Berlin.  
+Lucky 13 (Birmingham): (1) Hamburg; (2) Rather vague, but possibly Breslau, relaying Berlin. Madrid (EAJ7).  
 E.A.C. (Canterbury): Dublin.  
 Greenburn: Dortmund (283 m.), relaying Elberfeld.  
 Spur: (1) Leipzig; (2) Koenigswusterhausen, relaying Berlin. (3) Hilversum.  
@@ -64,15 +64,15 @@ Tenrab: Kiel, relaying Hanover (Café Continental).
 Erc. O. (Downham): Prague.  
 Gec (Redditch): (1) Yes, Vienna (The Last Waltz); (2) Yes, Stuttgart; (3) Yes, Leipzig, relaying Dresden (The Mikado); (4) Yes, Berne; (5) Yes, Toulouse.  
 Scrounger (Redcar-by-Sea): KDKA (East Pittsburg).  
-Hackney 4 V.: (14/11) Possibly Barcelona (EAJ13); (15/11) WL wrong, Leipzig (357 m.), relaying Berlin.  
+Hackney 4 V.: (14/11), (15/11), WL. wrong, Leipzig (357 m.), relaying Berlin.  
 Florida: Hilversum (relay of Artist Orchestra in Amsterdam).  
 Mush J.: Stuttgart.  
 N.B. (Middlesbro): (1) Stettin, relaying Berlin; (2) WGY (Schenectady).  
-Devo: Moscow (RDW); American announcer says "WJ-ZEE for WJ-ZED".  
+Devo: Moscow (RDW); American announcer says "WJ-ZEE for Amer".  
 W.J.Z.ED. (C. Wright Luton): San Sebastian.  
-Brenda (Fleetwood): Probably WJZ (Boundbrook), pronounces WL wrong, Elberfeld.  
+Brenda (Fleetwood): Probably WJZ (Boundbrook), pronounces WL. wrong, Elberfeld.  
 W.L.S. (Daybrook): Berlin.  
-Major Five (Fleetwood): Probably WJZ (Boundbrook), pronounces WL wrong.  
+Major Five (Fleetwood): Probably WJZ (Boundbrook), pronounces WL. wrong.  
 V.J.Edison: yes, Moscow.  
 W.J.ED.: Too indefinite to identify station.  
 Drei Valve: Oslo.  
@@ -84,12 +84,13 @@ Norman Barrett: Brussels (relay of The Daughter of Mme. Angot).
 Forden (Welshpool): WJZ (Boundbrook).  
 Puzzled (Middlesex): Rome.  
 3 Valve Dual (Nottingham): Cannot trace.  
-R.H.H.A. (Kent): (1) WJZ (Boundbrook), relaying concert from WGY (Schenectady); (2) No, Barcelona (EAJ13); (3) WJZ (Boundbrook).  
+R.H.H.A. (Kent): (1) WJZ (Boundbrook), relaying concert from WGY (Schenectady); (2) No, Barcelona (EAJ13). (3) WJZ (Boundbrook).  
 Arabian Nights: (1) Berne; (2) Oslo; (3) Yes, Stuttgart.  
 Liketono (Norwich): (1) Cannot trace tests, but possibly Boden; (2) Koenigswusterhausen (English lesson).  
 N.T.F.G.: Not in programmes, probably Dublin.  
 W.L. (Hove): Moscow (RDW).  
 Dows (Hull): If opera, Carmen, Madrid (EAJ7).  
+W.J. Gillott: (3) Too vague, cannot trace.  
 D.H.2.V.: Vienna.  
 P.E.B. (West Ealing): WGY (Schenectady).  
 J.F.H. (Walthamstow): Stuttgart.  
@@ -101,6 +102,4 @@ Bee: WGY (Schenectady), relaying WJZ (Boundbrook).
 Quatre Valve: Madrid (EAJ7).  
 D. Lassoon: Stockholm.  
 R.G.S. (Whitby): Madrid (EAJ7).  
-The following coupons bore no names: —15711 (384.6 m.).  
-Cannot trace. 15/11 (500 m.): Zurich.  
-Mont-de-Marsan (capital of Landes, S.W. France, about 50 m. due south of Bordeaux).
+The following coupons bore no names: —15711 (384.6 m.). Cannot trace. 15/11 (500 m.): Zurich. Mont-de-Marsan (capital of Landes, S.W. France, about 50 m. due south of Bordeaux).

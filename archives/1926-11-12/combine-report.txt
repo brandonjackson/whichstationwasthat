@@ -1,0 +1,36 @@
+Combine Report for 1926-11-12
+============================================================
+
+Merge 1: IMG_2565.txt + IMG_2566.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 12
+Match strength: 1.000
+
+File A last line: Eric (London): if any re-
+File B matching line: Eric (London): if a.m., Koenigsusterhausen.
+
+Merge 2: merged_1 + IMG_2567.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: King Radio:
+Best similarity found: 0.429
+
+Closest matches (top 3):
+  1. Index 27, similarity: 0.429 (first_8_chars)
+     Line: N. A. D.: (1) San Sebastian; (2) Oslo.
+  2. Index 31, similarity: 0.400 (first_12_chars)
+     Line: Dorn (Glasgow): (4) a Swedish relay of Stockholm.
+  3. Index 18, similarity: 0.375 (first_8_chars)
+     Line: Reinartz 1 (Cardiff): (1) Hamburg, relaying Hanover, (2) Madrid (EAJ7).
+
+Merge 3: merged_2 + IMG_2568.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 20
+Match strength: 0.929
+
+File A last line: Mon Broughty Ferry: Apparently some.
+File B matching line: Wonn (Broughty Ferry): Apparently some foreign relay of the Hanover Concert taken via Hamburg.
+

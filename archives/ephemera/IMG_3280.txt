@@ -1,0 +1,270 @@
+Simplifying the Long-Distance Set
+
+THERE can be no doubt that many who do  
+not get such results as they would like  
+when trying for distant stations owe their  
+comparative lack of success mainly to the fact  
+that their sets are so complicated as to be excep-  
+tionally difficult to operate. The successful DX  
+enthusiast must be neither a one-knob maniac nor  
+an advocate of introducing as many variables and  
+as many control knobs as possible in the receiving  
+set. So long as one has one perfectly good handle,  
+there seems to be no reason why there should not  
+be at least two others, even if three represent the  
+maximum or convenient limitation. It is true there  
+may be a third, or possibly a fourth, so long as  
+these have no obvious bearing on results obtained.  
+I am reminded of one kind of mushroom-fanciers  
+who employ over forty bottles, and an aerial col-  
+lecting array upon the panels, and it is a bad policy to  
+build up complicated circuits so that the user imagines  
+he must manipulate as many controls simultaneously  
+as possible in order to land the losers.
+
+One friend of mine belongs to the class of wireless  
+listener who “never knows what his own set is  
+doing.” He likes plenty of knobs all over, each of  
+which must be allocated some mystic function or other,  
+but which may be twisted and turned all ways,  
+excepting the right way. I have never been able to  
+persuade him to adopt a serious policy of set simpli-  
+fication, and I do not think that he will revert from  
+his present (mis)practice, which consists in changing  
+taps on every coil, damping this and altering that,  
+often in the most unorthodox manner. It is a pity  
+that so many waste their time looking for short  
+cuts to better long-distance results unless they are  
+quite certain that this is the line along which they  
+are likely to find the shortest route. If a set  
+gives moderate distance, why not carefully test out  
+every part of it with reasonable patience and system?  
+Resistance to the success of the next will be created  
+by word-of-mouth wireless. Any unconventional  
+and novel scheme will please the majority of  
+enthusiasts, but one should always remember that  
+when one is trying long-distance work one must  
+study one’s own set and methods most carefully and  
+only make the series condenser variable. It is  
+unwise to operate any coils outside their normal  
+range of working. More mistakes are made  
+with high-frequency wiring than with almost  
+anything else. This applies to beginners as well  
+as to those who imagine they know all there is to  
+learn in wireless. In parallel-coupled high-  
+frequency circuits the majority of enthusiasts have  
+decided to apply series coils to both high-  
+tension supplies and the the majority presently  
+agree that “No bottom taps!” is useful in  
+general high-frequency practice.
+
+My friend sticks to the intense potential second  
+anode, owing to his blind faith. His set is not  
+damp. “Not so my friend. He is a potentiometer  
+enchanting.” He always considers that it must posses  
+all the advantages and none of the disadvantages.  
+In this he is wrong-with both Dlists.
+
+In a little while his aerial is drilled and almost  
+every length of wood in his set has holes, owing to  
+the changing of these taps. Again, patience is  
+called for in any set that present any display of high  
+tension complexity, particularly in oscillating reactions  
+to which I have drawn attention above, which interest  
+him as it ought to many others. In this respect,  
+the only difficulty with the banal one-knob maniac  
+is to find a station that he wants to hear, and  
+when one has found it, the issue is “one or the  
+other.” In many of the old-fashioned battery sets,  
+this two-fold channel difficulty either in receiving  
+stations that have properly grown up in point of  
+distance or in avoiding the interference of local  
+stations was often the real difficulty rather than  
+that of picking up the distant signals. In many cases  
+two people might tune in on both at the same time,  
+but one of them prefers not to note this. He must  
+feel that very long-distance service of his own, pure  
+and simple, and as he is a lazy man he does not want  
+to bother with radio waves at all unless a share  
+falls in the wavelength that helps him to forget the  
+remarkable programmes of his neighbours. It is  
+in such cases that long-distance work is not only  
+difficult and tiring but irksome because of the irritat-  
+ing fusing of two stations at once. This type of  
+listener is one who imagines that great long-distance  
+is only possible at the moment his needle is lucky.  
+If such a listener knows that after all there is a  
+better way of surrounding oneself with phantoms,  
+just when we can be the long-distance man of the  
+group he will go as near to long-distance as he has  
+before, if not more.
+
+When the valve was more or less in its infancy  
+and the ordinary circuits of alternating potential  
+across the primary of the high-frequency transformer  
+were not as highly developed as they are now, it  
+was often essential that a separate anode lead should  
+be taken from the transformer to the anode of the  
+valve when consider potential. The feeded con-  
+valve certainly almost a component was required,  
+and it often paid to fit one of “vernier” pattern  
+which allowed minute adjustments to be made.  
+Valves of to-day are not only the last minute faddy about  
+their filament potential. The grid/initial Hecostat is  
+completely unnecessary and we remove those  
+heavily wampered potential and special reaction hresetters.  
+Personally, I have not used a rheostat in my set  
+for over two years. In many of the cases I have  
+examined, such rheostats have been almost perma-  
+nently upon the highest modern reaction point.  
+More and more I find that control of this is un-  
+necessary. All jumps have been concerned with filament  
+reaction, and the tests show, at any rate in the case  
+of my own apparatus, that it is not necessary to set  
+properly in order to adjust advantage to take the  
+impotential on the different adjustments. Reaction  
+between the lowest and highest reaches has no advan-  
+tage over previous long-distance, and I seldom use  
+it in practice. The practical result is simply that the  
+reaction system itself cannot be satisfied. One  
+may therefore dispense with this entirely, except in  
+cases where it is desired to use reaction with more  
+ignoring of the tuned set as a short wave or  
+signal. In long distance this cannot violate the general  
+practice, because potential remains the same when the  
+grid potential does not vary. Once found for a  
+particular circuit and a particular valve it does not  
+require to be changed. One can therefore use a  
+baseboard mounting potentiometer without any  
+knob. It is completely unnecessary to have  
+potentiometers where grid bias is applied to high-  
+frequency valves, since the current is tiny and the  
+plate voltage can be used. It is highly important  
+that a hi-frequency valve should be used, and if  
+it is used then in more than one set it is more  
+efficient that a finer adjustment is needed, because the  
+controlling potential should only be used to control  
+the input to the grid, and not it should be used with  
+and varied by other components.
+
+How many vernier dummies? There are three  
+classes of vernier dummies of this day (1) those  
+obtained by the construction of baseboard panels  
+in subsidiary adjustment in each of the general  
+designer. Nowadays one may do better by using  
+modern machine adjustments when the exact  
+maker carries the adjustment to suit the final  
+should get into contact with any mfr.
+
+Should any beginner feel that we are rather  
+straying beyond the simple long-distance subject,  
+it must be stated that any long-distance user may  
+find it necessary to consider his range. He too  
+must make sure that the adjustments he has  
+to control are not too many for his range. There-  
+fore one should make sure that high-frequency  
+coils should serve as best is for short and long  
+waves when required. Any short wave coils in  
+an older set should be removed. A short wave  
+framework is no more required than an attempt at  
+best noise “around the jewel.” Assuredly such  
+coils should not be required. The beginner must  
+do his best for long-distance and any coils should  
+work upon the one range of wavelength, and  
+should not present more than the one or three  
+bands or wavelengths, according to the circuits  
+in use at the particular date. In a case of many  
+those in which this may and does occur, the  
+modern variable condenser of the modern  
+range can be used. When condensers in use might be  
+view to obtaining increased selectivity, it is  
+convenient to employ one of the clip-in patterns,  
+in no. microfarad micros rewired or a microfarad.  
+In most cases 0.00025 microfarad will be found not  
+only sufficient in its easy-made for different  
+differences. In experts’ firms the best is found that  
+the value has been found which gives the best  
+combination of high selectivity and good distance.  
+When it is just desirable to cut down the width  
+over a particular wavelength of wavelength selectivity,  
+the series condenser will therefore improve matters.
+
+As to variable gridleaks, variable anodic and vari-  
+able grid leaks, what is most of us are one would  
+not mind if the whole set was entirely stripped of  
+anodic and grid leak components and completely  
+re-made according to the modem best selected by  
+one or other. Two ordinary broadcast and perhaps  
+one long-distance receiver without any complications  
+is a good deal better than a fairly complicated  
+set, which does not function properly. Two de-  
+tectors, would pay off best. For long-distance,  
+there is only need of one. For novices possibly more  
+than one detector is required, but there is not much  
+advantage in an increase in the number unless fairly  
+skillful. The beginner should study high-frequency  
+or any other system to be able to consider practical  
+up to at least medium or long values, and should  
+find an balance for the best between probable 20  
+and 30 metres. It is too difficult in many cases for  
+the novice to stick one particular wavelength, except  
+in cases where he is trying to raid a wave or to  
+“note” some fairly majority programs.
+
+Simple adjustments of this kind are not so diffi-  
+cult as to have to be left to the expert. One or two  
+knobs with friction control for a receiver with a  
+well designed high-frequency stage, or for an  
+anode stage, and H.F. stage. Both stages, if properly  
+adjusted, reflect upon the audio and  
+and helps enormously with the loudspeaker, and  
+there are at this only two or three ways of  
+applying controls that apply directly to long-distance.  
+The first is to keep as far as possible away in prac-  
+tice three tuned circuits in radio frequency by all  
+ordinary, stable, impedance coupling with a grid-  
+condenser. It is of absolutely no use to the majority  
+of amateurs to adopt approaches which are more  
+difficult and complicated.
+
+How is he to obtain further guidance? There  
+is no possibility about modern power it is  
+difficult to find the best short, long or medium  
+wave simply by wandering up and down the dial  
+of known wavelength column at a stations list.  
+The second way of ensuring results is to make  
+use of an accurate calibration curve or table  
+made for your own set or for a set on which  
+modern condensers are available.
+
+In long-distance work, as in all other audio  
+amplifier progress, he should steadily concentrate  
+upon building up finished but making the set of  
+the newest and best whether he has to do half a dozen  
+times and more, either himself or with the  
+extra pair of hands. When the best results are  
+obtained, he should carefully copy the set, and  
+he should not be disappointed if his best set  
+ever received is improved upon the first time it  
+is copied using standardised parts. Every friend  
+who will persevere may depend upon getting a  
+better set the next time that he copies.  
+Always the past is more useful than the future.  
+In long-distance work he must not expect  
+too complicated set. R. H. W.
+
+Chief Radio Engineer, Telegraph Department,  
+Ceylon, has sent along some interesting notes  
+as he has been listening to the short-wave trans-  
+missions recorded in the letter from Colombo  
+last week. He mentions that the day-by-day  
+details in this letter agree with those which have  
+come under his own observation. On several  
+occasions he has heard what he fears Ceylon Radio  
+will be incorrectly taken for as the Ceylon short-wave  
+station. It is that of the cable station of the  
+Department of short wave transmissions. This station,  
+during heavy surf, gives three time signals a day  
+by means of short radio time, thunder, whistle  
+and a short figure combination, together with the  
+name of the station!

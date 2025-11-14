@@ -1,0 +1,36 @@
+Combine Report for 1926-08-20
+============================================================
+
+Merge 1: IMG_2465.txt + IMG_2466.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 9
+Match strength: 1.000
+
+File A last line: Straight Four (Manchester): (1) Breslau, relay of Berlin; (2) Frankfort-on-
+File B matching line: Straight Four (Manchester): (1) Breslau, relay of Berlin, (2) Frankfort-on-Main, relay of Berlin.
+
+Merge 2: merged_1 + IMG_2467.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Big Ben: (1) No, but Breslau (418 m.).
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 62, similarity: 0.400 (first_12_chars)
+     Line: Mio (Birkenhead): Details too vague, probably Hamburg.
+  2. Index 0, similarity: 0.375 (first_8_chars)
+     Line: fragment
+  3. Index 0, similarity: 0.375 (first_12_chars)
+     Line: fragment
+
+Merge 3: merged_2 + IMG_2468.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 24
+Match strength: 0.880
+
+File A last line: C.J. (Cardiff): Frankfort-on-Main.
+File B matching line: R.J.C. (Cardiff): Frankfort-on-Main.
+

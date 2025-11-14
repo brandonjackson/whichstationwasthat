@@ -1,0 +1,72 @@
+Combine Report for 1928-02-10
+============================================================
+
+Merge 1: IMG_3252.txt + IMG_3253.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 8
+Match strength: 0.880
+
+File A last line: Sariana (Guernsey): This was Frankfurt.
+File B matching line: Sarnia (Guernsey): This was Rome, I Lombardi (Verdi) was advertised. It is quite possible, of course, that the opera was changed.
+
+Merge 2: merged_1 + IMG_3254.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 7
+Match strength: 1.000
+
+File A last line: Elstree Six (Acton): W.L. apparently wrong, both Bergen and Oslo advertised foreign
+File B matching line: Elstree Six (Acton): WL, apparently wrong, both Bergen and Oslo advertised foreign relays at that time.
+
+Merge 3: merged_2 + IMG_3255.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: ```
+
+Merge 4: merged_3 + IMG_3256.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Auditor (Staffs): Kalundborg,
+Best similarity found: 0.200
+
+Closest matches (top 3):
+  1. Index 6, similarity: 0.492 (reporter_and_content)
+     Reporter similarity: 0.154
+     Content similarity: 1.000
+     Line: Shep (Beeston): Kalundborg, relaying dance music from Copenhagen.
+  2. Index 4, similarity: 0.240 (reporter_and_content)
+     Reporter similarity: 0.133
+     Content similarity: 0.400
+     Line: Bentham (Wallasey): Katto witz (Poland).
+  3. Index 2, similarity: 0.200 (first_12_chars)
+     Line: Diddy (Grimsby): (1) Apparently PTT Lyons, not advertised in programmes; (2) Possibly WGY (Schenectady); (3) Yes, Berlin, apparently testing; (4) Yes, Radio Toulouse; (5) Milan (Vigentino) English lesson; (6) Possibly San Sebastian.
+
+Merge 5: merged_4 + IMG_3257.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Glendun (St. Andrews): Not mentioned in programmes; time would tally with the broadcast.
+Best similarity found: 0.444
+
+Closest matches (top 3):
+  1. Index 2, similarity: 0.444 (first_12_chars)
+     Line: E. S. D. (Stockport): Vienna (Rosenhuegel), a concert of Schubert’s first successes.
+  2. Index 40, similarity: 0.429 (first_8_chars)
+     Line: Benwud: If long wave, Koenigs Wusterhausen, relaying Berlin.
+  3. Index 24, similarity: 0.350 (reporter_and_content)
+     Reporter similarity: 0.250
+     Content similarity: 0.500
+     Line: Flat Wire (Barrow): No WL. traced; seven foreign stations giving dance music at that time, possibly Copenhagen.
+
+Merge 6: merged_5 + IMG_3260.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 1
+Match strength: 0.850
+
+File A last line: B.F. (Oxford): Yes, XJAD (Schenectady) received direct.
+File B matching line: R. E. (Oxford): Yes, 2XAD (Schenectady) received direct.
+

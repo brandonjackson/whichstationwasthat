@@ -1,0 +1,58 @@
+Combine Report for 1926-02-12
+============================================================
+
+Merge 1: IMG_1833.txt + IMG_1835.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Union Radio (Madrid): Cannot trace.
+Best similarity found: 0.400
+
+Closest matches (top 3):
+  1. Index 72, similarity: 0.550 (reporter_and_content)
+     Reporter similarity: 0.250
+     Content similarity: 1.000
+     Line: Borax (Swansea): Cannot trace.
+  2. Index 28, similarity: 0.512 (reporter_and_content)
+     Reporter similarity: 0.188
+     Content similarity: 1.000
+     Line: Opium: Cannot trace, unless Salamanca (EAJ22), but no programmes available.
+  3. Index 8, similarity: 0.475 (reporter_and_content)
+     Reporter similarity: 0.125
+     Content similarity: 1.000
+     Line: Crackpot: Cannot trace.
+
+Merge 2: merged_1 + IMG_1836.txt
+------------------------------------------------------------
+Match found: True
+Match index in file B: 5
+Match strength: 1.000
+
+File A last line: Japhus: (26, 28, 29) both vary as a rule; (26/1) cannot trace.
+File B matching line: Japhus: (31/1) Moscow (RDW).
+
+Merge 3: merged_2 + IMG_1837.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: H.T.F. (Ballaghadeireen): Please.
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.000 (first_8_chars)
+     Line: Lean West, R. O. S. G., W. J. F., B. T. H. (Norwich), Tubby, L. Ether, W. T. Forknall, Twin Valverite, Robbie M. W., San, Vie Pip, Swinden, Kacila, Family Four (Doncaster), Amazing Strength, S. B. (Ormskirk), Y. M. Z. (Plymouth), Elwell (Beaconsfield), Cynroes, E. H. F. Transatlantic 5, Boy Blue (Burnley), Early Bird (Reading), Pat (Birmingham), Sans Fil (Gillingham), B. M. B. A. Y. Z., Binge (Herne Bay), P. & D. (Blaydon-on-Tyne), A. C. (Barrow-in-Furness), Please Don’t, Curious (Wootton), Jay Jay (Sunderland), 5BT (Leeds), Perthite, E. J. S. (Cambridge), Four B’s (Sittingbourne), Omnie (Pendleton), Chatham (Leicester), Doncaster, W. S. (Maida Hill), Clerk (Nottingham), Enigma, Snip, T. S. F. (Newton Abbot), P. Z. Night-Hawk, Twin Valve (Cardiff), Tapper (Nelson), Dual (S. W. 9), P. L., Carrbrook, E. A. C., Bioxane, H. T. L., Curious (Berkhampsted), Glosso, F. D. Y. (King’s Heath), L. E. C. Crook, 100 Aerial, J. K. B. (Mountain Ash), Denton, Chorltonville, Canio (Leigh), Tim, J. B., R. E. B., S. C. T. 5, A. A. C., Curious (Chesterfield).
+  2. Index 0, similarity: 0.000 (first_12_chars)
+     Line: Lean West, R. O. S. G., W. J. F., B. T. H. (Norwich), Tubby, L. Ether, W. T. Forknall, Twin Valverite, Robbie M. W., San, Vie Pip, Swinden, Kacila, Family Four (Doncaster), Amazing Strength, S. B. (Ormskirk), Y. M. Z. (Plymouth), Elwell (Beaconsfield), Cynroes, E. H. F. Transatlantic 5, Boy Blue (Burnley), Early Bird (Reading), Pat (Birmingham), Sans Fil (Gillingham), B. M. B. A. Y. Z., Binge (Herne Bay), P. & D. (Blaydon-on-Tyne), A. C. (Barrow-in-Furness), Please Don’t, Curious (Wootton), Jay Jay (Sunderland), 5BT (Leeds), Perthite, E. J. S. (Cambridge), Four B’s (Sittingbourne), Omnie (Pendleton), Chatham (Leicester), Doncaster, W. S. (Maida Hill), Clerk (Nottingham), Enigma, Snip, T. S. F. (Newton Abbot), P. Z. Night-Hawk, Twin Valve (Cardiff), Tapper (Nelson), Dual (S. W. 9), P. L., Carrbrook, E. A. C., Bioxane, H. T. L., Curious (Berkhampsted), Glosso, F. D. Y. (King’s Heath), L. E. C. Crook, 100 Aerial, J. K. B. (Mountain Ash), Denton, Chorltonville, Canio (Leigh), Tim, J. B., R. E. B., S. C. T. 5, A. A. C., Curious (Chesterfield).
+
+Merge 4: merged_3 + IMG_1838.txt
+------------------------------------------------------------
+Match found: False
+No matching line found - files concatenated.
+File A last line: Lean West, R. O. S. G., W. J. F., B. T. H. (Norwich), Tubby, L. Ether, W. T. Forknall, Twin Valverite, Robbie M. W., San, Vie Pip, Swinden, Kacila, Family Four (Doncaster), Amazing Strength, S. B. (Ormskirk), Y. M. Z. (Plymouth), Elwell (Beaconsfield), Cynroes, E. H. F. Transatlantic 5, Boy Blue (Burnley), Early Bird (Reading), Pat (Birmingham), Sans Fil (Gillingham), B. M. B. A. Y. Z., Binge (Herne Bay), P. & D. (Blaydon-on-Tyne), A. C. (Barrow-in-Furness), Please Don’t, Curious (Wootton), Jay Jay (Sunderland), 5BT (Leeds), Perthite, E. J. S. (Cambridge), Four B’s (Sittingbourne), Omnie (Pendleton), Chatham (Leicester), Doncaster, W. S. (Maida Hill), Clerk (Nottingham), Enigma, Snip, T. S. F. (Newton Abbot), P. Z. Night-Hawk, Twin Valve (Cardiff), Tapper (Nelson), Dual (S. W. 9), P. L., Carrbrook, E. A. C., Bioxane, H. T. L., Curious (Berkhampsted), Glosso, F. D. Y. (King’s Heath), L. E. C. Crook, 100 Aerial, J. K. B. (Mountain Ash), Denton, Chorltonville, Canio (Leigh), Tim, J. B., R. E. B., S. C. T. 5, A. A. C., Curious (Chesterfield).
+Best similarity found: 0.182
+
+Closest matches (top 3):
+  1. Index 0, similarity: 0.182 (first_12_chars)
+     Line: Special German Broadcast (January 31). A few words of explanation regarding the ceremony heard by a large number of listeners, whose noms-de-plume are published in the " Answers to Queries," may be of general interest to our readers. of the famous Cathedral Petrus Bell, after which the chief Burgomaster, Dr. Adenauer, delivered a short speech to the assembled crowd. The German National Anthem accompanied by a full band was then sung, followed by further speeches; a message from President Hindenburg was read, and a hymn, Grosser Gott, wir loben Dich, sung by the multitude, brought the ceremony to an end. The special broadcast picked up by them was that of the public demonstration held on the Square facing the Cologne Cathedral, in celebration of the official evacuation of that city after seven years' occupation by British troops. The proceedings were opened at midnight (Central European time), or 11 p.m. (G.M.T.), by the pealing The apparent war cry heard by one of our readers was merely a German " Hoch !" repeated three times, the Teutonic equivalent of the British cheer. This patriotic demonstration was relayed to Muenster, and re-broadcast by most of the German stations, including the high-power transmitter at Koenigswusterhausen.
+  2. Index 0, similarity: 0.000 (first_8_chars)
+     Line: Special German Broadcast (January 31). A few words of explanation regarding the ceremony heard by a large number of listeners, whose noms-de-plume are published in the " Answers to Queries," may be of general interest to our readers. of the famous Cathedral Petrus Bell, after which the chief Burgomaster, Dr. Adenauer, delivered a short speech to the assembled crowd. The German National Anthem accompanied by a full band was then sung, followed by further speeches; a message from President Hindenburg was read, and a hymn, Grosser Gott, wir loben Dich, sung by the multitude, brought the ceremony to an end. The special broadcast picked up by them was that of the public demonstration held on the Square facing the Cologne Cathedral, in celebration of the official evacuation of that city after seven years' occupation by British troops. The proceedings were opened at midnight (Central European time), or 11 p.m. (G.M.T.), by the pealing The apparent war cry heard by one of our readers was merely a German " Hoch !" repeated three times, the Teutonic equivalent of the British cheer. This patriotic demonstration was relayed to Muenster, and re-broadcast by most of the German stations, including the high-power transmitter at Koenigswusterhausen.
+
