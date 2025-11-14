@@ -1,0 +1,33 @@
+```plaintext
+J. Royds (St. Albans): No, AFK is the call sign of the new short-wave transmitter at Zeesen (Germany).
+Ether (Northumberland): Kattowitz relaying La Boheme (Puccini) from the Posen Opera House.
+N. W. (Liverpool): Details are very vague, but possibly WOC (Davenport).
+Cresent (N.1): Yes, details would tally with Budapest (not gramophone records).
+A.S.2 (Wakefield): (5) Apparently Government station at Mitcham testing (900 and 1,400 m.); (6) Leningrad, relaying violin concert from the Philharmonic Hall.
+Pongo (Thornton Heath): Berlin, dance music until 11.30 p.m. G.M.T.; also relayed by Koenigswusterhausen and Stettin.
+Elstree Six (Acton): WL, apparently wrong, both Bergen and Oslo advertised foreign relays at that time.
+Megohm (Manchester): Yes, Motala and Kalundborg, relaying Copenhagen. Time signal: 6 dots, 1 dash, 1 dot; (2) Times given in World-Radio are all G.M.T.
+R. E. G. (Wimbledon): Details are rather vague, but if W.L. correct Leningrad; items not advertised in programme.
+A. Caiger (Wokingham): Yes, 3LO (Melbourne) apparently received direct, but we have no information that this station transmits on 70 m.
+3 Valve (Uxbridge): 2MJ advertised as amateur at Cliftonville.
+T. W. S. (East Ham): This was not Jack Hylton Band; regret, but cannot trace without some estimate of W.L.
+Sunnyside: Some estimate of W.L. must be given—cannot trace from condenser readings.
+Smugger: Leningrad, relay of concert from the Philharmonic Hall. 
+Ice (Wombourn): Possibly Prague (gramophone records).
+Beginner (Scarborough): Barcelona (EAJ1).
+Screened Grid (Leeds): (1) Details are very vague; nearest approach to your call is that of a Spanish amateur; EAR11 at Guadalajara (Spain), but transmissions have usually been made on about 32.6 m.; (2) Prague.
+J. H. E. T. (Devonport): Cork, relaying Dublin.
+H. S. Travers (Devizes): Moscow Comintern (RDW).
+S. W. H. (Lingfield): 5XN amateur (Eltham).
+J. Jackson (Hull): Bergen.
+Clovelly (Seven Kings): Yes, Budapest, orchestral and choral concert relayed from the Music Academy.
+Curious (Brighton): Government Aerodrome station at Mitcham, testing (900 and 1,400 m.).
+C. G. T. (Norwich): No, Stuttgart.
+Success: Radio Bandoeng (Java) on 31.96 m.
+A. O. E. (Three Valver): Estimate of W.L. too vague, many stations use a metronome as interval signal.
+Merevale: Frankfurt-on-Main.
+Werzoff (Nottingham): Frankfurt-on-Main and Kattowitz (Poland).
+C. T. S. (Woodwilde): No, Madrid (EAJ7), orchestral concert with choir and baritone solos.
+R. D. C. (Becontree): WGY (Schenectady).
+Rosie (Clowne): Govern.
+```

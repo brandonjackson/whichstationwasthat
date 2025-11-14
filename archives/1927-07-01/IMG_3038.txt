@@ -1,0 +1,18 @@
+```plaintext
+Uncertain (N.W. 8): No, not Berlin. This was Langenberg relaying concert from the Café Corso at Dortmund.
+J.A.P.R. (Moreton): Yes, Motala relaying orchestral concert from Stockholm.
+Eb-Ro (Exeter): (1) We do not understand the call; it would appear to be some telephony transmission to a steamer, but we cannot trace its origin; (2) It is impossible to identify a test; you do not say what calls you heard; presumably a British station testing.
+Valvular One (Caterham): If you are sure these announcements were in French, we regret we cannot trace a French transmission on that W.L.; Moscow broadcasts on 1,450 m., but the announcements are not made in French; Stamboul, on 1,180-1,200 m., uses both Turkish and French.
+R.F.G. (Bognor): Estimated wavelength should be given; details tally with transmission from Eiffel Tower, Paris on 2,650 m.
+Solodyne (Buckhurst Hill): Details tally with Sorö, which was probably relaying the orchestral concert from Copenhagen, although advertised to close earlier than the capital station; (2) Warsaw.
+Wireless Billy (Oldham): Stamboul, Turkey.
+W.N.W. (Manchester): Manchester late, although advertised to close down at 12.15 a.m., this was confirmed by other listeners; the programme was relayed by all the Swedish transmitters; (3) Yes, Falun, on 357 m., taking the same programme.
+Ajax (E. 8.): Shortwave transmitter of G.E.C. Schenectady U.S.A. Transatlantic telephony tests on short waves.
+Four Valve W. (Winchelsea): Basle, weather and news.
+Het. Eight (Hertford): Hanover, relay of concert of Café Continental in that city.
+S.W. 64: (1) Nuremberg; relay from Hotel Stadt Wien, Munich; (2) Very vague; possibly Hanover (news from Hamburg); (3) Probably Dortmund relaying dance music from Cologne; Innsbruck closed down early.
+W.W. (N.W. 10): Could not possibly be Dresden; possibly Falun, but not on a crystal receiver; writer has had the same experience on two occasions; interference was traced to induction noises from home.
+AAA-OOO-AAA (Weston-Super-Mare): own concert; (2) Dublin (The Loraine Dance Band).
+Screechy nob (Acomb): Your wavelength is wrong; this transmission tallies with Motala (now on 1,320 m.) relaying dance music from Stockholm.
+Keith (Liverpool): (1) Yes, Cork, relaying weather report and news from Dublin; (2) Rome (concert of light music); (3) Would tally with Hanover relaying concert from Café Wallhof, Hamburg; (4) No, probably Stockholm.
+```

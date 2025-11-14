@@ -1,0 +1,25 @@
+```plaintext
+Two Valves (Herne Bay): Kovno (Call: "Radio Lietuva Kaunas"). 
+H. Empson (Bradford): Frankfort-on-Main, relaying Berlin. 
+J. Wilkinson (Blyth): No estimated WL given; cannot trace. 
+Ranger: If your WL.s are correct, these are amateur transmissions. 
+Pip Pip (Northwood): Do not understand what you mean by a "semi-solo" song. Presumably, Breslau relaying Tannhäuser (Wagner) from Berlin. 
+Searcher (Rusholme): (1) Cannot trace, (2) Prague, relay of Smetana's Opera Dalibor from National Theatre, (3) Leipzig, relaying Tannhäuser (Wagner) from Berlin, (4) apparently Stuttgart, relaying Tannhäuser from Berlin, (5) Langenberg, relaying Dortmund, (6) Stockholm (Euripides), (7) Frederickstadt, relaying Oslo, (8) Frankfort-on-Main (news), (9) Berne (mandoline orchestra), (10) surely Brünin (11), Oslo, (12) Langenberg, The Barber of Seville, (13) Radio-Paris (interviews). 
+R. H. Bolderson (York): Langenberg (The Barber of Seville). 
+H. C. P. (Portsmouth): Can trace no transmission of this description on or about 385 m. 
+G. M. H. (Eastbourne): It was Hilversum. 
+D. X. Valve (Bradford): No, Kovno. Muenster is on 241.9 m, not above 345 m. 
+L. B. C. F. (Peterboro): Possibly Zurich, continuing programmes. 
+Duck: The bbsc. Hookknine was relayed from the Stiftskirche by Stuttgart and Freiburg. Cannot trace another relay of this transmission. 
+Best Wav (Four Valver): Leningrad (1,010 m.). 
+Hewerard 12: Warsaw. Celebration of the Anniversary of the Pope's accession. 
+Fellows 2 Valve (Tenby): (1) If French, Marseilles, but believe you will find this is Milan, (2) Stockholm, (3) Graz, relaying Vienna, (4) Prague, relay of opera: Dalibor (Smetana) from National Theatre, (5) Koenigsberg (Talk on Chess). 
+S. F. 11a: Tallies with Bergen on 370.4 m. 
+A. L. S. (Coventry): (1) Copenhagen (Pronounced- Kerpenhaven), (2) Leningrad (1,010 m.). 
+C. Whittle (Blackburn): Langenberg (The Barber of Seville). 
+Maid of Kent (Broadstairs): Believe this was Karlsborg, relaying Stockholm, and that programme had been reversed with concert first, and the classic drama with choir and music at 9 p.m. 
+Night Hawk: Cannot identify from your condenser readings, but time would tally with Hamburg Kalman's three-act operetta The Carnival Fairy. 
+P. Holt Taylor (Rochdale): Hamburg, first news bulletin (music in intervals). 
+3CF/13/SP (Wandsworth): (1) Too vague, cannot trace, (2) Stuttgart, relaying Berlin: Tannhäuser (Wagner), (3) Prague, relay from National Theatre of Dalibor (Smetana), (4) Hamburg The Carnival Fairy (Kalman), (5) Berlin. 
+Do not trace on that WL, (7) much too vague, possibly Rome.
+```
