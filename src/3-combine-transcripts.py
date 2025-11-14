@@ -422,11 +422,14 @@ def inputs_have_changed(folder_path: Path, output_file: Path) -> bool:
     output_mtime = output_file.stat().st_mtime
     
     # Get all snippet files (exclude output files)
+    # Also exclude the final output file (folder_name.txt) if it exists
+    final_output_name = f"{folder_path.name}.txt"
     snippet_files = [
         f for f in folder_path.glob("*.txt") 
         if f.name != output_file.name
         and f.name != "combine-pre-llm.txt"
         and f.name != "combine-report.txt"
+        and f.name != final_output_name
     ]
     
     if not snippet_files:
@@ -454,18 +457,38 @@ def process_one_folder(folder_path: Path, ignore_existing=False, force=False):
         
         # Default behavior: check if inputs have changed (unless --force is used)
         if not force and not ignore_existing:
-            # Check if we need to reprocess (either pre-llm or final output is missing/outdated)
-            needs_reprocess = False
+            # Only reprocess if outputs are missing or if inputs are newer than the oldest output
             if not output_file_pre_llm.exists() or not output_file_final.exists():
-                needs_reprocess = True
-            elif inputs_have_changed(folder_path, output_file_pre_llm):
-                needs_reprocess = True
-            elif inputs_have_changed(folder_path, output_file_final):
-                needs_reprocess = True
-            
-            if not needs_reprocess:
-                print(f"⏭️  {folder_path.name}: No changes detected, skipping")
-                return
+                # Missing outputs, need to reprocess
+                if not output_file_pre_llm.exists():
+                    print(f"🔄 {folder_path.name}: Missing combine-pre-llm.txt, will reprocess")
+                if not output_file_final.exists():
+                    print(f"🔄 {folder_path.name}: Missing {output_file_final.name}, will reprocess")
+                # Continue to processing
+            else:
+                # Both outputs exist - check if inputs are newer than the oldest output
+                pre_llm_mtime = output_file_pre_llm.stat().st_mtime
+                final_mtime = output_file_final.stat().st_mtime
+                oldest_output_mtime = min(pre_llm_mtime, final_mtime)
+                
+                # Check if any input snippet is newer than the oldest output
+                # Input files are OCR snippets (exclude known output files)
+                snippet_files = [
+                    f for f in folder_path.glob("*.txt") 
+                    if f.name != output_file_pre_llm.name
+                    and f.name != output_file_final.name
+                    and f.name != "combine-report.txt"
+                ]
+                
+                needs_reprocess = False
+                for snippet_file in snippet_files:
+                    if snippet_file.stat().st_mtime > oldest_output_mtime:
+                        needs_reprocess = True
+                        break
+                
+                if not needs_reprocess:
+                    print(f"⏭️  {folder_path.name}: No changes detected, skipping")
+                    return
 
         merged_text, cleaned_text, combine_report = combine_transcripts(folder_path)
         
@@ -510,8 +533,31 @@ def process_all_folders(base_dir: Path, max_workers=10, ignore_existing=False, f
     if not force and not ignore_existing:
         filtered_folders = []
         for folder in week_folders:
-            output_file = folder / "combine-pre-llm.txt"
-            if inputs_have_changed(folder, output_file):
+            output_file_pre_llm = folder / "combine-pre-llm.txt"
+            output_file_final = folder / f"{folder.name}.txt"
+            
+            # Check if there are any input snippet files to process
+            snippet_files = [
+                f for f in folder.glob("*.txt") 
+                if f.name != output_file_pre_llm.name
+                and f.name != output_file_final.name
+                and f.name != "combine-report.txt"
+            ]
+            
+            # Skip folders with no input files
+            if not snippet_files:
+                continue
+            
+            # Include folder if outputs are missing or if inputs are newer
+            needs_reprocess = False
+            if not output_file_pre_llm.exists() or not output_file_final.exists():
+                needs_reprocess = True
+            elif inputs_have_changed(folder, output_file_pre_llm):
+                needs_reprocess = True
+            elif inputs_have_changed(folder, output_file_final):
+                needs_reprocess = True
+            
+            if needs_reprocess:
                 filtered_folders.append(folder)
         
         week_folders = filtered_folders
