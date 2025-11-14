@@ -1,0 +1,251 @@
+WHEN the buzzer wavemeter has been con-  
+structed in the way described in the last  
+article, the next process is to calibrate it  
+in order that wavelength or frequency readings  
+may be obtainable.  
+In the last article, the method of calibrating was  
+mentioned briefly by adjusting the buzzer and  
+as coil. If you have any efficient friend who  
+uses a heterodyne wavemeter, this will aid you  
+greatly in setting the buzzer frequencies   on  
+the wavemeter. With a band switch designed so  
+that the buzzer circuit does not put an extra  
+load on the coil in the wave-meter, it will be  
+found that we can readily calibrate the wave-  
+meter coils. For this purpose it is necessary  
+to have established wavelength standards.   For  
+the middle of the broadcast. spectrum 400 to  
+500   metres, we    may   safely   take    Frank-  
+furt-on-Main, Stuttgart, Hanover, Dortmund, and  
+Prague   CO kV,   all of which give reliable  
+calibration points. It is always advisable to  
+check these stations for wavelength by direct  
+reference to the data issued from time to time  
+by the various Post Offices for broadcast stations  
+throughout the world. In Germany 385 metres  
+will be found to be a standard frequency for  
+local stations with 250 watts carrier power.   In  
+this case all that is usually necessary is to give  
+their nominal frequency and location. Look up  
+the stations giving these wavelengths, attach  
+your frame aerial to the wave-meter terminals,  
+and tune in any station on the meter with as  
+sharp tuning as possible. Place a 0.0003 mf  
+condenser in series between the headphone and  
+holder of the meter. Now set the buzzer Lor  
+400, with the condenser of the wavemeter right  
+across the frame aerial. Rock the pointer close  
+to the reading which the station is supposed to  
+give on the direct dial. This will probably be  
+A.T.I. Next, increase the reading of the wave-  
+meter condenser gradually—towards the higher  
+frequency part of the dial, on the out-. side,   up  
+to 1.5. After this point is passed, the station  
+will fade out gradually, although with strong  
+trouble it may still be audible over quite a large portion of  
+the condenser scale. Move the condenser farther  
+away from the frame aerial and use, say, between  
+the frame aerial and the A.T.I. This will lower the  
+effect of detuning; the number of scale divisions  
+over which the buzzer is audible will be greatly  
+reduced, probably the station will come in over  
+two or three divisions only, one of the divisions  
+which probably will be most loudly heard. Move the  
+wavemeter condenser forward and backward about  
+the position of nicely tuned station, as it were, by SP  
+employ a direct dial on the wave-meter condenser.  
+It will not be necessary to draw curves for the  
+first wave-meter described, because it is intended  
+that the wave-meter shall operate on harmonic  
+overtones of the buzzer. Consequently, the dial  
+directly giving wavelengths may be marked without  
+the aid of any formed correction curve, provided  
+that one does not rely on different shaped coils giving  
+exactly identical wavelengths for a given scale  
+reading. The author has made several coils on  
+a former approximately 3in. in diameter with  
+business tape, and the winding, with a layer of  
+tissue paper between the turns, gives coils which  
+are correct within two hundredths.  
+To a first approximation, no calibration of the  
+buzzer is necessary, but it is just necessary in  
+some few places to do some careful checking and  
+this must be done by unison beat method, the  
+old reliable.  
+In the case of the first wavemeter, the  
+Frequent be found that, with the earlier form of  
+will probably be in tune with the buzzer at  
+approximately A.T.2 and B.T.9. This will afford  
+places, if buzzers are being calibrated, and  
+will find places of harmonics and calibrating the  
+wavemeter proper, the instruction that is to say  
+which utilises a square-law condenser and gives  
+calibration in wavelengths. Now that O.U.S. is working,  
+a buzzer is no longer the simplex method of  
+calibration recommended. A fairly simple operation  
+here as a powerful station whose wavelength is  
+rather high in the B.C. broadcast range, namely  
+411 to 1,200 metres.  
+In the accompanying Fig. 5, a method is  
+illustrated by which any constructor may perform  
+quite a close-range calibration of the wavemeter  
+for 280, 300 and 330. The dotted line shows a  
+curve obtainedfrom pulsating from 944 metres  
+412, for an 0.000085 mf condenser of eiatactly the full face of the wavemeter dial and shows the calibration  
+of the wavemeter condenser direct in wavelength.  
+Place the initial mark of the condenser dial  
+over, say, wavelength position 94, for 0.000085 mf  
+and adjust the wavemeter condenser until O.U.S.  
+is in sharp tune. Allow the wave-meter to run  
+on stably, E(A), and wave-meter 0.000085 mf  
+in the proper position, the mark the excited  
+Fie. 5.  
+CALIBRATION WAVE-LENGTHS  
+WITH SQUARE LAW CONDENSER  
+
+divisions. Along the bottom ordinate the  
+horizontal scale of the tuning knob mark the  
+wavemeter dial. The author has found, as shown  
+in the following way, that a point along 0  
+corresponding to reading 1.0 gives a reading  
+of 280 metres, reading 1.5 on the outer dial, about  
+300 metres, and 2.14 for 330.  
+Now attempt to verify this by another  
+method. Remove all effects of the tuning  
+frame aerial as in Fig. 7, and see if Prague,  
+or 435 degrees roughly on the scale, gives exactly  
+400 whose tuning point should be at about  
+and for Stuttgart 340 on the scale. Place  
+the station’s middle wave-length on the wavemeter’s  
+S/L condenser dial and attempt to see if  
+the wavemeter will respond to such slight amount  
+of tuning. The stronger the signal, the more the  
+station will perform along this curve over a greater  
+vertical distance, representing 300 to  
+400 on direct dial with condensers L2.  
+It is only a question of allowing a little  
+swerving and correcting for this.  
+Let us take the above data obtained  
+by the author and later corrected on Fig.  
+5. The dotted line from the top left-  
+hand corner gives a calibration curve  
+for the entire scale of dial and takes  
+us downwards for some distance. If  
+you need to calibrate the broadcast wave-  
+meter most carefully, you would have  
+to draw a curve such as indicated  
+and get the intermediate values between  
+the calibrations described. Obtain-  
+ing, for instance, a clear 260, 280, 300,  
+320, 340, 360 and 380 by making use of  
+the following stations, Dortmund  
+385, Prague 435 and Stuttgart 340, and  
+Frankfurt-on-Main 472 and 510 metres.  
+Under these conditions, the wavemeter  
+is then a fairly reliable wavelength meter for  
+broadcast stations only as at present con-  
+structed.  
+The author suggests that it is unneces-  
+sary to go to this trouble except in one case.  
+The one station where really accurate calibration  
+will be extremely important will be Strasbourg.  
+Here, it will be possible, though, that certain  
+stations may have more than one assigned wave-  
+length, one for rhythmic work, another for  
+speech. In such a case, the wavemeter will  
+prove exceptionally valuable and convenient  
+for the listening-in fraternity, who can also  
+find the presence of certain stations of short  
+wave length working probably to other countries.  
+The wavemeter will help you to find them, e.g.,  
+for example, you wish to tune in Frankfurt on  
+472.5 metres. A reference to the chart will show at  
+once it is only likely to be the one station which  
+is marked at about 740 and the next day  
+it is tuned into on the wavemeter it must be told with  
+fairly near accuracy. When you receive  
+many readers whose phone results have been  
+very puzzling owing to the difficulty of exactly  
+knowing which station is so to speak in tune  
+when they get very close to the center of the  
+band. Now the one station in the two power  
+groups tuning station in Europe for rhythmic  
+telephony purposes within 450 to 550  
+metres band will be much used. There will  
+again, be little doubt of the result when it is  
+noticed that Dortmund is more easy to get  
+on the pseudo first channel when tuning to  
+Stuttgart. The question of systematic calibration  
+of your dial will probably be of greater im-  
+portance. Most listeners using non-calibrated  
+oscillation valves will gradually learn their  
+way about the dial like the hands of a  
+clock, at least with quite limited values. Thus,  
+we read 2/16, 4/16, etc. Now suppose you  
+wish to have Dortmund in 385 and Stuttgart  
+from 385 to 340 metres as close range, and  
+Prague between 430 and 440. The graphic  
+calibration curve shows what wavelengths cor-  
+respond to those between 2.30 and 3.0. Prague has  
+to be re-set, let us say at 2.9, Stuttgart at 3.0,  
+and Dortmund at 2.3, then it is wise to use  
+rhythmic two high-power stations for your first  
+systematic calibration. Find other stations by  
+interpolation, or take France, Tour Eiffel,  
+wave-length 2.7 and 2.8, corresponding to  
+Lyons, or more or less long wave, as the case may be.  
+This again will lead the broadcast listener to  
+enable him to explore the wave band for him-  
+self. There are some readers who constantly  
+complain of not making any first-class results  
+during the last few months. The answer is  
+that they are one, two or three channels off  
+the proper place.  
+With the help of the wavemeter, you can find  
+out this defect in your receiving apparatus  
+for yourself and, after studying the calibration  
+charts, you will be able to indicate on the  
+card of logging and make a note which show the  
+result.  
+Here is a very simple method of system-  
+atic logging. It may be used if you have  
+all the data of the Central Radio Bureau  
+book contains of the sets listed in the following  
+table, which are of considerable interest :—  
+below 270 metres, 25 m. 7 a.m. to 9 a.m.;  
+250 m. 9 a.m. to 11 a.m.; 300 m. 11 a.m. to 1 p.m.;  
+350 m. 1 p.m. to 3 p.m.; 400 m. 3 p.m. to 6 p.m.;  
+500 m. 6 p.m. to 8 p.m.; 600 m. 8 p.m. to 10 p.m.;  
+1,000 m. 10 p.m. to 12 p.m.; 1,500 m. to 2 a.m.  
+and 2,000 and 3,000.  
+These sets, to the knowledge of the author, are  
+not yet in use, but when used they will be found  
+as useful as any good frequency meter.  
+For the case of an ordinary broadcast receiver,  
+however, the charts developed will show very fairly  
+accurately what the tuning dial reading cor-  
+responds to in wavelength and what broadcasting  
+stations are liable to be operating in this band  
+at the time of transmission. This will help very  
+greatly in systematic logging and prevent the  
+inaccurate logging of stations which constantly  
+are the reason for readers writing in to say that  
+a certain station is a “ mystery station.”  
+With the help of this broadcast wavemeter,  
+we can change this “mystery station” into a  
+perfectly well ascertained one, and by aid of  
+the graphic calibration and by the use of the  
+calibration of the frequency meter. A practical  
+example is here shown of the use of the Hercules  
+receiver described in another article.  
+Suppose we wish to know where the stations  
+between 275 and 350 metres. The  
+are working with  
+date is made up in the case of Hartlepools.  
+These stations (Frankfurt and Cologne)  
+have to be located. They are plugged for  
+435 and 345 metres. We know the Hercules  
+dial from 0 to 60. It will now be possible  
+to work out a graphic calibration curve for  
+the dial which shows a comparatively straight line  
+(Continued on Page 585.)

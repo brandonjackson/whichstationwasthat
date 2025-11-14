@@ -1,13 +1,26 @@
-WORLD-RADIO Station Identification Panel
-(No. 58.)
-SEVILLE (Spain), EAJ5.
-Wavelength: 357 m. (400 m.). Power: 1 kw.
-Approximate distance from London: 1,030 miles.
-Call: “Atención! Atención! Aqui Estación Radio Club Sevillano (EAJ5) [Eh Ah Hota Thinko].”
-No interval signal.
-Lady announcer at times.
-Copyright.Berne.
-On the first Monday of every month Berne station is broadcasting a special evening concert commencing at 10.30 p.m. (G.M.T.). This is an excellent tidy-up programme for listeners who are not sure they pick up Radio Berne while their local station is operating.New Alternative Postal Service.
+Foreign Language Competition.
+Correspondence.
+Daventry and Foreign Programmes.
+WORLD-RADIO
+Station Identification Panel
+BILBAO (Spain), EAJ 9.
+No. 57.
+Wavelength: 436 m. (434·8 m.). Power:
+1 kw.
+Approximate distance from London:
+570 miles.
+Call: “Atención! Esta es la Estación
+Union Radio de Vizcaya, Emisora
+Radio Carlton.”
+No interval signal, but abbreviated call
+repeated between items.
+On some evenings relays transmissions
+from Madrid (EAJ7).
+Closes down with: “Buenas noches a
+todos” (“Good-night, everybody”),
+followed by a few bars of the
+Spanish National Anthem.
+Copyright.Berne.New Alternative Postal Service.
 Wireless in Germany.
 Comparative Diagrams.
 WORLD-RADIO
@@ -51,7 +64,7 @@ Of course, one of the most potent factors militating against the perfect recepti
 The theory is that the waves leaving the station do not travel wholly parallel to the ground, but go upwards at an angle as well. There is supposed to be a “layer” of free electrons some 600 miles up in the earth’s surface. This layer forms a mirror for the waves and reflects them down again. At certain distances the reflected ray starts interfering with the direct. At greater distances only the indirect ray exists. The listener relying only upon the indirect ray or even a mixture of direct and indirect, as it is the mirror has original strength and upon the reflecting power of the mirror. This varies from time to time, and so “fading” sets in. During daylight the mirror becomes, as it were, extremely tarnished and the reflected ray is weak; at night the mirror is bright, but sometimes dim; hence signals in the daytime, strong, but variable, signals at night.
 It is difficult to see how to overcome this trouble unless it be that the receiver is sensitive enough to receive even the weakest reflected ray, which automatically, i.e., with increase in sensitivity—when the signal originally got stronger. Even then reflection introduces some distortion.
 To sum up, distant listening has to be undertaken with a knowledge that, in the present state of our knowledge, it will never be perfect, and that if we cannot get rid of uniform strength, powerful enough to overcome all disturbance, can exist only within the service area of the station. Power at the station and the use of long waves reduces disturbances.
-Those who want good results in the summer should concentrate more upon the high power and long wave stations.DX Work Through the Summer. Fading apart, signal strength has been generally very good indeed. I can see as yet no signs whatever of any marked waning, and I believe that the improved receiving sets of to-day, in conjunction with the higher power of many Continental stations, will enable DX work to be carried on uninterruptedly right through the summer. My own experience last summer was that I was able to log practically the same number of stations as during the darker months, but that in most cases signal strength was less. To my mind summer long-distance work is particularly interesting for, though during the winter it is easy enough for almost anyone to bring in a considerable number of stations, summer conditions are the real test of the efficiency of the apparatus and of the skill of the operator.
+Those who want good results in the summer should concentrate more upon the high power and long wave stations.DX Work Through the Summer. Fading apart, signal strength has been generally very good indeed. I can see as yet no signs whatever of any marked waning, and I believe that the improved receiving sets of to-day, in conjunction with the higher power of many Continental stations, will enable DX work to be carried on uninterruptedly right through the summer. My own experience last summer was that I was able to log practically the same number of stations as during the darker months, but that in most cases signal strength was less. To my mind summer long-distance work is particularly interesting, for, though during the winter it is easy enough for almost anyone to bring in a considerable number of stations, summer conditions are the real test of the efficiency of the apparatus and of the skill of the operator.
 The star stations at the present time are many. Not to mention the German giants, which may be regarded as “fixed stars,” Brussels, Oslo, and Rome have been coming through particularly well. I have had good reception from Gothenburg and have logged both Porsgrund and Falun. Toulouse has suffered more than once from heterodyne interference, but two other French stations, Paris PTT and Petit Parisien, have been at the top of their form. Prague, too, is extraordinarily strong just now, and I have had good reception from Milan, Bruenn, and Munich.Wireless Step by Step—II.
 The Situation in South Africa.
 Foreign Intelligence.
@@ -223,7 +236,18 @@ Call (in Turkish): Allo! Telsiz-telegrafie Istamboul; in French: Ici, Radiophoni
 No interval signal.
 Closes down with a few bars of Turkish National Anthem and final “Goodnight” in Turkish, French, German and English.
 (Copyright.)
-Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.should not be tried by the inexperienced fingers, as it is unwatchable in the extreme.Continental ...  
+Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.XI.—Reaching Out.
+I have before this indicated that "reaching out" for the sake of "getting" a station further away than anyone else has ever "got" one appears to me to be a sport of a kind having little bearing upon the art of broadcasting. I am the last to deny that it may be amusing and, like fishing, or maximum—even average—speeds on the road, a sport that cultivates the imagination to luxuriant growths. Liberty to do this "radio fishing" is in everyone's keeping, nor dare I have the impertinence to air any view that may clash with others so long as the radio fishers do not disturb the water for those who wish a tranquil enjoyment of what must be regarded as common property—the ether and space.
+If you are a fisher, who dips in the stream and are as pleased to hook a rusty tin can as a trout, or if a weed is as attractive as a hard-fought salmon, at any rate go about your hobby so that your tin cans not splash so heavily as to disturb others who wish tranquilly to fish for one kind, and that kind in season.
+The apparatus for fishing indiscriminately or with set purpose is, or ought to be, of great interest. I will give what, in the public interest, ought to be a fundamental principle underlying the design of all high-frequency short-wave sets.
+The high frequency is the trouble, because all should be made so stable as to prevent any possibility of re-radiating by energising the aerial. The set should, in fact, be incapable of oscillating. It is unfortunate, but true, that this means both knowledge and expense, but in the public interest both qualities should be applied; the searcher-out should not economise at the expense of others. A loud-speaker, a motor car where one just does, a good aerial where an indoor one has sufficed, a better earth where gas mains have done service—all these things help.
+The whole difficulties in the fact that instability nearly always arises in tuned circuits arranged in cascade, and this instability varies with tuning. The ordinary condenser attempts to cancel variable capacity effects, but unless properly applied it can introduce other stray effects which are as dangerous as those introduced with a straight-hard way.
+I cannot sit down here and write out a perfect job of building up simply that is the stages. At present the basic circuit with two high frequency stages of amplification is a joy for the expert, and the mechanics who rush in copying diagrams and diagrams rather than for what they are, will quite ruin the "game" for the public, and in the end little of that in it. It is a job for the expert.
+In America, where reaching out has its greatest vogue, there is probably less oscillation than in Britain, where 10 per cent. of masts. I should say, concentrate upon their local station. This the old way of home making by amateurs has given way to purchase from manufacturers, and manufacturers in their turn have realised that oscillation kills the goose that lays the golden eggs. I do not mean by this to despise or to sneer at amateurs or home constructors. I should feel no slight if the designer of a famous camera discouraged me in a friendly way from trying to make one no better and even for less money than that which I could buy. I am no expert in all sorts of lines. I could not make a gramophone or a motor cycle, or a perambulator. Why, then, should I expect others to be able to make a satisfactory high-frequency radio set?
+I should not wish to be so discouraging if I could feel that the inevitable blunders did not react (that, by Jove! is the word) only upon the user, but unfortunately, his blunders react upon his friends and vexes in a circle of miles radius around him, just as if the home made camera distorted the features of those whose faces were in front of it or the motor cycle ran away and killed pedestrians, or the gramophone made the neighbourhood hideous with squawks and sizzling.
+Of the types of set one can argue for ever, and the man writing cannot be too careful if he is in trouble with the makers of the rival set.
+The tendency to use cold valves and gang control will often result in bad, how should perhaps be the wish of many a control. The experimenter, as the amateur, wants to boast, further in the interests of analysis, rather than to broadcast, where after all his essential aim should be to push out the sound into his local audience into the aerial. Such is the habitual and almost inevitable.
+The conclusion is this. Choice of apparatus, if properly designed, may interfere with the true artistry of the broadcast; it is a matter for the expert. Do not let enthusiasm run riot from the capacity but even then this will be, as you will have saved up and purchase an adequate one do not let desires blind you to the fact.Continental ...  
 Wireless Step by Step.  
 Hungary.  
 (Photographs.)  
@@ -310,7 +334,49 @@ Call: “Unione Radiofonica Italiana, Roma, Uno air-o (1 RO).”
 Closes down with: “Unione Radiofonica Italiana, Radio Roma. Fine della transmissione,” followed by the Italian National Anthem, “Marcia Reale,” and the words “Buono notte a tutti” (good-night, everybody).
 (Copyright.)
 Letters should be addressed to The Editor, “WORLD-RADIO,” Savoy Hill, Strand, London, W.C.
-RATES OF SUBSCRIPTION to “World-Radio” (including postage): Twelve Months (inland and Foreign) 13s. Address Subscriptions Dept., “World-Radio,” 8-11, Southampton Street, Strand, London, W.C.2.Jazz to the Rescue!So much is said and written about the importance of the aerial in long-distance reception that the part played by the earth connexion is apt not to be fully realised; yet, as we shall see, the quality of the earth has very great effect upon results, and success in picking up 17 or 18 distant transmissions depends upon it to a small extent.  
+RATES OF SUBSCRIPTION to “World-Radio” (including postage): Twelve Months (inland and Foreign) 13s. Address Subscriptions Dept., “World-Radio,” 8-11, Southampton Street, Strand, London, W.C.2.Jazz to the Rescue!  
+By CHARLES HODSON.  
+IT was evening when I arrived at one of those quaint, out-of-the-way villages on the coast of Holland where the land and the sea all seem to be mixed up together. The village inn, a scrupulously clean and comfortable hostelry, was the only building of any size that the place possessed. It stood on the quay, a small, cobble-stoned wharf, round about which the village itself stood in friendly fashion around the little inlet. The view from the dining-room looked over a flat expanse of pasture-land, intersected with numerous creeks and inlets. While I ate my supper mine host, a portly mynheer of middle age, entertained me and took occasion to mention an experiment, which he had in mind for his private wireless reception, and for which he had secured my co-operation. Occupying a prominent position over the window, for all to see, was a loudly ticking Studio Clock.  
+   Breakfast was served shortly after my bed-room door had been knocked upon and the friendly “ Good Morgen ” announced. The wind had veered into the east and the air was sharp and frosty. The dining-room overlooked the quay, which was still deserted, and the tide still high. The wall round the quay was hidden by the side of the boat, over which one could see the masts and sails gracefully careening as the boat rose and fell with the waves. The lower masts were in actual contact with the roofs of the houses opposite. There was movement and activity everywhere—even in the church tower. There the pendulum of the clock which occupies an important position in the tower was visible from the dining-room.  
+   As I sat at breakfast quite at my leisure I watched the figures on the quay below, while they removed from the boats the huge conical nets, and spread them out upon the quay. There were many boats in the small harbour, neatly arranged in most decorative fashion round the quay. The village lay grouped around in intimate fashion. Here were the narrow streets with the dark passage ways between the houses. Space was so restricted that here and there one or two boats had to be moored against the front doors of the houses themselves.  
+   Activity increased with the daylight. A boat cleared her moorings and began to leave the harbour. Even this was a matter of some difficulty in view of the narrow confines of the harbour and the strong head wind that came screaming down from the inland country. There were other boats with less importance, but all going about their heaving and pitching duties with vigour, while their sails flapped to the accompaniment of a continuous creaking of ropes.  
+   The wind grew in velocity and gradually the white horses appeared around the opening of the harbour. The sea took on a threatening appearance and the smacks rocked and swayed at the quay; heavy waves broke over the top of the quay wall, sending up showers of spray, while in the distance the roar of the breakers assailed the ear. The sky too, was darkening. The scene was unusually vivid and dramatic.  
+   Inside my small, comfortable room the clocks were ticking with the cheerful assurance characteristic of Studio Clocks. Mynheer’s own clock was ticking on the mantelpiece, while I myself set my watch by the Studio Clock which, in accordance with my host’s practice, was run ten minutes fast.  
+   Mynheer came up to consult me about his wireless reception. It seemed that one of his old clients had told him of a wonderful relay of dance music that he had received from a well-known Continental broadcasting station, with perfect clearness. Mynheer was not disposed to believe the story, but at the same time he was determined to get as clear a reception as possible for that evening, at any rate.  
+   On the table where our experiment had been planned to take place was a fairly large three-valve receiver of modern design. It stood mellow and alluring in its polished mahogany cabinet on slender, tapering legs. I listened with some interest to Mynheer’s description of his previous attempts at reception and soon found that we had common ground on which to discuss the matter.  
+   The hours passed and at length I descended to the dining-room for the midday maaltijd. An appetizing fragrance floated in my nostrils as I went, and I found Mynheer, in spotless apron, busily engaged on the final stages of its preparation. The midday meal was excellent, as was to be expected, and dessert was emphasised by a slight clink and rattle, as of metal instruments in the kitchen. This was followed by the arrival of the coffee upon the well-shining table. Presently, there was a sound which, at first, I hardly realised could be the trumpet of a gramophone. It reached us faintly across the water, a dim echo of real music. This gramophone was on a tramp steamer at anchor in the harbour. Each time that the sound of the trumpet reached us, the ship came into view above the tops of the houses opposite the quay as she rose and fell with the tide. There was a queer unreality about the effect, in the quiet sunshine.  
+   We sat and sipped our coffee, and gradually I began to become drowsy in the warm, pleasant room. The clock on the mantelpiece was ticking in reassuring fashion, and in my dreamy state I watched the sunlight quiver in the candles and slowly glide across the wall and reflect on the polished woodwork and gleaming cutlery.  
+   It was while I was drinking in the soothing atmosphere of this scene that suddenly the air was rent by a terrible noise. It came from a part of the quay that was invisible from where I was sitting. It crashed in upon the senses like a tornado. A dozen concertinas, each one playing a different tune, is the only comparison I can make. Nothing that I have ever heard quite equalled this, for the cacophony seemed to dive and slash and stab. I felt I could not rest until I had discovered where it came from. Accordingly I got up to explore.  
+   As I crossed the quay there was a clear impression of something more than the usual stir on the wharf. The row of houses facing the little harbour seemed, for all the world, to be alive with excitement and emotion. Approaching the nearest door I dashed up the steps and entered a large room, where I saw in front of me two musicians who were holding the Dutch peasants captive. They were literally “ held in captive audience ”, for even had they wished to they could not have escaped. Two old men were turning a large handle attached to the concertina, which in this case was of the familiar street barrel-organ type, mounted on a special mounting. Neither could have been less than eighty years of age. They were both bent and ancient, but there was a certain virility about the way in which they sawingly manipulated this terrible engine that amazed me. The sound produced was something wholly without parallel in the history of music; one might describe it as hideous beyond all experience. The ancients themselves in their wildest holidays could never have produced such a sound.  
+   I stood spellbound. Compared with the scene in the cottage, that of the storm outside was dear and straightforward. How, I wondered, could people stand this? I passed from house to house and everywhere found that identical type of concertina at work. There was no room for variety in a quay of this type, where most of the houses were of similar build. The doors were all open and all ears were being assaulted by this nerve-racking sound.  
+   I made my way back to the inn. The inn-keeper and his wife and the family were already at the windows and in the doors, watching with awestruck faces the way in which the whole village had been captured by this terrific sound that came muffled through doors and walls.  
+   It was impossible to find means of escaping the sound. The whole village was dominated by the relentless sound and the villagers, poor people, were the prisoners of music that was nothing more or less than a gigantic nuisance. There was no freezing it off and no thawing it away. There appeared to be no means of resistance.  
+   We watched the terrible scene for some time and then, with a feeling almost of relief, turned away to the room where stood the radio set. I suggested that it might help to relieve the situation if we tuned gently in to one of the principal Continental stations. Mynheer agreed readily and, with hands that trembled ever so slightly with excitement, proceeded to tune in.  
+   As I stood there in that little room I felt that something must happen. The fate of the village seemed to depend upon the success or failure of for once modern wireless against primitive music. The contest was unequal, for while the primitive music was being produced by a long row of organs—there were not less than ten of them in the village—the little wireless set possessed three valves only. It seemed that only by some stroke of luck could the machine prevail against this barrage.  
+   Mynheer’s face was drawn with anxiety as he manipulated the knobs. The moment was dramatic. Something told me this was going to be one of those unforgettable moments in life that one cannot possibly live down or forget.  
+   I watched anxiously the Studio Clock. The moment drew near. The soothing hum of the set was the only sound in the room. Outside, in the distance, could be heard the cacophonous roar of music. There was something ominous, terrifying, in the effect. Only one thing could possibly be worse than all this music and that would be silence.  
+   I noticed that the pointers on the clock were getting nearer to the hour for which we had fixed the experiment.  
+   Suddenly, as we listened, there was a peculiar change in the sound of the organs. There was a curious alteration in the general tone, and I felt as one might feel who hears a wild beast give an unusual sound during an orgy of fury. I noticed that Mynheer too had heard this subtle change.  
+   “ They’re getting nearer,” he said. “ Wherever they’ve been they’re trying to carry their terrifying music even more effectively to the villagers. My God! it’s awful. What can we do? “  
+   “ Don’t worry,” I answered. “ You’ve still ten minutes yet. It may pass off.”  
+   We stood in the little wireless room, listening to the storm of music from the organs, which continued at regular intervals. It rose and fell like the waves, and at every period became more terrible and insistent. “ I can’t bear it,” said Mynheer. “ Surely something will happen soon.”  
+   The organ-grinders made their way slowly round to the front of the inn, which faced the harbour. The boats on the quay rocked and surged with the tide; those anchored in the harbour pitched and tossed in the choppy waves.  
+   Mynheer’s hands trembled considerably as he kept his eye fixed on the Studio Clock. The sound of the organ was approaching nearer; the whole place reeked with its battering music. It was appalling. The boats moved with renewed vigour, the white horses danced across the harbour, silent and yet charged with the feeling of power and menace.  
+   I peered over the window-sill and saw the organ-grinders hanging on to their instruments in an effort to keep them steady in the face of the storm. Here, indeed, was high drama.  
+   The sailors were watching the spectacle, and even the skippers who had an interest in it, since of course they had hired the organ-grinders and were paying for the services of the terrible instrument, seemed a little uneasy at the ferocity of the spectacle.  
+   I drew in my head from the window and sat down again in the little room. Mynheer made a final, tremulous adjustment of the telephone. The silence of the room was intense. There was a feeling in the atmosphere as of charged electricity.  
+   Down went the cranks amid the flapping of the sails, and suddenly a roar of sound burst through the house that could be heard even in that room.  
+   “ It’s only a question of seconds,” muttered Mynheer, moistening his lips. It seemed as if this terrible battering of the drums of one’s ears must last for ever. The dancing figures against the glare, with the discordant accompaniment thrown in, made it seem like some scene in the Inferno.  
+   The organ roared in from the storm. The waves rose higher, the boats rose with them, and the wind howled around the house in a way that made us feel that we were surely living through some nightmare.  
+   And then it happened. Just as the organ burst into its loudest efforts, Mynheer gave a sudden twist to the knob of the wireless set. He had timed his effort so splendidly that at the exact moment when a full crash of terror threatened to overwhelm us, there came suddenly from the little wireless set an unexpected and wonderful sound. It rose above the tumult like the voice of a friendly giant. I recognised it instantly as the sound of jazz music.  
+   Then, on that roar of sound as on a rich opiate, the tension began to relax. I felt myself sinking into a soothing and even refreshing sensation. I realised almost with a sense of wonder that the wireless had conquered the barrel-organ. I looked at Mynheer and saw that his face, too, was lighted up with the same realisation.  
+   The wireless jazz music rose, grew stronger, and then sank, only to rise again in a tremendous swirl of harmony. The organ was absolutely drowned. Strain and stress, fear and horror fled before the repeated phrases of the dance music, which irresistibly beat their way into the nervous systems of the villagers as upon those of ourselves.  
+   The organ-grinders, thoroughly nonplussed with their weak, unavailing organ music, grew exhausted and perplexed. In about fifteen minutes they gradually ceased their efforts, and finally they went away altogether.  
+   Mynheer and I enjoyed intensely the further developments of the contest. To see the wireless jazz grow more and more masterful till it finally conquered every sound in that little town was, indeed, a memorable experience. To transmit such music into such a scene cost little more than the switching on of a valve and the turning of a knob. Yet what it produced was beyond computation. The waves outside slowly subsided, the boats took on a more peaceful motion.  
+   “ Another pair of organ-grinders,” said Mynheer, “ easily beaten by a wireless jazz tune. People now realise that our little town can find amusement and entertainments somewhere other than in the hurricane of a street organ.”  
+   “ Yes,” I replied, “ but we must not overlook the fact that it is jazz that has saved the situation.”  
+   “ We will not overlook it,” murmured Mynheer, with conviction.  
+   I saw the hour hand on the dial of the Studio Clock creeping slowly towards the time for the next relay of the dance music. The boats rocked gently as the tide rose and fell; the sound of the wireless jazz penetrated far and wide into every part of the village. The tiny town seemed to have undergone a rapid transformation. The gentle ticking of the wireless Studio Clock suddenly took on an added significance in my mind. It seemed that something wonderful had happened in that half-hour of jazz. True, the boatmen and the organ-grinders had departed into the distance, but a new and original kind of entertainment had taken their place. It was a moment of satisfaction in the life of the village—a moment when a latter-day miracle had been performed and a new kind of happiness had been brought about by wireless.So much is said and written about the importance of the aerial in long-distance reception that the part played by the earth connexion is apt not to be fully realised; yet, as we shall see, the quality of the earth has very great effect upon results, and success in picking up 17 or 18 distant transmissions depends upon it to a small extent.  
 Many listeners who at present consider certain stations, which produce for them only feeble results or work sometimes and either with really excellent earth, place them again on their list. They will find that the bad work described, which was first tried, and then was found to be per- which was known to be capable of giving first-rate results. In expressing an opinion about any un- heard of station, it is no use first of all having a poor and bad receiving conditions with poor receiving and being almost hopeless for long-distance work. A piece of wire, fixed to the nearest water-pipe, which has been using a natural earth via the armoured lead water-  
 In the second case I not so poor with a fairly good light.  
 To make quite sure that no mistakes about that connection was nothing, probably I have two arms, etc. and I asked the neighbours receiving about the earth works with first-rate results. Yet I found, as anyone with real radio will do, that for long-istance work such a connection was purest probably useless. In most cases there were no signals in respect of its connection that it now that when several distant stations were still quite strong. I found that if I grounded with the same works that were done in the case of the natural earth which were employed, so well, once taken out, are relatively, out of action, then restore the usual receiving conditions.  
@@ -342,8 +408,22 @@ Approximate Distance from London: 180 miles.
 Opening Call: “Allo! hier de Zakelijke Omroep te Scheveningen-Haven.”
 Male announcer. No musical broadcasts, but transmissions of commercial intelligence, Stock-Exchange and other quotations.
 Throughout day at various times from 6.55 a.m. G.M.T. When news is given the bulletin is usually preceded by the call: “Hier Persbureau Vaz Dias te Amsterdam” (the name of the agency responsible for the transmission).
-(Copyright.)100 Stations Identified. Sir,—Just lately in the course of a few nights’ run over the stations between 187.5 and 2,650 metres, I have succeeded in listening to and identifying no less than 100. This seems a good proportion out of the list you give week by week, and as so many stations are on a common wave, and there is hopeless jamming at a number of other places, the total is, perhaps, not bad for a 3-valve set. It would certainly seem that, situated as we are here, about 10 miles from the east coast, we are not unfavourably placed for receiving Continental stations, allowing for the scourge of morse. Apart from 5XX, 5GB, and 2LO, the most satisfactory and dependable loud-speaker stations seem to me to be the Germans, which it is almost always a pleasure to listen to. Other stars of the firmament are, however: Malmo, Milan, Dublin, Prague (when not interfered with), Madrid (EAJ7), Toulouse (Rad. du Midi), Glasgow, Bruenn, Rome, Aberdeen, Brussels, Rosenhügel, Zürich (when it can be heard between the morse), Hilversum, Warsaw, Kalundborg, Motala, Moscow (RAI), Radio Paris, Kosice, and Eiffel Tower. The French stations, considering their generally small power, are often comparatively strong, and the same remark applies to the low-power Swedish relays late at night. The way in which some stations situated on a common wave sort themselves out above the noise is very interesting. If any of our German friends happen to be members of a happy little group of half-a-dozen stations-on the same wave, one may be sure that they, at any rate, will not be the ones to take the wall. Cork, however, is a pushing young person; he sorts himself out from the six other stations on 400 metres, and although fading lamentably is quite of respectable volume at times.—Yours faithfully, E. T. GOLDSMITH, 20, Fair Close Road, Beccles, Suffolk. October 9.Dying Child’s Life Saved by Radio.
-The radio bedtime story is credited in Seattle (U.S.A.) with saving the life of a little listener, and as the story comes from a physician, it carries some weight. It was the doctor’s own five-year-old son whose life was saved when his father’s skill failed. Ever since he was two years old, young George Lawson had flattened his ears under headphones, scorning the loud-speaker. His father, Dr. G. G. Lawson, was a radio “fan” himself, but sometimes grew impatient when George Junior monopolised the ’phones. A few weeks ago George Junior went down with pneumonia. He weakened rapidly and nothing his father could do seemed to help. The child lost all interest in life. Seeking a way to revive his interest—his last chance—Dr. Lawson telephoned broadcasting station KOMO and told them the circumstances. Then, early in the evening, he slipped the headphones on the unconscious boy’s ears and waited. Down at KOMO a special programme for the dying youngster was broadcast. Up at the sick room no result was apparent until the boys in the studio broke into the child’s favourite song. Then he revived a little. Finally, they promised him a big surprise for the next evening. That did the trick. George Junior was so anxious to hear that “surprise” that he forgot to die; his interest in life came back. Each night, for a week, the broadcasters, ignoring everything else, worked to keep the spark of life alive in the boy’s breast. They won. George is back on his feet to-day—and his father says that the radio, not medical skill, saved his life.Distance—with the convenience of simplified controlRadio Barcelona, EAJ1.
+(Copyright.)E. T. Goldsmith (20, Fair Close Road, Beccles, Suffolk): Sir,—Just lately in the course of a few nights’ run over the stations between 187.5 and 2,650 metres, I have succeeded in listening to and identifying no less than 100. This seems a good proportion out of the list you give week by week, and as so many stations are on a common wave, and there is hopeless jamming at a number of other places, the total is, perhaps, not bad for a 3-valve set. It would certainly seem that, situated as we are here, about 10 miles from the east coast, we are not unfavourably placed for receiving Continental stations, allowing for the scourge of morse. Apart from 5XX, 5GB, and 2LO, the most satisfactory and dependable loud-speaker stations seem to me to be the Germans, which it is almost always a pleasure to listen to. Other stars of the firmament are, however: Malmo, Milan, Dublin, Prague (when not interfered with), Madrid (EAJ7), Toulouse (Rad. du Midi), Glasgow, Bruenn, Rome, Aberdeen, Brussels, Rosenhügel, Zürich (when it can be heard between the morse), Hilversum, Warsaw, Kalundborg, Motala, Moscow (RAI), Radio Paris, Kosice, and Eiffel Tower. The French stations, considering their generally small power, are often comparatively strong, and the same remark applies to the low-power Swedish relays late at night. The way in which some stations situated on a common wave sort themselves out above the noise is very interesting. If any of our German friends happen to be members of a happy little group of half-a-dozen stations on the same wave, one may be sure that they, at any rate, will not be the ones to take the wall. Cork, however, is a pushing young person; he sorts himself out from the six other stations on 400 metres, and although fading lamentably is quite of respectable volume at times.—Yours faithfully, October 9.Dying Child’s Life Saved by Radio.
+The radio bedtime story is credited in Seattle (U.S.A.) with saving the life of a little listener, and as the story comes from a physician, it carries some weight. It was the doctor’s own five-year-old son whose life was saved when his father’s skill failed. Ever since he was two years old, young George Lawson had flattened his ears under headphones, scorning the loud-speaker. His father, Dr. G. G. Lawson, was a radio “fan” himself, but sometimes grew impatient when George Junior monopolised the ’phones. A few weeks ago George Junior went down with pneumonia. He weakened rapidly and nothing his father could do seemed to help. The child lost all interest in life. Seeking a way to revive his interest—his last chance—Dr. Lawson telephoned broadcasting station KOMO and told them the circumstances. Then, early in the evening, he slipped the headphones on the unconscious boy’s ears and waited. Down at KOMO a special programme for the dying youngster was broadcast. Up at the sick room no result was apparent until the boys in the studio broke into the child’s favourite song. Then he revived a little. Finally, they promised him a big surprise for the next evening. That did the trick. George Junior was so anxious to hear that “surprise” that he forgot to die; his interest in life came back. Each night, for a week, the broadcasters, ignoring everything else, worked to keep the spark of life alive in the boy’s breast. They won. George is back on his feet to-day—and his father says that the radio, not medical skill, saved his life.Distance—with the convenience of simplified control
+MARCONIPHONE MODEL 51 (5-VALVE) RECEIVER
+Simplicity of tuning, great sensitivity and possibility of operation directly from house electric supply, entirely without batteries or accumulators, are outstanding features of Marconiphone Model 51.
+This 5-valve receiver employs two neutralised high frequency stages, a grid detector and two low frequency valves, tuning being reduced to single master control and two small verniers which only require slight adjustment after a station is heard. A particularly handsome mahogany cabinet with sloping sides encloses the components, and all chassis-so- balanced batteries or power-units can be supplied, producing a neat self-contained installation. With either A.C. or D.C. mains, the Model 51 brings all the advantages of battery-less radio into being—and where mains electricity is not available, economical battery combinations may be used.
+Receiver only, with long and short wave coils; including royalty £27 2s. 6d.
+The D.C. Mains Drive Unit for operating direct from the house electric supply costs £6 10s., or for A.C. mains, including valve (royalty), £9.
+Send now for full particulars of the new Season’s Models and details of “The New Radio Simplicity.”
+DEFERRED TERMS
+All Marconiphone apparatus costing £10 or more is supplied on deferred terms. The new simplified system involves only a small initial payment to secure immediate delivery. The balance is spread over 12 months.
+CHOOSE A MARCONIPHONE RECEIVER
+AND ENJOY THE NEW RADIO SIMPLICITY
+MARCONIPHONE
+THE MARCONIPHONE CO., LTD. (and reduced.)  
+Head Office: 210-212, Tottenham Court Road, W.1.  
+Regd. Office: Marconi House, Strand, W.C.2.Radio Barcelona, EAJ1.
 1. The aerial, 150ft. high, stands on the top of Mount Tibidabo, itself 1730ft. above sea level. Its height makes the Barcelona transmitting station one of the foremost in Europe in point of situation.
 2. The Main Studio.
 3. Miss Marie Kindler, English Lecturer at Radio Barcelona.
@@ -355,12 +435,271 @@ New hours for week-end transmissions were announced recently by both WGY and KDK
 2XAD is now at work from 6.30 p.m. to 9.30 p.m. Greenwich Time on Saturday evenings, whilst 2XAF comes on at 11.25 p.m. KDKA is transmitting on 62.5 and 26 metres from 11. p.m. onwards on Sundays. I tuned in 2XAD at 7.30 p.m. last Saturday and found him coming through wonderfully well. Those who like to hear American stations need no longer complain that they must sit up until the small hours !Since it is known that the conditions of reception of foreign stations in the North of England differ considerably from those in the area which usually provides this feature of “World-Radio,” we have arranged for a series of commentaries on Northern reception, of which the following is the first.
 By NORTHERNER.
 AS an instance that reception of foreign stations varies very considerably at points no very great distance apart, in this column a fortnight ago very short-wave stations were reported as coming over well, whereas in North-Eastern England the direct opposite was the case—in fact, several of the high-speed morse transmissions were much below normal strength. Fortunately, this bad period now seems to have passed, as will be seen from my remarks below.
-Commencing with the long-wave stations, Huizen, the new Dutch transmitter, promises another reliable Continental programme, judging by the strength and quality of the test items. I am afraid that Radio-Paris, which seems a very lively station and 5XX will become more difficult to receive entirely clear of interruption from one or other of these stations. Motala seems to have fallen in strength of late, but is still a very strong signal. Königs wusterhausen has shown much fluctuation during the week, and though always within reach, is not so strong at any time as Motala. It is usual on the Continent to refer to these last two, with 5XX and Radio-Paris, as the “Big Four,” but I consider that this description requires modification, for the new Danish transmitter at Kalundborg is an excellent signal, and is always as strongly received as Hilversum, and without any fading whatever, either in daylight or darkness. I suppose that all listeners who “reach out” are fully aware that, for daylight programmes, the long-wave stations are always preferable to others on the 300-500 metre waveband, since signals are stronger and fading is scarcely noticeable. In this part of the country we are well placed for reception of the Continental programmes from the northern part of Europe, the North Sea being very little hindrance as compared with intervening land areas. Warsaw I have found to be rather variable of late, but Hilversum has been fairly reliable, though, as “The Searcher” last week reported, there has been some interference on the new long wave, and on 1,000 metres only fairly well, togetherFor some time now much the most reliable station has been Frankfurt, with signals always strong, and with the minimum of fading.Mysterious Musical Intervals at Nürnberg.
+Commencing with the long-wave stations, Huizen, the new Dutch transmitter, promises another reliable Continental programme, judging by the strength and quality of the test items. I am afraid that Radio-Paris, which seems a very lively station and 5XX will become more difficult to receive entirely clear of interruption from one or other of these stations. Motala seems to have fallen in strength of late, but is still a very strong signal. Königs wusterhausen has shown much fluctuation during the week, and though always within reach, is not so strong at any time as Motala. It is usual on the Continent to refer to these last two, with 5XX and Radio-Paris, as the “Big Four,” but I consider that this description requires modification, for the new Danish transmitter at Kalundborg is an excellent signal, and is always as strongly received as Hilversum, and without any fading whatever, either in daylight or darkness. I suppose that all listeners who “reach out” are fully aware that, for daylight programmes, the long-wave stations are always preferable to others on the 300-500 metre waveband, since signals are stronger and fading is scarcely noticeable. In this part of the country we are well placed for reception of the Continental programmes from the northern part of Europe, the North Sea being very little hindrance as compared with intervening land areas. Warsaw I have found to be rather variable of late, but Hilversum has been fairly reliable, though, as “The Searcher” last week reported, there has been some interference on the new long wave, and on 1,000 metres only fairly well, togetherIt is usual on the Continent to refer to these last two, with 5XX and Radio-Paris, as the “Big Four,” but I consider that this description requires modification, for the new Danish transmitter at Kalundborg is an excellent signal, and is always as strongly received as Hilversum, and without any fading whatever, either in daylight or darkness.
+I suppose that all listeners who “reach out” are fully aware that, for daylight programmes, the long-wave stations are always preferable to others on the 300-500 metre waveband, since signals are stronger and fading is scarcely noticeable.
+In this part of the country we are well placed for reception of the Continental programmes from the northern part of Europe, the North Sea being very little hindrance as compared with intervening land areas.
+Warsaw I have found to be rather variable of late, but Hilversum has been up to usual form, though, as “The Searcher” last week reported, there has been some interference at times.
+Leningrad, on 1,000 metres, comes in very well, together with some of the Beacon signals.
+On the lower wave-band, Zurich is now back at normal winter strength.
+Yet, as he now works much nearer the 600-metre more, he is certainly more troubled by spark than formerly.
+Budapest is somewhat elusive here, and only identified, definitely, occasionally, but Munich is generally well received, as are Vienna and Berlin (Witzleben).
+Brussels is heard at greater strength than at any time since the early days, when he used to come in very well on about 265 metres.
+Langenberg is sometimes exceedingly strong, but, occasionally, and sometimes when conditions would indicate quite the opposite, he almost disappears, and has to be searched for.
+Oslo, Stockholm, and Brunn are all well received here, though Oslo is not always a certain transmission, so far as reception is concerned, which fact is rather curious in consideration of the almost all-sea route between his aerial and mine.
+Rome is now a very strong signal and is easily identified, thanks to his bell, used during intervals.
+For some time now much the most reliable station has been Frankfurt, with signals always strong, and with the minimum of fading.
+Hamburg (Continued at foot of Column 3.)Mysterious Musical Intervals at Nürnberg.
 LISTENERS when tuning in Nürnberg, the famous toy manufacturing town, will have noticed faint music, mostly singing accompanied by a large orchestra, during the intervals. This is not caused by a station on an adjacent wavelength, but is actually transmitted by Nürnberg, although quite unintentionally.
 The special underground cable connecting the relay Nürnberg to the main s’ation in Munich contains a second line used for broadcasting by “wired wireless” the performances from the Munich Opera House. Any subscriber to the ordinary telephone service can, for a small extra charge, listen regularly by means of his telephone to the excellent operas, which during ten months in the year delight the ears of the Munich audiences. This service encompasses, for the moment, the three towns owning broadcast transmitters, viz., Munich, Augsburg, and Nürnberg.
-Induction effects are therefore the cause of this mysterious music, which can be heard faintly during even the slightest pause in the broadcast performance.A Simple Broadcast Wavemeter.—II.2FC Received.
-Radio Malabar has been hard at work, and its transmission seems to be improving considerably in quality, though fading of a rather rapid type is still to be noticed. I have had very good reception from the Australian station 2FC, signal strength being good and the quality such that every word was clearly audible.
-Many of the new American short-wave stations appear to be at work now, for one picks up weak signals in the early hours of the morning at many points between 25 and 55 metres. WABC has been a fair signal at times, and WLW is fairly well heard on favourable nights. Of WRNY I have heard very
+Induction effects are therefore the cause of this mysterious music, which can be heard faintly during even the slightest pause in the broadcast performance.WHEN the buzzer wavemeter has been con-  
+structed in the way described in the last  
+article, the next process is to calibrate it  
+in order that wavelength or frequency readings  
+may be obtainable.  
+In the last article, the method of calibrating was  
+mentioned briefly by adjusting the buzzer and  
+as coil. If you have any efficient friend who  
+uses a heterodyne wavemeter, this will aid you  
+greatly in setting the buzzer frequencies   on  
+the wavemeter. With a band switch designed so  
+that the buzzer circuit does not put an extra  
+load on the coil in the wave-meter, it will be  
+found that we can readily calibrate the wave-  
+meter coils. For this purpose it is necessary  
+to have established wavelength standards.   For  
+the middle of the broadcast. spectrum 400 to  
+500   metres, we    may   safely   take    Frank-  
+furt-on-Main, Stuttgart, Hanover, Dortmund, and  
+Prague   CO kV,   all of which give reliable  
+calibration points. It is always advisable to  
+check these stations for wavelength by direct  
+reference to the data issued from time to time  
+by the various Post Offices for broadcast stations  
+throughout the world. In Germany 385 metres  
+will be found to be a standard frequency for  
+local stations with 250 watts carrier power.   In  
+this case all that is usually necessary is to give  
+their nominal frequency and location. Look up  
+the stations giving these wavelengths, attach  
+your frame aerial to the wave-meter terminals,  
+and tune in any station on the meter with as  
+sharp tuning as possible. Place a 0.0003 mf  
+condenser in series between the headphone and  
+holder of the meter. Now set the buzzer Lor  
+400, with the condenser of the wavemeter right  
+across the frame aerial. Rock the pointer close  
+to the reading which the station is supposed to  
+give on the direct dial. This will probably be  
+A.T.I. Next, increase the reading of the wave-  
+meter condenser gradually—towards the higher  
+frequency part of the dial, on the out-. side,   up  
+to 1.5. After this point is passed, the station  
+will fade out gradually, although with strong  
+trouble it may still be audible over quite a large portion of  
+the condenser scale. Move the condenser farther  
+away from the frame aerial and use, say, between  
+the frame aerial and the A.T.I. This will lower the  
+effect of detuning; the number of scale divisions  
+over which the buzzer is audible will be greatly  
+reduced, probably the station will come in over  
+two or three divisions only, one of the divisions  
+which probably will be most loudly heard. Move the  
+wavemeter condenser forward and backward about  
+the position of nicely tuned station, as it were, by SP  
+employ a direct dial on the wave-meter condenser.  
+It will not be necessary to draw curves for the  
+first wave-meter described, because it is intended  
+that the wave-meter shall operate on harmonic  
+overtones of the buzzer. Consequently, the dial  
+directly giving wavelengths may be marked without  
+the aid of any formed correction curve, provided  
+that one does not rely on different shaped coils giving  
+exactly identical wavelengths for a given scale  
+reading. The author has made several coils on  
+a former approximately 3in. in diameter with  
+business tape, and the winding, with a layer of  
+tissue paper between the turns, gives coils which  
+are correct within two hundredths.  
+To a first approximation, no calibration of the  
+buzzer is necessary, but it is just necessary in  
+some few places to do some careful checking and  
+this must be done by unison beat method, the  
+old reliable.  
+In the case of the first wavemeter, the  
+Frequent be found that, with the earlier form of  
+will probably be in tune with the buzzer at  
+approximately A.T.2 and B.T.9. This will afford  
+places, if buzzers are being calibrated, and  
+will find places of harmonics and calibrating the  
+wavemeter proper, the instruction that is to say  
+which utilises a square-law condenser and gives  
+calibration in wavelengths. Now that O.U.S. is working,  
+a buzzer is no longer the simplex method of  
+calibration recommended. A fairly simple operation  
+here as a powerful station whose wavelength is  
+rather high in the B.C. broadcast range, namely  
+411 to 1,200 metres.  
+In the accompanying Fig. 5, a method is  
+illustrated by which any constructor may perform  
+quite a close-range calibration of the wavemeter  
+for 280, 300 and 330. The dotted line shows a  
+curve obtainedfrom pulsating from 944 metres  
+412, for an 0.000085 mf condenser of eiatactly the full face of the wavemeter dial and shows the calibration  
+of the wavemeter condenser direct in wavelength.  
+Place the initial mark of the condenser dial  
+over, say, wavelength position 94, for 0.000085 mf  
+and adjust the wavemeter condenser until O.U.S.  
+is in sharp tune. Allow the wave-meter to run  
+on stably, E(A), and wave-meter 0.000085 mf  
+in the proper position, the mark the excited  
+Fie. 5.  
+CALIBRATION WAVE-LENGTHS  
+WITH SQUARE LAW CONDENSER  
+divisions. Along the bottom ordinate the  
+horizontal scale of the tuning knob mark the  
+wavemeter dial. The author has found, as shown  
+in the following way, that a point along 0  
+corresponding to reading 1.0 gives a reading  
+of 280 metres, reading 1.5 on the outer dial, about  
+300 metres, and 2.14 for 330.  
+Now attempt to verify this by another  
+method. Remove all effects of the tuning  
+frame aerial as in Fig. 7, and see if Prague,  
+or 435 degrees roughly on the scale, gives exactly  
+400 whose tuning point should be at about  
+and for Stuttgart 340 on the scale. Place  
+the station’s middle wave-length on the wavemeter’s  
+S/L condenser dial and attempt to see if  
+the wavemeter will respond to such slight amount  
+of tuning. The stronger the signal, the more the  
+station will perform along this curve over a greater  
+vertical distance, representing 300 to  
+400 on direct dial with condensers L2.  
+It is only a question of allowing a little  
+swerving and correcting for this.  
+Let us take the above data obtained  
+by the author and later corrected on Fig.  
+5. The dotted line from the top left-  
+hand corner gives a calibration curve  
+for the entire scale of dial and takes  
+us downwards for some distance. If  
+you need to calibrate the broadcast wave-  
+meter most carefully, you would have  
+to draw a curve such as indicated  
+and get the intermediate values between  
+the calibrations described. Obtain-  
+ing, for instance, a clear 260, 280, 300,  
+320, 340, 360 and 380 by making use of  
+the following stations, Dortmund  
+385, Prague 435 and Stuttgart 340, and  
+Frankfurt-on-Main 472 and 510 metres.  
+Under these conditions, the wavemeter  
+is then a fairly reliable wavelength meter for  
+broadcast stations only as at present con-  
+structed.  
+The author suggests that it is unneces-  
+sary to go to this trouble except in one case.  
+The one station where really accurate calibration  
+will be extremely important will be Strasbourg.  
+Here, it will be possible, though, that certain  
+stations may have more than one assigned wave-  
+length, one for rhythmic work, another for  
+speech. In such a case, the wavemeter will  
+prove exceptionally valuable and convenient  
+for the listening-in fraternity, who can also  
+find the presence of certain stations of short  
+wave length working probably to other countries.  
+The wavemeter will help you to find them, e.g.,  
+for example, you wish to tune in Frankfurt on  
+472.5 metres. A reference to the chart will show at  
+once it is only likely to be the one station which  
+is marked at about 740 and the next day  
+it is tuned into on the wavemeter it must be told with  
+fairly near accuracy. When you receive  
+many readers whose phone results have been  
+very puzzling owing to the difficulty of exactly  
+knowing which station is so to speak in tune  
+when they get very close to the center of the  
+band. Now the one station in the two power  
+groups tuning station in Europe for rhythmic  
+telephony purposes within 450 to 550  
+metres band will be much used. There will  
+again, be little doubt of the result when it is  
+noticed that Dortmund is more easy to get  
+on the pseudo first channel when tuning to  
+Stuttgart. The question of systematic calibration  
+of your dial will probably be of greater im-  
+portance. Most listeners using non-calibrated  
+oscillation valves will gradually learn their  
+way about the dial like the hands of a  
+clock, at least with quite limited values. Thus,  
+we read 2/16, 4/16, etc. Now suppose you  
+wish to have Dortmund in 385 and Stuttgart  
+from 385 to 340 metres as close range, and  
+Prague between 430 and 440. The graphic  
+calibration curve shows what wavelengths cor-  
+respond to those between 2.30 and 3.0. Prague has  
+to be re-set, let us say at 2.9, Stuttgart at 3.0,  
+and Dortmund at 2.3, then it is wise to use  
+rhythmic two high-power stations for your first  
+systematic calibration. Find other stations by  
+interpolation, or take France, Tour Eiffel,  
+wave-length 2.7 and 2.8, corresponding to  
+Lyons, or more or less long wave, as the case may be.  
+This again will lead the broadcast listener to  
+enable him to explore the wave band for him-  
+self. There are some readers who constantly  
+complain of not making any first-class results  
+during the last few months. The answer is  
+that they are one, two or three channels off  
+the proper place.  
+With the help of the wavemeter, you can find  
+out this defect in your receiving apparatus  
+for yourself and, after studying the calibration  
+charts, you will be able to indicate on the  
+card of logging and make a note which show the  
+result.  
+Here is a very simple method of system-  
+atic logging. It may be used if you have  
+all the data of the Central Radio Bureau  
+book contains of the sets listed in the following  
+table, which are of considerable interest :—  
+below 270 metres, 25 m. 7 a.m. to 9 a.m.;  
+250 m. 9 a.m. to 11 a.m.; 300 m. 11 a.m. to 1 p.m.;  
+350 m. 1 p.m. to 3 p.m.; 400 m. 3 p.m. to 6 p.m.;  
+500 m. 6 p.m. to 8 p.m.; 600 m. 8 p.m. to 10 p.m.;  
+1,000 m. 10 p.m. to 12 p.m.; 1,500 m. to 2 a.m.  
+and 2,000 and 3,000.  
+These sets, to the knowledge of the author, are  
+not yet in use, but when used they will be found  
+as useful as any good frequency meter.  
+For the case of an ordinary broadcast receiver,  
+however, the charts developed will show very fairly  
+accurately what the tuning dial reading cor-  
+responds to in wavelength and what broadcasting  
+stations are liable to be operating in this band  
+at the time of transmission. This will help very  
+greatly in systematic logging and prevent the  
+inaccurate logging of stations which constantly  
+are the reason for readers writing in to say that  
+a certain station is a “ mystery station.”  
+With the help of this broadcast wavemeter,  
+we can change this “mystery station” into a  
+perfectly well ascertained one, and by aid of  
+the graphic calibration and by the use of the  
+calibration of the frequency meter. A practical  
+example is here shown of the use of the Hercules  
+receiver described in another article.  
+Suppose we wish to know where the stations  
+between 275 and 350 metres. The  
+are working with  
+date is made up in the case of Hartlepools.  
+These stations (Frankfurt and Cologne)  
+have to be located. They are plugged for  
+435 and 345 metres. We know the Hercules  
+dial from 0 to 60. It will now be possible  
+to work out a graphic calibration curve for  
+the dial which shows a comparatively straight line  
 (Continued from page 615.)
 Other stations :—
 E.A.J. 2 Madrid (Radio España).—A y-sh ot—t hr ee  (—) ”t” ()()—drddescu  l o—s tag—cr— (—) - I—g a—(—)——.
@@ -797,7 +1136,10 @@ SHORT-WAVE TUNING.
 Many of those who use short-wave sets do not get the best out of them for the simple reason that they do not give them a fair chance. Powerful transmissions such as 2XAD, 2XAF, and KDKA may be picked up without allowing the set to oscillate, though in order to find the weaker ones it is necessary to hear the carrier wave in the first instance. For all that, the set should never be allowed to do more than oscillate very gently whilst searching is in progress; that is to say, the reaction coupling should be adjusted so that a very slight hissing or rustling noise is heard in the receivers. When a carrier wave is heard, slacken off the reaction coupling immediately and retune with the grid condenser. The controlling reaction may then be adjusted until the set is a little below the point of oscillation. In this way the greatest possible signal strength and the purest reception are obtained. On no account should an attempt be made with the set in oscillation to tune to the silent point. To begin with, it is exceedingly difficult to do so; for even if long extension handles are provided, body capacity effects become very marked, so that the slightest movement of the hands may completely alter the tuning. Secondly, if one does succeed in tuning in a transmission in this way signal strength is never as good as it ought to be, whilst both speech and music are considerably distorted. 
 R. W. H.
 (Continued from page 3.)
-It had innumerable harmonics of a very loud and penetrating kind. After it had been carefully erected in its nice new house, it behaved no better.World-Radio Station Identification Panel (No. 90) Melbourne, Australia (3LO, Short Wave): Wavelength: 32 m. (as announced); Frequency: 9,375 kc.; Power: 5 kw.; Approximate distance from London: 10,000 miles; Times of transmission: Sundays, 6.30 p.m. to 8.30 p.m. (G.M.T.), concert of gramophone records; at 8 p.m. a time signal (striking clock) from Malvern Observatory, Melbourne, followed by weather report.Northerner: CONTINUING from the point at which I finished my last report, I have received telegraphic information from Australia which would indicate that the times of transmission on short waves from Sydney do not appear to be at all regular, and are made only when conditions are good.
+It had innumerable harmonics of a very loud and penetrating kind. After it had been carefully erected in its nice new house, it behaved no better.WORLD-RADIO Station Identification Panel
+(No. 90) MELBOURNE, Australia (3LO, Short Wave)
+Wavelength: 32 m. (as announced). Frequency: 9,375 kc. Power: 5 kw. Approximate distance from London: 10,000 miles. Times of transmission: Sundays, 6.30 p.m. to 8.30 p.m. (G.M.T.). Concert of gramophone records. At 8 p.m. a time signal (striking clock) from Malvern Observatory, Melbourne, followed by weather report.
+(Copyright) A booklet containing a large number of these panels can be obtained of B.B.C. Publications, Savoy Hill, W.C. Price 1/-.Northerner: CONTINUING from the point at which I finished my last report, I have received telegraphic information from Australia which would indicate that the times of transmission on short waves from Sydney do not appear to be at all regular, and are made only when conditions are good.
 Northerner: This is not very clear, nor is the intimation that such broadcasts are not quite interna­ tional but might be addressed, one must assume, to only any Sydney friends asking that he might listen in, although one can only presume he is only too late to be included in my previous logs.
 Northerner: At 3.0, I have heard the varying strengths of 3L0, I believe, which never varied very much in volume or signal strength or interference.
 Northerner: On the last occasion, a note of interest is that the announcer read out at length from Sydney in the past any number of items.
@@ -1070,7 +1412,21 @@ Department of short wave transmissions. This station,
 during heavy surf, gives three time signals a day  
 by means of short radio time, thunder, whistle  
 and a short figure combination, together with the  
-name of the station!WORLD-RADIO Station Identification Panel (No. 91) CARTHAGE (Tunis) Wavelength : 1850 m. Frequency : 154 kc. Power : 2 kw. Approximate Distance from London : 1,130 miles. Call : “ Ici Poste de Radiodiffusion de Tunis.” Opening Signal : Carillon of bells. Interval Call : “ Ici Radio Carthage.” Male Announcer. No Interval Signal. Times of Transmission : Broadcasts from 6 p.m. daily; Main Evening Concert at 8.30 p.m. Dance Transmissions : Sundays, Wednesdays, and Saturdays to 11 p.m. G.M.T. Closes down with “ La Marseillaise ” and usual French formula. (Copyright) A booklet containing a large number of these panels can be obtained of B.B.C. Publications, Savoy Hill, W.C. Price 1/-.IN what part of the world is to be found to-day the keenest interest in broad- casting?
+name of the station!WORLD-RADIO
+Station Identification Panel
+(No. 91)
+CARTHAGE (Tunis)
+Wavelength: 1850 m. Frequency: 154 kc. Power: 2 kw.
+Approximate Distance from London: 1,130 miles.
+Call: “Ici Poste de Radiodiffusion de Tunis.”
+Opening Signal: Carillon of bells.
+Interval Call: “Ici Radio Carthage.”
+Male Announcer.
+No Interval Signal.
+Times of Transmission: Broadcasts from 6 p.m. daily; Main Evening Concert at 8.30 p.m. Dance Transmissions: Sundays, Wednesdays, and Saturdays to 11 p.m. G.M.T.
+Closes down with “La Marseillaise” and usual French formula.
+(Copyright)
+A booklet containing a large number of these panels can be obtained of B.B.C. Publications, Savoy Hill, W.C. Price 1/-.IN what part of the world is to be found to-day the keenest interest in broad- casting?
 A distinguished German playwright and novelist, Herr Lion Feuchtwanger, has provoked this question by championing the position of Berlin, which he believes possesses more keen listeners than any other city.
 The number of listeners of London or New York, he claims, however well-founded, is a poor criterion of their appreciation of broadcasting.  
 It is remembered that Berlin has but little advantage over the other principal cities, and that it is not comparable in population with cities in America, such as New York. State possesses, says Herr Feuchtwanger, meetings and gatherings of the keenest wireless enthusiasts in a larger degree than in any other centre.
@@ -1097,7 +1453,36 @@ Germany, with 2,066,761 listeners, had 32•46 per 1,000 inhabitants at the end 
 When it is remembered that the principal station in Austria, and the station in Poland, are both capable of performing a very similar broadcast function, the figures from those countries throw some light on the position.
 As was to be expected, the Austrian figures had increased. The official returns for that country showed an increase of 187,572 between the end of 1926 and the end of 1927. There were then the well-known four stations, Vienna, Graz, Innsbruck, and Klagenfurt, and it was not until later that additional transmitters were available. Austria has not yet adequate resources for the service of the whole of the country, and this is one of the causes of the relative paucity of her official figures.  
 In Czecho-Slovakia the problem is quite different. There is only one principal broadcast station, which is placed in Prague. The number of listeners there at the end of 1927 is given as 277,102. In Hungary the total number of listeners was 244,773; and 173,744 licensed listeners dated 1927 shows that that country had to contend with some effective competition from foreign stations.  
-In Italy 11 stations are in service and they had 285,000 listeners at the end of 1927. This represents 1•05 per 1,000; and it must be said that Italy in the year 1927 increased more modestly than in other directions.Per 1,000 inhabitants.Sunday, April 22.  
+In Italy 11 stations are in service and they had 285,000 listeners at the end of 1927. This represents 1•05 per 1,000; and it must be said that Italy in the year 1927 increased more modestly than in other directions.Per 1,000 inhabitants.  
+(1,373,364) 22·92           GERMANY  
+2,009,842                   33·49  
+245,675                     40·24      AUSTRIA  
+291,548                     47·79  
+(121,264)                   36·74      DENMARK  
+(188,260)                   57·05  
+9963                        2·9        FINLAND  
+36,900                      10·88  
+(2,178,447)                 51·7  
+2,395,226                   56·91      GREAT BRITAIN  
+59,529                      7·44       HUNGARY  
+83,114                      10·44  
+9,856·3                     2·27       IRISH FREE STATE  
+86,000                      8·2  
+323                         0·16       LITHUANIA  
+5670·2                      0·86       LETTLAND  
+10,845·8                    5·23  
+16,048                      8·02  
+48,378                      17·9       NORWAY  
+60,191                      22·9  
+52,000                      1·9        POLAND  
+117,236                     4·34  
+(242,559)                   40·42      SWEDEN  
+328,133                     54·68  
+51,194                      12·79  
+59,066                      14·76      SWITZERLAND  
+174,741                     12·84  
+220,000                     16·1       CZECHO-SLOVAKIA  
+Increase in 1927 in the proportion of listeners to population in European countries where licence systems are in force.Sunday, April 22.  
 7.45 p.m.—Budapest.—“Paganini” (Hubay).  
 7.50 „  „  Wagnes (Albers). Excellency.  
 8.0 „  Copenhagen.—The Steeplechase races.  
