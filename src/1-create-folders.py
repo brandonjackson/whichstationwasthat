@@ -47,4 +47,4 @@ def create_weekly_folders(start_date_str, num_weeks):
         print(f"Created folder: {folder_path}")
 
 # Example usage:
-create_weekly_folders(start_date_str="1925-11-20", num_weeks=104)
+create_weekly_folders(start_date_str="1925-11-20", num_weeks=722)
