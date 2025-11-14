@@ -1,9 +1,6 @@
 Squarelaw: 29th, 30th, Hamburg.  
-
 Karachi: Madrid (Union Radio).  
-
 Ponty: PTT (Paris).  
-
 H.F. Crystal: (29th) Leipzig.  
 
 S.R.B.B.: Hamburg.  
@@ -24,7 +21,7 @@ H.F. Crystal: (26th) Probably Karlsborg.
 
 Archer: (1) Atlantic City (N.J.), 275 m. (500 w.). (2) WJAR. Providence (Radio-Iberica), 305.9 m. (500 w.).  
 
-Inquisitive: San Sebastian.  
+Inquisitive: San Sebastian. 
 
 C.S.H. (Bromley): Cannot trace WIAK.  
 
@@ -60,9 +57,9 @@ Live Wire: Stockholm via Malmo.
 
 Swanee: Hamburg.  
 
-C.A. (Falmouth): Inquisitive: San Sebastian.  
+C.A. (Falmouth): Hamburg.
 
-Hanover.  
+Caliban: Hanover.  
 
 F.P.M.: Probably Radio Madrid.  
 
