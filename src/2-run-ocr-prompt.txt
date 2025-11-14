@@ -10,15 +10,12 @@ Do not interpret, normalize, or extract features. That will be handled later.
 
 Formatting rules:
 
-Each report must be on its own line (one line per reporter).
-
-A report follows the format: Reporter name (optional location): editor message and/or Station name (optional location).
-
-Sometimes reports have multiple reporters separated by commas before the colon.
-
-Punctuation is used intentionally. Colons almost always separate reporter and report, and periods almost always mean the end of a report (unless after an obvious abbreviation like Dec.).
-
-If a report has sub-entries separated by letters eg (a), (b) or times eg (1030), (1230), then keep them on the same line.
+- Each report must be on its own line (one line per reporter).
+- A report follows the format: Reporter name (optional location): editor message and/or Station name (optional location).
+- Sometimes the editor writes a long message - that is ok. Just leave it all as part of the same report and look for the start of the next one.
+- Sometimes reports have multiple reporters separated by commas before the colon.
+- Punctuation is used intentionally. Colons almost always separate reporter and report, and periods almost always mean the end of a report (unless after an obvious abbreviation like Dec.).
+- If a report has sub-entries separated by letters eg (a), (b) or times eg (1030), (1230), then keep them on the same line.
 
 The column often spans multiple images. This means the first words on an image may be the ends of reports that started on a previous page. So if text does not start with a new reporter (listener name + optional location + colon), treat it as a fragment and put it on its own line. Then have a line break and continue as usual with the next report. Examples below.
 
@@ -41,3 +38,5 @@ Examples (fragments):
 (10.30) Hamburg; (11.30) Prague.
 Hamburg.
 berg.
+
+Remember: each report must be on its own line.

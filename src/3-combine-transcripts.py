@@ -454,7 +454,16 @@ def process_one_folder(folder_path: Path, ignore_existing=False, force=False):
         
         # Default behavior: check if inputs have changed (unless --force is used)
         if not force and not ignore_existing:
-            if not inputs_have_changed(folder_path, output_file_pre_llm):
+            # Check if we need to reprocess (either pre-llm or final output is missing/outdated)
+            needs_reprocess = False
+            if not output_file_pre_llm.exists() or not output_file_final.exists():
+                needs_reprocess = True
+            elif inputs_have_changed(folder_path, output_file_pre_llm):
+                needs_reprocess = True
+            elif inputs_have_changed(folder_path, output_file_final):
+                needs_reprocess = True
+            
+            if not needs_reprocess:
                 print(f"⏭️  {folder_path.name}: No changes detected, skipping")
                 return
 
