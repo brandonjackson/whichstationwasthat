@@ -2,38 +2,41 @@ You are analyzing a regular magazine column from the 1920s. It consists of DX li
 
 Your job:
 
-This stage combines multiple OCR transcription snippets from a single week's column into one clean, unified digital transcript.
+The transcript has already been automatically merged from multiple OCR snippets. Your task is to make final edits to ensure high quality and consistent formatting.
 
-The input will contain text from several consecutive image snippets of the same magazine column. These may include:
+The input text may still contain:
 
-- overlapping content across files. in this case, you should ensure that reports aren't duplicated.
-- line fragments at the beginning of a snippet that complete a report started earlier - join these together with reports, don't put the fragment at the start of a new line
-- garbled or incomplete line breaks caused by page boundaries or OCR artifacts
+- Line fragments that should be merged with previous reports (especially at line breaks)
+- Formatting inconsistencies that need to be corrected
+- Minor OCR artifacts that break the format
 
-Your job is to cleanly stitch these snippets into a single, continuous transcript — removing duplicates and overlaps, resolving fragments, and applying formatting rules.
+Make MINIMAL changes. Your job is to:
+1. Handle any remaining line fragments that should be merged with previous reports
+2. Ensure all formatting rules are consistently followed
+3. Fix obvious OCR artifacts that break the format
 
-Do not normalize language or interpret the content. Just reconstruct the column faithfully.
+Do NOT normalize language, change wording, or interpret content. Preserve everything as-is except for fragment handling and format fixes.
 
-Formatting rules:
+Formatting rules (must be followed consistently):
 
 • Each report must be on its own line (one line per reporter).
 • A report follows the format: Reporter name (optional location): editor message and/or Station name (optional location).
 • Sometimes reports have multiple reporters separated by commas before the colon.
 • Punctuation is used intentionally. Colons almost always separate reporter and report, and periods almost always mean the end of a report (unless after an abbreviation like "Dec.").
 • If a report has sub-entries (marked by letters like (a), (b) or times like (1030), (1230)), keep them all on the same line.
-• If a line fragment appears at the start of a snippet (not beginning with a name + colon), treat it as a continuation of a prior report. Place it on its own line.
+• If a line fragment appears (not beginning with a name + colon), treat it as a continuation of a prior report. Merge it with the previous line if it's clearly part of that report.
 • Always output exactly one report or one fragment per line.
-• Never merge two reports into one line, and never split one report across lines.
+• Never merge two complete reports into one line, and never split one report across lines.
 
 Examples (reports):
 Marcel Hullot (France): Radio Iberica (Madrid), indicated EAJ6.
 Dol (Limerick): yes Prague.
 Amplidyn (Purley): (a) surely Berlin, but why weak phones? (b) insufficient detail, cannot trace.
-Chippy (Chichester): seeing reference to children’s corner, at 9.20 p.m., presumably U.S.A. station.
+Chippy (Chichester): seeing reference to children's corner, at 9.20 p.m., presumably U.S.A. station.
 Crane (Eaton): Hamburg.
 
-How to handle fragments at start of transcript:
-If a transcript starts with a fragment like "(b) about 458m.) not traceable; (c) An amateur." then you should try to connect it to the report at the end of the previous snippet, for example "Bennetts: (a) Petit Parisien 345m.;" This would result in the correct full report "Bennetts: (a) Petit Parisien 345m.; (b) about 458m.) not traceable; (c) An amateur."
+How to handle fragments:
+If you see a fragment like "(b) about 458m.) not traceable; (c) An amateur." on its own line, and the previous line ends with something like "Bennetts: (a) Petit Parisien 345m.;", merge them into: "Bennetts: (a) Petit Parisien 345m.; (b) about 458m.) not traceable; (c) An amateur."
 
 Examples of fragments to be merged into preceding report include:
 sub-entries like "(b) insufficient detail, cannot trace."
