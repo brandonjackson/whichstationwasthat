@@ -50,13 +50,34 @@ def image_to_base64_data_url(image_path):
         base64_data = base64.b64encode(image_data).decode("utf-8")
         return f"data:{mime_type};base64,{base64_data}"
 
+# --- Check if transcript is packed into too few lines ---
+def is_packed_into_few_lines(transcript: str, min_lines: int = 5) -> bool:
+    """
+    Check if transcript has substantial content but is packed into too few lines.
+    Returns True if it has >200 characters but <= min_lines lines.
+    """
+    lines = len(transcript.strip().splitlines())
+    char_count = len(transcript.strip())
+    return char_count > 200 and lines <= min_lines
+
 # --- Run OCR using GPT-5.1 ---
-def transcribe_with_openai(image_path: str) -> str:
+def transcribe_with_openai(image_path: str, retry: bool = False) -> str:
     image_url = image_to_base64_data_url(image_path)
+    
+    # Use more forceful prompt on retry
+    if retry:
+        retry_prompt = PROMPT + "\n\n⚠️ IMPORTANT: The previous attempt packed everything into too few lines. " \
+                                "You MUST format the transcript with proper line breaks. Each report should be on its own line. " \
+                                "Do NOT pack multiple reports onto a single line. Use line breaks liberally - it's better to have " \
+                                "too many lines than too few. Break the text into multiple lines as it appears in the column."
+        system_content = retry_prompt
+    else:
+        system_content = PROMPT
+    
     response = client.chat.completions.create(
         model="gpt-5.1-2025-11-13",
         messages=[
-            {"role": "system", "content": PROMPT},
+            {"role": "system", "content": system_content},
             {"role": "user", "content": [
                 {"type": "image_url", "image_url": {"url": image_url}}
             ]}
@@ -87,6 +108,21 @@ def process_folders(folder_root: Path):
             print(f" → OCR: {image_path.name}")
             try:
                 transcript = transcribe_with_openai(str(image_path))
+                
+                # Check if transcript is packed into too few lines
+                if is_packed_into_few_lines(transcript):
+                    lines = len(transcript.strip().splitlines())
+                    chars = len(transcript.strip())
+                    print(f"⚠️  Warning: Transcript has {chars} chars but only {lines} lines - retrying with stricter prompt...")
+                    transcript = transcribe_with_openai(str(image_path), retry=True)
+                    
+                    # Check again after retry
+                    if is_packed_into_few_lines(transcript):
+                        lines_after = len(transcript.strip().splitlines())
+                        print(f"⚠️  Still packed ({lines_after} lines) but saving anyway")
+                    else:
+                        print(f"✅ Retry successful: now has {len(transcript.strip().splitlines())} lines")
+                
                 with open(output_path, "w", encoding="utf-8") as f:
                     f.write(transcript.strip())
                 print(f"📝 Saved: {output_path.name}")
