@@ -106,13 +106,13 @@ Merge 9: merged_8 + IMG_3325.txt
 Match found: False
 No matching line found - files concatenated.
 File A last line: Festing (Southsea): Regret, cannot trace.
-Best similarity found: 0.625
+Best similarity found: 0.429
 
 Closest matches (top 3):
-  1. Index 72, similarity: 0.625 (first_8_chars)
-     Line: Sheeting (Blackheath).
-  2. Index 0, similarity: 0.429 (first_8_chars)
-     Line: (Birmingham): Redbreast (York).
-  3. Index 64, similarity: 0.429 (first_8_chars)
-     Line: Wash (Inverness).
+  1. Index 1, similarity: 0.429 (first_8_chars)
+     Line: (Birmingham), Redbreast (York),D. X. 2 (Hulme),Haven (Norwich),W. H. Lakeman (Newmarket),H. Hewitt (Brigg),“491” (Bristol),T. Alsop (Leicester),Myra Gray (Pontefract),Two and Four (Barrow-in-Furness),Busman (Mitcham),Bobbie (Walthamstow),P.P.V. 3 (Anstruther),H. Black (Addiscombe),Own Set (Northwick),Web (Bourne),M.T. V. (West Melton),Rotherham Three Valve,F. F. (Wandsworth Common),Interested (New Cross),Interested (Sheringham),Franceman (Newbury),T. H. T. D. (Manchester),Midnight (Todmorden),Leafield (Dublin),Pusser (Portsmouth),Anti Yank (Manchester),Manhattan,W. E. M. (Eastminster),Sparks (Dewsbury),Flashlight (Rainford),Diesel (Lincoln),Ether Searcher (Glamorgan),D. E. Two Valver (Northampton),H. G. A. (Doncaster),Territorial (Maidstone),Elsa (Ilkeston),Midnight (Todmorden),2,Anxious (Levenshulme),Night Hawk (Higher Warrington),Straight Two (nr. Manchester),H. P. (Oldham),3 Valver Puzzled (Brockley),J. M. Moore (nr. Stoke-on-Trent),E. Gold (W. IX. S. C.),J. S. (Merthyr Tydfil),33 (Grosshills),Three Valver (Gorse Hill),M. M. (E. 14),
+  2. Index 1, similarity: 0.300 (first_12_chars)
+     Line: (Birmingham), Redbreast (York),D. X. 2 (Hulme),Haven (Norwich),W. H. Lakeman (Newmarket),H. Hewitt (Brigg),“491” (Bristol),T. Alsop (Leicester),Myra Gray (Pontefract),Two and Four (Barrow-in-Furness),Busman (Mitcham),Bobbie (Walthamstow),P.P.V. 3 (Anstruther),H. Black (Addiscombe),Own Set (Northwick),Web (Bourne),M.T. V. (West Melton),Rotherham Three Valve,F. F. (Wandsworth Common),Interested (New Cross),Interested (Sheringham),Franceman (Newbury),T. H. T. D. (Manchester),Midnight (Todmorden),Leafield (Dublin),Pusser (Portsmouth),Anti Yank (Manchester),Manhattan,W. E. M. (Eastminster),Sparks (Dewsbury),Flashlight (Rainford),Diesel (Lincoln),Ether Searcher (Glamorgan),D. E. Two Valver (Northampton),H. G. A. (Doncaster),Territorial (Maidstone),Elsa (Ilkeston),Midnight (Todmorden),2,Anxious (Levenshulme),Night Hawk (Higher Warrington),Straight Two (nr. Manchester),H. P. (Oldham),3 Valver Puzzled (Brockley),J. M. Moore (nr. Stoke-on-Trent),E. Gold (W. IX. S. C.),J. S. (Merthyr Tydfil),33 (Grosshills),Three Valver (Gorse Hill),M. M. (E. 14),
+  3. Index 11, similarity: 0.143 (first_8_chars)
+     Line: F. H. E. (Heaton Moor),Cowley (Thornton Heath),Twiddler (Harrogate): Through Breslau
 

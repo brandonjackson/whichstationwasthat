@@ -105,45 +105,6 @@ Sligachau (Ches.): We cannot confirm from the foreign programmes that Jan Kiepur
 Franciscus: A Polish station broadcasting election results with gramophone records in the intervals, but cannot say which as you give no estimate of WL. and condenser readings do not help.
 Caret Cross (Carlisle): Moscow Comintern (RDW). We recognise call sign, but an amateur experimental transmitter.
 Ciego (Blackheath): Cannot confirm as you do not give WL., but would tally with Kalundborg, relaying Copenhagen. H.G.
-Investigateur (Malvern): PTT Paris, relaying dance music from the Coliseum.
-Four Valver (Bromboro Port): PTT Rennes, relaying PTT Paris.
-Le Chandelier (Alfred de Musset), New Imp (Goodmayes): We believe that Stockholm relayed on that night.
-Viking (Dronfield, nr. Sheffield): Warsaw (concert of gramophone records).
-V.L. (Liverpool): A relay of Stockholm; opera La Bohème (Puccini), relayed from the Royal Opera House.
-Tombo (Bayswater): Münster.
-BM/EBVB (W. 6.): (1) PTT Rennes; (2) the nearest German station above Cologne is Hanover; (3) it was Stettin, relaying the Berlin programme (chamber music).
-Levedge (Bolton): WL. wrong; English lesson from Cologne, you may have picked this up direct, or from Aix-la-Chapelle.
-Ambulator (Eastbourne): Breslau, relaying from the Café Hindenburg at Beuthen (Silesia).
-Caret Cross (Carlisle): Probably an amateur transmission, regret, cannot trace.
-Gran (Doncaster): A test through 2LO.
-Beacon Radio (S.E.): Malmö relaying Stockholm; also Göteborg on 416 m.
-H.F. 42: (a) AFK (Doebberitz) on 37.65 m.; (b) this was 2FC testing throughKeston, but not using 45 m.
-Wanderer (East Sheen): (1) Warsaw; (2) PTT Rennes (280 m.); (3) Moscow Comintern (RDW).
-Midnite Oil (Bognor): Apparently a test, but cannot trace.
-Tempus Fugit (Bristol): (1) Frankfurt-on-Main (Nelson Revue), (2) details are too vague, regret, cannot trace.
-Solo 4 (N. 16): Not advertised in programme, but possibly Dublin.
-3 Valve (Chatham): Berne (a lady announcer) organ recital followed by orchestral concert relayed from the Kursaal.
-Cardboard Horn (London): Hilversum. The Beautiful Cuban Girl, relayed from the Casino at Rotterdam.
-E. Hayward (Dorchester): Langenberg, relaying variety programme from Cologne.
-Blue Bird (Glam.): Moscow Comintern (RDW).
-Snowdrop (Tooting Common): PTT Marseilles.
-Skinner (Harrow): Quite possibly 2FC or 2ME (Sydney).
-Pour Apprendre (Burnley): A Spanish station, but cannot say which as you give no estimate of W.L. Studio clock (Westminster Chimes).
-W.W. (Boscombe): (Blackrock): Would appear to be WJZ (Boundbrook) on 454 m.
-ALS (Coventry): (a) A.GJ is stated to be on 56.7 m.; (b) AFK (37.65 m., comma secha s); do not know of any other on that W.L.; (c) PTT Lyons.
-Alpha (Llanelli): (a) When at Daventry do you hear L2? Yes, we cannot find any programme tallying with your details; a further search is not possible as your condenser readings do not establish W.L.
-Two and Four: (1) Cardiff (religious service in Welsh from Bethlehem Welsh Congregational Church).
-Burges (Totley): (1) PTT Lyons (40.20 m.); (2) Possibly Eiffel Tower, Paris, testing.
-Midnight Oil (Bognor): Regret, but cannot trace on short wave transmissions unless the estimate of W.L. is much more definite.
-R.M.M. (Worlington): Possibly Warsaw (dance music, etc.).
-J.C.: (1) Surely Norddeich (Germany) weather report; (2) Huizen (church service).
-D.x. Ham: Your estimate of W.L. is wrong; but this was a relay of PTT Paris.
-Brookie (Kings Lynn): 2ME (Sydney) on 82.5 m.
-Norwood (Knaresborough): Eiffel Tower, Paris.
-Nelson P.m. (N.W.5): PTT Rennes.
-E. Smith: PTT Rennes, relaying from PTT Paris (English lesson by the Berlitz School).
-M. Wyatt (Chapel-en-le-Frith): AFK (Dobbertz) working on Mondays, Wednesdays and Fridays from 11.30 a.m.—12.30 p.m. and 7.20—8.20 p.m. G.M.T. without doubt relayed by Zeesen.
-Ciego (Blackheath): Cannot confirm, as you do not estimate W.L., but would tally with Kalundborg, relaying Copenhagen.
 Laris (Dundalk): WGY (Schenectady) on 379 m.
 A. H. M. (Old Kent Road): Your WL. must be wrong ; regret, cannot trace.
 Radio France (Southampton): (1) Kattowitz (male and female announcers) ; (2) Warsaw ; W . ( - - .) in morse ; (3) Yes, Frankfurt-on-Main relaying Stuttgart. Opera: Dalibor (Smetana).
@@ -166,9 +127,9 @@ Oidar: This was the new experimental station at Toronto, Ontario (Canada), on 31
 Sparkes Madge (Bedford): Breslau (gramophone records).
 Made Up Three: Milan (526.3 m.) on March 13, variety concert ; see detailed programme in World Radio. On March 14, 7—7.30 p.m. French lesson.
 Norma (Ilford): Malmö, relaying Stockholm.
-Wowski (Kirkby Stephen): Fog beacons (1000 m.). GGM, Round Island Lighthouse, Scilly Isles.
+Wowski (Kirkby Stephen): Fog beacons (1000 m.) GGG, Round Island Lighthouse, Scilly Isles. GGM, Bar Lightship at the entrance of the Mersey.
 Par Rush (Lidget Green): You give no estimate of WL., but apparently an amateur transmission - gramophone records.
-Townite (Birkby): (1) Frankfurt-on-Main, the early morning broadcast of physical exercises (gramophone records in the intervals) (2) Hamburg, the early morning broadcasts of weather and measurement must be sent with each enquiry.
+Townite (Birkby): (1) Frankfurt-on-Main, the early morning broadcast of physical exercises (gramophone records in the intervals); (2) Hamburg, the early morning broadcasts of weather and measurement must be sent with each enquiry.
 Norma (Ilford): Malmö, relaying Bocconi’s French lesson.
 Wowksi (Kirkby Stephen): Fog beacons (1000 m.). GGM, Round Island Lighthouse, Scilly Isles.
 Par Rush (Lidget Green): You give no estimate of WL but apparently an amateur transmission of gramophone records.
@@ -188,96 +149,13 @@ A. Schubert (Naples): No, KDKA (East Pittsburgh) received direct.
 E. Finburgh (N.W. 8.): (1) Yes, WGY (Schenectady) received direct; (2) yes, Moscow Comintern (RDW); (3) San. Sebastian (4) yes, but Lausanne is a very weak station, but rarely heard in the United Kingdom.
 Omega (Trowbridge): We regret, but it is impossible to trace as you give no estimate of WL., condenser readings do not help.
 Merdow (Hanwell): Königswusterhausen, relaying concert from the Grand Play House at Berlin.
-Festing (Southsea): Regret, cannot trace. (Birmingham): Redbreast (York).
-D.X. 2 (Hulme):
-Haven (Norwich):
-W. H. Lakeman (Newmarket):
-H. Hewitt (Brigg):
-“491” (Bristol):
-T. Alsop (Leicester):
-Myra Gray (Potters Bar):
-Two and Four (Barrow-in-Furness):
-Busman (Mitcham):
-Bobbie (Walthamstow):
-P.P.V. 3 (Arstruther):
-Mac (Addiscombe):
-Own Set (Northwick):
-Web (Bourne):
-M.T. (West Melton):
-Rotherham Three Valve:
-F. F. (Wandsworth Common):
-Interested (New Cross):
-Interested (Sheringham):
-Franceman (Newbury):
-T. H. T. D. (Manchester):
-Midnight (Todmorden):
-Leaﬁeld (Dublin):
-Pusser (Portsmouth):
-Anti Yank (Manchester):
-Manhattan:
-W. E. M. (Eastminster):
-Sparks (Dewsbury):
-Flashlight (Rainford):
-Diesel (Lincoln):
-Ether Searcher (Glamorgan):
-D. E. Two Valver (Northampton):
-H. G. A. (Doncaster):
-Territorial (Maidstone):
-Elsa (Ilkeston):
-Midnight (Todmorden) 2:
-Anxious (Levenshulme):
-Night Hawk (Higher Warrington):
-Straight Two (nr. Manchester):
-H. P. (Oldham):
-3 Valver Puzzled (Brockley):
-J. J. Moore (nr. Stoke-on-Trent):
-E. Gold (W. I.):
-D. S. (Merthyr Tydfil):
-33 (Grosshills):
-Three Valver (Gorse Hill):
-M. M. (E. 14):
-M. C. 3 (Liverpool):
-H. B. (Liverpool):
-C. M. M. (Budlington):
-First Try (Bulwell): through Langenberg by:
-J. W. Parks (N. 11):
-O. U. (Abertillery):
-Graphco (Liverpool):
-Super 7 (Pendleton):
-Keen Observer (Shrewsbury):
-Two Valve (Redfield):
-Three Valves (North Finchley):
-Query (Enﬁeld):
-3 Valve (Barnsley):
-Wash (Inverness):
-Portland Bill (Orrest):
-Tilly (Otteridge):
-Pat (Wood End): Through Stuttgart by:
-Glencoe (West Ealing):
-N. D. P. Popular Two (Dereham):
-Sheeting (Blackheath):
-Limergo (N. 19):
-New Fan (Ealing Sheen):
-Midnight Owl (Sheffield): Through Breslaw by:
-F. H. E. (Heaton Moor):
-Cowley (Thornton Heath):
-Twiddler (Harrogate): Through Münster by:
-Anti-Oscillator (Wimbleton):
-Beginner (Scarborough):
-A. Smith (Hyland):
-Gargory (Banbridge): Through Berlin by:
-H. Gilder (Blackburn):
-Dusty Dave (Spring View):
-Brownie (Ramsgate): Through Rotterdam by:
-C. W. Russell (null):
-Whiskers (Balham):
-C. W. Lewin (Plymouth):
-Bluebird (Cardiﬀ): Through Berlin (Witzleben) by:
-Jay (Cliftonbrook):
-Interested (Gravesend):
-E. C. Eaton (Stamford Hill):
-Ando Tuned A (Norwich):
-Tic Toc (Birmingham):
-Toby (Battersea):
-Interested (North Allington):
-J. E. Blakeley, music seller:
+Festing (Southsea): Regret, cannot trace.
+(Birmingham), Redbreast (York),D. X. 2 (Hulme),Haven (Norwich),W. H. Lakeman (Newmarket),H. Hewitt (Brigg),“491” (Bristol),T. Alsop (Leicester),Myra Gray (Pontefract),Two and Four (Barrow-in-Furness),Busman (Mitcham),Bobbie (Walthamstow),P.P.V. 3 (Anstruther),H. Black (Addiscombe),Own Set (Northwick),Web (Bourne),M.T. V. (West Melton),Rotherham Three Valve,F. F. (Wandsworth Common),Interested (New Cross),Interested (Sheringham),Franceman (Newbury),T. H. T. D. (Manchester),Midnight (Todmorden),Leafield (Dublin),Pusser (Portsmouth),Anti Yank (Manchester),Manhattan,W. E. M. (Eastminster),Sparks (Dewsbury),Flashlight (Rainford),Diesel (Lincoln),Ether Searcher (Glamorgan),D. E. Two Valver (Northampton),H. G. A. (Doncaster),Territorial (Maidstone),Elsa (Ilkeston),Midnight (Todmorden),2,Anxious (Levenshulme),Night Hawk (Higher Warrington),Straight Two (nr. Manchester),H. P. (Oldham),3 Valver Puzzled (Brockley),J. M. Moore (nr. Stoke-on-Trent),E. Gold (W. IX. S. C.),J. S. (Merthyr Tydfil),33 (Grosshills),Three Valver (Gorse Hill),M. M. (E. 14), Ludo (Croydon),Transatlantic 5 (Bolton),M. C. 3 (Liverpool),H. B. (Liverpool),C. M. M. (Budlington),First Try (Bulwell): The above broadcast was heard by the following listeners, through Cologne: J. W. Parks (N. 11),O. L. A. (Abertillery),Graphone (Liverpool),Super 7 (Pendleton),Keen Observer (Shrewsbury),Two Valve (Redfield),Three Valves (North Finchley),Query (Enfield),3 Valve (Barnsley),Wash (Inverness),Portland Bill (Forest?),Tilly (Otteridge),Pat (Wood End): through Langenberg Glencoe (West Ealing),N. D. P. Popular Two (Dereham),Sheeting (Blackheath),Llimberg (N. 19),New Fan (Ean Sheen),Midnight Owl (Sheffield): Through Stuttgart F. H. E. (Heaton Moor),Cowley (Thornton Heath),Twiddler (Harrogate): Through Breslau Anti-Oscillator (Wimbledon),Beginner (Scarborough),A. Smith (Hyvland),Gargory (Banbridge): Through Munster. H. Glider (Blackburn),Dusty Dave (Spring Vale),Brownie (Ramsgate): Through Berlin (Konigswusterhausen). C. W. Russell (null),Whiskers (Balham),C. W. Lewin (Plymouth),Bluebird (Cardiff): Through Hamburg Jay (Colnbrook),Interested (Gravesend),E. G. Eaton (Stamford Hill),Anode Tuned A. (Norwich),Tic Toc (Birmingham),Toby (Battersea),Interested (North Allington): Through Berlin (Witzleben).
+J. W. Parks (N. 11),O. L. A. (Abertillery),Graphone (Liverpool),Super 7 (Pendleton),Keen Observer (Shrewsbury),Two Valve (Redfield),Three Valves (North Finchley),Query (Enfield),3 Valve (Barnsley),Wash (Inverness),Portland Bill (Forest?),Tilly (Otteridge),Pat (Wood End): through Langenberg.
+Glencoe (West Ealing),N. D. P. Popular Two (Dereham),Sheeting (Blackheath),Llimberg (N. 19),New Fan (Ean Sheen),Midnight Owl (Sheffield): Through Stuttgart.
+F. H. E. (Heaton Moor),Cowley (Thornton Heath),Twiddler (Harrogate): Through Breslau.
+Anti-Oscillator (Wimbledon),Beginner (Scarborough),A. Smith (Hyvland),Gargory (Banbridge): Through Munster.
+H. Glider (Blackburn),Dusty Dave (Spring Vale),Brownie (Ramsgate): Through Berlin (Konigswusterhausen).
+C. W. Russell (null),Whiskers (Balham),C. W. Lewin (Plymouth),Bluebird (Cardiff): Through Hamburg.
+Jay (Colnbrook),Interested (Gravesend),E. G. Eaton (Stamford Hill),Anode Tuned A. (Norwich),Tic Toc (Birmingham),Toby (Battersea),Interested (North Allington): Through Berlin (Witzleben).
+J. E. Blakeley, music seller: please send us your address.

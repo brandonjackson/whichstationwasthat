@@ -25,7 +25,7 @@ Continental Relay (Carlisle): (1) Kalundborg, relaying Copenhagen, dance music f
 Xmas (Forest Gate): Radio Toulouse (Interval signal: metronome).
 H. A. N. (Bristol): WL, apparently wrong; details would tally with Frankfurt-on-Main, relaying Cassel; the latter station has a lady announcer.
 J. G. Fitter (Southfield): 5DO, amateur, Devizes Road, Salisbury.
-Amplifier (Aberdeen): (3) Yes, your details would tally with Marseilles; (4) Yes, Madrid (EAJ7); (5) Yes, this was Stuttgart relaying KDKA (East Pittsburg).
+Amplifier (Aberdeen): (3) Yes, your details would tally withMarseilles; (4) Yes, Madrid (EAJ7); (5) Yes, this was Stuttgart relaying KDKA (East Pittsburg).
 Giant (Bradford): Hilversum (Holland).
 Curiouss: Berne relaying concert from Geneva.
 Firpo (Great Harwood): Kalundborg, relaying Copenhagen. Harmonium concert.
@@ -54,7 +54,7 @@ G. Bradley (Birmingham): It is very difficult to trace Bordeaux, heard without s
 Chilly (Chihham): 6XQ, amateur, cannot trace; 5XN, amateur, Eltham; 6BM, amateur, cannot trace; 6WI, amateur, Colchester; 50K, amateur, Southend-on-Sea; 5QM, amateur, Hastings.
 Sway (Canonbury): Nürnberg, relaying Munich; a relay of foreign stations including U.S.A. transmitters.
 L. H. Comyn (Edmonton): WGY (Schenectady) was relayed by other stations and, we believe, also taken by most of this through German stations; you apparently received this through Nürnberg.
-Eager (Finchley): (1) Kalundborg, relaying (Continued from page 44.)
+Eager (Finchley): (1) Kalundborg, relaying(Continued from page 44.)
 Red Lichtie (Arbroath): (1) Cardiff, relaying dance music from the Winter Gardens Pavilion at Weston-super-Mare; (2) Stuttgart, relaying WGY (Schenectady) via Frankfurt-on-Main.
 O.S.B. (Netherton): Berlin, late concert from studio.
 Bow-Arrow (Kent): Kattowitz (Poland).
@@ -84,37 +84,36 @@ E. B. Myddleton (Lincolnshire): This was Motala relaying organ recital from the 
 3 Valver (Tenterden): (1) Either PTT Lille or PTT Rennes, relaying from the Colombes Stadium the France v. Scotland football match. (2) Not a question for these columns.
 C. W. C. (Erdington): Kalundborg, relaying Copenhagen.
 Pip (Dublin): Kalundborg, relaying dance music from the Palace Hotel at Copenhagen.
-Kensington (Silverhill, Hastings): Tenor voice (no works of
-Chummy (Eltham): Either Copenhagen, or Kalundborg, relaying Copenhagen, but cannot say which as you give no estimate of WL.
-Moll (Ballymoney): Hilversum, relaying revue, Hallo! Paris, from the Flora Theatre at Amsterdam.
-Rags (Tidworth): Yes, Madrid (EAJ7).
-A. L. S. (Coventry): Apparently amateurs, but cannot trace.
-H. L. (Portsmouth): Kalundborg, relaying Copenhagen.
-F. R. F. (Sheffield): (1) Frankfurt-on-Main, relaying dance music from the Tanzklause, (2) Brussels.
-A. M. P. (East Sheen): Copenhagen.
-Glenmore: (1) Stuttgart, variety concert; (2) Possibly Bern, relaying from the Kursaal.
-Big Brother Jim (Warwick): Yes, Vienna (Rosenhuegel).
-A. D. (St. Ives, Cornwall): We regret, but it is impossible to trace stations heard without some estimate of WL.
-Brimley (Wallington): Nürnberg, relaying Munich. A concert of gramophone records.
-2 Valver (Putney): Moscow Comintern (RDW).
-Drummer: Kalundborg, relaying Copenhagen.
-Corrie (Farnham): (1) Madrid (EAJ7); (2) Koenigsberg duets for piano and violin. See note above continent programmes on page 753, issue December 30.
-Ak-Emma (Walsall): Kalundborg, relaying Copenhagen.
-Pondering (South Hampstead): This was a test by a Commercial Company at North Woolwich.
-Sadie (Ellesmere Port): Stuttgart, relaying WGY (Schenectady) via Frankfurt-on-Main.
-Enthusiast (Worthing): Probably Stettin relaying Berlin, which was working until 1 a.m. G.M.T.
-E. B. Myddleton (Lincolnshire): This was Motala relaying organ recital from the Engelbreeth Church at Stockholm.
-3 Valver (Tenterden): (1) Either PTT Lille or PTT Rennes, relaying from the Colombes Stadium the France v. Scotland football match. (2) Not a question for these columns.
-C. W. C. (Erdington): Kalundborg, relaying Copenhagen.
-Pip (Dublin): Kalundborg, relaying dance music from the Palace Hotel at Copenhagen.
-Interdyne (West Kensington): (1) Yes, Huizen; this station now works on 1,840 m. from 3.40 to 5.40 p.m. G.M.T.; (2) Yes, Kovno, time signal, weather and news and 6 p.m. G.M.T. KDKA (East Pittsburg), 30 kw. (variable).
-Blackbird (Peckham): Kalundborg, relaying Copenhagen.
-The Circus Princess (Kalman) relayed from the Scala Theatre.
-N. L. S. N. (New Southgate): A test by a Commercial transmitter at North Woolwich.
-Hold Your Breath (Sheffield): Freiburg, relaying Stuttgart’s relay of WGY (Schenectady) via Frankfurt-on-Main.
-A. M. R. (Rothley): Yes, this was Kalundborg or possibly gramophone records.
-Inquisitive (Swansea): Boden, relaying Stockholm.
-P. O. (Luddenden): London was relayed by Cardiff, Swansea, Hull, Leeds, Liverpool, Nottingham. Plymouth, Stoke-on-Trent, Sheffield and Belfast.
+Kensington (Silverhill, Hastings): Tenor voice (no works ofChummy (Eltham): Either Copenhagen, or Kalundborg, relaying Copenhagen, but cannot say which as you give no revue, Hallo! Paris, from the Flora Theatre at Amsterdam.  
+Rags (Tidworth): Yes, Madrid (EAJ7).  
+A. L. S. (Coventry): Apparently amateurs, but cannot trace.  
+H. L. (Portsmouth): Kalundborg, relaying Copenhagen.  
+F. R. F. (Sheffield): (1) Frankfurt-on-Main, relaying dance music from the Tanzklause, (2) Brussels.  
+A. M. P. (East Sheen): Copenhagen.  
+Glenmore: (1) Stuttgart, variety concert; (2) Possibly Bern, relaying from the Kursaal.  
+Big Brother Jim (Warwick): Yes, Vienna (Rosenhuegel).  
+A. D. (St. Ives, Cornwall): We regret, but it is impossible to trace stations heard without some estimate of WL.  
+Brimley (Wallington): Nürnberg, relaying Munich. A concert of gramophone records.  
+2 Valver (Putney): Moscow Comintern (RDW).  
+Drummer: Kalundborg, relaying Copenhagen.  
+Corrie (Farnham): (1) Madrid (EAJ7); (2) Koenigsberg duets for piano and violin. See note above continent programmes on page 753, issue December 30.  
+Ak-Emma (Walsall): Kalundborg, relaying Copenhagen.  
+Pondering (South Hampstead): This was a test by a Commercial Company at North Woolwich.  
+Sadie (Ellesmere Port): Stuttgart, relaying WGY (Schenectady) via Frankfurt-on-Main.  
+Enthusiast (Worthing): Probably Stettin relaying Berlin, which was working until 1 a.m. G.M.T.  
+E. B. Myddleton (Lincolnshire): This was Motala relaying organ recital from the Engelbreeth Church at Stockholm.  
+3 Valver (Tenterden): (1) Either PTT Lille or PTT Rennes, relaying from the Colombes Stadium the France v. Scotland football match. (2) Not a question for these columns.  
+C. W. C. (Erdington): Kalundborg, relaying Copenhagen.  
+Pip (Dublin): Kalundborg, relaying dance music from the Palace Hotel at Copenhagen.  
+Interdyne (West Kensington): (1) Yes, Huizen; this station now works on 1,840 m. from 3.40 to 5.40 p.m. G.M.T.; (2) Yes, Kovno, time signal, weather and news and 6 p.m. G.M.T.  
+KDKA (East Pittsburg), 30 kw. (variable).  
+Blackbird (Peckham): Kalundborg, relaying Copenhagen.  
+The Circus Princess (Kalman) relayed from the Scala Theatre.  
+N. L. S. N. (New Southgate): A test by a Commercial transmitter at North Woolwich.  
+Hold Your Breath (Sheffield): Freiburg, relaying Stuttgart’s relay of WGY (Schenectady) via Frankfurt-on-Main.  
+A. M. R. (Rothley): Yes, this was Kalundborg or possibly gramophone records.  
+Inquisitive (Swansea): Boden, relaying Stockholm.  
+P. O. (Luddenden): London was relayed by Cardiff, Swansea, Hull, Leeds, Liverpool, Nottingham.Plymouth, Stoke-on-Trent, Sheffield and Belfast.
 Riem (Manchester): Motala relaying Stockholm, programme of ballads and barcaroles.
 Four Valve (Leytonstone): Cologne, English lesson. Dialogue between Mrs. A. Ruschkamp-Whitehead and Mr. O. Bennett.
 W.X. (Ebbw): Madrid (EAJ7).
@@ -122,8 +121,8 @@ Radiano 3 (Luddenden): Cologne relaying concert of chamber music from Muenster, 
 Timberl (Norwich): regret, cannot trace.
 Tim (Porthcawl): Kalundborg, relaying The Circus Princess (Kalman) from the Scala Theatre.
 Wright (Canterbury): Yes, Frankfurt-on-Main relayed WGY (Schenectady); also taken by most of the other German stations.
-Herga (Norwich): Something radically wrong with your coils, for the Thursday programme from the Winter Garden Cabaret at Kiel was broadcast by that station, and was also relayed by Hamburg. The English lesson was taken by the entire Hamburg group, again including Kiel. On January 1, programme was also taken by Hamburg, Hanover and Kiel. In our opinion the transmissions were heard from Hamburg, and not on 760. Are you not using the low wave?
-GEG (Redditch): (1) Prague, (2) Yes, Barcelona (EAJ1), La Tosca (Puccini), (3) Nürnberg, relaying Munich, The Mastersingers of Nuremberg (Wagner), relayed from the National Theatre, (4) Frederikstadt, relaying Oslo, (5) Posen, a request programme, (6) S.B. concert, Cracow-Warsaw.
+Herga (Norwich): Something radically wrong with your coils, for the Thursday programme from the Winter Garden Cabaret at Kiel was broadcast by that station, and was also relayed by Hamburg. The English lesson was taken by the entire Hamburg group, again including Kiel. On January 1, programme was also taken by Hamburg, Hanover and Kiel. In our opinion the transmissions were heard from Hamburg, and not on 760.
+Are you not using the low wave? GEG (Redditch): (1) Prague, (2) Yes, Barcelona (EAJ1), La Tosca (Puccini), (3) Nürnberg, relaying Munich, The Mastersingers of Nuremberg (Wagner), relayed from the National Theatre, (4) Frederikstadt, relaying Oslo, (5) Posen, a request programme, (6) S.B. concert, Cracow-Warsaw.
 Charmaine (Clovelly): (1) possibly Hamburg, (2) Breslau, (3) Kattowitz (Poland).
 Deainite (Upton Grey): (1) Nürnberg relaying WGY (Schenectady), via Frankfurt-on-Main, (2) Dublin.
 Resistor Three (Longton): (1) Madrid (EAJ7), (2) WGY (Schenectady).
@@ -145,7 +144,8 @@ Molar (Southport): Koenigsusterhausen relaying Berlin, and Kalundborg relaying C
 Spa (Hendon): Are you sure this was not Barcelona (EAJ1)?
 Income Tax (Essex): (1) Hanover, relaying Hamburg, (2) Nuremberg, relaying Munich, (3) the only outside relay on or about your estimate of WL at that time was from Naples, which was relaying from the Theatre Saint Carlo.
 KNAB (P.M.4.): No, this could not possibly be any station in Australia or New Zealand, on account of the time, as these countries are about 10 to 11 hours in advance of G.M.T.
-Pancake Joe (W.2): possibly Naples. Call: Radio Napoli. Dials (Edin-
+Pancake Joe (W.2): possibly Naples. Call: Radio Napoli.
+Dials (Edin-burgh) : (1) Leningrad, (2) Motala relaying Stockholm. relay of foreign stations.
 QSL (Wilmslow): (23) Leipzig relaying dance music from Berlin, (24) Almeria (EAJ18).
 L. V. K. (Lewisham): Ktittowitz, relaying Aida (Verdi) from Opera House.
 Short Circuit (Chilbolton): (1) Copenhagen, (2) 2SB, amateur, Hereford; 5JW, amateur, Manchester.

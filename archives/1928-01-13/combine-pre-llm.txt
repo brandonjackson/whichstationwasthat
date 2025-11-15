@@ -145,7 +145,7 @@ Spa (Hendon): Are you sure this was not Barcelona (EAJ1)?
 Income Tax (Essex): (1) Hanover, relaying Hamburg, (2) Nuremberg, relaying Munich, (3) the only outside relay on or about your estimate of WL at that time was from Naples, which was relaying from the Theatre Saint Carlo.
 KNAB (P.M.4.): No, this could not possibly be any station in Australia or New Zealand, on account of the time, as these countries are about 10 to 11 hours in advance of G.M.T.
 Pancake Joe (W.2): possibly Naples. Call: Radio Napoli.
-Dials (Edin-``` 
+Dials (Edin-burgh) : (1) Leningrad, (2) Motala relaying Stockholm. relay of foreign stations.
 QSL (Wilmslow): (23) Leipzig relaying dance music from Berlin, (24) Almeria (EAJ18).
 L. V. K. (Lewisham): Ktittowitz, relaying Aida (Verdi) from Opera House.
 Short Circuit (Chilbolton): (1) Copenhagen, (2) 2SB, amateur, Hereford; 5JW, amateur, Manchester.
@@ -162,4 +162,3 @@ School Boy (Cheshire): Glasgow relaying organ recital from Cowdray Hall at Aberd
 S. L. F. Condenser (Eastbourne): (1) S.B. programme from Kattowitz, Warsaw and Cracow; you received this through Kattowitz.
 Regular Reader: Stuttgart, relaying WGY (Schenectady).
 A. Carreras: No, this is the 7 kw. transmitter at Milan on 541 m.
-```

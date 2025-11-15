@@ -1,108 +1,23 @@
-(Birmingham): Redbreast (York).
-D.X. 2 (Hulme).
-Haven (Norwich).
-W. H. Lakeman (Newmarket).
-H. Hewitt (Brigg).
-“491” (Bristol).
-T. Alsop (Leicester).
-Myra Gray (Potters Bar).
-Two and Four (Barrow-in-Furness).
-Busman (Mitcham).
-Bobbie (Walthamstow).
-P.P.V. 3 (Arstruther).
-Mac (Addiscombe).
-Own Set (Northwick).
-Web (Bourne).
-M.T. (West Melton).
-Rotherham Three Valve.
-F. F. (Wandsworth Common).
-Interested (New Cross).
-Interested (Sheringham).
-Franceman (Newbury).
-T. H. T. D. (Manchester).
-Midnight (Todmorden).
-Leaﬁeld (Dublin).
-Pusser (Portsmouth).
-Anti Yank (Manchester).
-Manhattan.
-W. E. M. (Eastminster).
-Sparks (Dewsbury).
-Flashlight (Rainford).
-Diesel (Lincoln).
-Ether Searcher (Glamorgan).
-D. E. Two Valver (Northampton).
-H. G. A. (Doncaster).
-Territorial (Maidstone).
-Elsa (Ilkeston).
-Midnight (Todmorden) 2.
-Anxious (Levenshulme).
-Night Hawk (Higher Warrington).
-Straight Two (nr. Manchester).
-H. P. (Oldham).
-3 Valver Puzzled (Brockley).
-J. J. Moore (nr. Stoke-on-Trent).
-E. Gold (W. I.).
-D. S. (Merthyr Tydfil).
-33 (Grosshills).
-Three Valver (Gorse Hill).
-M. M. (E. 14).
-M. C. 3 (Liverpool).
-H. B. (Liverpool).
-C. M. M. (Budlington).
-First Try (Bulwell).
 
-through Langenberg by:
-J. W. Parks (N. 11).
+(Birmingham), Redbreast (York),D. X. 2 (Hulme),Haven (Norwich),W. H. Lakeman (Newmarket),H. Hewitt (Brigg),“491” (Bristol),T. Alsop (Leicester),Myra Gray (Pontefract),Two and Four (Barrow-in-Furness),Busman (Mitcham),Bobbie (Walthamstow),P.P.V. 3 (Anstruther),H. Black (Addiscombe),Own Set (Northwick),Web (Bourne),M.T. V. (West Melton),Rotherham Three Valve,F. F. (Wandsworth Common),Interested (New Cross),Interested (Sheringham),Franceman (Newbury),T. H. T. D. (Manchester),Midnight (Todmorden),Leafield (Dublin),Pusser (Portsmouth),Anti Yank (Manchester),Manhattan,W. E. M. (Eastminster),Sparks (Dewsbury),Flashlight (Rainford),Diesel (Lincoln),Ether Searcher (Glamorgan),D. E. Two Valver (Northampton),H. G. A. (Doncaster),Territorial (Maidstone),Elsa (Ilkeston),Midnight (Todmorden),2,Anxious (Levenshulme),Night Hawk (Higher Warrington),Straight Two (nr. Manchester),H. P. (Oldham),3 Valver Puzzled (Brockley),J. M. Moore (nr. Stoke-on-Trent),E. Gold (W. IX. S. C.),J. S. (Merthyr Tydfil),33 (Grosshills),Three Valver (Gorse Hill),M. M. (E. 14),
 
-O. U. (Abertillery).
-Graphco (Liverpool).
-Super 7 (Pendleton).
-Keen Observer (Shrewsbury).
-Two Valve (Redfield).
-Three Valves (North Finchley).
-Query (Enﬁeld).
-3 Valve (Barnsley).
-Wash (Inverness).
-Portland Bill (Orrest).
-Tilly (Otteridge).
-Pat (Wood End).
+Ludo (Croydon),Transatlantic 5 (Bolton),M. C. 3 (Liverpool),H. B. (Liverpool),C. M. M. (Budlington),First Try (Bulwell): The above broadcast was heard by the following listeners, through Cologne:  
 
-Through Stuttgart by:
-Glencoe (West Ealing).
-N. D. P. Popular Two (Dereham).
-Sheeting (Blackheath).
-Limergo (N. 19).
-New Fan (Ealing Sheen).
-Midnight Owl (Sheffield).
 
-Through Breslaw by:
-F. H. E. (Heaton Moor).
-Cowley (Thornton Heath).
-Twiddler (Harrogate).
 
-Through Münster by:
-Anti-Oscillator (Wimbleton).
-Beginner (Scarborough).
-A. Smith (Hyland).
-Gargory (Banbridge).
+J. W. Parks (N. 11),O. L. A. (Abertillery),Graphone (Liverpool),Super 7 (Pendleton),Keen Observer (Shrewsbury),Two Valve (Redfield),Three Valves (North Finchley),Query (Enfield),3 Valve (Barnsley),Wash (Inverness),Portland Bill (Forest?),Tilly (Otteridge),Pat (Wood End): through Langenberg 
 
-Through Berlin by:
-H. Gilder (Blackburn).
-Dusty Dave (Spring View).
-Brownie (Ramsgate).
+Glencoe (West Ealing),N. D. P. Popular Two (Dereham),Sheeting (Blackheath),Llimberg (N. 19),New Fan (Ean Sheen),Midnight Owl (Sheffield): Through Stuttgart 
 
-Through Rotterdam by:
-C. W. Russell (null).
-Whiskers (Balham).
-C. W. Lewin (Plymouth).
-Bluebird (Cardiﬀ).
+F. H. E. (Heaton Moor),Cowley (Thornton Heath),Twiddler (Harrogate): Through Breslau 
 
-Through Berlin (Witzleben) by:
-Jay (Cliftonbrook).
-Interested (Gravesend).
-E. C. Eaton (Stamford Hill).
-Ando Tuned A (Norwich).
-Tic Toc (Birmingham).
-Toby (Battersea).
-Interested (North Allington).
-J. E. Blakeley, music seller.
+
+Anti-Oscillator (Wimbledon),Beginner (Scarborough),A. Smith (Hyvland),Gargory (Banbridge): Through Munster.
+
+H. Glider (Blackburn),Dusty Dave (Spring Vale),Brownie (Ramsgate): Through Berlin (Konigswusterhausen).
+
+C. W. Russell (null),Whiskers (Balham),C. W. Lewin (Plymouth),Bluebird (Cardiff): Through Hamburg 
+
+Jay (Colnbrook),Interested (Gravesend),E. G. Eaton (Stamford Hill),Anode Tuned A. (Norwich),Tic Toc (Birmingham),Toby (Battersea),Interested (North Allington): Through Berlin (Witzleben).
+
+J. E. Blakeley, music seller: please send us your address.
