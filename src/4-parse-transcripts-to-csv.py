@@ -323,9 +323,21 @@ def process_one_folder(folder_path: Path):
             print(f"⚠️ {folder_path.name}: Skipping — no transcript found.")
             return
 
+        # Check if CSV exists and if it's blank
         if output_file.exists():
-            print(f"⏭️ {folder_path.name}: Skipping — CSV already exists.")
-            return
+            try:
+                with open(output_file, "r", encoding="utf-8") as f:
+                    existing_csv = f.read()
+                
+                if is_csv_blank(existing_csv):
+                    print(f"🔄 {folder_path.name}: CSV exists but is blank - reprocessing...")
+                    # Continue to reprocess below
+                else:
+                    print(f"⏭️ {folder_path.name}: Skipping — CSV already exists and has data.")
+                    return
+            except Exception as e:
+                print(f"⚠️ {folder_path.name}: Error reading existing CSV - {e}, will reprocess...")
+                # Continue to reprocess below
 
         parse_transcript_to_csv(input_file, output_file)
     except Exception as e:
